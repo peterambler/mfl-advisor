@@ -1,0 +1,4594 @@
+{
+ "generated_at": "2026-09-04T05:10:35.001526+00:00",
+ "season": "2026",
+ "week": 1,
+ "league": {
+  "name": "Cap City Football",
+  "id": "24838",
+  "roster_size": "15",
+  "franchise_count": 12
+ },
+ "me": {
+  "franchise_id": "0011",
+  "name": "Pete\u2019s Perfect Team",
+  "record": {
+   "w": "0",
+   "l": "0",
+   "t": "0",
+   "pf": "0"
+  },
+  "roster": [
+   {
+    "id": "0518",
+    "name": "Philadelphia Eagles",
+    "pos": "Def",
+    "team": "PHI",
+    "proj": 3.0
+   },
+   {
+    "id": "16680",
+    "name": "Cam Little",
+    "pos": "PK",
+    "team": "JAC",
+    "proj": 5.2
+   },
+   {
+    "id": "14782",
+    "name": "Jordan Love",
+    "pos": "QB",
+    "team": "GBP",
+    "proj": 17.0
+   },
+   {
+    "id": "17039",
+    "name": "Tyler Shough",
+    "pos": "QB",
+    "team": "NOS",
+    "proj": 22.0
+   },
+   {
+    "id": "17044",
+    "name": "Omarion Hampton",
+    "pos": "RB",
+    "team": "LAC",
+    "proj": 13.8
+   },
+   {
+    "id": "13604",
+    "name": "Saquon Barkley",
+    "pos": "RB",
+    "team": "PHI",
+    "proj": 19.0
+   },
+   {
+    "id": "13132",
+    "name": "Alvin Kamara",
+    "pos": "RB",
+    "team": "NOS",
+    "proj": 6.6,
+    "injury": "Questionable \u2014 Knee - MCL"
+   },
+   {
+    "id": "16174",
+    "name": "Chris Rodriguez",
+    "pos": "RB",
+    "team": "JAC",
+    "proj": 6.6
+   },
+   {
+    "id": "16213",
+    "name": "Dalton Kincaid",
+    "pos": "TE",
+    "team": "BUF",
+    "proj": 11.0
+   },
+   {
+    "id": "15889",
+    "name": "Chigoziem Okonkwo",
+    "pos": "TE",
+    "team": "WAS",
+    "proj": 8.0
+   },
+   {
+    "id": "15281",
+    "name": "Ja'Marr Chase",
+    "pos": "WR",
+    "team": "CIN",
+    "proj": 20.8,
+    "injury": "Questionable \u2014 Knee"
+   },
+   {
+    "id": "15751",
+    "name": "Drake London",
+    "pos": "WR",
+    "team": "ATL",
+    "proj": 18.5
+   },
+   {
+    "id": "15789",
+    "name": "Christian Watson",
+    "pos": "WR",
+    "team": "GBP",
+    "proj": 12.4
+   },
+   {
+    "id": "15768",
+    "name": "Alec Pierce",
+    "pos": "WR",
+    "team": "IND",
+    "proj": 12.2
+   },
+   {
+    "id": "16809",
+    "name": "Jalen Coker",
+    "pos": "WR",
+    "team": "CAR",
+    "proj": 8.9
+   }
+  ]
+ },
+ "teams": {
+  "0001": {
+   "name": "Dawg Pound",
+   "record": {
+    "w": "0",
+    "l": "0",
+    "t": "0",
+    "pf": "0"
+   },
+   "players": [
+    {
+     "id": "15979",
+     "name": "Cameron Dicker",
+     "pos": "PK",
+     "team": "LAC",
+     "proj": 4.9,
+     "injury": "Questionable \u2014 Undisclosed"
+    },
+    {
+     "id": "16580",
+     "name": "Drake Maye",
+     "pos": "QB",
+     "team": "NEP",
+     "proj": 24.7
+    },
+    {
+     "id": "14779",
+     "name": "Justin Herbert",
+     "pos": "QB",
+     "team": "LAC",
+     "proj": 24.7
+    },
+    {
+     "id": "14056",
+     "name": "Kyler Murray",
+     "pos": "QB",
+     "team": "MIN",
+     "proj": 19.0
+    },
+    {
+     "id": "16162",
+     "name": "Jahmyr Gibbs",
+     "pos": "RB",
+     "team": "DET",
+     "proj": 18.5
+    },
+    {
+     "id": "15256",
+     "name": "Javonte Williams",
+     "pos": "RB",
+     "team": "DAL",
+     "proj": 12.8
+    },
+    {
+     "id": "14800",
+     "name": "J.K. Dobbins",
+     "pos": "RB",
+     "team": "DEN",
+     "proj": 12.0
+    },
+    {
+     "id": "17066",
+     "name": "Kyle Monangai",
+     "pos": "RB",
+     "team": "CHI",
+     "proj": 7.4,
+     "injury": "Questionable \u2014 Knee"
+    },
+    {
+     "id": "16169",
+     "name": "Zach Charbonnet",
+     "pos": "RB",
+     "team": "SEA",
+     "proj": 7.2,
+     "injury": "IR-PUP \u2014 Knee - ACL",
+     "slot": "INJURED_RESERVE"
+    },
+    {
+     "id": "17103",
+     "name": "Harold Fannin",
+     "pos": "TE",
+     "team": "CLE",
+     "proj": 12.2
+    },
+    {
+     "id": "16269",
+     "name": "Brenton Strange",
+     "pos": "TE",
+     "team": "JAC",
+     "proj": 9.4
+    },
+    {
+     "id": "16190",
+     "name": "Zay Flowers",
+     "pos": "WR",
+     "team": "BAL",
+     "proj": 14.2,
+     "injury": "Questionable \u2014 Lower Body"
+    },
+    {
+     "id": "16618",
+     "name": "Brian Thomas Jr.",
+     "pos": "WR",
+     "team": "JAC",
+     "proj": 11.3
+    },
+    {
+     "id": "15761",
+     "name": "Khalil Shakir",
+     "pos": "WR",
+     "team": "BUF",
+     "proj": 11.1,
+     "injury": "Questionable \u2014 Undisclosed"
+    },
+    {
+     "id": "16193",
+     "name": "Kayshon Boutte",
+     "pos": "WR",
+     "team": "HOU",
+     "proj": 4.6
+    }
+   ]
+  },
+  "0002": {
+   "name": "Clawing back up!",
+   "record": {
+    "w": "0",
+    "l": "0",
+    "t": "0",
+    "pf": "0"
+   },
+   "players": [
+    {
+     "id": "0511",
+     "name": "Denver Broncos",
+     "pos": "Def",
+     "team": "DEN",
+     "proj": 7.2
+    },
+    {
+     "id": "16846",
+     "name": "Jake Bates",
+     "pos": "PK",
+     "team": "DET",
+     "proj": 6.7
+    },
+    {
+     "id": "16579",
+     "name": "Caleb Williams",
+     "pos": "QB",
+     "team": "CHI",
+     "proj": 24.4
+    },
+    {
+     "id": "15698",
+     "name": "Brock Purdy",
+     "pos": "QB",
+     "team": "SFO",
+     "proj": 26.7
+    },
+    {
+     "id": "15711",
+     "name": "Kenneth Walker III",
+     "pos": "RB",
+     "team": "KCC",
+     "proj": 11.3
+    },
+    {
+     "id": "15708",
+     "name": "Breece Hall",
+     "pos": "RB",
+     "team": "NYJ",
+     "proj": 11.4,
+     "injury": "Questionable \u2014 Groin"
+    },
+    {
+     "id": "14823",
+     "name": "Rico Dowdle",
+     "pos": "RB",
+     "team": "PIT",
+     "proj": 10.5
+    },
+    {
+     "id": "17482",
+     "name": "Mike Washington Jr.",
+     "pos": "RB",
+     "team": "LVR",
+     "proj": 3.9
+    },
+    {
+     "id": "17104",
+     "name": "Colston Loveland",
+     "pos": "TE",
+     "team": "CHI",
+     "proj": 12.8
+    },
+    {
+     "id": "14861",
+     "name": "Juwan Johnson",
+     "pos": "TE",
+     "team": "NOS",
+     "proj": 11.0
+    },
+    {
+     "id": "14104",
+     "name": "A.J. Brown",
+     "pos": "WR",
+     "team": "NEP",
+     "proj": 15.1
+    },
+    {
+     "id": "17070",
+     "name": "Luther Burden",
+     "pos": "WR",
+     "team": "CHI",
+     "proj": 8.1,
+     "injury": "Questionable \u2014 Groin"
+    },
+    {
+     "id": "13163",
+     "name": "Chris Godwin",
+     "pos": "WR",
+     "team": "TBB",
+     "proj": 9.3
+    },
+    {
+     "id": "16206",
+     "name": "Michael Wilson",
+     "pos": "WR",
+     "team": "ARI",
+     "proj": 12.3
+    },
+    {
+     "id": "17075",
+     "name": "Matthew Golden",
+     "pos": "WR",
+     "team": "GBP",
+     "proj": 5.6
+    }
+   ]
+  },
+  "0003": {
+   "name": "wait till next year",
+   "record": {
+    "w": "0",
+    "l": "0",
+    "t": "0",
+    "pf": "0"
+   },
+   "players": [
+    {
+     "id": "16414",
+     "name": "Brandon Aubrey",
+     "pos": "PK",
+     "team": "DAL",
+     "proj": 5.4
+    },
+    {
+     "id": "13593",
+     "name": "Lamar Jackson",
+     "pos": "QB",
+     "team": "BAL",
+     "proj": 25.6
+    },
+    {
+     "id": "17032",
+     "name": "Jaxson Dart",
+     "pos": "QB",
+     "team": "NYG",
+     "proj": 26.1
+    },
+    {
+     "id": "15259",
+     "name": "Rhamondre Stevenson",
+     "pos": "RB",
+     "team": "NEP",
+     "proj": 12.4
+    },
+    {
+     "id": "14071",
+     "name": "David Montgomery",
+     "pos": "RB",
+     "team": "HOU",
+     "proj": 10.2
+    },
+    {
+     "id": "17052",
+     "name": "Bhayshul Tuten",
+     "pos": "RB",
+     "team": "JAC",
+     "proj": 14.6,
+     "injury": "Questionable \u2014 Illness"
+    },
+    {
+     "id": "15742",
+     "name": "Jaylen Warren",
+     "pos": "RB",
+     "team": "PIT",
+     "proj": 11.9
+    },
+    {
+     "id": "14085",
+     "name": "Tony Pollard",
+     "pos": "RB",
+     "team": "TEN",
+     "proj": 12.9
+    },
+    {
+     "id": "15329",
+     "name": "Kyle Pitts",
+     "pos": "TE",
+     "team": "ATL",
+     "proj": 11.5
+    },
+    {
+     "id": "11244",
+     "name": "Travis Kelce",
+     "pos": "TE",
+     "team": "KCC",
+     "proj": 12.7
+    },
+    {
+     "id": "13299",
+     "name": "George Kittle",
+     "pos": "TE",
+     "team": "SFO",
+     "proj": 15.6,
+     "injury": "Questionable \u2014 Achilles"
+    },
+    {
+     "id": "15282",
+     "name": "DeVonta Smith",
+     "pos": "WR",
+     "team": "PHI",
+     "proj": 15.1
+    },
+    {
+     "id": "11675",
+     "name": "Davante Adams",
+     "pos": "WR",
+     "team": "LAR",
+     "proj": 14.0
+    },
+    {
+     "id": "17071",
+     "name": "Tetairoa McMillan",
+     "pos": "WR",
+     "team": "CAR",
+     "proj": 15.0
+    },
+    {
+     "id": "15284",
+     "name": "Jaylen Waddle",
+     "pos": "WR",
+     "team": "DEN",
+     "proj": 12.1
+    }
+   ]
+  },
+  "0004": {
+   "name": "Fuck Tom",
+   "record": {
+    "w": "0",
+    "l": "0",
+    "t": "0",
+    "pf": "0"
+   },
+   "players": [
+    {
+     "id": "0504",
+     "name": "New England Patriots",
+     "pos": "Def",
+     "team": "NEP",
+     "proj": 2.3
+    },
+    {
+     "id": "16681",
+     "name": "Will Reichard",
+     "pos": "PK",
+     "team": "MIN",
+     "proj": 5.1
+    },
+    {
+     "id": "9431",
+     "name": "Matthew Stafford",
+     "pos": "QB",
+     "team": "LAR",
+     "proj": 25.6
+    },
+    {
+     "id": "15694",
+     "name": "Malik Willis",
+     "pos": "QB",
+     "team": "MIA",
+     "proj": 16.9
+    },
+    {
+     "id": "17042",
+     "name": "Ashton Jeanty",
+     "pos": "RB",
+     "team": "LVR",
+     "proj": 15.6,
+     "injury": "Questionable \u2014 Ankle"
+    },
+    {
+     "id": "17045",
+     "name": "Cam Skattebo",
+     "pos": "RB",
+     "team": "NYG",
+     "proj": 15.8
+    },
+    {
+     "id": "17051",
+     "name": "Quinshon Judkins",
+     "pos": "RB",
+     "team": "CLE",
+     "proj": 9.6
+    },
+    {
+     "id": "16178",
+     "name": "Keaton Mitchell",
+     "pos": "RB",
+     "team": "LAC",
+     "proj": 3.7,
+     "injury": "Questionable \u2014 Undisclosed"
+    },
+    {
+     "id": "15799",
+     "name": "Jake Ferguson",
+     "pos": "TE",
+     "team": "DAL",
+     "proj": 11.0
+    },
+    {
+     "id": "14832",
+     "name": "CeeDee Lamb",
+     "pos": "WR",
+     "team": "DAL",
+     "proj": 14.5
+    },
+    {
+     "id": "14836",
+     "name": "Justin Jefferson",
+     "pos": "WR",
+     "team": "MIN",
+     "proj": 13.9
+    },
+    {
+     "id": "16616",
+     "name": "Rome Odunze",
+     "pos": "WR",
+     "team": "CHI",
+     "proj": 12.1,
+     "injury": "Questionable \u2014 Leg"
+    },
+    {
+     "id": "17497",
+     "name": "Carnell Tate",
+     "pos": "WR",
+     "team": "TEN",
+     "proj": 13.4,
+     "injury": "Questionable \u2014 Undisclosed"
+    },
+    {
+     "id": "16187",
+     "name": "Josh Downs",
+     "pos": "WR",
+     "team": "IND",
+     "proj": 12.1,
+     "injury": "Questionable \u2014 Calf"
+    },
+    {
+     "id": "17074",
+     "name": "Travis Hunter",
+     "pos": "WR",
+     "team": "JAC",
+     "proj": 3.6
+    }
+   ]
+  },
+  "0005": {
+   "name": "Titsburgh Feelers",
+   "record": {
+    "w": "0",
+    "l": "0",
+    "t": "0",
+    "pf": "0"
+   },
+   "players": [
+    {
+     "id": "0528",
+     "name": "Los Angeles Rams",
+     "pos": "Def",
+     "team": "LAR",
+     "proj": 4.9
+    },
+    {
+     "id": "16843",
+     "name": "Harrison Mevis",
+     "pos": "PK",
+     "team": "LAR",
+     "proj": 6.3
+    },
+    {
+     "id": "14777",
+     "name": "Joe Burrow",
+     "pos": "QB",
+     "team": "CIN",
+     "proj": 26.5
+    },
+    {
+     "id": "16582",
+     "name": "Bo Nix",
+     "pos": "QB",
+     "team": "DEN",
+     "proj": 24.8
+    },
+    {
+     "id": "16181",
+     "name": "Chase Brown",
+     "pos": "RB",
+     "team": "CIN",
+     "proj": 15.3
+    },
+    {
+     "id": "15710",
+     "name": "Kyren Williams",
+     "pos": "RB",
+     "team": "LAR",
+     "proj": 15.0
+    },
+    {
+     "id": "17473",
+     "name": "Jadarian Price",
+     "pos": "RB",
+     "team": "SEA",
+     "proj": 14.2
+    },
+    {
+     "id": "16597",
+     "name": "Jonathon Brooks",
+     "pos": "RB",
+     "team": "CAR",
+     "proj": 8.9,
+     "injury": "Questionable \u2014 General Soreness"
+    },
+    {
+     "id": "17256",
+     "name": "Jacory Croskey-Merritt",
+     "pos": "RB",
+     "team": "WAS",
+     "proj": 9.0,
+     "injury": "Questionable \u2014 Lower Body"
+    },
+    {
+     "id": "16222",
+     "name": "Tucker Kraft",
+     "pos": "TE",
+     "team": "GBP",
+     "proj": 8.1,
+     "injury": "Questionable \u2014 Knee - ACL"
+    },
+    {
+     "id": "16194",
+     "name": "Rashee Rice",
+     "pos": "WR",
+     "team": "KCC",
+     "proj": 14.6
+    },
+    {
+     "id": "11671",
+     "name": "Mike Evans",
+     "pos": "WR",
+     "team": "SFO",
+     "proj": 12.0,
+     "injury": "Questionable \u2014 Groin"
+    },
+    {
+     "id": "16195",
+     "name": "Dontayvion Wicks",
+     "pos": "WR",
+     "team": "PHI",
+     "proj": 7.6
+    },
+    {
+     "id": "14842",
+     "name": "Michael Pittman",
+     "pos": "WR",
+     "team": "PIT",
+     "proj": 8.3,
+     "injury": "Questionable \u2014 Hamstring"
+    },
+    {
+     "id": "17499",
+     "name": "Makai Lemon",
+     "pos": "WR",
+     "team": "PHI",
+     "proj": 2.5
+    }
+   ]
+  },
+  "0006": {
+   "name": "Team Brown",
+   "record": {
+    "w": "0",
+    "l": "0",
+    "t": "0",
+    "pf": "0"
+   },
+   "players": [
+    {
+     "id": "0515",
+     "name": "Seattle Seahawks",
+     "pos": "Def",
+     "team": "SEA",
+     "proj": 6.8
+    },
+    {
+     "id": "11936",
+     "name": "Chris Boswell",
+     "pos": "PK",
+     "team": "PIT",
+     "proj": 5.1
+    },
+    {
+     "id": "13116",
+     "name": "Patrick Mahomes",
+     "pos": "QB",
+     "team": "KCC",
+     "proj": 24.2,
+     "injury": "Questionable \u2014 Knee - ACL"
+    },
+    {
+     "id": "13590",
+     "name": "Baker Mayfield",
+     "pos": "QB",
+     "team": "TBB",
+     "proj": 22.2
+    },
+    {
+     "id": "14802",
+     "name": "Jonathan Taylor",
+     "pos": "RB",
+     "team": "IND",
+     "proj": 18.1
+    },
+    {
+     "id": "15715",
+     "name": "James Cook",
+     "pos": "RB",
+     "team": "BUF",
+     "proj": 16.1
+    },
+    {
+     "id": "15261",
+     "name": "Chuba Hubbard",
+     "pos": "RB",
+     "team": "CAR",
+     "proj": 11.5,
+     "injury": "Questionable \u2014 Hamstring"
+    },
+    {
+     "id": "13319",
+     "name": "Aaron Jones",
+     "pos": "RB",
+     "team": "MIN",
+     "proj": 12.4
+    },
+    {
+     "id": "16593",
+     "name": "Blake Corum",
+     "pos": "RB",
+     "team": "LAR",
+     "proj": 7.4
+    },
+    {
+     "id": "16214",
+     "name": "Sam LaPorta",
+     "pos": "TE",
+     "team": "DET",
+     "proj": 11.0,
+     "injury": "Questionable \u2014 Hip"
+    },
+    {
+     "id": "13674",
+     "name": "Dallas Goedert",
+     "pos": "TE",
+     "team": "PHI",
+     "proj": 13.2
+    },
+    {
+     "id": "14138",
+     "name": "T.J. Hockenson",
+     "pos": "TE",
+     "team": "MIN",
+     "proj": 8.6
+    },
+    {
+     "id": "13635",
+     "name": "D.J. Moore",
+     "pos": "WR",
+     "team": "BUF",
+     "proj": 13.2
+    },
+    {
+     "id": "13630",
+     "name": "Courtland Sutton",
+     "pos": "WR",
+     "team": "DEN",
+     "proj": 12.1
+    },
+    {
+     "id": "14102",
+     "name": "DK Metcalf",
+     "pos": "WR",
+     "team": "PIT",
+     "proj": 12.2,
+     "injury": "Questionable \u2014 Undisclosed"
+    }
+   ]
+  },
+  "0007": {
+   "name": "ASSASSINS",
+   "record": {
+    "w": "0",
+    "l": "0",
+    "t": "0",
+    "pf": "0"
+   },
+   "players": [
+    {
+     "id": "0501",
+     "name": "Buffalo Bills",
+     "pos": "Def",
+     "team": "BUF",
+     "proj": 2.4
+    },
+    {
+     "id": "13354",
+     "name": "Harrison Butker",
+     "pos": "PK",
+     "team": "KCC",
+     "proj": 4.7
+    },
+    {
+     "id": "14783",
+     "name": "Jalen Hurts",
+     "pos": "QB",
+     "team": "PHI",
+     "proj": 23.7
+    },
+    {
+     "id": "12620",
+     "name": "Dak Prescott",
+     "pos": "QB",
+     "team": "DAL",
+     "proj": 23.0
+    },
+    {
+     "id": "14797",
+     "name": "D'Andre Swift",
+     "pos": "RB",
+     "team": "CHI",
+     "proj": 13.8,
+     "injury": "Questionable \u2014 Abdomen"
+    },
+    {
+     "id": "16598",
+     "name": "Bucky Irving",
+     "pos": "RB",
+     "team": "TBB",
+     "proj": 13.6
+    },
+    {
+     "id": "14073",
+     "name": "Josh Jacobs",
+     "pos": "RB",
+     "team": "GBP",
+     "injury": "Suspended \u2014 Personal"
+    },
+    {
+     "id": "15255",
+     "name": "Kenneth Gainwell",
+     "pos": "RB",
+     "team": "TBB",
+     "proj": 10.2
+    },
+    {
+     "id": "16604",
+     "name": "MarShawn Lloyd",
+     "pos": "RB",
+     "team": "GBP",
+     "proj": 12.9
+    },
+    {
+     "id": "16641",
+     "name": "Brock Bowers",
+     "pos": "TE",
+     "team": "LVR",
+     "proj": 15.9
+    },
+    {
+     "id": "16186",
+     "name": "Jordan Addison",
+     "pos": "WR",
+     "team": "MIN",
+     "proj": 10.5
+    },
+    {
+     "id": "17081",
+     "name": "Emeka Egbuka",
+     "pos": "WR",
+     "team": "TBB",
+     "proj": 12.9,
+     "injury": "Questionable \u2014 Toe"
+    },
+    {
+     "id": "16627",
+     "name": "Ladd McConkey",
+     "pos": "WR",
+     "team": "LAC",
+     "proj": 13.7
+    },
+    {
+     "id": "14835",
+     "name": "Tee Higgins",
+     "pos": "WR",
+     "team": "CIN",
+     "proj": 15.2,
+     "injury": "Questionable \u2014 Heel"
+    },
+    {
+     "id": "15756",
+     "name": "Jameson Williams",
+     "pos": "WR",
+     "team": "DET",
+     "proj": 13.2
+    }
+   ]
+  },
+  "0008": {
+   "name": "Based Crack Cocaine Enjoyers",
+   "record": {
+    "w": "0",
+    "l": "0",
+    "t": "0",
+    "pf": "0"
+   },
+   "players": [
+    {
+     "id": "0514",
+     "name": "Los Angeles Chargers",
+     "pos": "Def",
+     "team": "LAC",
+     "proj": 7.0
+    },
+    {
+     "id": "12437",
+     "name": "Jason Myers",
+     "pos": "PK",
+     "team": "SEA",
+     "proj": 5.4
+    },
+    {
+     "id": "17220",
+     "name": "Andres Borregales",
+     "pos": "PK",
+     "team": "NEP",
+     "proj": 5.5
+    },
+    {
+     "id": "13589",
+     "name": "Josh Allen",
+     "pos": "QB",
+     "team": "BUF",
+     "proj": 29.2
+    },
+    {
+     "id": "14059",
+     "name": "Daniel Jones",
+     "pos": "QB",
+     "team": "IND",
+     "proj": 24.5
+    },
+    {
+     "id": "16167",
+     "name": "De'Von Achane",
+     "pos": "RB",
+     "team": "MIA",
+     "proj": 16.8
+    },
+    {
+     "id": "16747",
+     "name": "Tyrone Tracy",
+     "pos": "RB",
+     "team": "NYG",
+     "proj": 8.5,
+     "injury": "Questionable \u2014 Neck"
+    },
+    {
+     "id": "15721",
+     "name": "Rachaad White",
+     "pos": "RB",
+     "team": "WAS",
+     "proj": 6.8,
+     "injury": "Questionable \u2014 Hamstring"
+    },
+    {
+     "id": "17047",
+     "name": "Dylan Sampson",
+     "pos": "RB",
+     "team": "CLE",
+     "proj": 5.7
+    },
+    {
+     "id": "13671",
+     "name": "Mark Andrews",
+     "pos": "TE",
+     "team": "BAL",
+     "proj": 10.4
+    },
+    {
+     "id": "12676",
+     "name": "Hunter Henry",
+     "pos": "TE",
+     "team": "NEP",
+     "proj": 10.2
+    },
+    {
+     "id": "16185",
+     "name": "Jaxon Smith-Njigba",
+     "pos": "WR",
+     "team": "SEA",
+     "proj": 17.7
+    },
+    {
+     "id": "15762",
+     "name": "George Pickens",
+     "pos": "WR",
+     "team": "DAL",
+     "proj": 14.6
+    },
+    {
+     "id": "16614",
+     "name": "Marvin Harrison Jr.",
+     "pos": "WR",
+     "team": "ARI",
+     "proj": 12.8
+    },
+    {
+     "id": "14136",
+     "name": "Deebo Samuel",
+     "pos": "WR",
+     "team": "SFO",
+     "proj": 10.2
+    }
+   ]
+  },
+  "0009": {
+   "name": "Washington Misanthropes",
+   "record": {
+    "w": "0",
+    "l": "0",
+    "t": "0",
+    "pf": "0"
+   },
+   "players": [
+    {
+     "id": "0524",
+     "name": "Minnesota Vikings",
+     "pos": "Def",
+     "team": "MIN",
+     "proj": 3.2
+    },
+    {
+     "id": "15368",
+     "name": "Evan McPherson",
+     "pos": "PK",
+     "team": "CIN",
+     "proj": 5.8
+    },
+    {
+     "id": "12611",
+     "name": "Jared Goff",
+     "pos": "QB",
+     "team": "DET",
+     "proj": 23.5
+    },
+    {
+     "id": "16161",
+     "name": "Bijan Robinson",
+     "pos": "RB",
+     "team": "ATL",
+     "proj": 19.5
+    },
+    {
+     "id": "17472",
+     "name": "Jeremiyah Love",
+     "pos": "RB",
+     "team": "ARI",
+     "proj": 10.7,
+     "injury": "Questionable \u2014 Ankle"
+    },
+    {
+     "id": "17477",
+     "name": "Jonah Coleman",
+     "pos": "RB",
+     "team": "DEN",
+     "proj": 4.8
+    },
+    {
+     "id": "17474",
+     "name": "Emmett Johnson",
+     "pos": "RB",
+     "team": "KCC",
+     "proj": 4.0
+    },
+    {
+     "id": "17053",
+     "name": "Woody Marks",
+     "pos": "RB",
+     "team": "HOU",
+     "proj": 7.0
+    },
+    {
+     "id": "17102",
+     "name": "Tyler Warren",
+     "pos": "TE",
+     "team": "IND",
+     "proj": 11.8,
+     "injury": "Questionable \u2014 Groin"
+    },
+    {
+     "id": "17543",
+     "name": "Kenyon Sadiq",
+     "pos": "TE",
+     "team": "NYJ",
+     "proj": 2.5,
+     "injury": "Questionable \u2014 Abdomen"
+    },
+    {
+     "id": "16615",
+     "name": "Malik Nabers",
+     "pos": "WR",
+     "team": "NYG",
+     "proj": 14.3,
+     "injury": "Questionable \u2014 Knee - ACL"
+    },
+    {
+     "id": "16192",
+     "name": "Parker Washington",
+     "pos": "WR",
+     "team": "JAC",
+     "proj": 11.5
+    },
+    {
+     "id": "17501",
+     "name": "KC Concepcion",
+     "pos": "WR",
+     "team": "CLE",
+     "proj": 5.3
+    },
+    {
+     "id": "17514",
+     "name": "De'Zhaun Stribling",
+     "pos": "WR",
+     "team": "SFO",
+     "proj": 3.1,
+     "injury": "Questionable \u2014 Shoulder"
+    },
+    {
+     "id": "17500",
+     "name": "Denzel Boston",
+     "pos": "WR",
+     "team": "CLE",
+     "proj": 2.9
+    }
+   ]
+  },
+  "0010": {
+   "name": "Attitude",
+   "record": {
+    "w": "0",
+    "l": "0",
+    "t": "0",
+    "pf": "0"
+   },
+   "players": [
+    {
+     "id": "0532",
+     "name": "Houston Texans",
+     "pos": "Def",
+     "team": "HOU",
+     "proj": 6.1
+    },
+    {
+     "id": "12860",
+     "name": "Ka'imi Fairbairn",
+     "pos": "PK",
+     "team": "HOU",
+     "proj": 4.9
+    },
+    {
+     "id": "16581",
+     "name": "Jayden Daniels",
+     "pos": "QB",
+     "team": "WAS",
+     "proj": 23.7
+    },
+    {
+     "id": "16150",
+     "name": "C.J. Stroud",
+     "pos": "QB",
+     "team": "HOU",
+     "proj": 21.4
+    },
+    {
+     "id": "13130",
+     "name": "Christian McCaffrey",
+     "pos": "RB",
+     "team": "SFO",
+     "proj": 21.3,
+     "injury": "Questionable \u2014 Undisclosed"
+    },
+    {
+     "id": "15253",
+     "name": "Travis Etienne",
+     "pos": "RB",
+     "team": "NOS",
+     "proj": 13.2
+    },
+    {
+     "id": "17068",
+     "name": "RJ Harvey",
+     "pos": "RB",
+     "team": "DEN",
+     "proj": 10.0
+    },
+    {
+     "id": "15972",
+     "name": "Jordan Mason",
+     "pos": "RB",
+     "team": "MIN",
+     "proj": 7.7
+    },
+    {
+     "id": "15794",
+     "name": "Trey McBride",
+     "pos": "TE",
+     "team": "ARI",
+     "proj": 18.6
+    },
+    {
+     "id": "14871",
+     "name": "Colby Parkinson",
+     "pos": "TE",
+     "team": "LAR",
+     "proj": 10.5
+    },
+    {
+     "id": "15290",
+     "name": "Nico Collins",
+     "pos": "WR",
+     "team": "HOU",
+     "proj": 14.1
+    },
+    {
+     "id": "15753",
+     "name": "Garrett Wilson",
+     "pos": "WR",
+     "team": "NYJ",
+     "proj": 15.3
+    },
+    {
+     "id": "14109",
+     "name": "Terry McLaurin",
+     "pos": "WR",
+     "team": "WAS",
+     "proj": 13.9
+    },
+    {
+     "id": "14122",
+     "name": "Darius Slayton",
+     "pos": "WR",
+     "team": "NYG",
+     "proj": 8.6
+    },
+    {
+     "id": "16184",
+     "name": "Jayden Reed",
+     "pos": "WR",
+     "team": "GBP",
+     "proj": 7.4
+    }
+   ]
+  },
+  "0011": {
+   "name": "Pete\u2019s Perfect Team",
+   "record": {
+    "w": "0",
+    "l": "0",
+    "t": "0",
+    "pf": "0"
+   },
+   "players": [
+    {
+     "id": "0518",
+     "name": "Philadelphia Eagles",
+     "pos": "Def",
+     "team": "PHI",
+     "proj": 3.0
+    },
+    {
+     "id": "16680",
+     "name": "Cam Little",
+     "pos": "PK",
+     "team": "JAC",
+     "proj": 5.2
+    },
+    {
+     "id": "14782",
+     "name": "Jordan Love",
+     "pos": "QB",
+     "team": "GBP",
+     "proj": 17.0
+    },
+    {
+     "id": "17039",
+     "name": "Tyler Shough",
+     "pos": "QB",
+     "team": "NOS",
+     "proj": 22.0
+    },
+    {
+     "id": "17044",
+     "name": "Omarion Hampton",
+     "pos": "RB",
+     "team": "LAC",
+     "proj": 13.8
+    },
+    {
+     "id": "13604",
+     "name": "Saquon Barkley",
+     "pos": "RB",
+     "team": "PHI",
+     "proj": 19.0
+    },
+    {
+     "id": "13132",
+     "name": "Alvin Kamara",
+     "pos": "RB",
+     "team": "NOS",
+     "proj": 6.6,
+     "injury": "Questionable \u2014 Knee - MCL"
+    },
+    {
+     "id": "16174",
+     "name": "Chris Rodriguez",
+     "pos": "RB",
+     "team": "JAC",
+     "proj": 6.6
+    },
+    {
+     "id": "16213",
+     "name": "Dalton Kincaid",
+     "pos": "TE",
+     "team": "BUF",
+     "proj": 11.0
+    },
+    {
+     "id": "15889",
+     "name": "Chigoziem Okonkwo",
+     "pos": "TE",
+     "team": "WAS",
+     "proj": 8.0
+    },
+    {
+     "id": "15281",
+     "name": "Ja'Marr Chase",
+     "pos": "WR",
+     "team": "CIN",
+     "proj": 20.8,
+     "injury": "Questionable \u2014 Knee"
+    },
+    {
+     "id": "15751",
+     "name": "Drake London",
+     "pos": "WR",
+     "team": "ATL",
+     "proj": 18.5
+    },
+    {
+     "id": "15789",
+     "name": "Christian Watson",
+     "pos": "WR",
+     "team": "GBP",
+     "proj": 12.4
+    },
+    {
+     "id": "15768",
+     "name": "Alec Pierce",
+     "pos": "WR",
+     "team": "IND",
+     "proj": 12.2
+    },
+    {
+     "id": "16809",
+     "name": "Jalen Coker",
+     "pos": "WR",
+     "team": "CAR",
+     "proj": 8.9
+    }
+   ]
+  },
+  "0012": {
+   "name": "Athenian Souvlakis",
+   "record": {
+    "w": "0",
+    "l": "0",
+    "t": "0",
+    "pf": "0"
+   },
+   "players": [
+    {
+     "id": "0510",
+     "name": "Pittsburgh Steelers",
+     "pos": "Def",
+     "team": "PIT",
+     "proj": 3.6
+    },
+    {
+     "id": "14983",
+     "name": "Tyler Bass",
+     "pos": "PK",
+     "team": "BUF",
+     "proj": 5.8
+    },
+    {
+     "id": "15237",
+     "name": "Trevor Lawrence",
+     "pos": "QB",
+     "team": "JAC",
+     "proj": 24.4
+    },
+    {
+     "id": "13592",
+     "name": "Sam Darnold",
+     "pos": "QB",
+     "team": "SEA",
+     "proj": 18.8
+    },
+    {
+     "id": "12626",
+     "name": "Derrick Henry",
+     "pos": "RB",
+     "team": "BAL",
+     "proj": 17.8
+    },
+    {
+     "id": "17043",
+     "name": "TreVeyon Henderson",
+     "pos": "RB",
+     "team": "NEP",
+     "proj": 11.1,
+     "injury": "Questionable \u2014 Ankle"
+    },
+    {
+     "id": "16165",
+     "name": "Tyjae Spears",
+     "pos": "RB",
+     "team": "TEN",
+     "proj": 8.9
+    },
+    {
+     "id": "15712",
+     "name": "Tyler Allgeier",
+     "pos": "RB",
+     "team": "ARI",
+     "proj": 6.3
+    },
+    {
+     "id": "15798",
+     "name": "Isaiah Likely",
+     "pos": "TE",
+     "team": "NYG",
+     "proj": 7.3
+    },
+    {
+     "id": "16211",
+     "name": "Puka Nacua",
+     "pos": "WR",
+     "team": "LAR",
+     "proj": 20.5,
+     "injury": "Questionable \u2014 Groin"
+    },
+    {
+     "id": "15287",
+     "name": "Amon-Ra St. Brown",
+     "pos": "WR",
+     "team": "DET",
+     "proj": 18.2
+    },
+    {
+     "id": "15754",
+     "name": "Chris Olave",
+     "pos": "WR",
+     "team": "NOS",
+     "proj": 14.6
+    },
+    {
+     "id": "12186",
+     "name": "Stefon Diggs",
+     "pos": "WR",
+     "team": "WAS",
+     "proj": 10.8
+    },
+    {
+     "id": "16188",
+     "name": "Quentin Johnston",
+     "pos": "WR",
+     "team": "LAC",
+     "proj": 10.7
+    },
+    {
+     "id": "15757",
+     "name": "Wan'Dale Robinson",
+     "pos": "WR",
+     "team": "TEN",
+     "proj": 11.8,
+     "injury": "Questionable \u2014 Head"
+    }
+   ]
+  }
+ },
+ "free_agents": [
+  {
+   "id": "12616",
+   "name": "Jacoby Brissett",
+   "pos": "QB",
+   "team": "ARI",
+   "proj": 24.2
+  },
+  {
+   "id": "16148",
+   "name": "Bryce Young",
+   "pos": "QB",
+   "team": "CAR",
+   "proj": 23.2
+  },
+  {
+   "id": "17030",
+   "name": "Cam Ward",
+   "pos": "QB",
+   "team": "TEN",
+   "proj": 22.1
+  },
+  {
+   "id": "7836",
+   "name": "Aaron Rodgers",
+   "pos": "QB",
+   "team": "PIT",
+   "proj": 21.3
+  },
+  {
+   "id": "10700",
+   "name": "Kirk Cousins",
+   "pos": "QB",
+   "team": "LVR",
+   "proj": 20.0
+  },
+  {
+   "id": "14778",
+   "name": "Tua Tagovailoa",
+   "pos": "QB",
+   "team": "ATL",
+   "proj": 19.9
+  },
+  {
+   "id": "13113",
+   "name": "Deshaun Watson",
+   "pos": "QB",
+   "team": "CLE",
+   "proj": 19.7
+  },
+  {
+   "id": "11150",
+   "name": "Geno Smith",
+   "pos": "QB",
+   "team": "NYJ",
+   "proj": 13.0
+  },
+  {
+   "id": "15802",
+   "name": "Cade Otton",
+   "pos": "TE",
+   "team": "TBB",
+   "proj": 10.2
+  },
+  {
+   "id": "16684",
+   "name": "Malik Washington",
+   "pos": "WR",
+   "team": "MIA",
+   "proj": 10.2
+  },
+  {
+   "id": "16287",
+   "name": "Tre Tucker",
+   "pos": "WR",
+   "team": "LVR",
+   "proj": 10.1
+  },
+  {
+   "id": "11222",
+   "name": "Keenan Allen",
+   "pos": "WR",
+   "team": "IND",
+   "proj": 9.7
+  },
+  {
+   "id": "15331",
+   "name": "Pat Freiermuth",
+   "pos": "TE",
+   "team": "PIT",
+   "proj": 9.7
+  },
+  {
+   "id": "15779",
+   "name": "Romeo Doubs",
+   "pos": "WR",
+   "team": "NEP",
+   "proj": 9.7
+  },
+  {
+   "id": "13772",
+   "name": "Dalton Schultz",
+   "pos": "TE",
+   "team": "HOU",
+   "proj": 9.6
+  },
+  {
+   "id": "14127",
+   "name": "Jakobi Meyers",
+   "pos": "WR",
+   "team": "JAC",
+   "proj": 9.6,
+   "injury": "Questionable \u2014 Hand"
+  },
+  {
+   "id": "14833",
+   "name": "Jerry Jeudy",
+   "pos": "WR",
+   "team": "CLE",
+   "proj": 9.6
+  },
+  {
+   "id": "17099",
+   "name": "Oronde Gadsden",
+   "pos": "TE",
+   "team": "LAC",
+   "proj": 9.4
+  },
+  {
+   "id": "13672",
+   "name": "Mike Gesicki",
+   "pos": "TE",
+   "team": "CIN",
+   "proj": 9.2
+  },
+  {
+   "id": "17105",
+   "name": "Gunnar Helm",
+   "pos": "TE",
+   "team": "TEN",
+   "proj": 9.1
+  },
+  {
+   "id": "16620",
+   "name": "Xavier Worthy",
+   "pos": "WR",
+   "team": "KCC",
+   "proj": 8.9
+  },
+  {
+   "id": "16723",
+   "name": "AJ Barner",
+   "pos": "TE",
+   "team": "SEA",
+   "proj": 8.6
+  },
+  {
+   "id": "15797",
+   "name": "Greg Dulcich",
+   "pos": "TE",
+   "team": "MIA",
+   "proj": 8.6
+  },
+  {
+   "id": "16788",
+   "name": "Devaughn Vele",
+   "pos": "WR",
+   "team": "NOS",
+   "proj": 8.4
+  },
+  {
+   "id": "16628",
+   "name": "Jalen McMillan",
+   "pos": "WR",
+   "team": "TBB",
+   "proj": 8.0,
+   "injury": "Questionable \u2014 Knee"
+  },
+  {
+   "id": "16586",
+   "name": "Spencer Rattler",
+   "pos": "QB",
+   "team": "NOS",
+   "proj": 8.0
+  },
+  {
+   "id": "16649",
+   "name": "Theo Johnson",
+   "pos": "TE",
+   "team": "NYG",
+   "proj": 8.0,
+   "injury": "Questionable \u2014 Shoulder"
+  },
+  {
+   "id": "16201",
+   "name": "Xavier Hutchinson",
+   "pos": "WR",
+   "team": "HOU",
+   "proj": 7.9
+  },
+  {
+   "id": "17106",
+   "name": "Mason Taylor",
+   "pos": "TE",
+   "team": "NYJ",
+   "proj": 7.8
+  },
+  {
+   "id": "16342",
+   "name": "Demario Douglas",
+   "pos": "WR",
+   "team": "NEP",
+   "proj": 7.7
+  },
+  {
+   "id": "16778",
+   "name": "Ryan Flournoy",
+   "pos": "WR",
+   "team": "DAL",
+   "proj": 7.6
+  },
+  {
+   "id": "17171",
+   "name": "Chimere Dike",
+   "pos": "WR",
+   "team": "TEN",
+   "proj": 7.5
+  },
+  {
+   "id": "14860",
+   "name": "Jauan Jennings",
+   "pos": "WR",
+   "team": "MIN",
+   "proj": 7.5
+  },
+  {
+   "id": "16619",
+   "name": "Troy Franklin",
+   "pos": "WR",
+   "team": "DEN",
+   "proj": 7.3
+  },
+  {
+   "id": "17073",
+   "name": "Elic Ayomanor",
+   "pos": "WR",
+   "team": "TEN",
+   "proj": 7.2
+  },
+  {
+   "id": "16617",
+   "name": "Keon Coleman",
+   "pos": "WR",
+   "team": "BUF",
+   "proj": 7.2,
+   "injury": "Questionable \u2014 Foot"
+  },
+  {
+   "id": "13629",
+   "name": "Calvin Ridley",
+   "pos": "WR",
+   "team": "TEN",
+   "proj": 7.0
+  },
+  {
+   "id": "13164",
+   "name": "Cooper Kupp",
+   "pos": "WR",
+   "team": "SEA",
+   "proj": 7.0
+  },
+  {
+   "id": "16757",
+   "name": "Kimani Vidal",
+   "pos": "RB",
+   "team": "LAC",
+   "proj": 7.0
+  },
+  {
+   "id": "12678",
+   "name": "Tyler Higbee",
+   "pos": "TE",
+   "team": "LAR",
+   "proj": 7.0
+  },
+  {
+   "id": "13289",
+   "name": "Mack Hollins",
+   "pos": "WR",
+   "team": "NEP",
+   "proj": 6.9
+  },
+  {
+   "id": "0509",
+   "name": "Jacksonville Jaguars",
+   "pos": "Def",
+   "team": "JAC",
+   "proj": 6.8
+  },
+  {
+   "id": "16626",
+   "name": "Adonai Mitchell",
+   "pos": "WR",
+   "team": "NYJ",
+   "proj": 6.7
+  },
+  {
+   "id": "16036",
+   "name": "Jake Tonges",
+   "pos": "TE",
+   "team": "SFO",
+   "proj": 6.7
+  },
+  {
+   "id": "16189",
+   "name": "Marvin Mims",
+   "pos": "WR",
+   "team": "DEN",
+   "proj": 6.7,
+   "injury": "Questionable \u2014 Foot"
+  },
+  {
+   "id": "15293",
+   "name": "Rashod Bateman",
+   "pos": "WR",
+   "team": "BAL",
+   "proj": 6.7
+  },
+  {
+   "id": "16207",
+   "name": "Andrei Iosivas",
+   "pos": "WR",
+   "team": "CIN",
+   "proj": 6.6
+  },
+  {
+   "id": "14080",
+   "name": "Devin Singletary",
+   "pos": "RB",
+   "team": "NYG",
+   "proj": 6.6
+  },
+  {
+   "id": "16678",
+   "name": "Sione Vaki",
+   "pos": "RB",
+   "team": "DET",
+   "proj": 6.6
+  },
+  {
+   "id": "15332",
+   "name": "Tommy Tremble",
+   "pos": "TE",
+   "team": "CAR",
+   "proj": 6.6
+  },
+  {
+   "id": "16639",
+   "name": "Xavier Legette",
+   "pos": "WR",
+   "team": "CAR",
+   "proj": 6.5,
+   "injury": "Questionable \u2014 Ankle"
+  },
+  {
+   "id": "13189",
+   "name": "Evan Engram",
+   "pos": "TE",
+   "team": "DEN",
+   "proj": 6.4
+  },
+  {
+   "id": "17222",
+   "name": "Tyler Loop",
+   "pos": "PK",
+   "team": "BAL",
+   "proj": 6.3
+  },
+  {
+   "id": "15795",
+   "name": "Charlie Kolar",
+   "pos": "TE",
+   "team": "LAC",
+   "proj": 6.2
+  },
+  {
+   "id": "14143",
+   "name": "Dawson Knox",
+   "pos": "TE",
+   "team": "BUF",
+   "proj": 6.2
+  },
+  {
+   "id": "15786",
+   "name": "Jalen Nailor",
+   "pos": "WR",
+   "team": "LVR",
+   "proj": 6.2
+  },
+  {
+   "id": "14086",
+   "name": "Justice Hill",
+   "pos": "RB",
+   "team": "BAL",
+   "proj": 6.2
+  },
+  {
+   "id": "17072",
+   "name": "Tre Harris",
+   "pos": "WR",
+   "team": "LAC",
+   "proj": 6.1,
+   "injury": "Questionable \u2014 Undisclosed"
+  },
+  {
+   "id": "15787",
+   "name": "Tyquan Thornton",
+   "pos": "WR",
+   "team": "KCC",
+   "proj": 6.1
+  },
+  {
+   "id": "14840",
+   "name": "Brandon Aiyuk",
+   "pos": "WR",
+   "team": "SFO",
+   "proj": 5.9,
+   "injury": "Holdout \u2014 Knee - ACL + MCL"
+  },
+  {
+   "id": "14867",
+   "name": "Cole Kmet",
+   "pos": "TE",
+   "team": "CHI",
+   "proj": 5.9
+  },
+  {
+   "id": "16080",
+   "name": "Rashid Shaheed",
+   "pos": "WR",
+   "team": "SEA",
+   "proj": 5.8
+  },
+  {
+   "id": "16608",
+   "name": "George Holani",
+   "pos": "RB",
+   "team": "SEA",
+   "proj": 5.7
+  },
+  {
+   "id": "17080",
+   "name": "Jaylin Noel",
+   "pos": "WR",
+   "team": "HOU",
+   "proj": 5.7,
+   "injury": "Questionable \u2014 Hamstring"
+  },
+  {
+   "id": "16583",
+   "name": "Michael Penix Jr.",
+   "pos": "QB",
+   "team": "ATL",
+   "proj": 5.7,
+   "injury": "Questionable \u2014 Knee - ACL"
+  },
+  {
+   "id": "15873",
+   "name": "Daniel Bellinger",
+   "pos": "TE",
+   "team": "TEN",
+   "proj": 5.6
+  },
+  {
+   "id": "12956",
+   "name": "Wil Lutz",
+   "pos": "PK",
+   "team": "DEN",
+   "proj": 5.6
+  },
+  {
+   "id": "15727",
+   "name": "Bam Knight",
+   "pos": "RB",
+   "team": "ARI",
+   "proj": 5.4
+  },
+  {
+   "id": "12785",
+   "name": "Demarcus Robinson",
+   "pos": "WR",
+   "team": "SFO",
+   "proj": 5.4
+  },
+  {
+   "id": "15788",
+   "name": "Jalen Tolbert",
+   "pos": "WR",
+   "team": "MIA",
+   "proj": 5.4
+  },
+  {
+   "id": "0526",
+   "name": "Atlanta Falcons",
+   "pos": "Def",
+   "team": "ATL",
+   "proj": 5.3
+  },
+  {
+   "id": "11945",
+   "name": "Cairo Santos",
+   "pos": "PK",
+   "team": "CHI",
+   "proj": 5.3
+  },
+  {
+   "id": "13303",
+   "name": "Jake Elliott",
+   "pos": "PK",
+   "team": "PHI",
+   "proj": 5.3
+  },
+  {
+   "id": "17485",
+   "name": "Kaelon Black",
+   "pos": "RB",
+   "team": "SFO",
+   "proj": 5.3
+  },
+  {
+   "id": "14095",
+   "name": "Ty Johnson",
+   "pos": "RB",
+   "team": "BUF",
+   "proj": 5.3,
+   "injury": "Questionable \u2014 Lower Leg"
+  },
+  {
+   "id": "16292",
+   "name": "Chad Ryland",
+   "pos": "PK",
+   "team": "ARI",
+   "proj": 5.2
+  },
+  {
+   "id": "13192",
+   "name": "David Njoku",
+   "pos": "TE",
+   "team": "LAC",
+   "proj": 5.2
+  },
+  {
+   "id": "13719",
+   "name": "Eddy Pineiro",
+   "pos": "PK",
+   "team": "SFO",
+   "proj": 5.2
+  },
+  {
+   "id": "17157",
+   "name": "Isaac TeSlaa",
+   "pos": "WR",
+   "team": "DET",
+   "proj": 5.2
+  },
+  {
+   "id": "15369",
+   "name": "Riley Patterson",
+   "pos": "PK",
+   "team": "MIA",
+   "proj": 5.2
+  },
+  {
+   "id": "17031",
+   "name": "Shedeur Sanders",
+   "pos": "QB",
+   "team": "CLE",
+   "proj": 5.2
+  },
+  {
+   "id": "16896",
+   "name": "Spencer Shrader",
+   "pos": "PK",
+   "team": "IND",
+   "proj": 5.2
+  },
+  {
+   "id": "14717",
+   "name": "Chase McLaughlin",
+   "pos": "PK",
+   "team": "TBB",
+   "proj": 5.1
+  },
+  {
+   "id": "16164",
+   "name": "Tank Bigsby",
+   "pos": "RB",
+   "team": "PHI",
+   "proj": 5.1
+  },
+  {
+   "id": "0521",
+   "name": "Chicago Bears",
+   "pos": "Def",
+   "team": "CHI",
+   "proj": 5.0
+  },
+  {
+   "id": "16216",
+   "name": "Darnell Washington",
+   "pos": "TE",
+   "team": "PIT",
+   "proj": 5.0
+  },
+  {
+   "id": "12141",
+   "name": "Marcus Mariota",
+   "pos": "QB",
+   "team": "WAS",
+   "proj": 5.0,
+   "injury": "Questionable \u2014 Knee - MCL"
+  },
+  {
+   "id": "16603",
+   "name": "Ray Davis",
+   "pos": "RB",
+   "team": "BUF",
+   "proj": 5.0
+  },
+  {
+   "id": "17736",
+   "name": "Dominic Zvada",
+   "pos": "PK",
+   "team": "NYG",
+   "proj": 4.9
+  },
+  {
+   "id": "17726",
+   "name": "Drew Stevens",
+   "pos": "PK",
+   "team": "WAS",
+   "proj": 4.9
+  },
+  {
+   "id": "15738",
+   "name": "Malik Davis",
+   "pos": "RB",
+   "team": "DAL",
+   "proj": 4.9
+  },
+  {
+   "id": "16212",
+   "name": "Michael Mayer",
+   "pos": "TE",
+   "team": "LVR",
+   "proj": 4.9
+  },
+  {
+   "id": "17648",
+   "name": "Riley Nowakowski",
+   "pos": "TE",
+   "team": "PIT",
+   "proj": 4.9
+  },
+  {
+   "id": "17668",
+   "name": "Trey Smack",
+   "pos": "PK",
+   "team": "GBP",
+   "proj": 4.9
+  },
+  {
+   "id": "16610",
+   "name": "Jaylen Wright",
+   "pos": "RB",
+   "team": "MIA",
+   "proj": 4.8
+  },
+  {
+   "id": "14137",
+   "name": "Noah Fant",
+   "pos": "TE",
+   "team": "NOS",
+   "proj": 4.8
+  },
+  {
+   "id": "16444",
+   "name": "Blake Grupe",
+   "pos": "PK",
+   "team": "NYJ",
+   "proj": 4.7
+  },
+  {
+   "id": "14600",
+   "name": "Joey Slye",
+   "pos": "PK",
+   "team": "TEN",
+   "proj": 4.7
+  },
+  {
+   "id": "17277",
+   "name": "Ryan Fitzgerald",
+   "pos": "PK",
+   "team": "CAR",
+   "proj": 4.7
+  },
+  {
+   "id": "13718",
+   "name": "Daniel Carlson",
+   "pos": "PK",
+   "team": "NOS",
+   "proj": 4.6
+  },
+  {
+   "id": "15337",
+   "name": "Noah Gray",
+   "pos": "TE",
+   "team": "KCC",
+   "proj": 4.6
+  },
+  {
+   "id": "17082",
+   "name": "Pat Bryant",
+   "pos": "WR",
+   "team": "DEN",
+   "proj": 4.6
+  },
+  {
+   "id": "15252",
+   "name": "Davis Mills",
+   "pos": "QB",
+   "team": "HOU",
+   "proj": 4.5
+  },
+  {
+   "id": "16584",
+   "name": "J.J. McCarthy",
+   "pos": "QB",
+   "team": "MIN",
+   "proj": 4.5
+  },
+  {
+   "id": "14105",
+   "name": "Marquise Brown",
+   "pos": "WR",
+   "team": "PHI",
+   "proj": 4.5
+  },
+  {
+   "id": "14244",
+   "name": "Matt Gay",
+   "pos": "PK",
+   "team": "LVR",
+   "proj": 4.5
+  },
+  {
+   "id": "8851",
+   "name": "Nick Folk",
+   "pos": "PK",
+   "team": "ATL",
+   "proj": 4.5
+  },
+  {
+   "id": "16419",
+   "name": "Andre Szmyt",
+   "pos": "PK",
+   "team": "CLE",
+   "proj": 4.4
+  },
+  {
+   "id": "15755",
+   "name": "Jahan Dotson",
+   "pos": "WR",
+   "team": "ATL",
+   "proj": 4.4
+  },
+  {
+   "id": "14209",
+   "name": "Josh Oliver",
+   "pos": "TE",
+   "team": "MIN",
+   "proj": 4.4
+  },
+  {
+   "id": "17512",
+   "name": "Antonio Williams",
+   "pos": "WR",
+   "team": "WAS",
+   "proj": 4.3
+  },
+  {
+   "id": "15716",
+   "name": "Brian Robinson",
+   "pos": "RB",
+   "team": "ATL",
+   "proj": 4.3
+  },
+  {
+   "id": "12263",
+   "name": "Darren Waller",
+   "pos": "TE",
+   "team": "CAR",
+   "proj": 4.3
+  },
+  {
+   "id": "15981",
+   "name": "KaVontae Turpin",
+   "pos": "WR",
+   "team": "DAL",
+   "proj": 4.3
+  },
+  {
+   "id": "13066",
+   "name": "Kalif Raymond",
+   "pos": "WR",
+   "team": "CHI",
+   "proj": 4.3
+  },
+  {
+   "id": "13418",
+   "name": "Kendrick Bourne",
+   "pos": "WR",
+   "team": "ARI",
+   "proj": 4.3
+  },
+  {
+   "id": "15254",
+   "name": "Najee Harris",
+   "pos": "RB",
+   "team": "NYG",
+   "proj": 4.3
+  },
+  {
+   "id": "13133",
+   "name": "Samaje Perine",
+   "pos": "RB",
+   "team": "CIN",
+   "proj": 4.3
+  },
+  {
+   "id": "0508",
+   "name": "Tennessee Titans",
+   "pos": "Def",
+   "team": "TEN",
+   "proj": 4.3
+  },
+  {
+   "id": "14974",
+   "name": "Darnell Mooney",
+   "pos": "WR",
+   "team": "NYG",
+   "proj": 4.2
+  },
+  {
+   "id": "17078",
+   "name": "Jack Bech",
+   "pos": "WR",
+   "team": "LVR",
+   "proj": 4.2
+  },
+  {
+   "id": "11367",
+   "name": "Kyle Juszczyk",
+   "pos": "RB",
+   "team": "SFO",
+   "proj": 4.2,
+   "injury": "Questionable \u2014 Finger"
+  },
+  {
+   "id": "17035",
+   "name": "Riley Leonard",
+   "pos": "QB",
+   "team": "IND",
+   "proj": 4.2
+  },
+  {
+   "id": "16629",
+   "name": "Roman Wilson",
+   "pos": "WR",
+   "team": "PIT",
+   "proj": 4.2
+  },
+  {
+   "id": "16166",
+   "name": "Sean Tucker",
+   "pos": "RB",
+   "team": "TBB",
+   "proj": 4.2,
+   "injury": "Questionable \u2014 Undisclosed"
+  },
+  {
+   "id": "14146",
+   "name": "Drew Sample",
+   "pos": "TE",
+   "team": "CIN",
+   "proj": 4.1
+  },
+  {
+   "id": "17607",
+   "name": "Eli Raridon",
+   "pos": "TE",
+   "team": "NEP",
+   "proj": 4.1
+  },
+  {
+   "id": "12140",
+   "name": "Jameis Winston",
+   "pos": "QB",
+   "team": "NYG",
+   "proj": 4.1
+  },
+  {
+   "id": "14870",
+   "name": "Adam Trautman",
+   "pos": "TE",
+   "team": "DEN",
+   "proj": 4.0
+  },
+  {
+   "id": "16643",
+   "name": "Ja'Tavion Sanders",
+   "pos": "TE",
+   "team": "CAR",
+   "proj": 4.0
+  },
+  {
+   "id": "15319",
+   "name": "Joshua Palmer",
+   "pos": "WR",
+   "team": "BUF",
+   "proj": 4.0
+  },
+  {
+   "id": "0529",
+   "name": "New Orleans Saints",
+   "pos": "Def",
+   "team": "NOS",
+   "proj": 4.0
+  },
+  {
+   "id": "17079",
+   "name": "Tez Johnson",
+   "pos": "WR",
+   "team": "TBB",
+   "proj": 4.0
+  },
+  {
+   "id": "16596",
+   "name": "Braelon Allen",
+   "pos": "RB",
+   "team": "NYJ",
+   "proj": 3.9
+  },
+  {
+   "id": "14592",
+   "name": "Olamide Zaccheaus",
+   "pos": "WR",
+   "team": "ATL",
+   "proj": 3.9
+  },
+  {
+   "id": "16940",
+   "name": "Blake Whiteheart",
+   "pos": "TE",
+   "team": "CLE",
+   "proj": 3.8
+  },
+  {
+   "id": "15759",
+   "name": "John Metchie",
+   "pos": "WR",
+   "team": "CAR",
+   "proj": 3.8
+  },
+  {
+   "id": "15626",
+   "name": "Brock Wright",
+   "pos": "TE",
+   "team": "DET",
+   "proj": 3.7
+  },
+  {
+   "id": "16333",
+   "name": "Elijah Higgins",
+   "pos": "TE",
+   "team": "ARI",
+   "proj": 3.7
+  },
+  {
+   "id": "9064",
+   "name": "Joe Flacco",
+   "pos": "QB",
+   "team": "CIN",
+   "proj": 3.7
+  },
+  {
+   "id": "17519",
+   "name": "Bryce Lance",
+   "pos": "WR",
+   "team": "NOS",
+   "proj": 3.6
+  },
+  {
+   "id": "16752",
+   "name": "Isaiah Davis",
+   "pos": "RB",
+   "team": "NYJ",
+   "proj": 3.6,
+   "injury": "Questionable \u2014 Knee"
+  },
+  {
+   "id": "16595",
+   "name": "Audric Estime",
+   "pos": "RB",
+   "team": "NOS",
+   "proj": 3.5
+  },
+  {
+   "id": "16171",
+   "name": "Kendre Miller",
+   "pos": "RB",
+   "team": "NOS",
+   "proj": 3.5,
+   "injury": "Questionable \u2014 Undisclosed"
+  },
+  {
+   "id": "15796",
+   "name": "Jeremy Ruckert",
+   "pos": "TE",
+   "team": "NYJ",
+   "proj": 3.4
+  },
+  {
+   "id": "17502",
+   "name": "Omar Cooper Jr.",
+   "pos": "WR",
+   "team": "NYJ",
+   "proj": 3.4
+  },
+  {
+   "id": "16451",
+   "name": "Tyrell Shavers",
+   "pos": "WR",
+   "team": "BUF",
+   "proj": 3.4,
+   "injury": "IR-PUP \u2014 Knee - ACL"
+  },
+  {
+   "id": "0507",
+   "name": "Cleveland Browns",
+   "pos": "Def",
+   "team": "CLE",
+   "proj": 3.3
+  },
+  {
+   "id": "13193",
+   "name": "Jonnu Smith",
+   "pos": "TE",
+   "team": "GBP",
+   "proj": 3.3
+  },
+  {
+   "id": "15238",
+   "name": "Justin Fields",
+   "pos": "QB",
+   "team": "KCC",
+   "proj": 3.3
+  },
+  {
+   "id": "10413",
+   "name": "Tyrod Taylor",
+   "pos": "QB",
+   "team": "GBP",
+   "proj": 3.3
+  },
+  {
+   "id": "0520",
+   "name": "Washington Commanders",
+   "pos": "Def",
+   "team": "WAS",
+   "proj": 3.3
+  },
+  {
+   "id": "16387",
+   "name": "Chris Brooks",
+   "pos": "RB",
+   "team": "GBP",
+   "proj": 3.2
+  },
+  {
+   "id": "16630",
+   "name": "Isaiah Williams",
+   "pos": "WR",
+   "team": "NYJ",
+   "proj": 3.2
+  },
+  {
+   "id": "15692",
+   "name": "Kenny Pickett",
+   "pos": "QB",
+   "team": "CAR",
+   "proj": 3.2
+  },
+  {
+   "id": "17134",
+   "name": "Kyle Williams",
+   "pos": "WR",
+   "team": "NEP",
+   "proj": 3.2
+  },
+  {
+   "id": "17109",
+   "name": "Mitchell Evans",
+   "pos": "TE",
+   "team": "CAR",
+   "proj": 3.2
+  },
+  {
+   "id": "17049",
+   "name": "Brashard Smith",
+   "pos": "RB",
+   "team": "KCC",
+   "proj": 3.1
+  },
+  {
+   "id": "0522",
+   "name": "Detroit Lions",
+   "pos": "Def",
+   "team": "DET",
+   "proj": 3.1
+  },
+  {
+   "id": "17213",
+   "name": "Jackson Hawes",
+   "pos": "TE",
+   "team": "BUF",
+   "proj": 3.1
+  },
+  {
+   "id": "13246",
+   "name": "Mo Alie-Cox",
+   "pos": "TE",
+   "team": "IND",
+   "proj": 3.1
+  },
+  {
+   "id": "0503",
+   "name": "Miami Dolphins",
+   "pos": "Def",
+   "team": "MIA",
+   "proj": 3.0
+  },
+  {
+   "id": "0517",
+   "name": "New York Giants",
+   "pos": "Def",
+   "team": "NYG",
+   "proj": 3.0
+  },
+  {
+   "id": "17098",
+   "name": "Tory Horton",
+   "pos": "WR",
+   "team": "SEA",
+   "proj": 3.0,
+   "injury": "Questionable \u2014 Undisclosed"
+  },
+  {
+   "id": "12677",
+   "name": "Austin Hooper",
+   "pos": "TE",
+   "team": "ATL",
+   "proj": 2.9
+  },
+  {
+   "id": "0506",
+   "name": "Cincinnati Bengals",
+   "pos": "Def",
+   "team": "CIN",
+   "proj": 2.9
+  },
+  {
+   "id": "16385",
+   "name": "Emari Demercado",
+   "pos": "RB",
+   "team": "DAL",
+   "proj": 2.9
+  },
+  {
+   "id": "15335",
+   "name": "Luke Farrell",
+   "pos": "TE",
+   "team": "SFO",
+   "proj": 2.9
+  },
+  {
+   "id": "16633",
+   "name": "Jordan Whittington",
+   "pos": "WR",
+   "team": "LAR",
+   "proj": 2.8
+  },
+  {
+   "id": "16635",
+   "name": "Luke McCaffrey",
+   "pos": "WR",
+   "team": "WAS",
+   "proj": 2.8
+  },
+  {
+   "id": "0505",
+   "name": "New York Jets",
+   "pos": "Def",
+   "team": "NYJ",
+   "proj": 2.8
+  },
+  {
+   "id": "15785",
+   "name": "Bo Melton",
+   "pos": "WR",
+   "team": "GBP",
+   "proj": 2.7
+  },
+  {
+   "id": "17529",
+   "name": "Brenen Thompson",
+   "pos": "WR",
+   "team": "LAC",
+   "proj": 2.7,
+   "injury": "Questionable \u2014 Undisclosed"
+  },
+  {
+   "id": "15916",
+   "name": "Drew Ogletree",
+   "pos": "TE",
+   "team": "IND",
+   "proj": 2.7
+  },
+  {
+   "id": "16432",
+   "name": "Emanuel Wilson",
+   "pos": "RB",
+   "team": "SEA",
+   "proj": 2.7,
+   "injury": "Questionable \u2014 Hamstring"
+  },
+  {
+   "id": "17462",
+   "name": "Fernando Mendoza",
+   "pos": "QB",
+   "team": "LVR",
+   "proj": 2.7
+  },
+  {
+   "id": "15301",
+   "name": "Tutu Atwell",
+   "pos": "WR",
+   "team": "LAR",
+   "proj": 2.7
+  },
+  {
+   "id": "16644",
+   "name": "Ben Sinnott",
+   "pos": "TE",
+   "team": "WAS",
+   "proj": 2.6,
+   "injury": "Questionable \u2014 Oblique"
+  },
+  {
+   "id": "16647",
+   "name": "Brevyn Spann-Ford",
+   "pos": "TE",
+   "team": "DAL",
+   "proj": 2.6
+  },
+  {
+   "id": "17599",
+   "name": "Caleb Douglas",
+   "pos": "WR",
+   "team": "MIA",
+   "proj": 2.6
+  },
+  {
+   "id": "0516",
+   "name": "Dallas Cowboys",
+   "pos": "Def",
+   "team": "DAL",
+   "proj": 2.6
+  },
+  {
+   "id": "13676",
+   "name": "Durham Smythe",
+   "pos": "TE",
+   "team": "BAL",
+   "proj": 2.6
+  },
+  {
+   "id": "17076",
+   "name": "Isaiah Bond",
+   "pos": "WR",
+   "team": "CLE",
+   "proj": 2.6,
+   "injury": "Questionable \u2014 Concussion"
+  },
+  {
+   "id": "0513",
+   "name": "Las Vegas Raiders",
+   "pos": "Def",
+   "team": "LVR",
+   "proj": 2.6
+  },
+  {
+   "id": "17591",
+   "name": "Nate Boerkircher",
+   "pos": "TE",
+   "team": "JAC",
+   "proj": 2.6
+  },
+  {
+   "id": "17107",
+   "name": "Terrance Ferguson",
+   "pos": "TE",
+   "team": "LAR",
+   "proj": 2.6,
+   "injury": "Questionable \u2014 General Soreness"
+  },
+  {
+   "id": "16688",
+   "name": "Isaac Guerendo",
+   "pos": "RB",
+   "team": "SFO",
+   "proj": 2.5,
+   "injury": "IR-PUP \u2014 Pectoral"
+  },
+  {
+   "id": "17059",
+   "name": "Ollie Gordon",
+   "pos": "RB",
+   "team": "MIA",
+   "proj": 2.5,
+   "injury": "Questionable \u2014 Ribs"
+  },
+  {
+   "id": "0519",
+   "name": "Arizona Cardinals",
+   "pos": "Def",
+   "team": "ARI",
+   "proj": 2.4
+  },
+  {
+   "id": "16642",
+   "name": "Cade Stover",
+   "pos": "TE",
+   "team": "HOU",
+   "proj": 2.4
+  },
+  {
+   "id": "15800",
+   "name": "Connor Heyward",
+   "pos": "TE",
+   "team": "LVR",
+   "proj": 2.4
+  },
+  {
+   "id": "16645",
+   "name": "Erick All",
+   "pos": "TE",
+   "team": "CIN",
+   "proj": 2.4
+  },
+  {
+   "id": "15241",
+   "name": "Mac Jones",
+   "pos": "QB",
+   "team": "SFO",
+   "proj": 2.4
+  },
+  {
+   "id": "13595",
+   "name": "Mason Rudolph",
+   "pos": "QB",
+   "team": "PIT",
+   "proj": 2.4
+  },
+  {
+   "id": "16218",
+   "name": "Payne Durham",
+   "pos": "TE",
+   "team": "TBB",
+   "proj": 2.4
+  },
+  {
+   "id": "17062",
+   "name": "Raheim Sanders",
+   "pos": "RB",
+   "team": "CLE",
+   "proj": 2.4
+  },
+  {
+   "id": "17520",
+   "name": "Ted Hurst",
+   "pos": "WR",
+   "team": "TBB",
+   "proj": 2.4
+  },
+  {
+   "id": "17605",
+   "name": "Will Kacmarek",
+   "pos": "TE",
+   "team": "MIA",
+   "proj": 2.4,
+   "injury": "Questionable \u2014 Undisclosed"
+  },
+  {
+   "id": "0531",
+   "name": "Baltimore Ravens",
+   "pos": "Def",
+   "team": "BAL",
+   "proj": 2.3
+  },
+  {
+   "id": "17108",
+   "name": "Elijah Arroyo",
+   "pos": "TE",
+   "team": "SEA",
+   "proj": 2.3
+  },
+  {
+   "id": "14239",
+   "name": "Foster Moreau",
+   "pos": "TE",
+   "team": "HOU",
+   "proj": 2.3
+  },
+  {
+   "id": "16474",
+   "name": "Nate Adkins",
+   "pos": "TE",
+   "team": "DEN",
+   "proj": 2.3
+  },
+  {
+   "id": "17475",
+   "name": "Seth McGowan",
+   "pos": "RB",
+   "team": "IND",
+   "proj": 2.3
+  },
+  {
+   "id": "16428",
+   "name": "Xavier Smith",
+   "pos": "WR",
+   "team": "LAR",
+   "proj": 2.3
+  },
+  {
+   "id": "17467",
+   "name": "Cade Klubnik",
+   "pos": "QB",
+   "team": "NYJ",
+   "proj": 2.2
+  },
+  {
+   "id": "17055",
+   "name": "Jordan James",
+   "pos": "RB",
+   "team": "SFO",
+   "proj": 2.2
+  },
+  {
+   "id": "16215",
+   "name": "Luke Musgrave",
+   "pos": "TE",
+   "team": "GBP",
+   "proj": 2.2,
+   "injury": "IR-PUP \u2014 Neck"
+  },
+  {
+   "id": "13315",
+   "name": "Eric Saubert",
+   "pos": "TE",
+   "team": "SEA",
+   "proj": 2.1
+  },
+  {
+   "id": "16391",
+   "name": "Hunter Luepke",
+   "pos": "RB",
+   "team": "DAL",
+   "proj": 2.1
+  },
+  {
+   "id": "17234",
+   "name": "Jimmy Horn",
+   "pos": "WR",
+   "team": "CAR",
+   "proj": 2.1
+  },
+  {
+   "id": "15344",
+   "name": "John Bates",
+   "pos": "TE",
+   "team": "WAS",
+   "proj": 2.1,
+   "injury": "Questionable \u2014 Hamstring"
+  },
+  {
+   "id": "13940",
+   "name": "Johnny Mundt",
+   "pos": "TE",
+   "team": "PHI",
+   "proj": 2.1
+  },
+  {
+   "id": "0512",
+   "name": "Kansas City Chiefs",
+   "pos": "Def",
+   "team": "KCC",
+   "proj": 2.1
+  },
+  {
+   "id": "16221",
+   "name": "Luke Schoonmaker",
+   "pos": "TE",
+   "team": "DAL",
+   "proj": 2.1
+  },
+  {
+   "id": "16621",
+   "name": "Devontez Walker",
+   "pos": "WR",
+   "team": "BAL",
+   "proj": 2.0
+  },
+  {
+   "id": "0523",
+   "name": "Green Bay Packers",
+   "pos": "Def",
+   "team": "GBP",
+   "proj": 2.0
+  },
+  {
+   "id": "17517",
+   "name": "Ja'Kobi Lane",
+   "pos": "WR",
+   "team": "BAL",
+   "proj": 2.0
+  },
+  {
+   "id": "17254",
+   "name": "Konata Mumpfield",
+   "pos": "WR",
+   "team": "LAR",
+   "proj": 2.0
+  },
+  {
+   "id": "14315",
+   "name": "Ashton Dulin",
+   "pos": "WR",
+   "team": "IND",
+   "proj": 1.9
+  },
+  {
+   "id": "13678",
+   "name": "Ian Thomas",
+   "pos": "TE",
+   "team": "LVR",
+   "proj": 1.9
+  },
+  {
+   "id": "17333",
+   "name": "Darius Cooper",
+   "pos": "WR",
+   "team": "PHI",
+   "proj": 1.8
+  },
+  {
+   "id": "0502",
+   "name": "Indianapolis Colts",
+   "pos": "Def",
+   "team": "IND",
+   "proj": 1.8
+  },
+  {
+   "id": "16312",
+   "name": "Josh Whyle",
+   "pos": "TE",
+   "team": "GBP",
+   "proj": 1.8
+  },
+  {
+   "id": "17478",
+   "name": "Kaytron Allen",
+   "pos": "RB",
+   "team": "WAS",
+   "proj": 1.8
+  },
+  {
+   "id": "14118",
+   "name": "Lil'Jordan Humphrey",
+   "pos": "WR",
+   "team": "DEN",
+   "proj": 1.8
+  },
+  {
+   "id": "15718",
+   "name": "Tyler Badie",
+   "pos": "RB",
+   "team": "DEN",
+   "proj": 1.8
+  },
+  {
+   "id": "17481",
+   "name": "Demond Claiborne",
+   "pos": "RB",
+   "team": "MIN",
+   "proj": 1.7
+  },
+  {
+   "id": "16636",
+   "name": "Malachi Corley",
+   "pos": "WR",
+   "team": "CLE",
+   "proj": 1.7
+  },
+  {
+   "id": "17627",
+   "name": "Matthew Hibner",
+   "pos": "TE",
+   "team": "BAL",
+   "proj": 1.7
+  },
+  {
+   "id": "14789",
+   "name": "Tyler Huntley",
+   "pos": "QB",
+   "team": "BAL",
+   "proj": 1.7
+  },
+  {
+   "id": "0527",
+   "name": "Carolina Panthers",
+   "pos": "Def",
+   "team": "CAR",
+   "proj": 1.6
+  },
+  {
+   "id": "17086",
+   "name": "Jalen Royals",
+   "pos": "WR",
+   "team": "KCC",
+   "proj": 1.6
+  },
+  {
+   "id": "17061",
+   "name": "LeQuint Allen",
+   "pos": "RB",
+   "team": "JAC",
+   "proj": 1.6,
+   "injury": "Questionable \u2014 Undisclosed"
+  },
+  {
+   "id": "16175",
+   "name": "Roschon Johnson",
+   "pos": "RB",
+   "team": "CHI",
+   "proj": 1.6
+  },
+  {
+   "id": "16601",
+   "name": "Will Shipley",
+   "pos": "RB",
+   "team": "PHI",
+   "proj": 1.6
+  },
+  {
+   "id": "10313",
+   "name": "Andy Dalton",
+   "pos": "QB",
+   "team": "PHI",
+   "proj": 1.5
+  },
+  {
+   "id": "15491",
+   "name": "Ben Skowronek",
+   "pos": "WR",
+   "team": "PIT",
+   "proj": 1.5,
+   "injury": "Questionable \u2014 Concussion"
+  },
+  {
+   "id": "12610",
+   "name": "Carson Wentz",
+   "pos": "QB",
+   "team": "MIN",
+   "proj": 1.5
+  },
+  {
+   "id": "14984",
+   "name": "Charlie Woerner",
+   "pos": "TE",
+   "team": "ATL",
+   "proj": 1.5
+  },
+  {
+   "id": "15419",
+   "name": "Kylen Granson",
+   "pos": "TE",
+   "team": "TEN",
+   "proj": 1.5
+  },
+  {
+   "id": "12155",
+   "name": "Ameer Abdullah",
+   "pos": "RB",
+   "team": "JAC",
+   "proj": 1.4
+  },
+  {
+   "id": "14319",
+   "name": "Andrew Beck",
+   "pos": "RB",
+   "team": "NYJ",
+   "proj": 1.4
+  },
+  {
+   "id": "15292",
+   "name": "Dyami Brown",
+   "pos": "WR",
+   "team": "WAS",
+   "proj": 1.4
+  },
+  {
+   "id": "0525",
+   "name": "Tampa Bay Buccaneers",
+   "pos": "Def",
+   "team": "TBB",
+   "proj": 1.4
+  },
+  {
+   "id": "13377",
+   "name": "Tim Patrick",
+   "pos": "WR",
+   "team": "NYJ",
+   "proj": 1.4
+  },
+  {
+   "id": "15240",
+   "name": "Trey Lance",
+   "pos": "QB",
+   "team": "LAC",
+   "proj": 1.4
+  },
+  {
+   "id": "16299",
+   "name": "Derius Davis",
+   "pos": "WR",
+   "team": "LAC",
+   "proj": 1.3
+  },
+  {
+   "id": "16746",
+   "name": "Rasheen Ali",
+   "pos": "RB",
+   "team": "BAL",
+   "proj": 1.3
+  },
+  {
+   "id": "17060",
+   "name": "DJ Giddens",
+   "pos": "RB",
+   "team": "IND",
+   "proj": 1.2
+  },
+  {
+   "id": "17503",
+   "name": "Germie Bernard",
+   "pos": "WR",
+   "team": "PIT",
+   "proj": 1.2
+  },
+  {
+   "id": "17353",
+   "name": "Jahdae Walker",
+   "pos": "WR",
+   "team": "CHI",
+   "proj": 1.2
+  },
+  {
+   "id": "16364",
+   "name": "Jalen Brooks",
+   "pos": "WR",
+   "team": "ARI",
+   "proj": 1.2
+  },
+  {
+   "id": "17011",
+   "name": "Jared Wayne",
+   "pos": "WR",
+   "team": "HOU",
+   "proj": 1.2
+  },
+  {
+   "id": "16949",
+   "name": "Brycen Tremayne",
+   "pos": "WR",
+   "team": "CAR",
+   "proj": 1.1
+  },
+  {
+   "id": "15334",
+   "name": "Hunter Long",
+   "pos": "TE",
+   "team": "ARI",
+   "proj": 1.1
+  },
+  {
+   "id": "17521",
+   "name": "Zavion Thomas",
+   "pos": "WR",
+   "team": "CHI",
+   "proj": 1.1
+  },
+  {
+   "id": "16816",
+   "name": "British Brooks",
+   "pos": "RB",
+   "team": "HOU",
+   "proj": 1.0,
+   "injury": "Questionable \u2014 Hand"
+  },
+  {
+   "id": "12955",
+   "name": "Chris Manhertz",
+   "pos": "TE",
+   "team": "NYG",
+   "proj": 1.0
+  },
+  {
+   "id": "16858",
+   "name": "Mason Tipton",
+   "pos": "WR",
+   "team": "NOS",
+   "proj": 1.0,
+   "injury": "IR-PUP \u2014 Leg"
+  },
+  {
+   "id": "15752",
+   "name": "Treylon Burks",
+   "pos": "WR",
+   "team": "WAS",
+   "proj": 1.0
+  },
+  {
+   "id": "16159",
+   "name": "Aidan O'Connell",
+   "pos": "QB",
+   "team": "LVR",
+   "proj": 0.9
+  },
+  {
+   "id": "16152",
+   "name": "Anthony Richardson",
+   "pos": "QB",
+   "team": "IND",
+   "proj": 0.9
+  },
+  {
+   "id": "17506",
+   "name": "Chris Bell",
+   "pos": "WR",
+   "team": "MIA",
+   "proj": 0.9
+  },
+  {
+   "id": "16831",
+   "name": "David Martin-Robinson",
+   "pos": "TE",
+   "team": "TEN",
+   "proj": 0.9
+  },
+  {
+   "id": "16197",
+   "name": "Jonathan Mingo",
+   "pos": "WR",
+   "team": "DAL",
+   "proj": 0.9
+  },
+  {
+   "id": "17706",
+   "name": "Malik Benson",
+   "pos": "WR",
+   "team": "LVR",
+   "proj": 0.9
+  },
+  {
+   "id": "17547",
+   "name": "Max Klare",
+   "pos": "TE",
+   "team": "LAR",
+   "proj": 0.9
+  },
+  {
+   "id": "16422",
+   "name": "Nikko Remigio",
+   "pos": "WR",
+   "team": "KCC",
+   "proj": 0.9
+  },
+  {
+   "id": "17034",
+   "name": "Quinn Ewers",
+   "pos": "QB",
+   "team": "JAC",
+   "proj": 0.9
+  },
+  {
+   "id": "15693",
+   "name": "Sam Howell",
+   "pos": "QB",
+   "team": "DAL",
+   "proj": 0.9
+  },
+  {
+   "id": "17508",
+   "name": "Skyler Bell",
+   "pos": "WR",
+   "team": "BUF",
+   "proj": 0.9
+  },
+  {
+   "id": "17097",
+   "name": "Tai Felton",
+   "pos": "WR",
+   "team": "MIN",
+   "proj": 0.9
+  },
+  {
+   "id": "14420",
+   "name": "Alec Ingold",
+   "pos": "RB",
+   "team": "LAC",
+   "proj": 0.8
+  },
+  {
+   "id": "17175",
+   "name": "Arian Smith",
+   "pos": "WR",
+   "team": "NYJ",
+   "proj": 0.8
+  },
+  {
+   "id": "17274",
+   "name": "Corey Kiner",
+   "pos": "RB",
+   "team": "NEP",
+   "proj": 0.8
+  },
+  {
+   "id": "15288",
+   "name": "Elijah Moore",
+   "pos": "WR",
+   "team": "PHI",
+   "proj": 0.8
+  },
+  {
+   "id": "16883",
+   "name": "Kameron Johnson",
+   "pos": "WR",
+   "team": "TBB",
+   "proj": 0.8
+  },
+  {
+   "id": "17655",
+   "name": "Seydou Traore",
+   "pos": "TE",
+   "team": "MIA",
+   "proj": 0.8
+  },
+  {
+   "id": "17048",
+   "name": "Kaleb Johnson",
+   "pos": "RB",
+   "team": "GBP",
+   "proj": 0.7
+  },
+  {
+   "id": "17205",
+   "name": "KeAndre Lambert-Smith",
+   "pos": "WR",
+   "team": "LAC",
+   "proj": 0.7
+  },
+  {
+   "id": "15726",
+   "name": "Ronnie Rivers",
+   "pos": "RB",
+   "team": "LAR",
+   "proj": 0.7
+  },
+  {
+   "id": "16706",
+   "name": "Tip Reiman",
+   "pos": "TE",
+   "team": "ARI",
+   "proj": 0.7,
+   "injury": "IR-PUP \u2014 Ankle"
+  },
+  {
+   "id": "17541",
+   "name": "Barion Brown",
+   "pos": "WR",
+   "team": "NOS",
+   "proj": 0.6
+  },
+  {
+   "id": "14057",
+   "name": "Drew Lock",
+   "pos": "QB",
+   "team": "SEA",
+   "proj": 0.6
+  },
+  {
+   "id": "17685",
+   "name": "Eli Heidenreich",
+   "pos": "RB",
+   "team": "PIT",
+   "proj": 0.6
+  },
+  {
+   "id": "17545",
+   "name": "Jack Endries",
+   "pos": "TE",
+   "team": "CIN",
+   "proj": 0.6
+  },
+  {
+   "id": "17348",
+   "name": "Nathan Carter",
+   "pos": "RB",
+   "team": "ATL",
+   "proj": 0.6
+  },
+  {
+   "id": "17567",
+   "name": "Oscar Delp",
+   "pos": "TE",
+   "team": "NOS",
+   "proj": 0.6,
+   "injury": "Questionable \u2014 Hamstring"
+  },
+  {
+   "id": "15766",
+   "name": "Skyy Moore",
+   "pos": "WR",
+   "team": "GBP",
+   "proj": 0.6
+  },
+  {
+   "id": "17644",
+   "name": "Tanner Koziol",
+   "pos": "TE",
+   "team": "JAC",
+   "proj": 0.6
+  },
+  {
+   "id": "17507",
+   "name": "Zachariah Branch",
+   "pos": "WR",
+   "team": "ATL",
+   "proj": 0.6
+  },
+  {
+   "id": "16613",
+   "name": "Dylan Laube",
+   "pos": "RB",
+   "team": "LVR",
+   "proj": 0.5
+  },
+  {
+   "id": "11679",
+   "name": "Odell Beckham",
+   "pos": "WR",
+   "team": "NYG",
+   "proj": 0.5
+  },
+  {
+   "id": "17549",
+   "name": "Sam Roush",
+   "pos": "TE",
+   "team": "CHI",
+   "proj": 0.5
+  },
+  {
+   "id": "15771",
+   "name": "Tay Martin",
+   "pos": "WR",
+   "team": "DET",
+   "proj": 0.5
+  },
+  {
+   "id": "16384",
+   "name": "Tyson Bagent",
+   "pos": "QB",
+   "team": "CHI",
+   "proj": 0.5
+  },
+  {
+   "id": "14805",
+   "name": "AJ Dillon",
+   "pos": "RB",
+   "team": "CAR",
+   "proj": 0.4
+  },
+  {
+   "id": "13124",
+   "name": "Cooper Rush",
+   "pos": "QB",
+   "team": "ATL",
+   "proj": 0.4
+  },
+  {
+   "id": "14067",
+   "name": "Gardner Minshew",
+   "pos": "QB",
+   "team": "ARI",
+   "proj": 0.4
+  },
+  {
+   "id": "17192",
+   "name": "Jordan Watkins",
+   "pos": "WR",
+   "team": "SFO",
+   "proj": 0.4
+  },
+  {
+   "id": "17527",
+   "name": "Josh Cameron",
+   "pos": "WR",
+   "team": "JAC",
+   "proj": 0.4
+  },
+  {
+   "id": "15965",
+   "name": "Julius Chestnut",
+   "pos": "RB",
+   "team": "TEN",
+   "proj": 0.4
+  },
+  {
+   "id": "17641",
+   "name": "Max Bredeson",
+   "pos": "TE",
+   "team": "MIN",
+   "proj": 0.4
+  },
+  {
+   "id": "17058",
+   "name": "Tahj Brooks",
+   "pos": "RB",
+   "team": "CIN",
+   "proj": 0.4
+  },
+  {
+   "id": "15702",
+   "name": "Tanner McKee",
+   "pos": "QB",
+   "team": "PHI",
+   "proj": 0.4
+  },
+  {
+   "id": "17696",
+   "name": "Carsen Ryan",
+   "pos": "TE",
+   "team": "CLE",
+   "proj": 0.3
+  },
+  {
+   "id": "17542",
+   "name": "Colbie Young",
+   "pos": "WR",
+   "team": "CIN",
+   "proj": 0.3
+  },
+  {
+   "id": "16648",
+   "name": "Jared Wiley",
+   "pos": "TE",
+   "team": "KCC",
+   "proj": 0.3
+  },
+  {
+   "id": "17511",
+   "name": "Malachi Fields",
+   "pos": "WR",
+   "team": "NYG",
+   "proj": 0.3
+  },
+  {
+   "id": "15103",
+   "name": "Reggie Gilliam",
+   "pos": "RB",
+   "team": "NEP",
+   "proj": 0.3
+  },
+  {
+   "id": "13427",
+   "name": "Robert Tonyan",
+   "pos": "TE",
+   "team": "PIT",
+   "proj": 0.3
+  },
+  {
+   "id": "16441",
+   "name": "Tommy DeVito",
+   "pos": "QB",
+   "team": "NEP",
+   "proj": 0.3
+  },
+  {
+   "id": "17518",
+   "name": "Cyrus Allen",
+   "pos": "WR",
+   "team": "KCC",
+   "proj": 0.2
+  },
+  {
+   "id": "17419",
+   "name": "Keleki Latu",
+   "pos": "TE",
+   "team": "BUF",
+   "proj": 0.2
+  },
+  {
+   "id": "17528",
+   "name": "Kevin Coleman",
+   "pos": "WR",
+   "team": "MIA",
+   "proj": 0.2
+  },
+  {
+   "id": "13115",
+   "name": "Mitchell Trubisky",
+   "pos": "QB",
+   "team": "TEN",
+   "proj": 0.2,
+   "injury": "Questionable \u2014 Biceps"
+  },
+  {
+   "id": "17285",
+   "name": "Ben Yurosek",
+   "pos": "TE",
+   "team": "MIN",
+   "proj": 0.1
+  },
+  {
+   "id": "16898",
+   "name": "Colson Yankoff",
+   "pos": "TE",
+   "team": "WAS",
+   "proj": 0.1
+  },
+  {
+   "id": "17505",
+   "name": "Elijah Sarratt",
+   "pos": "WR",
+   "team": "BAL",
+   "proj": 0.1
+  },
+  {
+   "id": "17707",
+   "name": "J Michael Sturdivant",
+   "pos": "WR",
+   "team": "GBP",
+   "proj": 0.1
+  },
+  {
+   "id": "17033",
+   "name": "Jalen Milroe",
+   "pos": "QB",
+   "team": "SEA",
+   "proj": 0.1
+  },
+  {
+   "id": "13119",
+   "name": "Joshua Dobbs",
+   "pos": "QB",
+   "team": "DET",
+   "proj": 0.1
+  },
+  {
+   "id": "15414",
+   "name": "Kene Nwangwu",
+   "pos": "RB",
+   "team": "NYJ",
+   "proj": 0.1
+  },
+  {
+   "id": "17038",
+   "name": "Kyle McCord",
+   "pos": "QB",
+   "team": "MIA",
+   "proj": 0.1
+  },
+  {
+   "id": "12645",
+   "name": "Laquon Treadwell",
+   "pos": "WR",
+   "team": "IND",
+   "proj": 0.1
+  },
+  {
+   "id": "17476",
+   "name": "Nicholas Singleton",
+   "pos": "RB",
+   "team": "TEN",
+   "proj": 0.1
+  },
+  {
+   "id": "16958",
+   "name": "Ryan Miller",
+   "pos": "WR",
+   "team": "MIA",
+   "proj": 0.1
+  },
+  {
+   "id": "15239",
+   "name": "Zach Wilson",
+   "pos": "QB",
+   "team": "NOS",
+   "proj": 0.1
+  },
+  {
+   "id": "17652",
+   "name": "Adam Randall",
+   "pos": "RB",
+   "team": "BAL",
+   "injury": "IR-R \u2014 Undisclosed"
+  },
+  {
+   "id": "14873",
+   "name": "Albert Okwuegbunam",
+   "pos": "TE",
+   "team": "LVR"
+  },
+  {
+   "id": "14548",
+   "name": "Alex Bachman",
+   "pos": "WR",
+   "team": "LAR"
+  },
+  {
+   "id": "14223",
+   "name": "Alexander Mattison",
+   "pos": "RB",
+   "team": "MIA"
+  },
+  {
+   "id": "17272",
+   "name": "Amar Johnson",
+   "pos": "RB",
+   "team": "LAC"
+  },
+  {
+   "id": "17276",
+   "name": "Andrew Armstrong",
+   "pos": "WR",
+   "team": "KCC"
+  },
+  {
+   "id": "17679",
+   "name": "Athan Kaliakmanis",
+   "pos": "QB",
+   "team": "WAS"
+  },
+  {
+   "id": "16120",
+   "name": "Austin Trammell",
+   "pos": "WR",
+   "team": "JAC"
+  },
+  {
+   "id": "15454",
+   "name": "Avery Williams",
+   "pos": "RB",
+   "team": "NYJ"
+  },
+  {
+   "id": "15696",
+   "name": "Bailey Zappe",
+   "pos": "QB",
+   "team": "NYJ"
+  },
+  {
+   "id": "17660",
+   "name": "Bauer Sharp",
+   "pos": "TE",
+   "team": "TBB"
+  },
+  {
+   "id": "17303",
+   "name": "Beaux Collins",
+   "pos": "WR",
+   "team": "ATL",
+   "injury": "IR-R \u2014 Undisclosed"
+  },
+  {
+   "id": "17702",
+   "name": "Behren Morton",
+   "pos": "QB",
+   "team": "NEP"
+  },
+  {
+   "id": "17040",
+   "name": "Brady Cook",
+   "pos": "QB",
+   "team": "MIA"
+  },
+  {
+   "id": "16496",
+   "name": "Brady Russell",
+   "pos": "RB",
+   "team": "SEA"
+  },
+  {
+   "id": "11674",
+   "name": "Brandin Cooks",
+   "pos": "WR",
+   "team": "BUF"
+  },
+  {
+   "id": "13638",
+   "name": "Braxton Berrios",
+   "pos": "WR",
+   "team": "NYG"
+  },
+  {
+   "id": "16367",
+   "name": "Brayden Willis",
+   "pos": "TE",
+   "team": "SFO",
+   "injury": "Questionable \u2014 Concussion"
+  },
+  {
+   "id": "17321",
+   "name": "Brennan Presley",
+   "pos": "WR",
+   "team": "LAR"
+  },
+  {
+   "id": "15330",
+   "name": "Brevin Jordan",
+   "pos": "TE",
+   "team": "HOU",
+   "injury": "Questionable \u2014 Knee"
+  },
+  {
+   "id": "15772",
+   "name": "Britain Covey",
+   "pos": "WR",
+   "team": "PHI"
+  },
+  {
+   "id": "15953",
+   "name": "Brittain Brown",
+   "pos": "RB",
+   "team": "CHI",
+   "injury": "IR \u2014 Undisclosed"
+  },
+  {
+   "id": "16379",
+   "name": "Bryce Ford-Wheaton",
+   "pos": "WR",
+   "team": "NYG",
+   "injury": "Questionable \u2014 Achilles"
+  },
+  {
+   "id": "16975",
+   "name": "Bryce Oliver",
+   "pos": "WR",
+   "team": "CLE"
+  },
+  {
+   "id": "17671",
+   "name": "C.J. Williams",
+   "pos": "WR",
+   "team": "JAC"
+  },
+  {
+   "id": "17504",
+   "name": "CJ Daniels",
+   "pos": "WR",
+   "team": "LAR"
+  },
+  {
+   "id": "17281",
+   "name": "CJ Dippre",
+   "pos": "TE",
+   "team": "TBB"
+  },
+  {
+   "id": "17492",
+   "name": "CJ Donaldson",
+   "pos": "RB",
+   "team": "NOS"
+  },
+  {
+   "id": "17253",
+   "name": "Caleb Lohner",
+   "pos": "TE",
+   "team": "DEN",
+   "injury": "IR-R \u2014 Lower Body"
+  },
+  {
+   "id": "15777",
+   "name": "Calvin Austin III",
+   "pos": "WR",
+   "team": "NYG",
+   "injury": "IR \u2014 Knee"
+  },
+  {
+   "id": "16979",
+   "name": "Cam Grandy",
+   "pos": "TE",
+   "team": "MIN"
+  },
+  {
+   "id": "17750",
+   "name": "Camden Brown",
+   "pos": "WR",
+   "team": "DAL"
+  },
+  {
+   "id": "16217",
+   "name": "Cameron Latu",
+   "pos": "TE",
+   "team": "NEP"
+  },
+  {
+   "id": "16864",
+   "name": "Carlos Washington",
+   "pos": "RB",
+   "team": "MIA"
+  },
+  {
+   "id": "17466",
+   "name": "Carson Beck",
+   "pos": "QB",
+   "team": "ARI"
+  },
+  {
+   "id": "16612",
+   "name": "Carson Steele",
+   "pos": "RB",
+   "team": "PHI"
+  },
+  {
+   "id": "16882",
+   "name": "Carter Bradley",
+   "pos": "QB",
+   "team": "JAC",
+   "injury": "IR \u2014 Thumb"
+  },
+  {
+   "id": "17385",
+   "name": "Carter Runyon",
+   "pos": "TE",
+   "team": "LVR",
+   "injury": "IR-R \u2014 Undisclosed"
+  },
+  {
+   "id": "10948",
+   "name": "Case Keenum",
+   "pos": "QB",
+   "team": "CHI"
+  },
+  {
+   "id": "17424",
+   "name": "Charlie Smyth",
+   "pos": "PK",
+   "team": "NOS"
+  },
+  {
+   "id": "13726",
+   "name": "Chase Edmonds",
+   "pos": "RB",
+   "team": "WAS"
+  },
+  {
+   "id": "17522",
+   "name": "Chase Roberts",
+   "pos": "WR",
+   "team": "LVR",
+   "injury": "IR \u2014 Undisclosed"
+  },
+  {
+   "id": "17489",
+   "name": "Chip Trayanum",
+   "pos": "RB",
+   "team": "NYJ",
+   "injury": "IR \u2014 Neck"
+  },
+  {
+   "id": "16499",
+   "name": "Chris Blair",
+   "pos": "WR",
+   "team": "ATL"
+  },
+  {
+   "id": "17509",
+   "name": "Chris Brazzell II",
+   "pos": "WR",
+   "team": "CAR",
+   "injury": "IR \u2014 Knee"
+  },
+  {
+   "id": "16810",
+   "name": "Chris Collier",
+   "pos": "RB",
+   "team": "LVR",
+   "injury": "IR \u2014 Undisclosed"
+  },
+  {
+   "id": "15948",
+   "name": "Chris Oladokun",
+   "pos": "QB",
+   "team": "KCC",
+   "injury": "IR \u2014 Undisclosed"
+  },
+  {
+   "id": "13633",
+   "name": "Christian Kirk",
+   "pos": "WR",
+   "team": "SFO",
+   "injury": "IR-R \u2014 Calf"
+  },
+  {
+   "id": "14803",
+   "name": "Clyde Edwards-Helaire",
+   "pos": "RB",
+   "team": "KCC"
+  },
+  {
+   "id": "15589",
+   "name": "Cody White",
+   "pos": "WR",
+   "team": "LVR"
+  },
+  {
+   "id": "16834",
+   "name": "Cole Burgess",
+   "pos": "WR",
+   "team": "PIT",
+   "injury": "IR \u2014 Undisclosed"
+  },
+  {
+   "id": "17654",
+   "name": "Cole Payton",
+   "pos": "QB",
+   "team": "PHI"
+  },
+  {
+   "id": "15803",
+   "name": "Cole Turner",
+   "pos": "TE",
+   "team": "MIA",
+   "injury": "IR \u2014 Undisclosed"
+  },
+  {
+   "id": "17278",
+   "name": "Coleman Owen",
+   "pos": "WR",
+   "team": "IND",
+   "injury": "IR \u2014 Concussion"
+  },
+  {
+   "id": "14727",
+   "name": "Craig Reynolds",
+   "pos": "RB",
+   "team": "WAS"
+  },
+  {
+   "id": "14486",
+   "name": "D.J. Montgomery",
+   "pos": "WR",
+   "team": "IND",
+   "injury": "IR \u2014 Abdomen"
+  },
+  {
+   "id": "17308",
+   "name": "DJ Uiagalelei",
+   "pos": "QB",
+   "team": "LAC"
+  },
+  {
+   "id": "17325",
+   "name": "Dalevon Campbell",
+   "pos": "WR",
+   "team": "LAC",
+   "injury": "IR \u2014 Leg"
+  },
+  {
+   "id": "17699",
+   "name": "Dallen Bentley",
+   "pos": "TE",
+   "team": "DEN"
+  },
+  {
+   "id": "15717",
+   "name": "Dameon Pierce",
+   "pos": "RB",
+   "team": "PHI"
+  },
+  {
+   "id": "17734",
+   "name": "Dan Villari",
+   "pos": "TE",
+   "team": "LAR"
+  },
+  {
+   "id": "15782",
+   "name": "Danny Gray",
+   "pos": "WR",
+   "team": "PHI"
+  },
+  {
+   "id": "13148",
+   "name": "Dare Ogunbowale",
+   "pos": "RB",
+   "team": "LVR"
+  },
+  {
+   "id": "15941",
+   "name": "Dareke Young",
+   "pos": "WR",
+   "team": "LVR"
+  },
+  {
+   "id": "15758",
+   "name": "David Bell",
+   "pos": "WR",
+   "team": "CLE"
+  },
+  {
+   "id": "14110",
+   "name": "David Sills",
+   "pos": "WR",
+   "team": "TBB",
+   "injury": "IR-R \u2014 Undisclosed"
+  },
+  {
+   "id": "16219",
+   "name": "Davis Allen",
+   "pos": "TE",
+   "team": "LAR",
+   "injury": "Questionable \u2014 Quadriceps"
+  },
+  {
+   "id": "17717",
+   "name": "Davon Booth",
+   "pos": "RB",
+   "team": "IND"
+  },
+  {
+   "id": "17491",
+   "name": "Dean Connors",
+   "pos": "RB",
+   "team": "LAR"
+  },
+  {
+   "id": "15302",
+   "name": "Dee Eskridge",
+   "pos": "WR",
+   "team": "MIA"
+  },
+  {
+   "id": "14815",
+   "name": "DeeJay Dallas",
+   "pos": "RB",
+   "team": "MIN"
+  },
+  {
+   "id": "17510",
+   "name": "Deion Burks",
+   "pos": "WR",
+   "team": "IND"
+  }
+ ],
+ "recent_transactions": [
+  {
+   "type": "IR",
+   "franchise": "Dawg Pound",
+   "when": "1788464905",
+   "detail": ""
+  },
+  {
+   "type": "AUCTION_WON",
+   "franchise": "Based Crack Cocaine Enjoyers",
+   "when": "1788408310",
+   "detail": "12676|1|"
+  },
+  {
+   "type": "AUCTION_INIT",
+   "franchise": "Based Crack Cocaine Enjoyers",
+   "when": "1788408237",
+   "detail": "12676|1|"
+  },
+  {
+   "type": "AUCTION_WON",
+   "franchise": "Based Crack Cocaine Enjoyers",
+   "when": "1788408233",
+   "detail": "17047|1|"
+  },
+  {
+   "type": "AUCTION_INIT",
+   "franchise": "Based Crack Cocaine Enjoyers",
+   "when": "1788408200",
+   "detail": "17047|1|"
+  },
+  {
+   "type": "AUCTION_WON",
+   "franchise": "Pete\u2019s Perfect Team",
+   "when": "1788408187",
+   "detail": "16809|1|"
+  },
+  {
+   "type": "AUCTION_INIT",
+   "franchise": "Pete\u2019s Perfect Team",
+   "when": "1788408156",
+   "detail": "16809|1|"
+  },
+  {
+   "type": "AUCTION_WON",
+   "franchise": "Based Crack Cocaine Enjoyers",
+   "when": "1788408150",
+   "detail": "17220|1|"
+  },
+  {
+   "type": "AUCTION_INIT",
+   "franchise": "Based Crack Cocaine Enjoyers",
+   "when": "1788408117",
+   "detail": "17220|1|"
+  },
+  {
+   "type": "AUCTION_WON",
+   "franchise": "Athenian Souvlakis",
+   "when": "1788408104",
+   "detail": "13592|1|"
+  },
+  {
+   "type": "AUCTION_INIT",
+   "franchise": "Athenian Souvlakis",
+   "when": "1788408072",
+   "detail": "13592|1|"
+  },
+  {
+   "type": "AUCTION_WON",
+   "franchise": "Pete\u2019s Perfect Team",
+   "when": "1788408037",
+   "detail": "15889|1|"
+  },
+  {
+   "type": "AUCTION_INIT",
+   "franchise": "Pete\u2019s Perfect Team",
+   "when": "1788408003",
+   "detail": "15889|1|"
+  },
+  {
+   "type": "AUCTION_WON",
+   "franchise": "Washington Misanthropes",
+   "when": "1788407981",
+   "detail": "15368|1|"
+  },
+  {
+   "type": "AUCTION_INIT",
+   "franchise": "Washington Misanthropes",
+   "when": "1788407950",
+   "detail": "15368|1|"
+  },
+  {
+   "type": "AUCTION_WON",
+   "franchise": "Based Crack Cocaine Enjoyers",
+   "when": "1788407944",
+   "detail": "14059|1|"
+  },
+  {
+   "type": "AUCTION_INIT",
+   "franchise": "Based Crack Cocaine Enjoyers",
+   "when": "1788407913",
+   "detail": "14059|1|"
+  },
+  {
+   "type": "AUCTION_WON",
+   "franchise": "Fuck Tom",
+   "when": "1788407906",
+   "detail": "17074|1|"
+  },
+  {
+   "type": "AUCTION_INIT",
+   "franchise": "Fuck Tom",
+   "when": "1788407874",
+   "detail": "17074|1|"
+  },
+  {
+   "type": "AUCTION_WON",
+   "franchise": "Athenian Souvlakis",
+   "when": "1788407830",
+   "detail": "0510|1|"
+  },
+  {
+   "type": "AUCTION_INIT",
+   "franchise": "Athenian Souvlakis",
+   "when": "1788407799",
+   "detail": "0510|1|"
+  },
+  {
+   "type": "AUCTION_WON",
+   "franchise": "Pete\u2019s Perfect Team",
+   "when": "1788407756",
+   "detail": "16174|1|"
+  },
+  {
+   "type": "AUCTION_INIT",
+   "franchise": "Pete\u2019s Perfect Team",
+   "when": "1788407725",
+   "detail": "16174|1|"
+  },
+  {
+   "type": "AUCTION_WON",
+   "franchise": "Washington Misanthropes",
+   "when": "1788407703",
+   "detail": "0524|1|"
+  },
+  {
+   "type": "AUCTION_INIT",
+   "franchise": "Washington Misanthropes",
+   "when": "1788407672",
+   "detail": "0524|1|"
+  },
+  {
+   "type": "AUCTION_WON",
+   "franchise": "Based Crack Cocaine Enjoyers",
+   "when": "1788407666",
+   "detail": "12437|1|"
+  },
+  {
+   "type": "AUCTION_INIT",
+   "franchise": "Based Crack Cocaine Enjoyers",
+   "when": "1788407634",
+   "detail": "12437|1|"
+  },
+  {
+   "type": "AUCTION_WON",
+   "franchise": "Fuck Tom",
+   "when": "1788407615",
+   "detail": "15694|1|"
+  },
+  {
+   "type": "AUCTION_INIT",
+   "franchise": "Fuck Tom",
+   "when": "1788407584",
+   "detail": "15694|1|"
+  },
+  {
+   "type": "AUCTION_WON",
+   "franchise": "Athenian Souvlakis",
+   "when": "1788407565",
+   "detail": "14983|1|"
+  },
+  {
+   "type": "AUCTION_INIT",
+   "franchise": "Athenian Souvlakis",
+   "when": "1788407534",
+   "detail": "14983|1|"
+  },
+  {
+   "type": "AUCTION_WON",
+   "franchise": "Pete\u2019s Perfect Team",
+   "when": "1788407507",
+   "detail": "13132|1|"
+  },
+  {
+   "type": "AUCTION_INIT",
+   "franchise": "Pete\u2019s Perfect Team",
+   "when": "1788407476",
+   "detail": "13132|1|"
+  },
+  {
+   "type": "AUCTION_WON",
+   "franchise": "Washington Misanthropes",
+   "when": "1788407449",
+   "detail": "17500|1|"
+  },
+  {
+   "type": "AUCTION_INIT",
+   "franchise": "Washington Misanthropes",
+   "when": "1788407418",
+   "detail": "17500|1|"
+  },
+  {
+   "type": "AUCTION_WON",
+   "franchise": "Based Crack Cocaine Enjoyers",
+   "when": "1788407414",
+   "detail": "15721|1|"
+  },
+  {
+   "type": "AUCTION_INIT",
+   "franchise": "Based Crack Cocaine Enjoyers",
+   "when": "1788407383",
+   "detail": "15721|1|"
+  },
+  {
+   "type": "AUCTION_WON",
+   "franchise": "Fuck Tom",
+   "when": "1788407338",
+   "detail": "16178|1|"
+  },
+  {
+   "type": "AUCTION_INIT",
+   "franchise": "Fuck Tom",
+   "when": "1788407307",
+   "detail": "16178|1|"
+  },
+  {
+   "type": "AUCTION_WON",
+   "franchise": "Athenian Souvlakis",
+   "when": "1788407295",
+   "detail": "15712|1|"
+  }
+ ]
+}
