@@ -1,5 +1,49 @@
+name: Fetch MFL league state
+
+# Times are UTC. Pacific is UTC-7 during the season (PDT) and UTC-8 after
+# the first Sunday in November (PST) — after that shift, each of these runs
+# an hour earlier in local time. Bump the hours by 1 in November if that
+# matters to you.
 on:
   schedule:
     - cron: "0 12 * * *"   # every day, 05:00 PT — an hour before the brief
     - cron: "0 21 * * 4"   # Thu 14:00 PT — before Thursday Night Football
   workflow_dispatch:        # lets you (or Claude) trigger a run by hand
+
+permissions:
+  contents: write
+
+concurrency:
+  group: mfl-fetch
+  cancel-in-progress: false
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Fetch league state
+        env:
+          MFL_LEAGUE_ID: ${{ secrets.MFL_LEAGUE_ID }}
+          MFL_API_KEY: ${{ secrets.MFL_API_KEY }}
+          MFL_FRANCHISE: ${{ vars.MFL_FRANCHISE }}
+          MFL_YEAR: ${{ vars.MFL_YEAR }}
+          MFL_CONTACT: ${{ vars.MFL_CONTACT }}
+        run: python mfl_fetch.py
+
+      - name: Commit snapshot
+        run: |
+          git config user.name "mfl-advisor"
+          git config user.email "actions@github.com"
+          git add data/
+          if git diff --staged --quiet; then
+            echo "No change in league state."
+          else
+            git commit -m "League snapshot $(date -u '+%Y-%m-%d %H:%M UTC')"
+            git push
+          fi
