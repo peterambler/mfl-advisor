@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-04T05:21:10.188075+00:00",
+ "generated_at": "2026-09-04T12:17:31.589204+00:00",
  "season": "2026",
  "week": 1,
  "league": {
@@ -3894,11 +3894,23 @@
    "proj": 0.1
   },
   {
+   "id": "15650",
+   "name": "Adam Prentice",
+   "pos": "RB",
+   "team": "FA"
+  },
+  {
    "id": "17652",
    "name": "Adam Randall",
    "pos": "RB",
    "team": "BAL",
    "injury": "IR-R \u2014 Undisclosed"
+  },
+  {
+   "id": "17336",
+   "name": "Ahmani Marshall",
+   "pos": "RB",
+   "team": "FA"
   },
   {
    "id": "14873",
@@ -3929,6 +3941,18 @@
    "name": "Andrew Armstrong",
    "pos": "WR",
    "team": "KCC"
+  },
+  {
+   "id": "16732",
+   "name": "Anthony Gould",
+   "pos": "WR",
+   "team": "FA"
+  },
+  {
+   "id": "17089",
+   "name": "Antwane Wells",
+   "pos": "WR",
+   "team": "FA"
   },
   {
    "id": "17679",
@@ -3974,6 +3998,13 @@
    "team": "NEP"
   },
   {
+   "id": "16483",
+   "name": "Ben Sims",
+   "pos": "TE",
+   "team": "FA",
+   "injury": "IR \u2014 Undisclosed"
+  },
+  {
    "id": "17040",
    "name": "Brady Cook",
    "pos": "QB",
@@ -3984,12 +4015,6 @@
    "name": "Brady Russell",
    "pos": "RB",
    "team": "SEA"
-  },
-  {
-   "id": "11674",
-   "name": "Brandin Cooks",
-   "pos": "WR",
-   "team": "BUF"
   },
   {
    "id": "13638",
@@ -4138,6 +4163,24 @@
    "team": "CHI"
   },
   {
+   "id": "16760",
+   "name": "Casey Washington",
+   "pos": "WR",
+   "team": "FA"
+  },
+  {
+   "id": "17493",
+   "name": "Cash Jones",
+   "pos": "RB",
+   "team": "FA"
+  },
+  {
+   "id": "16191",
+   "name": "Cedric Tillman",
+   "pos": "WR",
+   "team": "FA"
+  },
+  {
    "id": "17424",
    "name": "Charlie Smyth",
    "pos": "PK",
@@ -4184,6 +4227,18 @@
    "injury": "IR \u2014 Undisclosed"
   },
   {
+   "id": "17540",
+   "name": "Chris Hilton Jr.",
+   "pos": "WR",
+   "team": "FA"
+  },
+  {
+   "id": "12773",
+   "name": "Chris Moore",
+   "pos": "WR",
+   "team": "FA"
+  },
+  {
    "id": "15948",
    "name": "Chris Oladokun",
    "pos": "QB",
@@ -4202,6 +4257,12 @@
    "name": "Clyde Edwards-Helaire",
    "pos": "RB",
    "team": "KCC"
+  },
+  {
+   "id": "16600",
+   "name": "Cody Schrader",
+   "pos": "RB",
+   "team": "FA"
   },
   {
    "id": "15589",
@@ -4281,72 +4342,10 @@
    "team": "LAR"
   },
   {
-   "id": "15782",
-   "name": "Danny Gray",
+   "id": "17524",
+   "name": "Dane Key",
    "pos": "WR",
-   "team": "PHI"
-  },
-  {
-   "id": "13148",
-   "name": "Dare Ogunbowale",
-   "pos": "RB",
-   "team": "LVR"
-  },
-  {
-   "id": "15941",
-   "name": "Dareke Young",
-   "pos": "WR",
-   "team": "LVR"
-  },
-  {
-   "id": "15758",
-   "name": "David Bell",
-   "pos": "WR",
-   "team": "CLE"
-  },
-  {
-   "id": "14110",
-   "name": "David Sills",
-   "pos": "WR",
-   "team": "TBB",
-   "injury": "IR-R \u2014 Undisclosed"
-  },
-  {
-   "id": "16219",
-   "name": "Davis Allen",
-   "pos": "TE",
-   "team": "LAR",
-   "injury": "Questionable \u2014 Quadriceps"
-  },
-  {
-   "id": "17717",
-   "name": "Davon Booth",
-   "pos": "RB",
-   "team": "IND"
-  },
-  {
-   "id": "17491",
-   "name": "Dean Connors",
-   "pos": "RB",
-   "team": "LAR"
-  },
-  {
-   "id": "15302",
-   "name": "Dee Eskridge",
-   "pos": "WR",
-   "team": "MIA"
-  },
-  {
-   "id": "14815",
-   "name": "DeeJay Dallas",
-   "pos": "RB",
-   "team": "MIN"
-  },
-  {
-   "id": "17510",
-   "name": "Deion Burks",
-   "pos": "WR",
-   "team": "IND"
+   "team": "FA"
   }
  ],
  "recent_transactions": [
