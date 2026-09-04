@@ -1,0 +1,316 @@
+{
+ "encoding": "utf-8",
+ "league": {
+  "auctionStartAmount": "200",
+  "auction_kind": "live",
+  "baseURL": "https://www46.myfantasyleague.com",
+  "bbidConditional": "No",
+  "bbidIncrement": "1",
+  "bbidMinimum": "1",
+  "bbidSeasonLimit": "15",
+  "bbidTiebreaker": "TURN",
+  "bestLineup": "No",
+  "bidIncrement": "1",
+  "currentWaiverType": "BBID_FCFS",
+  "defaultTradeExpirationDays": "7",
+  "divisions": {
+   "count": "2",
+   "division": [
+    {
+     "id": "00",
+     "name": "East"
+    },
+    {
+     "id": "01",
+     "name": "West"
+    }
+   ]
+  },
+  "endWeek": "17",
+  "franchises": {
+   "count": "12",
+   "franchise": [
+    {
+     "abbrev": "Kids",
+     "bbidAvailableBalance": "15.00",
+     "division": "00",
+     "icon": "https://www46.myfantasyleague.com/fflnetdynamic2023/24838_franchise_icon0001.png",
+     "id": "0001",
+     "name": "Dawg Pound",
+     "waiverSortOrder": "12"
+    },
+    {
+     "bbidAvailableBalance": "15.00",
+     "division": "00",
+     "icon": "https://www46.myfantasyleague.com/fflnetdynamic2023/24838_franchise_icon0002.jpg",
+     "id": "0002",
+     "logo": "https://www46.myfantasyleague.com/fflnetdynamic2023/24838_franchise_logo0002.jpg",
+     "name": "Clawing back up!",
+     "waiverSortOrder": "11"
+    },
+    {
+     "bbidAvailableBalance": "15.00",
+     "division": "01",
+     "icon": "https://www46.myfantasyleague.com/fflnet2010/icons/Toilet_Paper.gif",
+     "id": "0003",
+     "logo": "https://www46.myfantasyleague.com/fflnet2010/logos/Bull_Head_3.gif",
+     "name": "wait till next year",
+     "waiverSortOrder": "10"
+    },
+    {
+     "bbidAvailableBalance": "15.00",
+     "division": "01",
+     "icon": "https://www46.myfantasyleague.com/fflnet2016/newicons/26_Were_1.png",
+     "id": "0004",
+     "name": "Fuck Tom",
+     "waiverSortOrder": "9"
+    },
+    {
+     "abbrev": "BobaFett",
+     "bbidAvailableBalance": "15.00",
+     "division": "01",
+     "icon": "https://www42.myfantasyleague.com/fflnetdynamic2019/24838_franchise_icon0005.jpg",
+     "id": "0005",
+     "logo": "https://www42.myfantasyleague.com/fflnetdynamic2019/24838_franchise_logo0005.jpg",
+     "name": "Titsburgh Feelers",
+     "sound": "https://www42.myfantasyleague.com/fflnetdynamic2020/24838_franchise_sound0005.mp3",
+     "waiverSortOrder": "8"
+    },
+    {
+     "bbidAvailableBalance": "15.00",
+     "division": "00",
+     "icon": "https://www46.myfantasyleague.com/fflnet2008/icons/Trophy.gif",
+     "id": "0006",
+     "logo": "https://www46.myfantasyleague.com/fflnet2003/helmets/h-1373.gif",
+     "name": "Team Brown",
+     "waiverSortOrder": "7"
+    },
+    {
+     "bbidAvailableBalance": "15.00",
+     "division": "01",
+     "icon": "https://www46.myfantasyleague.com/fflnet2012/newhelmets/nh-0013.png",
+     "id": "0007",
+     "name": "ASSASSINS",
+     "waiverSortOrder": "6"
+    },
+    {
+     "bbidAvailableBalance": "15.00",
+     "division": "01",
+     "icon": "https://www46.myfantasyleague.com/fflnetdynamic2025/24838_franchise_icon0008.jpg",
+     "id": "0008",
+     "logo": "https://www46.myfantasyleague.com/fflnetdynamic2025/24838_franchise_logo0008.jpg",
+     "name": "Based Crack Cocaine Enjoyers",
+     "waiverSortOrder": "5"
+    },
+    {
+     "bbidAvailableBalance": "15.00",
+     "division": "00",
+     "id": "0009",
+     "name": "Washington Misanthropes",
+     "waiverSortOrder": "4"
+    },
+    {
+     "bbidAvailableBalance": "15.00",
+     "division": "00",
+     "icon": "https://www42.myfantasyleague.com/fflnetdynamic2015/35945_franchise_icon0010.gif",
+     "id": "0010",
+     "logo": "https://www42.myfantasyleague.com/fflnetdynamic2015/35945_franchise_logo0010.jpg",
+     "name": "Attitude",
+     "waiverSortOrder": "3"
+    },
+    {
+     "abbrev": "BK",
+     "bbidAvailableBalance": "15.00",
+     "division": "01",
+     "icon": "https://www42.myfantasyleague.com/fflnetdynamic2016/24838_franchise_icon0011.png",
+     "id": "0011",
+     "logo": "https://www42.myfantasyleague.com/fflnetdynamic2016/24838_franchise_logo0011.png",
+     "name": "Pete\u2019s Perfect Team",
+     "waiverSortOrder": "2"
+    },
+    {
+     "bbidAvailableBalance": "15.00",
+     "division": "00",
+     "id": "0012",
+     "name": "Athenian Souvlakis",
+     "waiverSortOrder": "1"
+    }
+   ]
+  },
+  "h2h": "YES",
+  "history": {
+   "league": [
+    {
+     "url": "https://www46.myfantasyleague.com/2026/home/24838",
+     "year": "2026"
+    },
+    {
+     "url": "https://www42.myfantasyleague.com/2002/home/68869",
+     "year": "2002"
+    },
+    {
+     "url": "https://www44.myfantasyleague.com/2003/home/26961",
+     "year": "2003"
+    },
+    {
+     "url": "https://www43.myfantasyleague.com/2004/home/34628",
+     "year": "2004"
+    },
+    {
+     "url": "https://www41.myfantasyleague.com/2005/home/45631",
+     "year": "2005"
+    },
+    {
+     "url": "https://www43.myfantasyleague.com/2008/home/16799",
+     "year": "2008"
+    },
+    {
+     "url": "https://www49.myfantasyleague.com/2009/home/21132",
+     "year": "2009"
+    },
+    {
+     "url": "https://www42.myfantasyleague.com/2010/home/45676",
+     "year": "2010"
+    },
+    {
+     "url": "https://www48.myfantasyleague.com/2012/home/43241",
+     "year": "2012"
+    },
+    {
+     "url": "https://www46.myfantasyleague.com/2013/home/42411",
+     "year": "2013"
+    },
+    {
+     "url": "https://www45.myfantasyleague.com/2014/home/31209",
+     "year": "2014"
+    },
+    {
+     "url": "https://www42.myfantasyleague.com/2015/home/35945",
+     "year": "2015"
+    },
+    {
+     "url": "https://www42.myfantasyleague.com/2016/home/24838",
+     "year": "2016"
+    },
+    {
+     "url": "http://www42.myfantasyleague.com/2017/home/24838",
+     "year": "2017"
+    },
+    {
+     "url": "http://www42.myfantasyleague.com/2018/home/24838",
+     "year": "2018"
+    },
+    {
+     "url": "http://www42.myfantasyleague.com/2019/home/24838",
+     "year": "2019"
+    },
+    {
+     "url": "https://www42.myfantasyleague.com/2020/home/24838",
+     "year": "2020"
+    },
+    {
+     "url": "https://www42.myfantasyleague.com/2021/home/24838",
+     "year": "2021"
+    },
+    {
+     "url": "https://www46.myfantasyleague.com/2022/home/24838",
+     "year": "2022"
+    },
+    {
+     "url": "https://www46.myfantasyleague.com/2023/home/24838",
+     "year": "2023"
+    },
+    {
+     "url": "https://www46.myfantasyleague.com/2024/home/24838",
+     "year": "2024"
+    },
+    {
+     "url": "https://www46.myfantasyleague.com/2025/home/24838",
+     "year": "2025"
+    }
+   ]
+  },
+  "id": "24838",
+  "injuredReserve": "4",
+  "lastRegularSeasonWeek": "14",
+  "loadRosters": "live_auction",
+  "lockout": "No",
+  "maxKeepers": "2",
+  "maxWaiverRounds": "8",
+  "minBid": "1",
+  "minKeepers": "0",
+  "mobileAlerts": "0009,",
+  "name": "Cap City Football",
+  "partialLineupAllowed": "YES",
+  "playerLimitUnit": "LEAGUE",
+  "precision": "1",
+  "rosterLimits": {
+   "position": [
+    {
+     "limit": "0-0",
+     "name": "QB"
+    },
+    {
+     "limit": "0-0",
+     "name": "RB"
+    },
+    {
+     "limit": "0-0",
+     "name": "WR"
+    },
+    {
+     "limit": "0-0",
+     "name": "TE"
+    },
+    {
+     "limit": "0-0",
+     "name": "PK"
+    },
+    {
+     "limit": "0-0",
+     "name": "Def"
+    }
+   ]
+  },
+  "rosterSize": "15",
+  "rostersPerPlayer": "1",
+  "standingsSort": "PCT,DIVPCT,H2H,PTS,OPP_PTS,",
+  "startWeek": "1",
+  "starters": {
+   "count": "9",
+   "position": [
+    {
+     "limit": "1",
+     "name": "QB"
+    },
+    {
+     "limit": "2-3",
+     "name": "RB"
+    },
+    {
+     "limit": "2-3",
+     "name": "WR"
+    },
+    {
+     "limit": "1-2",
+     "name": "TE"
+    },
+    {
+     "limit": "1",
+     "name": "PK"
+    },
+    {
+     "limit": "1",
+     "name": "Def"
+    }
+   ]
+  },
+  "survivorPool": "Yes",
+  "survivorPoolEndWeek": "17",
+  "survivorPoolStartWeek": "1",
+  "taxiSquad": "0",
+  "usesContractYear": "0",
+  "usesSalaries": "0"
+ },
+ "version": "1.0"
+}

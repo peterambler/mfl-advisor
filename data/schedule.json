@@ -1,0 +1,107 @@
+{
+ "encoding": "utf-8",
+ "schedule": {
+  "weeklySchedule": {
+   "matchup": [
+    {
+     "franchise": [
+      {
+       "id": "0009",
+       "isHome": "0",
+       "result": "T",
+       "spread": "0"
+      },
+      {
+       "id": "0006",
+       "isHome": "1",
+       "result": "T",
+       "spread": "0"
+      }
+     ]
+    },
+    {
+     "franchise": [
+      {
+       "id": "0010",
+       "isHome": "0",
+       "result": "T",
+       "spread": "0"
+      },
+      {
+       "id": "0002",
+       "isHome": "1",
+       "result": "T",
+       "spread": "0"
+      }
+     ]
+    },
+    {
+     "franchise": [
+      {
+       "id": "0012",
+       "isHome": "0",
+       "result": "T",
+       "spread": "0"
+      },
+      {
+       "id": "0001",
+       "isHome": "1",
+       "result": "T",
+       "spread": "0"
+      }
+     ]
+    },
+    {
+     "franchise": [
+      {
+       "id": "0005",
+       "isHome": "0",
+       "result": "T",
+       "spread": "0"
+      },
+      {
+       "id": "0004",
+       "isHome": "1",
+       "result": "T",
+       "spread": "0"
+      }
+     ]
+    },
+    {
+     "franchise": [
+      {
+       "id": "0007",
+       "isHome": "0",
+       "result": "T",
+       "spread": "0"
+      },
+      {
+       "id": "0003",
+       "isHome": "1",
+       "result": "T",
+       "spread": "0"
+      }
+     ]
+    },
+    {
+     "franchise": [
+      {
+       "id": "0008",
+       "isHome": "0",
+       "result": "T",
+       "spread": "0"
+      },
+      {
+       "id": "0011",
+       "isHome": "1",
+       "result": "T",
+       "spread": "0"
+      }
+     ]
+    }
+   ],
+   "week": "1"
+  }
+ },
+ "version": "1.0"
+}
