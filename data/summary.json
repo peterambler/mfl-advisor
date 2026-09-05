@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-04T12:17:31.589204+00:00",
+ "generated_at": "2026-09-05T12:15:35.533573+00:00",
  "season": "2026",
  "week": 1,
  "league": {
@@ -192,7 +192,7 @@
      "name": "Kyle Monangai",
      "pos": "RB",
      "team": "CHI",
-     "proj": 7.4,
+     "proj": 11.1,
      "injury": "Questionable \u2014 Knee"
     },
     {
@@ -342,7 +342,7 @@
      "name": "Luther Burden",
      "pos": "WR",
      "team": "CHI",
-     "proj": 8.1,
+     "proj": 12.7,
      "injury": "Questionable \u2014 Groin"
     },
     {
@@ -417,7 +417,7 @@
      "name": "Bhayshul Tuten",
      "pos": "RB",
      "team": "JAC",
-     "proj": 14.6,
+     "proj": 12.7,
      "injury": "Questionable \u2014 Illness"
     },
     {
@@ -579,7 +579,7 @@
      "name": "Rome Odunze",
      "pos": "WR",
      "team": "CHI",
-     "proj": 12.1,
+     "proj": 13.4,
      "injury": "Questionable \u2014 Leg"
     },
     {
@@ -890,7 +890,7 @@
      "name": "D'Andre Swift",
      "pos": "RB",
      "team": "CHI",
-     "proj": 13.8,
+     "proj": 15.4,
      "injury": "Questionable \u2014 Abdomen"
     },
     {
@@ -3194,6 +3194,13 @@
    "proj": 1.7
   },
   {
+   "id": "16175",
+   "name": "Roschon Johnson",
+   "pos": "RB",
+   "team": "CHI",
+   "proj": 1.7
+  },
+  {
    "id": "14789",
    "name": "Tyler Huntley",
    "pos": "QB",
@@ -3221,13 +3228,6 @@
    "team": "JAC",
    "proj": 1.6,
    "injury": "Questionable \u2014 Undisclosed"
-  },
-  {
-   "id": "16175",
-   "name": "Roschon Johnson",
-   "pos": "RB",
-   "team": "CHI",
-   "proj": 1.6
   },
   {
    "id": "16601",
@@ -4193,13 +4193,6 @@
    "team": "WAS"
   },
   {
-   "id": "17522",
-   "name": "Chase Roberts",
-   "pos": "WR",
-   "team": "LVR",
-   "injury": "IR \u2014 Undisclosed"
-  },
-  {
    "id": "17489",
    "name": "Chip Trayanum",
    "pos": "RB",
@@ -4237,13 +4230,6 @@
    "name": "Chris Moore",
    "pos": "WR",
    "team": "FA"
-  },
-  {
-   "id": "15948",
-   "name": "Chris Oladokun",
-   "pos": "QB",
-   "team": "KCC",
-   "injury": "IR \u2014 Undisclosed"
   },
   {
    "id": "13633",
@@ -4346,6 +4332,18 @@
    "name": "Dane Key",
    "pos": "WR",
    "team": "FA"
+  },
+  {
+   "id": "15782",
+   "name": "Danny Gray",
+   "pos": "WR",
+   "team": "PHI"
+  },
+  {
+   "id": "13148",
+   "name": "Dare Ogunbowale",
+   "pos": "RB",
+   "team": "LVR"
   }
  ],
  "recent_transactions": [

@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-09-04T12:17:31.589204+00:00",
+ "fetched_at": "2026-09-05T12:15:35.533573+00:00",
  "season": "2026",
  "week": 1,
  "league_id": "24838",
@@ -9,6 +9,7 @@
   "rosters": "data/rosters.json",
   "standings": "data/standings.json",
   "schedule": "data/schedule.json",
+  "live_scoring": "data/live_scoring.json",
   "projected_scores": "data/projected_scores.json",
   "player_scores": "data/player_scores.json",
   "free_agents": "data/free_agents.json",
@@ -18,7 +19,6 @@
   "players": "data/players.json"
  },
  "failed": [
-  "liveScoring",
   "injuries",
   "pendingTrades",
   "adp"
