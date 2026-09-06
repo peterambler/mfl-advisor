@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-05T12:15:35.533573+00:00",
+ "generated_at": "2026-09-06T12:16:21.661030+00:00",
  "season": "2026",
  "week": 1,
  "league": {
@@ -61,19 +61,18 @@
     "proj": 19.0
    },
    {
-    "id": "13132",
-    "name": "Alvin Kamara",
+    "id": "16164",
+    "name": "Tank Bigsby",
     "pos": "RB",
-    "team": "NOS",
-    "proj": 6.6,
-    "injury": "Questionable \u2014 Knee - MCL"
+    "team": "PHI",
+    "proj": 5.1
    },
    {
-    "id": "16174",
-    "name": "Chris Rodriguez",
+    "id": "16757",
+    "name": "Kimani Vidal",
     "pos": "RB",
-    "team": "JAC",
-    "proj": 6.6
+    "team": "LAC",
+    "proj": 7.0
    },
    {
     "id": "16213",
@@ -119,10 +118,10 @@
     "proj": 12.2
    },
    {
-    "id": "16809",
-    "name": "Jalen Coker",
+    "id": "16620",
+    "name": "Xavier Worthy",
     "pos": "WR",
-    "team": "CAR",
+    "team": "KCC",
     "proj": 8.9
    }
   ]
@@ -378,6 +377,13 @@
    },
    "players": [
     {
+     "id": "0509",
+     "name": "Jacksonville Jaguars",
+     "pos": "Def",
+     "team": "JAC",
+     "proj": 6.8
+    },
+    {
      "id": "16414",
      "name": "Brandon Aubrey",
      "pos": "PK",
@@ -390,13 +396,6 @@
      "pos": "QB",
      "team": "BAL",
      "proj": 25.6
-    },
-    {
-     "id": "17032",
-     "name": "Jaxson Dart",
-     "pos": "QB",
-     "team": "NYG",
-     "proj": 26.1
     },
     {
      "id": "15259",
@@ -1375,19 +1374,18 @@
      "proj": 19.0
     },
     {
-     "id": "13132",
-     "name": "Alvin Kamara",
+     "id": "16164",
+     "name": "Tank Bigsby",
      "pos": "RB",
-     "team": "NOS",
-     "proj": 6.6,
-     "injury": "Questionable \u2014 Knee - MCL"
+     "team": "PHI",
+     "proj": 5.1
     },
     {
-     "id": "16174",
-     "name": "Chris Rodriguez",
+     "id": "16757",
+     "name": "Kimani Vidal",
      "pos": "RB",
-     "team": "JAC",
-     "proj": 6.6
+     "team": "LAC",
+     "proj": 7.0
     },
     {
      "id": "16213",
@@ -1433,10 +1431,10 @@
      "proj": 12.2
     },
     {
-     "id": "16809",
-     "name": "Jalen Coker",
+     "id": "16620",
+     "name": "Xavier Worthy",
      "pos": "WR",
-     "team": "CAR",
+     "team": "KCC",
      "proj": 8.9
     }
    ]
@@ -1458,11 +1456,11 @@
      "proj": 3.6
     },
     {
-     "id": "14983",
-     "name": "Tyler Bass",
+     "id": "17222",
+     "name": "Tyler Loop",
      "pos": "PK",
-     "team": "BUF",
-     "proj": 5.8
+     "team": "BAL",
+     "proj": 6.3
     },
     {
      "id": "15237",
@@ -1562,6 +1560,13 @@
   }
  },
  "free_agents": [
+  {
+   "id": "17032",
+   "name": "Jaxson Dart",
+   "pos": "QB",
+   "team": "NYG",
+   "proj": 26.1
+  },
   {
    "id": "12616",
    "name": "Jacoby Brissett",
@@ -1704,10 +1709,10 @@
    "proj": 9.1
   },
   {
-   "id": "16620",
-   "name": "Xavier Worthy",
+   "id": "16809",
+   "name": "Jalen Coker",
    "pos": "WR",
-   "team": "KCC",
+   "team": "CAR",
    "proj": 8.9
   },
   {
@@ -1833,13 +1838,6 @@
    "proj": 7.0
   },
   {
-   "id": "16757",
-   "name": "Kimani Vidal",
-   "pos": "RB",
-   "team": "LAC",
-   "proj": 7.0
-  },
-  {
    "id": "12678",
    "name": "Tyler Higbee",
    "pos": "TE",
@@ -1852,13 +1850,6 @@
    "pos": "WR",
    "team": "NEP",
    "proj": 6.9
-  },
-  {
-   "id": "0509",
-   "name": "Jacksonville Jaguars",
-   "pos": "Def",
-   "team": "JAC",
-   "proj": 6.8
   },
   {
    "id": "16626",
@@ -1890,10 +1881,25 @@
    "proj": 6.7
   },
   {
+   "id": "13132",
+   "name": "Alvin Kamara",
+   "pos": "RB",
+   "team": "NOS",
+   "proj": 6.6,
+   "injury": "Questionable \u2014 Knee - MCL"
+  },
+  {
    "id": "16207",
    "name": "Andrei Iosivas",
    "pos": "WR",
    "team": "CIN",
+   "proj": 6.6
+  },
+  {
+   "id": "16174",
+   "name": "Chris Rodriguez",
+   "pos": "RB",
+   "team": "JAC",
    "proj": 6.6
   },
   {
@@ -1931,13 +1937,6 @@
    "pos": "TE",
    "team": "DEN",
    "proj": 6.4
-  },
-  {
-   "id": "17222",
-   "name": "Tyler Loop",
-   "pos": "PK",
-   "team": "BAL",
-   "proj": 6.3
   },
   {
    "id": "15795",
@@ -2002,6 +2001,13 @@
    "name": "Rashid Shaheed",
    "pos": "WR",
    "team": "SEA",
+   "proj": 5.8
+  },
+  {
+   "id": "14983",
+   "name": "Tyler Bass",
+   "pos": "PK",
+   "team": "BUF",
    "proj": 5.8
   },
   {
@@ -2152,13 +2158,6 @@
    "name": "Chase McLaughlin",
    "pos": "PK",
    "team": "TBB",
-   "proj": 5.1
-  },
-  {
-   "id": "16164",
-   "name": "Tank Bigsby",
-   "pos": "RB",
-   "team": "PHI",
    "proj": 5.1
   },
   {
@@ -4023,13 +4022,6 @@
    "team": "NYG"
   },
   {
-   "id": "16367",
-   "name": "Brayden Willis",
-   "pos": "TE",
-   "team": "SFO",
-   "injury": "Questionable \u2014 Concussion"
-  },
-  {
    "id": "17321",
    "name": "Brennan Presley",
    "pos": "WR",
@@ -4344,9 +4336,57 @@
    "name": "Dare Ogunbowale",
    "pos": "RB",
    "team": "LVR"
+  },
+  {
+   "id": "15941",
+   "name": "Dareke Young",
+   "pos": "WR",
+   "team": "LVR"
   }
  ],
  "recent_transactions": [
+  {
+   "type": "LOCK_ALL_PLAYERS",
+   "franchise": "",
+   "when": "1788620400",
+   "detail": ""
+  },
+  {
+   "type": "BBID_WAIVER",
+   "franchise": "Athenian Souvlakis",
+   "when": "1788618410",
+   "detail": "17222,|1|14983,"
+  },
+  {
+   "type": "BBID_WAIVER",
+   "franchise": "Pete\u2019s Perfect Team",
+   "when": "1788618410",
+   "detail": "16757,|1|13132,"
+  },
+  {
+   "type": "BBID_WAIVER",
+   "franchise": "Pete\u2019s Perfect Team",
+   "when": "1788618410",
+   "detail": "16620,|1|16809,"
+  },
+  {
+   "type": "BBID_WAIVER",
+   "franchise": "Pete\u2019s Perfect Team",
+   "when": "1788618410",
+   "detail": "16164,|1|16174,"
+  },
+  {
+   "type": "BBID_WAIVER",
+   "franchise": "wait till next year",
+   "when": "1788618410",
+   "detail": "0509,|1|17032,"
+  },
+  {
+   "type": "PROCESS_WAIVERS",
+   "franchise": "",
+   "when": "1788618410",
+   "detail": ""
+  },
   {
    "type": "IR",
    "franchise": "Dawg Pound",
@@ -4544,48 +4584,6 @@
    "franchise": "Pete\u2019s Perfect Team",
    "when": "1788407476",
    "detail": "13132|1|"
-  },
-  {
-   "type": "AUCTION_WON",
-   "franchise": "Washington Misanthropes",
-   "when": "1788407449",
-   "detail": "17500|1|"
-  },
-  {
-   "type": "AUCTION_INIT",
-   "franchise": "Washington Misanthropes",
-   "when": "1788407418",
-   "detail": "17500|1|"
-  },
-  {
-   "type": "AUCTION_WON",
-   "franchise": "Based Crack Cocaine Enjoyers",
-   "when": "1788407414",
-   "detail": "15721|1|"
-  },
-  {
-   "type": "AUCTION_INIT",
-   "franchise": "Based Crack Cocaine Enjoyers",
-   "when": "1788407383",
-   "detail": "15721|1|"
-  },
-  {
-   "type": "AUCTION_WON",
-   "franchise": "Fuck Tom",
-   "when": "1788407338",
-   "detail": "16178|1|"
-  },
-  {
-   "type": "AUCTION_INIT",
-   "franchise": "Fuck Tom",
-   "when": "1788407307",
-   "detail": "16178|1|"
-  },
-  {
-   "type": "AUCTION_WON",
-   "franchise": "Athenian Souvlakis",
-   "when": "1788407295",
-   "detail": "15712|1|"
   }
  ]
 }

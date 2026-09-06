@@ -49,7 +49,7 @@
      "waiverSortOrder": "11"
     },
     {
-     "bbidAvailableBalance": "15.00",
+     "bbidAvailableBalance": "14.00",
      "division": "01",
      "icon": "https://www46.myfantasyleague.com/fflnet2010/icons/Toilet_Paper.gif",
      "id": "0003",
@@ -120,7 +120,7 @@
     },
     {
      "abbrev": "BK",
-     "bbidAvailableBalance": "15.00",
+     "bbidAvailableBalance": "12.00",
      "division": "01",
      "icon": "https://www42.myfantasyleague.com/fflnetdynamic2016/24838_franchise_icon0011.png",
      "id": "0011",
@@ -129,7 +129,7 @@
      "waiverSortOrder": "2"
     },
     {
-     "bbidAvailableBalance": "15.00",
+     "bbidAvailableBalance": "14.00",
      "division": "00",
      "id": "0012",
      "name": "Athenian Souvlakis",

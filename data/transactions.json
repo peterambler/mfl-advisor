@@ -3,6 +3,54 @@
  "transactions": {
   "transaction": [
    {
+    "franchise": "",
+    "timestamp": "1788620400",
+    "transaction": "",
+    "type": "LOCK_ALL_PLAYERS"
+   },
+   {
+    "by_commish": "1",
+    "franchise": "0012",
+    "timestamp": "1788618410",
+    "transaction": "17222,|1|14983,",
+    "type": "BBID_WAIVER"
+   },
+   {
+    "by_commish": "1",
+    "franchise": "0011",
+    "timestamp": "1788618410",
+    "transaction": "16757,|1|13132,",
+    "type": "BBID_WAIVER"
+   },
+   {
+    "by_commish": "1",
+    "franchise": "0011",
+    "timestamp": "1788618410",
+    "transaction": "16620,|1|16809,",
+    "type": "BBID_WAIVER"
+   },
+   {
+    "by_commish": "1",
+    "franchise": "0011",
+    "timestamp": "1788618410",
+    "transaction": "16164,|1|16174,",
+    "type": "BBID_WAIVER"
+   },
+   {
+    "by_commish": "1",
+    "franchise": "0003",
+    "timestamp": "1788618410",
+    "transaction": "0509,|1|17032,",
+    "type": "BBID_WAIVER"
+   },
+   {
+    "by_commish": "1",
+    "franchise": "",
+    "timestamp": "1788618410",
+    "transaction": "",
+    "type": "PROCESS_WAIVERS"
+   },
+   {
     "activated": "",
     "deactivated": "16169,",
     "franchise": "0001",
