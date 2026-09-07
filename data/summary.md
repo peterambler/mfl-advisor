@@ -1,6 +1,6 @@
 # Pete’s Perfect Team — week 1
 
-Cap City Football · 12 teams · generated 2026-09-06 12:16 UTC
+Cap City Football · 12 teams · generated 2026-09-07 12:18 UTC
 Record 0-0-0, 0 points for
 
 ## Roster
@@ -25,7 +25,7 @@ Record 0-0-0, 0 points for
 
 ## Best available
 
-**QB** — Jaxson Dart (NYG), Jacoby Brissett (ARI), Bryce Young (CAR), Cam Ward (TEN), Aaron Rodgers (PIT), Kirk Cousins (LVR), Tua Tagovailoa (ATL), Deshaun Watson (CLE)
+**QB** — Jacoby Brissett (ARI), Bryce Young (CAR), Cam Ward (TEN), Aaron Rodgers (PIT), Kirk Cousins (LVR), Tua Tagovailoa (ATL), Deshaun Watson (CLE), Geno Smith (NYJ)
 
 **RB** — Alvin Kamara (NOS), Chris Rodriguez (JAC), Devin Singletary (NYG), Sione Vaki (DET), Justice Hill (BAL), George Holani (SEA), Bam Knight (ARI), Kaelon Black (SFO)
 

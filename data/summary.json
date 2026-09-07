@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-06T12:16:21.661030+00:00",
+ "generated_at": "2026-09-07T12:18:09.466103+00:00",
  "season": "2026",
  "week": 1,
  "league": {
@@ -137,6 +137,13 @@
    },
    "players": [
     {
+     "id": "0531",
+     "name": "Baltimore Ravens",
+     "pos": "Def",
+     "team": "BAL",
+     "proj": 2.3
+    },
+    {
      "id": "15979",
      "name": "Cameron Dicker",
      "pos": "PK",
@@ -164,6 +171,13 @@
      "pos": "QB",
      "team": "MIN",
      "proj": 19.0
+    },
+    {
+     "id": "17032",
+     "name": "Jaxson Dart",
+     "pos": "QB",
+     "team": "NYG",
+     "proj": 26.1
     },
     {
      "id": "16162",
@@ -239,13 +253,6 @@
      "team": "BUF",
      "proj": 11.1,
      "injury": "Questionable \u2014 Undisclosed"
-    },
-    {
-     "id": "16193",
-     "name": "Kayshon Boutte",
-     "pos": "WR",
-     "team": "HOU",
-     "proj": 4.6
     }
    ]
   },
@@ -1561,13 +1568,6 @@
  },
  "free_agents": [
   {
-   "id": "17032",
-   "name": "Jaxson Dart",
-   "pos": "QB",
-   "team": "NYG",
-   "proj": 26.1
-  },
-  {
    "id": "12616",
    "name": "Jacoby Brissett",
    "pos": "QB",
@@ -2274,6 +2274,13 @@
    "proj": 4.6
   },
   {
+   "id": "16193",
+   "name": "Kayshon Boutte",
+   "pos": "WR",
+   "team": "HOU",
+   "proj": 4.6
+  },
+  {
    "id": "15337",
    "name": "Noah Gray",
    "pos": "TE",
@@ -2725,7 +2732,7 @@
    "pos": "WR",
    "team": "SEA",
    "proj": 3.0,
-   "injury": "Questionable \u2014 Undisclosed"
+   "injury": "Questionable \u2014 Hamstring"
   },
   {
    "id": "12677",
@@ -2803,8 +2810,7 @@
    "name": "Emanuel Wilson",
    "pos": "RB",
    "team": "SEA",
-   "proj": 2.7,
-   "injury": "Questionable \u2014 Hamstring"
+   "proj": 2.7
   },
   {
    "id": "17462",
@@ -2972,13 +2978,6 @@
    "team": "MIA",
    "proj": 2.4,
    "injury": "Questionable \u2014 Undisclosed"
-  },
-  {
-   "id": "0531",
-   "name": "Baltimore Ravens",
-   "pos": "Def",
-   "team": "BAL",
-   "proj": 2.3
   },
   {
    "id": "17108",
@@ -4342,9 +4341,33 @@
    "name": "Dareke Young",
    "pos": "WR",
    "team": "LVR"
+  },
+  {
+   "id": "15758",
+   "name": "David Bell",
+   "pos": "WR",
+   "team": "CLE"
   }
  ],
  "recent_transactions": [
+  {
+   "type": "BBID_WAIVER",
+   "franchise": "Dawg Pound",
+   "when": "1788753600",
+   "detail": "0531,|7.00|16193,"
+  },
+  {
+   "type": "BBID_WAIVER",
+   "franchise": "Dawg Pound",
+   "when": "1788753600",
+   "detail": "17032,|7.00|"
+  },
+  {
+   "type": "BBID_AUTO_PROCESS_WAIVERS",
+   "franchise": "",
+   "when": "1788753600",
+   "detail": ""
+  },
   {
    "type": "LOCK_ALL_PLAYERS",
    "franchise": "",
@@ -4566,24 +4589,6 @@
    "franchise": "Athenian Souvlakis",
    "when": "1788407565",
    "detail": "14983|1|"
-  },
-  {
-   "type": "AUCTION_INIT",
-   "franchise": "Athenian Souvlakis",
-   "when": "1788407534",
-   "detail": "14983|1|"
-  },
-  {
-   "type": "AUCTION_WON",
-   "franchise": "Pete\u2019s Perfect Team",
-   "when": "1788407507",
-   "detail": "13132|1|"
-  },
-  {
-   "type": "AUCTION_INIT",
-   "franchise": "Pete\u2019s Perfect Team",
-   "when": "1788407476",
-   "detail": "13132|1|"
   }
  ]
 }

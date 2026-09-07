@@ -3,6 +3,24 @@
  "transactions": {
   "transaction": [
    {
+    "franchise": "0001",
+    "timestamp": "1788753600",
+    "transaction": "0531,|7.00|16193,",
+    "type": "BBID_WAIVER"
+   },
+   {
+    "franchise": "0001",
+    "timestamp": "1788753600",
+    "transaction": "17032,|7.00|",
+    "type": "BBID_WAIVER"
+   },
+   {
+    "franchise": "",
+    "timestamp": "1788753600",
+    "transaction": "",
+    "type": "BBID_AUTO_PROCESS_WAIVERS"
+   },
+   {
     "franchise": "",
     "timestamp": "1788620400",
     "transaction": "",
