@@ -1,5 +1,12 @@
 {
  "encoding": "utf-8",
- "tradeBaits": {},
+ "tradeBaits": {
+  "tradeBait": {
+   "franchise_id": "0003",
+   "inExchangeFor": "any rb1 oor 2 or wr1or2\r  ",
+   "timestamp": "1788790660",
+   "willGiveUp": "11244,13299,15329"
+  }
+ },
  "version": "1.0"
 }

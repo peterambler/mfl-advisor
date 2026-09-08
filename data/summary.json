@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-07T12:18:09.466103+00:00",
+ "generated_at": "2026-09-08T12:18:02.239658+00:00",
  "season": "2026",
  "week": 1,
  "league": {
@@ -1166,14 +1166,6 @@
      "injury": "Questionable \u2014 Groin"
     },
     {
-     "id": "17543",
-     "name": "Kenyon Sadiq",
-     "pos": "TE",
-     "team": "NYJ",
-     "proj": 2.5,
-     "injury": "Questionable \u2014 Abdomen"
-    },
-    {
      "id": "16615",
      "name": "Malik Nabers",
      "pos": "WR",
@@ -1209,6 +1201,13 @@
      "pos": "WR",
      "team": "CLE",
      "proj": 2.9
+    },
+    {
+     "id": "17511",
+     "name": "Malachi Fields",
+     "pos": "WR",
+     "team": "NYG",
+     "proj": 0.3
     }
    ]
   },
@@ -2901,6 +2900,14 @@
    "injury": "IR-PUP \u2014 Pectoral"
   },
   {
+   "id": "17543",
+   "name": "Kenyon Sadiq",
+   "pos": "TE",
+   "team": "NYJ",
+   "proj": 2.5,
+   "injury": "Questionable \u2014 Abdomen"
+  },
+  {
    "id": "17059",
    "name": "Ollie Gordon",
    "pos": "RB",
@@ -3751,13 +3758,6 @@
    "proj": 0.3
   },
   {
-   "id": "17511",
-   "name": "Malachi Fields",
-   "pos": "WR",
-   "team": "NYG",
-   "proj": 0.3
-  },
-  {
    "id": "15103",
    "name": "Reggie Gilliam",
    "pos": "RB",
@@ -4019,6 +4019,12 @@
    "name": "Braxton Berrios",
    "pos": "WR",
    "team": "NYG"
+  },
+  {
+   "id": "16367",
+   "name": "Brayden Willis",
+   "pos": "TE",
+   "team": "SFO"
   },
   {
    "id": "17321",
@@ -4341,15 +4347,15 @@
    "name": "Dareke Young",
    "pos": "WR",
    "team": "LVR"
-  },
-  {
-   "id": "15758",
-   "name": "David Bell",
-   "pos": "WR",
-   "team": "CLE"
   }
  ],
  "recent_transactions": [
+  {
+   "type": "FREE_AGENT",
+   "franchise": "Washington Misanthropes",
+   "when": "1788865813",
+   "detail": "17511,|17543,"
+  },
   {
    "type": "BBID_WAIVER",
    "franchise": "Dawg Pound",
@@ -4583,12 +4589,6 @@
    "franchise": "Fuck Tom",
    "when": "1788407584",
    "detail": "15694|1|"
-  },
-  {
-   "type": "AUCTION_WON",
-   "franchise": "Athenian Souvlakis",
-   "when": "1788407565",
-   "detail": "14983|1|"
   }
  ]
 }

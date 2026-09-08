@@ -578,10 +578,6 @@
       "status": "ROSTER"
      },
      {
-      "id": "17543",
-      "status": "ROSTER"
-     },
-     {
       "id": "17053",
       "status": "ROSTER"
      },
@@ -595,6 +591,10 @@
      },
      {
       "id": "15368",
+      "status": "ROSTER"
+     },
+     {
+      "id": "17511",
       "status": "ROSTER"
      }
     ],
