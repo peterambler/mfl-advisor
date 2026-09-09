@@ -12,6 +12,20 @@
        "player": [
         {
          "gameSecondsRemaining": "3600",
+         "id": "0524",
+         "score": "0.0",
+         "status": "starter",
+         "updatedStats": ""
+        },
+        {
+         "gameSecondsRemaining": "3600",
+         "id": "16192",
+         "score": "0.0",
+         "status": "starter",
+         "updatedStats": ""
+        },
+        {
+         "gameSecondsRemaining": "3600",
          "id": "15368",
          "score": "0.0",
          "status": "starter",
@@ -33,27 +47,6 @@
         },
         {
          "gameSecondsRemaining": "3600",
-         "id": "16615",
-         "score": "0.0",
-         "status": "starter",
-         "updatedStats": ""
-        },
-        {
-         "gameSecondsRemaining": "3600",
-         "id": "16192",
-         "score": "0.0",
-         "status": "starter",
-         "updatedStats": ""
-        },
-        {
-         "gameSecondsRemaining": "3600",
-         "id": "17472",
-         "score": "0.0",
-         "status": "starter",
-         "updatedStats": ""
-        },
-        {
-         "gameSecondsRemaining": "3600",
          "id": "16161",
          "score": "0.0",
          "status": "starter",
@@ -61,14 +54,21 @@
         },
         {
          "gameSecondsRemaining": "3600",
-         "id": "0524",
+         "id": "17501",
          "score": "0.0",
          "status": "starter",
          "updatedStats": ""
         },
         {
          "gameSecondsRemaining": "3600",
-         "id": "17501",
+         "id": "16615",
+         "score": "0.0",
+         "status": "starter",
+         "updatedStats": ""
+        },
+        {
+         "gameSecondsRemaining": "3600",
+         "id": "17472",
          "score": "0.0",
          "status": "starter",
          "updatedStats": ""
@@ -94,14 +94,7 @@
         },
         {
          "gameSecondsRemaining": "3600",
-         "id": "13116",
-         "score": "0.0",
-         "status": "starter",
-         "updatedStats": ""
-        },
-        {
-         "gameSecondsRemaining": "3600",
-         "id": "15715",
+         "id": "13674",
          "score": "0.0",
          "status": "starter",
          "updatedStats": ""
@@ -115,7 +108,21 @@
         },
         {
          "gameSecondsRemaining": "3600",
-         "id": "13674",
+         "id": "13590",
+         "score": "0.0",
+         "status": "starter",
+         "updatedStats": ""
+        },
+        {
+         "gameSecondsRemaining": "3600",
+         "id": "13630",
+         "score": "0.0",
+         "status": "starter",
+         "updatedStats": ""
+        },
+        {
+         "gameSecondsRemaining": "3600",
+         "id": "11936",
          "score": "0.0",
          "status": "starter",
          "updatedStats": ""
@@ -136,14 +143,7 @@
         },
         {
          "gameSecondsRemaining": "3600",
-         "id": "13630",
-         "score": "0.0",
-         "status": "starter",
-         "updatedStats": ""
-        },
-        {
-         "gameSecondsRemaining": "3600",
-         "id": "11936",
+         "id": "15715",
          "score": "0.0",
          "status": "starter",
          "updatedStats": ""
@@ -166,7 +166,7 @@
        "player": [
         {
          "gameSecondsRemaining": "3600",
-         "id": "14109",
+         "id": "0532",
          "score": "0.0",
          "status": "starter",
          "updatedStats": ""
@@ -174,6 +174,34 @@
         {
          "gameSecondsRemaining": "3600",
          "id": "15290",
+         "score": "0.0",
+         "status": "starter",
+         "updatedStats": ""
+        },
+        {
+         "gameSecondsRemaining": "3600",
+         "id": "13130",
+         "score": "0.0",
+         "status": "starter",
+         "updatedStats": ""
+        },
+        {
+         "gameSecondsRemaining": "3600",
+         "id": "14109",
+         "score": "0.0",
+         "status": "starter",
+         "updatedStats": ""
+        },
+        {
+         "gameSecondsRemaining": "3600",
+         "id": "15253",
+         "score": "0.0",
+         "status": "starter",
+         "updatedStats": ""
+        },
+        {
+         "gameSecondsRemaining": "3600",
+         "id": "15753",
          "score": "0.0",
          "status": "starter",
          "updatedStats": ""
@@ -188,34 +216,6 @@
         {
          "gameSecondsRemaining": "3600",
          "id": "15794",
-         "score": "0.0",
-         "status": "starter",
-         "updatedStats": ""
-        },
-        {
-         "gameSecondsRemaining": "3600",
-         "id": "15253",
-         "score": "0.0",
-         "status": "starter",
-         "updatedStats": ""
-        },
-        {
-         "gameSecondsRemaining": "3600",
-         "id": "13130",
-         "score": "0.0",
-         "status": "starter",
-         "updatedStats": ""
-        },
-        {
-         "gameSecondsRemaining": "3600",
-         "id": "0532",
-         "score": "0.0",
-         "status": "starter",
-         "updatedStats": ""
-        },
-        {
-         "gameSecondsRemaining": "3600",
-         "id": "15753",
          "score": "0.0",
          "status": "starter",
          "updatedStats": ""
@@ -248,7 +248,7 @@
         },
         {
          "gameSecondsRemaining": "3600",
-         "id": "15708",
+         "id": "13163",
          "score": "0.0",
          "status": "starter",
          "updatedStats": ""
@@ -262,14 +262,7 @@
         },
         {
          "gameSecondsRemaining": "3600",
-         "id": "13163",
-         "score": "0.0",
-         "status": "starter",
-         "updatedStats": ""
-        },
-        {
-         "gameSecondsRemaining": "3600",
-         "id": "15711",
+         "id": "0511",
          "score": "0.0",
          "status": "starter",
          "updatedStats": ""
@@ -290,7 +283,7 @@
         },
         {
          "gameSecondsRemaining": "3600",
-         "id": "0511",
+         "id": "15711",
          "score": "0.0",
          "status": "starter",
          "updatedStats": ""
@@ -298,6 +291,13 @@
         {
          "gameSecondsRemaining": "3600",
          "id": "16579",
+         "score": "0.0",
+         "status": "starter",
+         "updatedStats": ""
+        },
+        {
+         "gameSecondsRemaining": "3600",
+         "id": "15708",
          "score": "0.0",
          "status": "starter",
          "updatedStats": ""
@@ -313,12 +313,78 @@
    {
     "franchise": [
      {
-      "gameSecondsRemaining": "0",
+      "gameSecondsRemaining": "32400",
       "id": "0012",
       "isHome": "0",
-      "players": {},
+      "players": {
+       "player": [
+        {
+         "gameSecondsRemaining": "3600",
+         "id": "15754",
+         "score": "0.0",
+         "status": "starter",
+         "updatedStats": ""
+        },
+        {
+         "gameSecondsRemaining": "3600",
+         "id": "15287",
+         "score": "0.0",
+         "status": "starter",
+         "updatedStats": ""
+        },
+        {
+         "gameSecondsRemaining": "3600",
+         "id": "12626",
+         "score": "0.0",
+         "status": "starter",
+         "updatedStats": ""
+        },
+        {
+         "gameSecondsRemaining": "3600",
+         "id": "17222",
+         "score": "0.0",
+         "status": "starter",
+         "updatedStats": ""
+        },
+        {
+         "gameSecondsRemaining": "3600",
+         "id": "15798",
+         "score": "0.0",
+         "status": "starter",
+         "updatedStats": ""
+        },
+        {
+         "gameSecondsRemaining": "3600",
+         "id": "16165",
+         "score": "0.0",
+         "status": "starter",
+         "updatedStats": ""
+        },
+        {
+         "gameSecondsRemaining": "3600",
+         "id": "0510",
+         "score": "0.0",
+         "status": "starter",
+         "updatedStats": ""
+        },
+        {
+         "gameSecondsRemaining": "3600",
+         "id": "15237",
+         "score": "0.0",
+         "status": "starter",
+         "updatedStats": ""
+        },
+        {
+         "gameSecondsRemaining": "3600",
+         "id": "16211",
+         "score": "0.0",
+         "status": "starter",
+         "updatedStats": ""
+        }
+       ]
+      },
       "playersCurrentlyPlaying": "0",
-      "playersYetToPlay": "0",
+      "playersYetToPlay": "9",
       "score": "0.0"
      },
      {
@@ -336,14 +402,21 @@
         },
         {
          "gameSecondsRemaining": "3600",
-         "id": "16162",
+         "id": "15256",
          "score": "0.0",
          "status": "starter",
          "updatedStats": ""
         },
         {
          "gameSecondsRemaining": "3600",
-         "id": "16190",
+         "id": "14779",
+         "score": "0.0",
+         "status": "starter",
+         "updatedStats": ""
+        },
+        {
+         "gameSecondsRemaining": "3600",
+         "id": "16162",
          "score": "0.0",
          "status": "starter",
          "updatedStats": ""
@@ -357,13 +430,6 @@
         },
         {
          "gameSecondsRemaining": "3600",
-         "id": "15256",
-         "score": "0.0",
-         "status": "starter",
-         "updatedStats": ""
-        },
-        {
-         "gameSecondsRemaining": "3600",
          "id": "15761",
          "score": "0.0",
          "status": "starter",
@@ -371,7 +437,7 @@
         },
         {
          "gameSecondsRemaining": "3600",
-         "id": "14779",
+         "id": "16190",
          "score": "0.0",
          "status": "starter",
          "updatedStats": ""
@@ -387,12 +453,78 @@
    {
     "franchise": [
      {
-      "gameSecondsRemaining": "0",
+      "gameSecondsRemaining": "32400",
       "id": "0005",
       "isHome": "0",
-      "players": {},
+      "players": {
+       "player": [
+        {
+         "gameSecondsRemaining": "3600",
+         "id": "16194",
+         "score": "0.0",
+         "status": "starter",
+         "updatedStats": ""
+        },
+        {
+         "gameSecondsRemaining": "3600",
+         "id": "15710",
+         "score": "0.0",
+         "status": "starter",
+         "updatedStats": ""
+        },
+        {
+         "gameSecondsRemaining": "3600",
+         "id": "16222",
+         "score": "0.0",
+         "status": "starter",
+         "updatedStats": ""
+        },
+        {
+         "gameSecondsRemaining": "3600",
+         "id": "16181",
+         "score": "0.0",
+         "status": "starter",
+         "updatedStats": ""
+        },
+        {
+         "gameSecondsRemaining": "3600",
+         "id": "0528",
+         "score": "0.0",
+         "status": "starter",
+         "updatedStats": ""
+        },
+        {
+         "gameSecondsRemaining": "3600",
+         "id": "17473",
+         "score": "0.0",
+         "status": "starter",
+         "updatedStats": ""
+        },
+        {
+         "gameSecondsRemaining": "3600",
+         "id": "14777",
+         "score": "0.0",
+         "status": "starter",
+         "updatedStats": ""
+        },
+        {
+         "gameSecondsRemaining": "3600",
+         "id": "11671",
+         "score": "0.0",
+         "status": "starter",
+         "updatedStats": ""
+        },
+        {
+         "gameSecondsRemaining": "3600",
+         "id": "16843",
+         "score": "0.0",
+         "status": "starter",
+         "updatedStats": ""
+        }
+       ]
+      },
       "playersCurrentlyPlaying": "0",
-      "playersYetToPlay": "0",
+      "playersYetToPlay": "9",
       "score": "0.0"
      },
      {
@@ -416,7 +548,28 @@
        "player": [
         {
          "gameSecondsRemaining": "3600",
+         "id": "13354",
+         "score": "0.0",
+         "status": "starter",
+         "updatedStats": ""
+        },
+        {
+         "gameSecondsRemaining": "3600",
+         "id": "17081",
+         "score": "0.0",
+         "status": "starter",
+         "updatedStats": ""
+        },
+        {
+         "gameSecondsRemaining": "3600",
          "id": "16598",
+         "score": "0.0",
+         "status": "starter",
+         "updatedStats": ""
+        },
+        {
+         "gameSecondsRemaining": "3600",
+         "id": "14797",
          "score": "0.0",
          "status": "starter",
          "updatedStats": ""
@@ -430,7 +583,14 @@
         },
         {
          "gameSecondsRemaining": "3600",
-         "id": "13354",
+         "id": "16627",
+         "score": "0.0",
+         "status": "starter",
+         "updatedStats": ""
+        },
+        {
+         "gameSecondsRemaining": "3600",
+         "id": "0501",
          "score": "0.0",
          "status": "starter",
          "updatedStats": ""
@@ -445,34 +605,6 @@
         {
          "gameSecondsRemaining": "3600",
          "id": "16641",
-         "score": "0.0",
-         "status": "starter",
-         "updatedStats": ""
-        },
-        {
-         "gameSecondsRemaining": "3600",
-         "id": "14797",
-         "score": "0.0",
-         "status": "starter",
-         "updatedStats": ""
-        },
-        {
-         "gameSecondsRemaining": "3600",
-         "id": "17081",
-         "score": "0.0",
-         "status": "starter",
-         "updatedStats": ""
-        },
-        {
-         "gameSecondsRemaining": "3600",
-         "id": "0501",
-         "score": "0.0",
-         "status": "starter",
-         "updatedStats": ""
-        },
-        {
-         "gameSecondsRemaining": "3600",
-         "id": "16627",
          "score": "0.0",
          "status": "starter",
          "updatedStats": ""
@@ -498,42 +630,7 @@
         },
         {
          "gameSecondsRemaining": "3600",
-         "id": "15284",
-         "score": "0.0",
-         "status": "starter",
-         "updatedStats": ""
-        },
-        {
-         "gameSecondsRemaining": "3600",
-         "id": "13299",
-         "score": "0.0",
-         "status": "starter",
-         "updatedStats": ""
-        },
-        {
-         "gameSecondsRemaining": "3600",
-         "id": "15282",
-         "score": "0.0",
-         "status": "starter",
-         "updatedStats": ""
-        },
-        {
-         "gameSecondsRemaining": "3600",
-         "id": "11675",
-         "score": "0.0",
-         "status": "starter",
-         "updatedStats": ""
-        },
-        {
-         "gameSecondsRemaining": "3600",
-         "id": "16414",
-         "score": "0.0",
-         "status": "starter",
-         "updatedStats": ""
-        },
-        {
-         "gameSecondsRemaining": "3600",
-         "id": "15742",
+         "id": "13593",
          "score": "0.0",
          "status": "starter",
          "updatedStats": ""
@@ -547,7 +644,42 @@
         },
         {
          "gameSecondsRemaining": "3600",
-         "id": "13593",
+         "id": "15282",
+         "score": "0.0",
+         "status": "starter",
+         "updatedStats": ""
+        },
+        {
+         "gameSecondsRemaining": "3600",
+         "id": "16414",
+         "score": "0.0",
+         "status": "starter",
+         "updatedStats": ""
+        },
+        {
+         "gameSecondsRemaining": "3600",
+         "id": "11675",
+         "score": "0.0",
+         "status": "starter",
+         "updatedStats": ""
+        },
+        {
+         "gameSecondsRemaining": "3600",
+         "id": "15284",
+         "score": "0.0",
+         "status": "starter",
+         "updatedStats": ""
+        },
+        {
+         "gameSecondsRemaining": "3600",
+         "id": "15742",
+         "score": "0.0",
+         "status": "starter",
+         "updatedStats": ""
+        },
+        {
+         "gameSecondsRemaining": "3600",
+         "id": "13299",
          "score": "0.0",
          "status": "starter",
          "updatedStats": ""
@@ -570,14 +702,7 @@
        "player": [
         {
          "gameSecondsRemaining": "3600",
-         "id": "0514",
-         "score": "0.0",
-         "status": "starter",
-         "updatedStats": ""
-        },
-        {
-         "gameSecondsRemaining": "3600",
-         "id": "16167",
+         "id": "17220",
          "score": "0.0",
          "status": "starter",
          "updatedStats": ""
@@ -591,6 +716,13 @@
         },
         {
          "gameSecondsRemaining": "3600",
+         "id": "0514",
+         "score": "0.0",
+         "status": "starter",
+         "updatedStats": ""
+        },
+        {
+         "gameSecondsRemaining": "3600",
          "id": "16747",
          "score": "0.0",
          "status": "starter",
@@ -598,7 +730,7 @@
         },
         {
          "gameSecondsRemaining": "3600",
-         "id": "16185",
+         "id": "16167",
          "score": "0.0",
          "status": "starter",
          "updatedStats": ""
@@ -612,14 +744,7 @@
         },
         {
          "gameSecondsRemaining": "3600",
-         "id": "17220",
-         "score": "0.0",
-         "status": "starter",
-         "updatedStats": ""
-        },
-        {
-         "gameSecondsRemaining": "3600",
-         "id": "15762",
+         "id": "16185",
          "score": "0.0",
          "status": "starter",
          "updatedStats": ""
@@ -627,6 +752,13 @@
         {
          "gameSecondsRemaining": "3600",
          "id": "16614",
+         "score": "0.0",
+         "status": "starter",
+         "updatedStats": ""
+        },
+        {
+         "gameSecondsRemaining": "3600",
+         "id": "15762",
          "score": "0.0",
          "status": "starter",
          "updatedStats": ""
@@ -645,28 +777,7 @@
        "player": [
         {
          "gameSecondsRemaining": "3600",
-         "id": "13604",
-         "score": "0.0",
-         "status": "starter",
-         "updatedStats": ""
-        },
-        {
-         "gameSecondsRemaining": "3600",
-         "id": "15751",
-         "score": "0.0",
-         "status": "starter",
-         "updatedStats": ""
-        },
-        {
-         "gameSecondsRemaining": "3600",
          "id": "0518",
-         "score": "0.0",
-         "status": "starter",
-         "updatedStats": ""
-        },
-        {
-         "gameSecondsRemaining": "3600",
-         "id": "15789",
          "score": "0.0",
          "status": "starter",
          "updatedStats": ""
@@ -680,14 +791,14 @@
         },
         {
          "gameSecondsRemaining": "3600",
-         "id": "17039",
+         "id": "15789",
          "score": "0.0",
          "status": "starter",
          "updatedStats": ""
         },
         {
          "gameSecondsRemaining": "3600",
-         "id": "15281",
+         "id": "15751",
          "score": "0.0",
          "status": "starter",
          "updatedStats": ""
@@ -702,6 +813,27 @@
         {
          "gameSecondsRemaining": "3600",
          "id": "16680",
+         "score": "0.0",
+         "status": "starter",
+         "updatedStats": ""
+        },
+        {
+         "gameSecondsRemaining": "3600",
+         "id": "17039",
+         "score": "0.0",
+         "status": "starter",
+         "updatedStats": ""
+        },
+        {
+         "gameSecondsRemaining": "3600",
+         "id": "13604",
+         "score": "0.0",
+         "status": "starter",
+         "updatedStats": ""
+        },
+        {
+         "gameSecondsRemaining": "3600",
+         "id": "15281",
          "score": "0.0",
          "status": "starter",
          "updatedStats": ""

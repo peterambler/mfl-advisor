@@ -1,6 +1,6 @@
 # Pete’s Perfect Team — week 1
 
-Cap City Football · 12 teams · generated 2026-09-08 12:18 UTC
+Cap City Football · 12 teams · generated 2026-09-09 12:17 UTC
 Record 0-0-0, 0 points for
 
 ## Roster
@@ -20,18 +20,18 @@ Record 0-0-0, 0 points for
 | Ja'Marr Chase | WR | CIN | 20.8 |  | Questionable — Knee |
 | Drake London | WR | ATL | 18.5 |  |  |
 | Christian Watson | WR | GBP | 12.4 |  |  |
-| Alec Pierce | WR | IND | 12.2 |  |  |
+| Alec Pierce | WR | IND | 12.4 |  |  |
 | Xavier Worthy | WR | KCC | 8.9 |  |  |
 
 ## Best available
 
-**QB** — Jacoby Brissett (ARI), Bryce Young (CAR), Cam Ward (TEN), Aaron Rodgers (PIT), Kirk Cousins (LVR), Tua Tagovailoa (ATL), Deshaun Watson (CLE), Geno Smith (NYJ)
+**QB** — Jacoby Brissett (ARI), Bryce Young (CAR), Cam Ward (TEN), Aaron Rodgers (PIT), Kirk Cousins (LVR), Tua Tagovailoa (ATL), Deshaun Watson (CLE), Sam Darnold (SEA)
 
-**RB** — Alvin Kamara (NOS), Chris Rodriguez (JAC), Devin Singletary (NYG), Sione Vaki (DET), Justice Hill (BAL), George Holani (SEA), Bam Knight (ARI), Kaelon Black (SFO)
+**RB** — Alvin Kamara (NOS), Chris Rodriguez (JAC), Devin Singletary (NYG), Sione Vaki (DET), Justice Hill (BAL), George Holani (SEA), Bam Knight (ARI), Ty Johnson (BUF)
 
-**WR** — Malik Washington (MIA), Tre Tucker (LVR), Keenan Allen (IND), Romeo Doubs (NEP), Jakobi Meyers (JAC), Jerry Jeudy (CLE), Jalen Coker (CAR), Devaughn Vele (NOS)
+**WR** — Malik Washington (MIA), Tre Tucker (LVR), Romeo Doubs (NEP), Jakobi Meyers (JAC), Jerry Jeudy (CLE), Keenan Allen (IND), Jalen Coker (CAR), Devaughn Vele (NOS)
 
-**TE** — Cade Otton (TBB), Pat Freiermuth (PIT), Dalton Schultz (HOU), Oronde Gadsden (LAC), Mike Gesicki (CIN), Gunnar Helm (TEN), AJ Barner (SEA), Greg Dulcich (MIA)
+**TE** — Terrance Ferguson (LAR), Cade Otton (TBB), Pat Freiermuth (PIT), Dalton Schultz (HOU), Oronde Gadsden (LAC), Mike Gesicki (CIN), Gunnar Helm (TEN), AJ Barner (SEA)
 
 **PK** — Tyler Bass (BUF), Wil Lutz (DEN), Cairo Santos (CHI), Jake Elliott (PHI), Chad Ryland (ARI), Eddy Pineiro (SFO), Riley Patterson (MIA), Spencer Shrader (IND)
 
