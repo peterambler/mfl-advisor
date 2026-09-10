@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-10T12:17:43.893092+00:00",
+ "generated_at": "2026-09-10T21:13:56.835875+00:00",
  "season": "2026",
  "week": 1,
  "league": {
@@ -1623,18 +1623,18 @@
    "proj": 20.0
   },
   {
-   "id": "14778",
-   "name": "Tua Tagovailoa",
-   "pos": "QB",
-   "team": "ATL",
-   "proj": 19.9
-  },
-  {
    "id": "13113",
    "name": "Deshaun Watson",
    "pos": "QB",
    "team": "CLE",
    "proj": 19.7
+  },
+  {
+   "id": "14778",
+   "name": "Tua Tagovailoa",
+   "pos": "QB",
+   "team": "ATL",
+   "proj": 18.9
   },
   {
    "id": "13592",
@@ -2729,6 +2729,13 @@
    "proj": 3.1
   },
   {
+   "id": "13124",
+   "name": "Cooper Rush",
+   "pos": "QB",
+   "team": "ATL",
+   "proj": 3.0
+  },
+  {
    "id": "0503",
    "name": "Miami Dolphins",
    "pos": "Def",
@@ -2800,13 +2807,6 @@
    "pos": "TE",
    "team": "IND",
    "proj": 2.9
-  },
-  {
-   "id": "13124",
-   "name": "Cooper Rush",
-   "pos": "QB",
-   "team": "ATL",
-   "proj": 2.8
   },
   {
    "id": "16635",
@@ -2918,19 +2918,19 @@
    "proj": 2.6
   },
   {
+   "id": "17059",
+   "name": "Ollie Gordon",
+   "pos": "RB",
+   "team": "MIA",
+   "proj": 2.6,
+   "injury": "Questionable \u2014 Ribs"
+  },
+  {
    "id": "15916",
    "name": "Drew Ogletree",
    "pos": "TE",
    "team": "IND",
    "proj": 2.5
-  },
-  {
-   "id": "17059",
-   "name": "Ollie Gordon",
-   "pos": "RB",
-   "team": "MIA",
-   "proj": 2.5,
-   "injury": "Questionable \u2014 Ribs"
   },
   {
    "id": "0519",
@@ -4082,6 +4082,12 @@
    "team": "CLE"
   },
   {
+   "id": "16751",
+   "name": "Bub Means",
+   "pos": "WR",
+   "team": "FA"
+  },
+  {
    "id": "17671",
    "name": "C.J. Williams",
    "pos": "WR",
@@ -4155,13 +4161,6 @@
    "name": "Carson Steele",
    "pos": "RB",
    "team": "PHI"
-  },
-  {
-   "id": "16882",
-   "name": "Carter Bradley",
-   "pos": "QB",
-   "team": "JAC",
-   "injury": "IR \u2014 Thumb"
   },
   {
    "id": "17385",
@@ -4291,13 +4290,6 @@
    "injury": "IR \u2014 Undisclosed"
   },
   {
-   "id": "17278",
-   "name": "Coleman Owen",
-   "pos": "WR",
-   "team": "IND",
-   "injury": "IR \u2014 Concussion"
-  },
-  {
    "id": "14727",
    "name": "Craig Reynolds",
    "pos": "RB",
@@ -4315,13 +4307,6 @@
    "name": "DJ Uiagalelei",
    "pos": "QB",
    "team": "LAC"
-  },
-  {
-   "id": "17325",
-   "name": "Dalevon Campbell",
-   "pos": "WR",
-   "team": "LAC",
-   "injury": "IR \u2014 Leg"
   },
   {
    "id": "17699",
@@ -4383,6 +4368,19 @@
    "pos": "WR",
    "team": "TBB",
    "injury": "IR-R \u2014 Undisclosed"
+  },
+  {
+   "id": "16219",
+   "name": "Davis Allen",
+   "pos": "TE",
+   "team": "LAR",
+   "injury": "Questionable \u2014 Quadriceps"
+  },
+  {
+   "id": "17717",
+   "name": "Davon Booth",
+   "pos": "RB",
+   "team": "IND"
   }
  ],
  "recent_transactions": [

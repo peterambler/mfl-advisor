@@ -51,14 +51,14 @@
     "week": "YTD"
    },
    {
-    "id": "12437",
-    "isAvailable": "0",
+    "id": "16342",
+    "isAvailable": "1",
     "score": "7.0",
     "week": "YTD"
    },
    {
-    "id": "16342",
-    "isAvailable": "1",
+    "id": "12437",
+    "isAvailable": "0",
     "score": "7.0",
     "week": "YTD"
    },
@@ -99,13 +99,13 @@
     "week": "YTD"
    },
    {
-    "id": "16608",
+    "id": "17267",
     "isAvailable": "1",
     "score": "2.9",
     "week": "YTD"
    },
    {
-    "id": "17267",
+    "id": "16608",
     "isAvailable": "1",
     "score": "2.9",
     "week": "YTD"
@@ -141,18 +141,6 @@
     "week": "YTD"
    },
    {
-    "id": "16213",
-    "isAvailable": "0",
-    "score": "0.0",
-    "week": "YTD"
-   },
-   {
-    "id": "15779",
-    "isAvailable": "1",
-    "score": "0.0",
-    "week": "YTD"
-   },
-   {
     "id": "15103",
     "isAvailable": "1",
     "score": "0.0",
@@ -165,19 +153,7 @@
     "week": "YTD"
    },
    {
-    "id": "15767",
-    "isAvailable": "1",
-    "score": "0.0",
-    "week": "YTD"
-   },
-   {
-    "id": "14086",
-    "isAvailable": "1",
-    "score": "0.0",
-    "week": "YTD"
-   },
-   {
-    "id": "12626",
+    "id": "13635",
     "isAvailable": "0",
     "score": "0.0",
     "week": "YTD"
@@ -189,7 +165,43 @@
     "week": "YTD"
    },
    {
+    "id": "16213",
+    "isAvailable": "0",
+    "score": "0.0",
+    "week": "YTD"
+   },
+   {
     "id": "17108",
+    "isAvailable": "1",
+    "score": "0.0",
+    "week": "YTD"
+   },
+   {
+    "id": "12626",
+    "isAvailable": "0",
+    "score": "0.0",
+    "week": "YTD"
+   },
+   {
+    "id": "14086",
+    "isAvailable": "1",
+    "score": "0.0",
+    "week": "YTD"
+   },
+   {
+    "id": "15767",
+    "isAvailable": "1",
+    "score": "0.0",
+    "week": "YTD"
+   },
+   {
+    "id": "17134",
+    "isAvailable": "1",
+    "score": "0.0",
+    "week": "YTD"
+   },
+   {
+    "id": "15779",
     "isAvailable": "1",
     "score": "0.0",
     "week": "YTD"
@@ -203,18 +215,6 @@
    {
     "id": "17754",
     "isAvailable": "1",
-    "score": "0.0",
-    "week": "YTD"
-   },
-   {
-    "id": "17134",
-    "isAvailable": "1",
-    "score": "0.0",
-    "week": "YTD"
-   },
-   {
-    "id": "13635",
-    "isAvailable": "0",
     "score": "0.0",
     "week": "YTD"
    }
