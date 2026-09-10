@@ -406,10 +406,6 @@
     "id": "0007",
     "player": [
      {
-      "id": "16641",
-      "status": "ROSTER"
-     },
-     {
       "id": "16186",
       "status": "ROSTER"
      },
@@ -462,8 +458,16 @@
       "status": "ROSTER"
      },
      {
-      "id": "0501",
+      "id": "15802",
       "status": "ROSTER"
+     },
+     {
+      "id": "0516",
+      "status": "ROSTER"
+     },
+     {
+      "id": "16641",
+      "status": "INJURED_RESERVE"
      }
     ],
     "week": "1"

@@ -1,12 +1,224 @@
 {
  "encoding": "utf-8",
  "playerScores": {
-  "playerScore": {
-   "id": "",
-   "isAvailable": "1",
-   "score": "",
-   "week": "YTD"
-  },
+  "playerScore": [
+   {
+    "id": "16185",
+    "isAvailable": "0",
+    "score": "26.2",
+    "week": "YTD"
+   },
+   {
+    "id": "14057",
+    "isAvailable": "1",
+    "score": "14.7",
+    "week": "YTD"
+   },
+   {
+    "id": "15259",
+    "isAvailable": "0",
+    "score": "14.5",
+    "week": "YTD"
+   },
+   {
+    "id": "16580",
+    "isAvailable": "0",
+    "score": "11.6",
+    "week": "YTD"
+   },
+   {
+    "id": "13289",
+    "isAvailable": "1",
+    "score": "9.1",
+    "week": "YTD"
+   },
+   {
+    "id": "0515",
+    "isAvailable": "0",
+    "score": "9.0",
+    "week": "YTD"
+   },
+   {
+    "id": "17473",
+    "isAvailable": "0",
+    "score": "7.8",
+    "week": "YTD"
+   },
+   {
+    "id": "17607",
+    "isAvailable": "1",
+    "score": "7.3",
+    "week": "YTD"
+   },
+   {
+    "id": "12437",
+    "isAvailable": "0",
+    "score": "7.0",
+    "week": "YTD"
+   },
+   {
+    "id": "16342",
+    "isAvailable": "1",
+    "score": "7.0",
+    "week": "YTD"
+   },
+   {
+    "id": "12676",
+    "isAvailable": "0",
+    "score": "6.3",
+    "week": "YTD"
+   },
+   {
+    "id": "14104",
+    "isAvailable": "0",
+    "score": "5.6",
+    "week": "YTD"
+   },
+   {
+    "id": "13164",
+    "isAvailable": "1",
+    "score": "5.5",
+    "week": "YTD"
+   },
+   {
+    "id": "17220",
+    "isAvailable": "0",
+    "score": "5.0",
+    "week": "YTD"
+   },
+   {
+    "id": "16496",
+    "isAvailable": "1",
+    "score": "4.0",
+    "week": "YTD"
+   },
+   {
+    "id": "16723",
+    "isAvailable": "1",
+    "score": "3.6",
+    "week": "YTD"
+   },
+   {
+    "id": "16608",
+    "isAvailable": "1",
+    "score": "2.9",
+    "week": "YTD"
+   },
+   {
+    "id": "17267",
+    "isAvailable": "1",
+    "score": "2.9",
+    "week": "YTD"
+   },
+   {
+    "id": "0504",
+    "isAvailable": "0",
+    "score": "2.0",
+    "week": "YTD"
+   },
+   {
+    "id": "16080",
+    "isAvailable": "1",
+    "score": "1.4",
+    "week": "YTD"
+   },
+   {
+    "id": "17274",
+    "isAvailable": "1",
+    "score": "1.1",
+    "week": "YTD"
+   },
+   {
+    "id": "13592",
+    "isAvailable": "1",
+    "score": "0.7",
+    "week": "YTD"
+   },
+   {
+    "id": "16432",
+    "isAvailable": "1",
+    "score": "0.3",
+    "week": "YTD"
+   },
+   {
+    "id": "16213",
+    "isAvailable": "0",
+    "score": "0.0",
+    "week": "YTD"
+   },
+   {
+    "id": "15779",
+    "isAvailable": "1",
+    "score": "0.0",
+    "week": "YTD"
+   },
+   {
+    "id": "15103",
+    "isAvailable": "1",
+    "score": "0.0",
+    "week": "YTD"
+   },
+   {
+    "id": "13315",
+    "isAvailable": "1",
+    "score": "0.0",
+    "week": "YTD"
+   },
+   {
+    "id": "15767",
+    "isAvailable": "1",
+    "score": "0.0",
+    "week": "YTD"
+   },
+   {
+    "id": "14086",
+    "isAvailable": "1",
+    "score": "0.0",
+    "week": "YTD"
+   },
+   {
+    "id": "12626",
+    "isAvailable": "0",
+    "score": "0.0",
+    "week": "YTD"
+   },
+   {
+    "id": "16217",
+    "isAvailable": "1",
+    "score": "0.0",
+    "week": "YTD"
+   },
+   {
+    "id": "17108",
+    "isAvailable": "1",
+    "score": "0.0",
+    "week": "YTD"
+   },
+   {
+    "id": "0524",
+    "isAvailable": "0",
+    "score": "0.0",
+    "week": "YTD"
+   },
+   {
+    "id": "17754",
+    "isAvailable": "1",
+    "score": "0.0",
+    "week": "YTD"
+   },
+   {
+    "id": "17134",
+    "isAvailable": "1",
+    "score": "0.0",
+    "week": "YTD"
+   },
+   {
+    "id": "13635",
+    "isAvailable": "0",
+    "score": "0.0",
+    "week": "YTD"
+   }
+  ],
   "week": "YTD"
  },
  "version": "1.0"
