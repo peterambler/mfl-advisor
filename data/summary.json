@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-10T21:13:56.835875+00:00",
+ "generated_at": "2026-09-11T12:18:08.177999+00:00",
  "season": "2026",
  "week": 1,
  "league": {
@@ -79,7 +79,6 @@
     "name": "Dalton Kincaid",
     "pos": "TE",
     "team": "BUF",
-    "ytd": 0.0,
     "proj": 11.0
    },
    {
@@ -94,8 +93,7 @@
     "name": "Ja'Marr Chase",
     "pos": "WR",
     "team": "CIN",
-    "proj": 21.9,
-    "injury": "Questionable \u2014 Knee"
+    "proj": 21.9
    },
    {
     "id": "15751",
@@ -116,7 +114,8 @@
     "name": "Alec Pierce",
     "pos": "WR",
     "team": "IND",
-    "proj": 12.2
+    "proj": 12.2,
+    "injury": "Questionable \u2014 Heel"
    },
    {
     "id": "16620",
@@ -149,8 +148,7 @@
      "name": "Cameron Dicker",
      "pos": "PK",
      "team": "LAC",
-     "proj": 5.0,
-     "injury": "Questionable \u2014 Undisclosed"
+     "proj": 5.0
     },
     {
      "id": "16580",
@@ -207,8 +205,7 @@
      "name": "Kyle Monangai",
      "pos": "RB",
      "team": "CHI",
-     "proj": 7.8,
-     "injury": "Questionable \u2014 Knee"
+     "proj": 7.8
     },
     {
      "id": "16169",
@@ -238,8 +235,7 @@
      "name": "Zay Flowers",
      "pos": "WR",
      "team": "BAL",
-     "proj": 14.2,
-     "injury": "Questionable \u2014 Lower Body"
+     "proj": 14.9
     },
     {
      "id": "16618",
@@ -253,8 +249,7 @@
      "name": "Khalil Shakir",
      "pos": "WR",
      "team": "BUF",
-     "proj": 11.7,
-     "injury": "Questionable \u2014 Undisclosed"
+     "proj": 11.7
     }
    ]
   },
@@ -282,18 +277,19 @@
      "proj": 6.7
     },
     {
+     "id": "15698",
+     "name": "Brock Purdy",
+     "pos": "QB",
+     "team": "SFO",
+     "ytd": 23.2,
+     "proj": 26.7
+    },
+    {
      "id": "16579",
      "name": "Caleb Williams",
      "pos": "QB",
      "team": "CHI",
      "proj": 24.4
-    },
-    {
-     "id": "15698",
-     "name": "Brock Purdy",
-     "pos": "QB",
-     "team": "SFO",
-     "proj": 26.7
     },
     {
      "id": "15711",
@@ -307,8 +303,7 @@
      "name": "Breece Hall",
      "pos": "RB",
      "team": "NYJ",
-     "proj": 11.9,
-     "injury": "Questionable \u2014 Groin"
+     "proj": 11.9
     },
     {
      "id": "14823",
@@ -351,8 +346,7 @@
      "name": "Luther Burden",
      "pos": "WR",
      "team": "CHI",
-     "proj": 8.9,
-     "injury": "Questionable \u2014 Groin"
+     "proj": 8.9
     },
     {
      "id": "13163",
@@ -427,8 +421,7 @@
      "name": "Bhayshul Tuten",
      "pos": "RB",
      "team": "JAC",
-     "proj": 13.4,
-     "injury": "Questionable \u2014 Illness"
+     "proj": 13.4
     },
     {
      "id": "15742",
@@ -445,6 +438,14 @@
      "proj": 12.9
     },
     {
+     "id": "13299",
+     "name": "George Kittle",
+     "pos": "TE",
+     "team": "SFO",
+     "ytd": 3.5,
+     "proj": 14.6
+    },
+    {
      "id": "15329",
      "name": "Kyle Pitts",
      "pos": "TE",
@@ -459,12 +460,12 @@
      "proj": 12.7
     },
     {
-     "id": "13299",
-     "name": "George Kittle",
-     "pos": "TE",
-     "team": "SFO",
-     "proj": 14.4,
-     "injury": "Questionable \u2014 Achilles"
+     "id": "11675",
+     "name": "Davante Adams",
+     "pos": "WR",
+     "team": "LAR",
+     "ytd": 5.6,
+     "proj": 13.3
     },
     {
      "id": "15282",
@@ -472,13 +473,6 @@
      "pos": "WR",
      "team": "PHI",
      "proj": 15.1
-    },
-    {
-     "id": "11675",
-     "name": "Davante Adams",
-     "pos": "WR",
-     "team": "LAR",
-     "proj": 13.3
     },
     {
      "id": "17071",
@@ -525,6 +519,7 @@
      "name": "Matthew Stafford",
      "pos": "QB",
      "team": "LAR",
+     "ytd": 5.8,
      "proj": 25.6
     },
     {
@@ -539,8 +534,7 @@
      "name": "Ashton Jeanty",
      "pos": "RB",
      "team": "LVR",
-     "proj": 16.5,
-     "injury": "Questionable \u2014 Ankle"
+     "proj": 16.5
     },
     {
      "id": "17045",
@@ -562,7 +556,7 @@
      "pos": "RB",
      "team": "LAC",
      "proj": 3.7,
-     "injury": "Questionable \u2014 Undisclosed"
+     "injury": "Questionable \u2014 Hamstring"
     },
     {
      "id": "15799",
@@ -591,23 +585,21 @@
      "pos": "WR",
      "team": "CHI",
      "proj": 11.5,
-     "injury": "Questionable \u2014 Leg"
+     "injury": "Questionable \u2014 Calf"
     },
     {
      "id": "17497",
      "name": "Carnell Tate",
      "pos": "WR",
      "team": "TEN",
-     "proj": 14.2,
-     "injury": "Questionable \u2014 Undisclosed"
+     "proj": 14.2
     },
     {
      "id": "16187",
      "name": "Josh Downs",
      "pos": "WR",
      "team": "IND",
-     "proj": 12.7,
-     "injury": "Questionable \u2014 Calf"
+     "proj": 12.7
     },
     {
      "id": "17074",
@@ -632,6 +624,7 @@
      "name": "Los Angeles Rams",
      "pos": "Def",
      "team": "LAR",
+     "ytd": 2.0,
      "proj": 4.9
     },
     {
@@ -639,6 +632,7 @@
      "name": "Harrison Mevis",
      "pos": "PK",
      "team": "LAR",
+     "ytd": 1.0,
      "proj": 6.3
     },
     {
@@ -656,6 +650,14 @@
      "proj": 24.8
     },
     {
+     "id": "15710",
+     "name": "Kyren Williams",
+     "pos": "RB",
+     "team": "LAR",
+     "ytd": 15.5,
+     "proj": 15.0
+    },
+    {
      "id": "17473",
      "name": "Jadarian Price",
      "pos": "RB",
@@ -671,19 +673,12 @@
      "proj": 15.3
     },
     {
-     "id": "15710",
-     "name": "Kyren Williams",
-     "pos": "RB",
-     "team": "LAR",
-     "proj": 15.0
-    },
-    {
      "id": "16597",
      "name": "Jonathon Brooks",
      "pos": "RB",
      "team": "CAR",
      "proj": 8.9,
-     "injury": "Questionable \u2014 General Soreness"
+     "injury": "Questionable \u2014 Groin"
     },
     {
      "id": "17256",
@@ -691,15 +686,22 @@
      "pos": "RB",
      "team": "WAS",
      "proj": 9.0,
-     "injury": "Questionable \u2014 Lower Body"
+     "injury": "Questionable \u2014 Groin"
     },
     {
      "id": "16222",
      "name": "Tucker Kraft",
      "pos": "TE",
      "team": "GBP",
-     "proj": 8.6,
-     "injury": "Questionable \u2014 Knee - ACL"
+     "proj": 8.6
+    },
+    {
+     "id": "11671",
+     "name": "Mike Evans",
+     "pos": "WR",
+     "team": "SFO",
+     "ytd": 16.9,
+     "proj": 12.6
     },
     {
      "id": "16194",
@@ -707,14 +709,6 @@
      "pos": "WR",
      "team": "KCC",
      "proj": 14.6
-    },
-    {
-     "id": "11671",
-     "name": "Mike Evans",
-     "pos": "WR",
-     "team": "SFO",
-     "proj": 12.6,
-     "injury": "Questionable \u2014 Groin"
     },
     {
      "id": "16195",
@@ -728,8 +722,7 @@
      "name": "Michael Pittman",
      "pos": "WR",
      "team": "PIT",
-     "proj": 8.3,
-     "injury": "Questionable \u2014 Hamstring"
+     "proj": 8.3
     },
     {
      "id": "17499",
@@ -769,8 +762,7 @@
      "name": "Patrick Mahomes",
      "pos": "QB",
      "team": "KCC",
-     "proj": 24.2,
-     "injury": "Questionable \u2014 Knee - ACL"
+     "proj": 25.4
     },
     {
      "id": "13590",
@@ -778,6 +770,14 @@
      "pos": "QB",
      "team": "TBB",
      "proj": 22.2
+    },
+    {
+     "id": "16593",
+     "name": "Blake Corum",
+     "pos": "RB",
+     "team": "LAR",
+     "ytd": 5.4,
+     "proj": 7.4
     },
     {
      "id": "14802",
@@ -798,8 +798,7 @@
      "name": "Chuba Hubbard",
      "pos": "RB",
      "team": "CAR",
-     "proj": 11.7,
-     "injury": "Questionable \u2014 Hamstring"
+     "proj": 11.7
     },
     {
      "id": "13319",
@@ -809,19 +808,11 @@
      "proj": 12.4
     },
     {
-     "id": "16593",
-     "name": "Blake Corum",
-     "pos": "RB",
-     "team": "LAR",
-     "proj": 7.4
-    },
-    {
      "id": "16214",
      "name": "Sam LaPorta",
      "pos": "TE",
      "team": "DET",
-     "proj": 11.5,
-     "injury": "Questionable \u2014 Hip"
+     "proj": 11.5
     },
     {
      "id": "13674",
@@ -842,7 +833,6 @@
      "name": "D.J. Moore",
      "pos": "WR",
      "team": "BUF",
-     "ytd": 0.0,
      "proj": 13.2
     },
     {
@@ -857,8 +847,7 @@
      "name": "DK Metcalf",
      "pos": "WR",
      "team": "PIT",
-     "proj": 12.7,
-     "injury": "Questionable \u2014 Undisclosed"
+     "proj": 12.7
     }
    ]
   },
@@ -904,8 +893,7 @@
      "name": "D'Andre Swift",
      "pos": "RB",
      "team": "CHI",
-     "proj": 13.8,
-     "injury": "Questionable \u2014 Abdomen"
+     "proj": 13.8
     },
     {
      "id": "16598",
@@ -947,7 +935,7 @@
      "name": "Brock Bowers",
      "pos": "TE",
      "team": "LVR",
-     "proj": 12.0,
+     "injury": "Out \u2014 Knee - Meniscus",
      "slot": "INJURED_RESERVE"
     },
     {
@@ -962,8 +950,7 @@
      "name": "Emeka Egbuka",
      "pos": "WR",
      "team": "TBB",
-     "proj": 13.5,
-     "injury": "Questionable \u2014 Toe"
+     "proj": 13.5
     },
     {
      "id": "16627",
@@ -977,8 +964,7 @@
      "name": "Tee Higgins",
      "pos": "WR",
      "team": "CIN",
-     "proj": 15.2,
-     "injury": "Questionable \u2014 Heel"
+     "proj": 15.2
     },
     {
      "id": "15756",
@@ -1047,16 +1033,14 @@
      "name": "Tyrone Tracy",
      "pos": "RB",
      "team": "NYG",
-     "proj": 8.9,
-     "injury": "Questionable \u2014 Neck"
+     "proj": 8.9
     },
     {
      "id": "15721",
      "name": "Rachaad White",
      "pos": "RB",
      "team": "WAS",
-     "proj": 7.1,
-     "injury": "Questionable \u2014 Hamstring"
+     "proj": 7.1
     },
     {
      "id": "17047",
@@ -1089,6 +1073,14 @@
      "proj": 17.7
     },
     {
+     "id": "14136",
+     "name": "Deebo Samuel",
+     "pos": "WR",
+     "team": "SFO",
+     "ytd": 18.0,
+     "proj": 9.8
+    },
+    {
      "id": "15762",
      "name": "George Pickens",
      "pos": "WR",
@@ -1101,13 +1093,6 @@
      "pos": "WR",
      "team": "ARI",
      "proj": 12.8
-    },
-    {
-     "id": "14136",
-     "name": "Deebo Samuel",
-     "pos": "WR",
-     "team": "SFO",
-     "proj": 9.8
     }
    ]
   },
@@ -1125,7 +1110,6 @@
      "name": "Minnesota Vikings",
      "pos": "Def",
      "team": "MIN",
-     "ytd": 0.0,
      "proj": 3.2
     },
     {
@@ -1183,8 +1167,7 @@
      "name": "Tyler Warren",
      "pos": "TE",
      "team": "IND",
-     "proj": 11.8,
-     "injury": "Questionable \u2014 Groin"
+     "proj": 11.8
     },
     {
      "id": "16615",
@@ -1213,8 +1196,8 @@
      "name": "De'Zhaun Stribling",
      "pos": "WR",
      "team": "SFO",
-     "proj": 3.1,
-     "injury": "Questionable \u2014 Shoulder"
+     "ytd": 0.0,
+     "proj": 3.1
     },
     {
      "id": "17500",
@@ -1274,8 +1257,8 @@
      "name": "Christian McCaffrey",
      "pos": "RB",
      "team": "SFO",
-     "proj": 22.4,
-     "injury": "Questionable \u2014 Undisclosed"
+     "ytd": 13.8,
+     "proj": 22.4
     },
     {
      "id": "15253",
@@ -1299,18 +1282,19 @@
      "proj": 7.7
     },
     {
+     "id": "14871",
+     "name": "Colby Parkinson",
+     "pos": "TE",
+     "team": "LAR",
+     "ytd": 1.8,
+     "proj": 9.2
+    },
+    {
      "id": "15794",
      "name": "Trey McBride",
      "pos": "TE",
      "team": "ARI",
      "proj": 18.6
-    },
-    {
-     "id": "14871",
-     "name": "Colby Parkinson",
-     "pos": "TE",
-     "team": "LAR",
-     "proj": 9.2
     },
     {
      "id": "15290",
@@ -1418,7 +1402,6 @@
      "name": "Dalton Kincaid",
      "pos": "TE",
      "team": "BUF",
-     "ytd": 0.0,
      "proj": 11.0
     },
     {
@@ -1433,8 +1416,7 @@
      "name": "Ja'Marr Chase",
      "pos": "WR",
      "team": "CIN",
-     "proj": 21.9,
-     "injury": "Questionable \u2014 Knee"
+     "proj": 21.9
     },
     {
      "id": "15751",
@@ -1455,7 +1437,8 @@
      "name": "Alec Pierce",
      "pos": "WR",
      "team": "IND",
-     "proj": 12.2
+     "proj": 12.2,
+     "injury": "Questionable \u2014 Heel"
     },
     {
      "id": "16620",
@@ -1497,11 +1480,18 @@
      "proj": 24.4
     },
     {
+     "id": "17485",
+     "name": "Kaelon Black",
+     "pos": "RB",
+     "team": "SFO",
+     "ytd": 8.0,
+     "proj": 5.0
+    },
+    {
      "id": "12626",
      "name": "Derrick Henry",
      "pos": "RB",
      "team": "BAL",
-     "ytd": 0.0,
      "proj": 17.8
     },
     {
@@ -1509,7 +1499,7 @@
      "name": "TreVeyon Henderson",
      "pos": "RB",
      "team": "NEP",
-     "injury": "Questionable \u2014 Ankle"
+     "injury": "Out \u2014 Ankle"
     },
     {
      "id": "16165",
@@ -1526,13 +1516,6 @@
      "proj": 6.3
     },
     {
-     "id": "17485",
-     "name": "Kaelon Black",
-     "pos": "RB",
-     "team": "SFO",
-     "proj": 5.0
-    },
-    {
      "id": "15798",
      "name": "Isaiah Likely",
      "pos": "TE",
@@ -1544,8 +1527,8 @@
      "name": "Puka Nacua",
      "pos": "WR",
      "team": "LAR",
-     "proj": 21.6,
-     "injury": "Questionable \u2014 Groin"
+     "ytd": 12.4,
+     "proj": 21.6
     },
     {
      "id": "15287",
@@ -1580,8 +1563,7 @@
      "name": "Wan'Dale Robinson",
      "pos": "WR",
      "team": "TEN",
-     "proj": 11.8,
-     "injury": "Questionable \u2014 Head"
+     "proj": 11.8
     }
    ]
   }
@@ -1634,7 +1616,8 @@
    "name": "Tua Tagovailoa",
    "pos": "QB",
    "team": "ATL",
-   "proj": 18.9
+   "proj": 18.9,
+   "injury": "Questionable \u2014 Oblique"
   },
   {
    "id": "13592",
@@ -1656,8 +1639,8 @@
    "name": "Terrance Ferguson",
    "pos": "TE",
    "team": "LAR",
-   "proj": 11.4,
-   "injury": "Questionable \u2014 General Soreness"
+   "ytd": 0.0,
+   "proj": 11.4
   },
   {
    "id": "16684",
@@ -1701,7 +1684,7 @@
    "pos": "WR",
    "team": "JAC",
    "proj": 9.6,
-   "injury": "Questionable \u2014 Hand"
+   "injury": "Questionable \u2014 Thumb"
   },
   {
    "id": "14833",
@@ -1765,8 +1748,7 @@
    "name": "Theo Johnson",
    "pos": "TE",
    "team": "NYG",
-   "proj": 8.5,
-   "injury": "Questionable \u2014 Shoulder"
+   "proj": 8.5
   },
   {
    "id": "16788",
@@ -1845,8 +1827,14 @@
    "name": "Keon Coleman",
    "pos": "WR",
    "team": "BUF",
-   "proj": 7.2,
-   "injury": "Questionable \u2014 Foot"
+   "proj": 7.2
+  },
+  {
+   "id": "16189",
+   "name": "Marvin Mims",
+   "pos": "WR",
+   "team": "DEN",
+   "proj": 7.1
   },
   {
    "id": "13164",
@@ -1876,36 +1864,13 @@
    "name": "Xavier Legette",
    "pos": "WR",
    "team": "CAR",
-   "proj": 6.8,
-   "injury": "Questionable \u2014 Ankle"
+   "proj": 6.8
   },
   {
    "id": "16626",
    "name": "Adonai Mitchell",
    "pos": "WR",
    "team": "NYJ",
-   "proj": 6.7
-  },
-  {
-   "id": "16036",
-   "name": "Jake Tonges",
-   "pos": "TE",
-   "team": "SFO",
-   "proj": 6.7
-  },
-  {
-   "id": "16189",
-   "name": "Marvin Mims",
-   "pos": "WR",
-   "team": "DEN",
-   "proj": 6.7,
-   "injury": "Questionable \u2014 Foot"
-  },
-  {
-   "id": "15293",
-   "name": "Rashod Bateman",
-   "pos": "WR",
-   "team": "BAL",
    "proj": 6.7
   },
   {
@@ -1952,18 +1917,39 @@
    "proj": 6.4
   },
   {
+   "id": "16036",
+   "name": "Jake Tonges",
+   "pos": "TE",
+   "team": "SFO",
+   "ytd": 0.0,
+   "proj": 6.4
+  },
+  {
+   "id": "15293",
+   "name": "Rashod Bateman",
+   "pos": "WR",
+   "team": "BAL",
+   "proj": 6.4
+  },
+  {
    "id": "17072",
    "name": "Tre Harris",
    "pos": "WR",
    "team": "LAC",
-   "proj": 6.4,
-   "injury": "Questionable \u2014 Undisclosed"
+   "proj": 6.4
   },
   {
    "id": "16174",
    "name": "Chris Rodriguez",
    "pos": "RB",
    "team": "JAC",
+   "proj": 6.3
+  },
+  {
+   "id": "15800",
+   "name": "Connor Heyward",
+   "pos": "TE",
+   "team": "LVR",
    "proj": 6.3
   },
   {
@@ -1999,7 +1985,6 @@
    "name": "Justice Hill",
    "pos": "RB",
    "team": "BAL",
-   "ytd": 0.0,
    "proj": 6.2
   },
   {
@@ -2021,8 +2006,7 @@
    "name": "Jaylin Noel",
    "pos": "WR",
    "team": "HOU",
-   "proj": 6.0,
-   "injury": "Questionable \u2014 Hamstring"
+   "proj": 6.0
   },
   {
    "id": "14867",
@@ -2116,8 +2100,7 @@
    "name": "Marcus Mariota",
    "pos": "QB",
    "team": "WAS",
-   "proj": 5.3,
-   "injury": "Questionable \u2014 Knee - MCL"
+   "proj": 5.3
   },
   {
    "id": "14095",
@@ -2125,7 +2108,15 @@
    "pos": "RB",
    "team": "BUF",
    "proj": 5.3,
-   "injury": "Questionable \u2014 Lower Leg"
+   "injury": "Questionable \u2014 Hamstring"
+  },
+  {
+   "id": "13719",
+   "name": "Eddy Pineiro",
+   "pos": "PK",
+   "team": "SFO",
+   "ytd": 11.0,
+   "proj": 5.2
   },
   {
    "id": "16292",
@@ -2139,13 +2130,6 @@
    "name": "David Njoku",
    "pos": "TE",
    "team": "LAC",
-   "proj": 5.2
-  },
-  {
-   "id": "13719",
-   "name": "Eddy Pineiro",
-   "pos": "PK",
-   "team": "SFO",
    "proj": 5.2
   },
   {
@@ -2184,11 +2168,12 @@
    "proj": 5.1
   },
   {
-   "id": "16212",
-   "name": "Michael Mayer",
-   "pos": "TE",
-   "team": "LVR",
-   "proj": 5.1
+   "id": "12785",
+   "name": "Demarcus Robinson",
+   "pos": "WR",
+   "team": "SFO",
+   "ytd": 13.0,
+   "proj": 5.0
   },
   {
    "id": "0521",
@@ -2205,18 +2190,19 @@
    "proj": 5.0
   },
   {
-   "id": "12785",
-   "name": "Demarcus Robinson",
-   "pos": "WR",
-   "team": "SFO",
-   "proj": 5.0
-  },
-  {
    "id": "16603",
    "name": "Ray Davis",
    "pos": "RB",
    "team": "BUF",
    "proj": 5.0
+  },
+  {
+   "id": "12678",
+   "name": "Tyler Higbee",
+   "pos": "TE",
+   "team": "LAR",
+   "ytd": 3.5,
+   "proj": 4.9
   },
   {
    "id": "17736",
@@ -2251,13 +2237,6 @@
    "name": "Trey Smack",
    "pos": "PK",
    "team": "GBP",
-   "proj": 4.9
-  },
-  {
-   "id": "12678",
-   "name": "Tyler Higbee",
-   "pos": "TE",
-   "team": "LAR",
    "proj": 4.9
   },
   {
@@ -2307,13 +2286,6 @@
    "name": "Noah Gray",
    "pos": "TE",
    "team": "KCC",
-   "proj": 4.6
-  },
-  {
-   "id": "17082",
-   "name": "Pat Bryant",
-   "pos": "WR",
-   "team": "DEN",
    "proj": 4.6
   },
   {
@@ -2370,6 +2342,13 @@
    "name": "Josh Oliver",
    "pos": "TE",
    "team": "MIN",
+   "proj": 4.4
+  },
+  {
+   "id": "17082",
+   "name": "Pat Bryant",
+   "pos": "WR",
+   "team": "DEN",
    "proj": 4.4
   },
   {
@@ -2462,7 +2441,7 @@
    "pos": "RB",
    "team": "TBB",
    "proj": 4.2,
-   "injury": "Questionable \u2014 Undisclosed"
+   "injury": "Questionable \u2014 Hamstring"
   },
   {
    "id": "17607",
@@ -2501,14 +2480,6 @@
    "proj": 4.0
   },
   {
-   "id": "11367",
-   "name": "Kyle Juszczyk",
-   "pos": "RB",
-   "team": "SFO",
-   "proj": 4.0,
-   "injury": "Questionable \u2014 Finger"
-  },
-  {
    "id": "0529",
    "name": "New Orleans Saints",
    "pos": "Def",
@@ -2527,6 +2498,14 @@
    "name": "Blake Whiteheart",
    "pos": "TE",
    "team": "CLE",
+   "proj": 3.8
+  },
+  {
+   "id": "11367",
+   "name": "Kyle Juszczyk",
+   "pos": "RB",
+   "team": "SFO",
+   "ytd": 0.0,
    "proj": 3.8
   },
   {
@@ -2583,6 +2562,14 @@
    "name": "Konata Mumpfield",
    "pos": "WR",
    "team": "LAR",
+   "ytd": 0.0,
+   "proj": 3.7
+  },
+  {
+   "id": "16212",
+   "name": "Michael Mayer",
+   "pos": "TE",
+   "team": "LVR",
    "proj": 3.7
   },
   {
@@ -2597,16 +2584,14 @@
    "name": "Isaiah Davis",
    "pos": "RB",
    "team": "NYJ",
-   "proj": 3.6,
-   "injury": "Questionable \u2014 Knee"
+   "proj": 3.6
   },
   {
    "id": "16171",
    "name": "Kendre Miller",
    "pos": "RB",
    "team": "NOS",
-   "proj": 3.6,
-   "injury": "Questionable \u2014 Undisclosed"
+   "proj": 3.6
   },
   {
    "id": "15626",
@@ -2630,13 +2615,6 @@
    "proj": 3.3
   },
   {
-   "id": "15238",
-   "name": "Justin Fields",
-   "pos": "QB",
-   "team": "KCC",
-   "proj": 3.3
-  },
-  {
    "id": "10413",
    "name": "Tyrod Taylor",
    "pos": "QB",
@@ -2655,7 +2633,8 @@
    "name": "Audric Estime",
    "pos": "RB",
    "team": "NOS",
-   "proj": 3.2
+   "proj": 3.2,
+   "injury": "Questionable \u2014 Thigh"
   },
   {
    "id": "16387",
@@ -2683,6 +2662,13 @@
    "name": "Jonnu Smith",
    "pos": "TE",
    "team": "GBP",
+   "proj": 3.2
+  },
+  {
+   "id": "15238",
+   "name": "Justin Fields",
+   "pos": "QB",
+   "team": "KCC",
    "proj": 3.2
   },
   {
@@ -2795,18 +2781,19 @@
    "proj": 2.9
   },
   {
-   "id": "15335",
-   "name": "Luke Farrell",
-   "pos": "TE",
-   "team": "SFO",
-   "proj": 2.9
-  },
-  {
    "id": "13246",
    "name": "Mo Alie-Cox",
    "pos": "TE",
    "team": "IND",
    "proj": 2.9
+  },
+  {
+   "id": "15335",
+   "name": "Luke Farrell",
+   "pos": "TE",
+   "team": "SFO",
+   "ytd": 4.4,
+   "proj": 2.8
   },
   {
    "id": "16635",
@@ -2841,14 +2828,6 @@
    "name": "Isaiah Bond",
    "pos": "WR",
    "team": "CLE",
-   "proj": 2.7,
-   "injury": "Questionable \u2014 Concussion"
-  },
-  {
-   "id": "15301",
-   "name": "Tutu Atwell",
-   "pos": "WR",
-   "team": "LAR",
    "proj": 2.7
   },
   {
@@ -2856,8 +2835,7 @@
    "name": "Ben Sinnott",
    "pos": "TE",
    "team": "WAS",
-   "proj": 2.6,
-   "injury": "Questionable \u2014 Oblique"
+   "proj": 2.6
   },
   {
    "id": "17529",
@@ -2865,7 +2843,7 @@
    "pos": "WR",
    "team": "LAC",
    "proj": 2.6,
-   "injury": "Questionable \u2014 Undisclosed"
+   "injury": "Questionable \u2014 Hip"
   },
   {
    "id": "16647",
@@ -2882,10 +2860,10 @@
    "proj": 2.6
   },
   {
-   "id": "15800",
-   "name": "Connor Heyward",
+   "id": "15916",
+   "name": "Drew Ogletree",
    "pos": "TE",
-   "team": "LVR",
+   "team": "IND",
    "proj": 2.6
   },
   {
@@ -2900,8 +2878,7 @@
    "name": "Kenyon Sadiq",
    "pos": "TE",
    "team": "NYJ",
-   "proj": 2.6,
-   "injury": "Questionable \u2014 Abdomen"
+   "proj": 2.6
   },
   {
    "id": "0513",
@@ -2922,15 +2899,7 @@
    "name": "Ollie Gordon",
    "pos": "RB",
    "team": "MIA",
-   "proj": 2.6,
-   "injury": "Questionable \u2014 Ribs"
-  },
-  {
-   "id": "15916",
-   "name": "Drew Ogletree",
-   "pos": "TE",
-   "team": "IND",
-   "proj": 2.5
+   "proj": 2.6
   },
   {
    "id": "0519",
@@ -2959,14 +2928,6 @@
    "pos": "TE",
    "team": "CIN",
    "proj": 2.4
-  },
-  {
-   "id": "16688",
-   "name": "Isaac Guerendo",
-   "pos": "RB",
-   "team": "SFO",
-   "proj": 2.4,
-   "injury": "IR-PUP \u2014 Pectoral"
   },
   {
    "id": "15241",
@@ -3002,7 +2963,7 @@
    "pos": "TE",
    "team": "MIA",
    "proj": 2.4,
-   "injury": "Questionable \u2014 Undisclosed"
+   "injury": "Questionable \u2014 Calf"
   },
   {
    "id": "17108",
@@ -3041,6 +3002,14 @@
    "proj": 2.3
   },
   {
+   "id": "16633",
+   "name": "Jordan Whittington",
+   "pos": "WR",
+   "team": "LAR",
+   "ytd": 1.8,
+   "proj": 2.2
+  },
+  {
    "id": "17467",
    "name": "Cade Klubnik",
    "pos": "QB",
@@ -3052,14 +3021,6 @@
    "name": "John Bates",
    "pos": "TE",
    "team": "WAS",
-   "proj": 2.2,
-   "injury": "Questionable \u2014 Hamstring"
-  },
-  {
-   "id": "16633",
-   "name": "Jordan Whittington",
-   "pos": "WR",
-   "team": "LAR",
    "proj": 2.2
   },
   {
@@ -3085,13 +3046,6 @@
    "proj": 2.1
   },
   {
-   "id": "17055",
-   "name": "Jordan James",
-   "pos": "RB",
-   "team": "SFO",
-   "proj": 2.1
-  },
-  {
    "id": "0512",
    "name": "Kansas City Chiefs",
    "pos": "Def",
@@ -3113,20 +3067,6 @@
    "proj": 2.0
   },
   {
-   "id": "13678",
-   "name": "Ian Thomas",
-   "pos": "TE",
-   "team": "LVR",
-   "proj": 2.0
-  },
-  {
-   "id": "17517",
-   "name": "Ja'Kobi Lane",
-   "pos": "WR",
-   "team": "BAL",
-   "proj": 2.0
-  },
-  {
    "id": "17234",
    "name": "Jimmy Horn",
    "pos": "WR",
@@ -3144,6 +3084,21 @@
   {
    "id": "16621",
    "name": "Devontez Walker",
+   "pos": "WR",
+   "team": "BAL",
+   "proj": 1.9,
+   "injury": "Questionable \u2014 Groin"
+  },
+  {
+   "id": "13678",
+   "name": "Ian Thomas",
+   "pos": "TE",
+   "team": "LVR",
+   "proj": 1.9
+  },
+  {
+   "id": "17517",
+   "name": "Ja'Kobi Lane",
    "pos": "WR",
    "team": "BAL",
    "proj": 1.9
@@ -3170,11 +3125,12 @@
    "proj": 1.8
   },
   {
-   "id": "14118",
-   "name": "Lil'Jordan Humphrey",
-   "pos": "WR",
-   "team": "DEN",
-   "proj": 1.8
+   "id": "16688",
+   "name": "Isaac Guerendo",
+   "pos": "RB",
+   "team": "SFO",
+   "proj": 1.8,
+   "injury": "IR-PUP \u2014 Pectoral"
   },
   {
    "id": "15718",
@@ -3202,6 +3158,13 @@
    "name": "Kaytron Allen",
    "pos": "RB",
    "team": "WAS",
+   "proj": 1.7
+  },
+  {
+   "id": "14118",
+   "name": "Lil'Jordan Humphrey",
+   "pos": "WR",
+   "team": "DEN",
    "proj": 1.7
   },
   {
@@ -3280,7 +3243,7 @@
    "pos": "RB",
    "team": "JAC",
    "proj": 1.5,
-   "injury": "Questionable \u2014 Undisclosed"
+   "injury": "Questionable \u2014 Hip"
   },
   {
    "id": "16175",
@@ -3294,8 +3257,7 @@
    "name": "Ben Skowronek",
    "pos": "WR",
    "team": "PIT",
-   "proj": 1.4,
-   "injury": "Questionable \u2014 Concussion"
+   "proj": 1.4
   },
   {
    "id": "15292",
@@ -3351,7 +3313,8 @@
    "name": "Tim Patrick",
    "pos": "WR",
    "team": "NYJ",
-   "proj": 1.3
+   "proj": 1.3,
+   "injury": "Questionable \u2014 Groin"
   },
   {
    "id": "17060",
@@ -3422,8 +3385,7 @@
    "name": "British Brooks",
    "pos": "RB",
    "team": "HOU",
-   "proj": 1.0,
-   "injury": "Questionable \u2014 Hand"
+   "proj": 1.0
   },
   {
    "id": "16858",
@@ -3487,13 +3449,6 @@
    "name": "Malik Benson",
    "pos": "WR",
    "team": "LVR",
-   "proj": 0.9
-  },
-  {
-   "id": "17547",
-   "name": "Max Klare",
-   "pos": "TE",
-   "team": "LAR",
    "proj": 0.9
   },
   {
@@ -3582,6 +3537,14 @@
    "proj": 0.8
   },
   {
+   "id": "15726",
+   "name": "Ronnie Rivers",
+   "pos": "RB",
+   "team": "LAR",
+   "ytd": 3.4,
+   "proj": 0.7
+  },
+  {
    "id": "17048",
    "name": "Kaleb Johnson",
    "pos": "RB",
@@ -3593,13 +3556,6 @@
    "name": "KeAndre Lambert-Smith",
    "pos": "WR",
    "team": "LAC",
-   "proj": 0.7
-  },
-  {
-   "id": "15726",
-   "name": "Ronnie Rivers",
-   "pos": "RB",
-   "team": "LAR",
    "proj": 0.7
   },
   {
@@ -3673,7 +3629,8 @@
    "name": "Zachariah Branch",
    "pos": "WR",
    "team": "ATL",
-   "proj": 0.6
+   "proj": 0.6,
+   "injury": "Questionable \u2014 Hamstring"
   },
   {
    "id": "16613",
@@ -3708,13 +3665,6 @@
    "name": "Gardner Minshew",
    "pos": "QB",
    "team": "ARI",
-   "proj": 0.4
-  },
-  {
-   "id": "17192",
-   "name": "Jordan Watkins",
-   "pos": "WR",
-   "team": "SFO",
    "proj": 0.4
   },
   {
@@ -3757,7 +3707,8 @@
    "name": "Tyson Bagent",
    "pos": "QB",
    "team": "CHI",
-   "proj": 0.4
+   "proj": 0.4,
+   "injury": "Questionable \u2014 Back"
   },
   {
    "id": "17696",
@@ -3802,6 +3753,14 @@
    "proj": 0.2
   },
   {
+   "id": "16640",
+   "name": "Jacob Cowing",
+   "pos": "WR",
+   "team": "SFO",
+   "ytd": 0.0,
+   "proj": 0.2
+  },
+  {
    "id": "17419",
    "name": "Keleki Latu",
    "pos": "TE",
@@ -3820,8 +3779,7 @@
    "name": "Mitchell Trubisky",
    "pos": "QB",
    "team": "TEN",
-   "proj": 0.2,
-   "injury": "Questionable \u2014 Biceps"
+   "proj": 0.2
   },
   {
    "id": "16898",
@@ -3901,11 +3859,32 @@
    "ytd": 4.0
   },
   {
+   "id": "0530",
+   "name": "San Francisco 49ers",
+   "pos": "Def",
+   "team": "SFO",
+   "ytd": 4.0
+  },
+  {
    "id": "17267",
    "name": "Lan Larison",
    "pos": "RB",
    "team": "NEP",
    "ytd": 2.9
+  },
+  {
+   "id": "16219",
+   "name": "Davis Allen",
+   "pos": "TE",
+   "team": "LAR",
+   "ytd": 2.6
+  },
+  {
+   "id": "16153",
+   "name": "Stetson Bennett",
+   "pos": "QB",
+   "team": "LAR",
+   "ytd": 1.6
   },
   {
    "id": "15650",
@@ -4009,20 +3988,22 @@
    "id": "17702",
    "name": "Behren Morton",
    "pos": "QB",
-   "team": "NEP"
+   "team": "NEP",
+   "injury": "Out \u2014 Coach's Decision"
   },
   {
    "id": "16483",
    "name": "Ben Sims",
    "pos": "TE",
    "team": "FA",
-   "injury": "IR \u2014 Undisclosed"
+   "injury": "Questionable \u2014 Undisclosed"
   },
   {
    "id": "17285",
    "name": "Ben Yurosek",
    "pos": "TE",
-   "team": "MIN"
+   "team": "MIN",
+   "injury": "IR \u2014 Undisclosed"
   },
   {
    "id": "17040",
@@ -4052,8 +4033,7 @@
    "id": "15330",
    "name": "Brevin Jordan",
    "pos": "TE",
-   "team": "HOU",
-   "injury": "Questionable \u2014 Knee"
+   "team": "HOU"
   },
   {
    "id": "15772",
@@ -4097,7 +4077,8 @@
    "id": "17504",
    "name": "CJ Daniels",
    "pos": "WR",
-   "team": "LAR"
+   "team": "LAR",
+   "injury": "Out \u2014 Coach's Decision"
   },
   {
    "id": "17281",
@@ -4370,17 +4351,16 @@
    "injury": "IR-R \u2014 Undisclosed"
   },
   {
-   "id": "16219",
-   "name": "Davis Allen",
-   "pos": "TE",
-   "team": "LAR",
-   "injury": "Questionable \u2014 Quadriceps"
-  },
-  {
    "id": "17717",
    "name": "Davon Booth",
    "pos": "RB",
    "team": "IND"
+  },
+  {
+   "id": "17491",
+   "name": "Dean Connors",
+   "pos": "RB",
+   "team": "LAR"
   }
  ],
  "recent_transactions": [

@@ -1,6 +1,6 @@
 # Pete’s Perfect Team — week 1
 
-Cap City Football · 12 teams · generated 2026-09-10 21:13 UTC
+Cap City Football · 12 teams · generated 2026-09-11 12:18 UTC
 Record 0-0-0, 0 points for
 
 ## Roster
@@ -15,12 +15,12 @@ Record 0-0-0, 0 points for
 | Saquon Barkley | RB | PHI | 19.0 |  |  |
 | Tank Bigsby | RB | PHI | 5.1 |  |  |
 | Kimani Vidal | RB | LAC | 7.0 |  |  |
-| Dalton Kincaid | TE | BUF | 11.0 | 0.0 |  |
+| Dalton Kincaid | TE | BUF | 11.0 |  |  |
 | Chigoziem Okonkwo | TE | WAS | 8.0 |  |  |
-| Ja'Marr Chase | WR | CIN | 21.9 |  | Questionable — Knee |
+| Ja'Marr Chase | WR | CIN | 21.9 |  |  |
 | Drake London | WR | ATL | 18.5 |  |  |
 | Christian Watson | WR | GBP | 12.4 |  |  |
-| Alec Pierce | WR | IND | 12.2 |  |  |
+| Alec Pierce | WR | IND | 12.2 |  | Questionable — Heel |
 | Xavier Worthy | WR | KCC | 8.9 |  |  |
 
 ## Best available
@@ -33,10 +33,10 @@ Record 0-0-0, 0 points for
 
 **TE** — Terrance Ferguson (LAR), Pat Freiermuth (PIT), Dalton Schultz (HOU), Oronde Gadsden (LAC), Mike Gesicki (CIN), Gunnar Helm (TEN), AJ Barner (SEA), Greg Dulcich (MIA)
 
-**PK** — Tyler Bass (BUF), Wil Lutz (DEN), Cairo Santos (CHI), Jake Elliott (PHI), Chad Ryland (ARI), Eddy Pineiro (SFO), Riley Patterson (MIA), Spencer Shrader (IND)
+**PK** — Tyler Bass (BUF), Wil Lutz (DEN), Cairo Santos (CHI), Jake Elliott (PHI), Eddy Pineiro (SFO), Chad Ryland (ARI), Riley Patterson (MIA), Spencer Shrader (IND)
 
 **Def** — Atlanta Falcons (ATL), Chicago Bears (CHI), Tennessee Titans (TEN), New Orleans Saints (NOS), Cleveland Browns (CLE), Washington Commanders (WAS), Detroit Lions (DET), Miami Dolphins (MIA)
 
 ## Injuries on your roster
 
-- **Ja'Marr Chase** (WR) — Questionable — Knee
+- **Alec Pierce** (WR) — Questionable — Heel
