@@ -12,9 +12,9 @@
       "inRedZone": "0",
       "isHome": "0",
       "passDefenseRank": "2",
-      "passOffenseRank": "2",
+      "passOffenseRank": "3",
       "rushDefenseRank": "1",
-      "rushOffenseRank": "1",
+      "rushOffenseRank": "3",
       "score": "10",
       "spread": "3.5"
      },
@@ -24,16 +24,16 @@
       "inRedZone": "0",
       "isHome": "1",
       "passDefenseRank": "1",
-      "passOffenseRank": "1",
+      "passOffenseRank": "2",
       "rushDefenseRank": "2",
-      "rushOffenseRank": "2",
+      "rushOffenseRank": "4",
       "score": "13",
       "spread": "-3.5"
      }
     ]
    },
    {
-    "gameSecondsRemaining": "3600",
+    "gameSecondsRemaining": "0",
     "kickoff": "1789086900",
     "team": [
      {
@@ -41,11 +41,11 @@
       "id": "SFO",
       "inRedZone": "0",
       "isHome": "0",
-      "passDefenseRank": "",
-      "passOffenseRank": "",
-      "rushDefenseRank": "",
-      "rushOffenseRank": "",
-      "score": "",
+      "passDefenseRank": "1",
+      "passOffenseRank": "1",
+      "rushDefenseRank": "3",
+      "rushOffenseRank": "1",
+      "score": "27",
       "spread": "3.5"
      },
      {
@@ -53,11 +53,11 @@
       "id": "LAR",
       "inRedZone": "0",
       "isHome": "1",
-      "passDefenseRank": "",
-      "passOffenseRank": "",
-      "rushDefenseRank": "",
-      "rushOffenseRank": "",
-      "score": "",
+      "passDefenseRank": "3",
+      "passOffenseRank": "3",
+      "rushDefenseRank": "4",
+      "rushOffenseRank": "2",
+      "score": "7",
       "spread": "-3.5"
      }
     ]
