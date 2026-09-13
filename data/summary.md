@@ -1,6 +1,6 @@
 # Pete’s Perfect Team — week 1
 
-Cap City Football · 12 teams · generated 2026-09-12 12:16 UTC
+Cap City Football · 12 teams · generated 2026-09-13 12:16 UTC
 Record 0-0-0, 0 points for
 
 ## Roster
@@ -14,13 +14,13 @@ Record 0-0-0, 0 points for
 | Omarion Hampton | RB | LAC | 13.8 |  |  |
 | Saquon Barkley | RB | PHI | 19.0 |  |  |
 | Tank Bigsby | RB | PHI | 5.1 |  |  |
-| Kimani Vidal | RB | LAC | 7.0 |  |  |
+| Kimani Vidal | RB | LAC | 6.7 |  |  |
 | Dalton Kincaid | TE | BUF | 11.0 |  |  |
 | Chigoziem Okonkwo | TE | WAS | 8.0 |  |  |
 | Ja'Marr Chase | WR | CIN | 21.9 |  |  |
 | Drake London | WR | ATL | 18.5 |  |  |
 | Christian Watson | WR | GBP | 12.4 |  |  |
-| Alec Pierce | WR | IND | 12.2 |  | Questionable — Heel |
+| Alec Pierce | WR | IND | 12.4 |  | Questionable — Heel |
 | Xavier Worthy | WR | KCC | 8.9 |  |  |
 
 ## Best available
@@ -29,9 +29,9 @@ Record 0-0-0, 0 points for
 
 **RB** — Alvin Kamara (NOS), Sione Vaki (DET), Chris Rodriguez (JAC), Devin Singletary (NYG), Justice Hill (BAL), George Holani (SEA), Bam Knight (ARI), Ty Johnson (BUF)
 
-**WR** — Malik Washington (MIA), Tre Tucker (LVR), Romeo Doubs (NEP), Jakobi Meyers (JAC), Jerry Jeudy (CLE), Keenan Allen (IND), Jalen Coker (CAR), Devaughn Vele (NOS)
+**WR** — Malik Washington (MIA), Tre Tucker (LVR), Jakobi Meyers (JAC), Romeo Doubs (NEP), Jerry Jeudy (CLE), Jalen Coker (CAR), Keenan Allen (IND), Devaughn Vele (NOS)
 
-**TE** — Terrance Ferguson (LAR), Pat Freiermuth (PIT), Dalton Schultz (HOU), Oronde Gadsden (LAC), Mike Gesicki (CIN), Gunnar Helm (TEN), AJ Barner (SEA), Greg Dulcich (MIA)
+**TE** — Terrance Ferguson (LAR), Cade Otton (TBB), Pat Freiermuth (PIT), Dalton Schultz (HOU), Oronde Gadsden (LAC), Mike Gesicki (CIN), Gunnar Helm (TEN), AJ Barner (SEA)
 
 **PK** — Tyler Bass (BUF), Wil Lutz (DEN), Cairo Santos (CHI), Jake Elliott (PHI), Eddy Pineiro (SFO), Chad Ryland (ARI), Riley Patterson (MIA), Spencer Shrader (IND)
 
