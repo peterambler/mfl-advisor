@@ -8,14 +8,14 @@
       {
        "id": "0009",
        "isHome": "0",
-       "result": "T",
-       "spread": "0"
+       "result": "W",
+       "score": "132.6"
       },
       {
        "id": "0006",
        "isHome": "1",
-       "result": "T",
-       "spread": "0"
+       "result": "L",
+       "score": "124.5"
       }
      ]
     },
@@ -24,14 +24,14 @@
       {
        "id": "0010",
        "isHome": "0",
-       "result": "T",
-       "spread": "0"
+       "result": "L",
+       "score": "123.3"
       },
       {
        "id": "0002",
        "isHome": "1",
-       "result": "T",
-       "spread": "0"
+       "result": "W",
+       "score": "128.3"
       }
      ]
     },
@@ -40,14 +40,14 @@
       {
        "id": "0012",
        "isHome": "0",
-       "result": "T",
-       "spread": "0"
+       "result": "W",
+       "score": "201"
       },
       {
        "id": "0001",
        "isHome": "1",
-       "result": "T",
-       "spread": "0"
+       "result": "L",
+       "score": "124.4"
       }
      ]
     },
@@ -56,14 +56,14 @@
       {
        "id": "0005",
        "isHome": "0",
-       "result": "T",
-       "spread": "0"
+       "result": "L",
+       "score": "99.7"
       },
       {
        "id": "0004",
        "isHome": "1",
-       "result": "T",
-       "spread": "0"
+       "result": "W",
+       "score": "118.8"
       }
      ]
     },
@@ -72,14 +72,14 @@
       {
        "id": "0007",
        "isHome": "0",
-       "result": "T",
-       "spread": "0"
+       "result": "W",
+       "score": "139.9"
       },
       {
        "id": "0003",
        "isHome": "1",
-       "result": "T",
-       "spread": "0"
+       "result": "L",
+       "score": "72.6"
       }
      ]
     },
@@ -88,14 +88,14 @@
       {
        "id": "0008",
        "isHome": "0",
-       "result": "T",
-       "spread": "0"
+       "result": "L",
+       "score": "101.4"
       },
       {
        "id": "0011",
        "isHome": "1",
-       "result": "T",
-       "spread": "0"
+       "result": "W",
+       "score": "120.6"
       }
      ]
     }

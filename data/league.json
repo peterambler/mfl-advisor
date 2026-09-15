@@ -7,7 +7,7 @@
   "bbidConditional": "No",
   "bbidIncrement": "1",
   "bbidMinimum": "1",
-  "bbidSeasonLimit": "15",
+  "bbidSeasonLimit": "1",
   "bbidTiebreaker": "TURN",
   "bestLineup": "No",
   "bidIncrement": "1",
@@ -32,108 +32,108 @@
    "franchise": [
     {
      "abbrev": "Kids",
-     "bbidAvailableBalance": "1.00",
+     "bbidAvailableBalance": "120.00",
      "division": "00",
      "icon": "https://www46.myfantasyleague.com/fflnetdynamic2023/24838_franchise_icon0001.png",
      "id": "0001",
      "name": "Dawg Pound",
-     "waiverSortOrder": "12"
+     "waiverSortOrder": "5"
     },
     {
-     "bbidAvailableBalance": "15.00",
+     "bbidAvailableBalance": "132.00",
      "division": "00",
      "icon": "https://www46.myfantasyleague.com/fflnetdynamic2023/24838_franchise_icon0002.jpg",
      "id": "0002",
      "logo": "https://www46.myfantasyleague.com/fflnetdynamic2023/24838_franchise_logo0002.jpg",
      "name": "Clawing back up!",
-     "waiverSortOrder": "11"
+     "waiverSortOrder": "9"
     },
     {
-     "bbidAvailableBalance": "14.00",
+     "bbidAvailableBalance": "146.00",
      "division": "01",
      "icon": "https://www46.myfantasyleague.com/fflnet2010/icons/Toilet_Paper.gif",
      "id": "0003",
      "logo": "https://www46.myfantasyleague.com/fflnet2010/logos/Bull_Head_3.gif",
      "name": "wait till next year",
-     "waiverSortOrder": "10"
+     "waiverSortOrder": "1"
     },
     {
-     "bbidAvailableBalance": "15.00",
+     "bbidAvailableBalance": "100.00",
      "division": "01",
      "icon": "https://www46.myfantasyleague.com/fflnet2016/newicons/26_Were_1.png",
      "id": "0004",
      "name": "Fuck Tom",
-     "waiverSortOrder": "9"
+     "waiverSortOrder": "7"
     },
     {
      "abbrev": "BobaFett",
-     "bbidAvailableBalance": "15.00",
+     "bbidAvailableBalance": "127.00",
      "division": "01",
      "icon": "https://www42.myfantasyleague.com/fflnetdynamic2019/24838_franchise_icon0005.jpg",
      "id": "0005",
      "logo": "https://www42.myfantasyleague.com/fflnetdynamic2019/24838_franchise_logo0005.jpg",
      "name": "Titsburgh Feelers",
      "sound": "https://www42.myfantasyleague.com/fflnetdynamic2020/24838_franchise_sound0005.mp3",
-     "waiverSortOrder": "8"
+     "waiverSortOrder": "2"
     },
     {
-     "bbidAvailableBalance": "15.00",
+     "bbidAvailableBalance": "105.00",
      "division": "00",
      "icon": "https://www46.myfantasyleague.com/fflnet2008/icons/Trophy.gif",
      "id": "0006",
      "logo": "https://www46.myfantasyleague.com/fflnet2003/helmets/h-1373.gif",
      "name": "Team Brown",
-     "waiverSortOrder": "7"
+     "waiverSortOrder": "6"
     },
     {
-     "bbidAvailableBalance": "15.00",
+     "bbidAvailableBalance": "106.00",
      "division": "01",
      "icon": "https://www46.myfantasyleague.com/fflnet2012/newhelmets/nh-0013.png",
      "id": "0007",
      "name": "ASSASSINS",
-     "waiverSortOrder": "6"
+     "waiverSortOrder": "11"
     },
     {
-     "bbidAvailableBalance": "15.00",
+     "bbidAvailableBalance": "100.00",
      "division": "01",
      "icon": "https://www46.myfantasyleague.com/fflnetdynamic2025/24838_franchise_icon0008.jpg",
      "id": "0008",
      "logo": "https://www46.myfantasyleague.com/fflnetdynamic2025/24838_franchise_logo0008.jpg",
      "name": "Based Crack Cocaine Enjoyers",
-     "waiverSortOrder": "5"
+     "waiverSortOrder": "3"
     },
     {
-     "bbidAvailableBalance": "15.00",
+     "bbidAvailableBalance": "100.00",
      "division": "00",
      "id": "0009",
      "name": "Washington Misanthropes",
-     "waiverSortOrder": "4"
+     "waiverSortOrder": "10"
     },
     {
-     "bbidAvailableBalance": "15.00",
+     "bbidAvailableBalance": "100.00",
      "division": "00",
      "icon": "https://www42.myfantasyleague.com/fflnetdynamic2015/35945_franchise_icon0010.gif",
      "id": "0010",
      "logo": "https://www42.myfantasyleague.com/fflnetdynamic2015/35945_franchise_logo0010.jpg",
      "name": "Attitude",
-     "waiverSortOrder": "3"
+     "waiverSortOrder": "4"
     },
     {
      "abbrev": "BK",
-     "bbidAvailableBalance": "12.00",
+     "bbidAvailableBalance": "100.00",
      "division": "01",
      "icon": "https://www42.myfantasyleague.com/fflnetdynamic2016/24838_franchise_icon0011.png",
      "id": "0011",
      "logo": "https://www42.myfantasyleague.com/fflnetdynamic2016/24838_franchise_logo0011.png",
      "name": "Pete\u2019s Perfect Team",
-     "waiverSortOrder": "2"
+     "waiverSortOrder": "8"
     },
     {
-     "bbidAvailableBalance": "14.00",
+     "bbidAvailableBalance": "100.00",
      "division": "00",
      "id": "0012",
      "name": "Athenian Souvlakis",
-     "waiverSortOrder": "1"
+     "waiverSortOrder": "12"
     }
    ]
   },

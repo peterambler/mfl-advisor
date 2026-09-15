@@ -1,7 +1,7 @@
 # Pete’s Perfect Team — week 1
 
-Cap City Football · 12 teams · generated 2026-09-14 12:18 UTC
-Record 0-0-0, 0 points for
+Cap City Football · 12 teams · generated 2026-09-15 12:17 UTC
+Record 1-0-0, 120.6 points for
 
 ## Roster
 
@@ -18,10 +18,10 @@ Record 0-0-0, 0 points for
 | Dalton Kincaid | TE | BUF | 11.0 | 21.3 |  |
 | Chigoziem Okonkwo | TE | WAS | 8.0 | 4.0 |  |
 | Christian Watson | WR | GBP | 12.4 | 32.7 |  |
-| Alec Pierce | WR | IND | 12.4 | 10.1 | Questionable — Heel |
+| Alec Pierce | WR | IND | 12.4 | 10.1 |  |
 | Drake London | WR | ATL | 18.5 | 5.5 |  |
+| Xavier Worthy | WR | KCC | 8.9 | 4.8 |  |
 | Ja'Marr Chase | WR | CIN | 21.9 | 3.2 |  |
-| Xavier Worthy | WR | KCC | 8.9 |  |  |
 
 ## Best available
 
@@ -36,7 +36,3 @@ Record 0-0-0, 0 points for
 **PK** — Tyler Bass (BUF), Wil Lutz (DEN), Cairo Santos (CHI), Jake Elliott (PHI), Chad Ryland (ARI), Eddy Pineiro (SFO), Riley Patterson (MIA), Spencer Shrader (IND)
 
 **Def** — Atlanta Falcons (ATL), Chicago Bears (CHI), Tennessee Titans (TEN), New Orleans Saints (NOS), Washington Commanders (WAS), Cleveland Browns (CLE), Detroit Lions (DET), Miami Dolphins (MIA)
-
-## Injuries on your roster
-
-- **Alec Pierce** (WR) — Questionable — Heel
