@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-15T12:17:47.623131+00:00",
+ "generated_at": "2026-09-16T12:17:52.269091+00:00",
  "season": "2026",
  "week": 1,
  "league": {
@@ -1145,7 +1145,8 @@
      "pos": "RB",
      "team": "CLE",
      "ytd": 0.0,
-     "proj": 5.7
+     "proj": 5.7,
+     "slot": "INJURED_RESERVE"
     },
     {
      "id": "16747",
@@ -3382,13 +3383,6 @@
    "proj": 1.7
   },
   {
-   "id": "14118",
-   "name": "Lil'Jordan Humphrey",
-   "pos": "WR",
-   "team": "DEN",
-   "proj": 1.7
-  },
-  {
    "id": "14789",
    "name": "Tyler Huntley",
    "pos": "QB",
@@ -4751,9 +4745,21 @@
    "pos": "TE",
    "team": "PHI",
    "ytd": 0.0
+  },
+  {
+   "id": "14069",
+   "name": "Easton Stick",
+   "pos": "QB",
+   "team": "TBB"
   }
  ],
  "recent_transactions": [
+  {
+   "type": "IR",
+   "franchise": "Based Crack Cocaine Enjoyers",
+   "when": "1789486063",
+   "detail": ""
+  },
   {
    "type": "IR",
    "franchise": "Washington Misanthropes",
@@ -4987,12 +4993,6 @@
    "franchise": "Athenian Souvlakis",
    "when": "1788407799",
    "detail": "0510|1|"
-  },
-  {
-   "type": "AUCTION_WON",
-   "franchise": "Pete\u2019s Perfect Team",
-   "when": "1788407756",
-   "detail": "16174|1|"
   }
  ]
 }
