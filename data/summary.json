@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-17T12:17:13.280161+00:00",
+ "generated_at": "2026-09-17T21:15:41.730054+00:00",
  "season": "2026",
  "week": 1,
  "league": {
@@ -191,14 +191,6 @@
      "proj": 24.7
     },
     {
-     "id": "14056",
-     "name": "Kyler Murray",
-     "pos": "QB",
-     "team": "MIN",
-     "ytd": -0.2,
-     "proj": 19.0
-    },
-    {
      "id": "16162",
      "name": "Jahmyr Gibbs",
      "pos": "RB",
@@ -238,6 +230,14 @@
      "proj": 6.7,
      "injury": "IR-PUP \u2014 Knee - ACL",
      "slot": "INJURED_RESERVE"
+    },
+    {
+     "id": "13672",
+     "name": "Mike Gesicki",
+     "pos": "TE",
+     "team": "CIN",
+     "ytd": 20.8,
+     "proj": 9.2
     },
     {
      "id": "16269",
@@ -1793,6 +1793,14 @@
    "proj": 19.7
   },
   {
+   "id": "14056",
+   "name": "Kyler Murray",
+   "pos": "QB",
+   "team": "MIN",
+   "ytd": -0.2,
+   "proj": 19.0
+  },
+  {
    "id": "13592",
    "name": "Sam Darnold",
    "pos": "QB",
@@ -1887,14 +1895,6 @@
    "team": "LAC",
    "ytd": 6.0,
    "proj": 9.4
-  },
-  {
-   "id": "13672",
-   "name": "Mike Gesicki",
-   "pos": "TE",
-   "team": "CIN",
-   "ytd": 20.8,
-   "proj": 9.2
   },
   {
    "id": "17105",
@@ -4768,6 +4768,12 @@
  "recent_transactions": [
   {
    "type": "FREE_AGENT",
+   "franchise": "Dawg Pound",
+   "when": "1789653687",
+   "detail": "13672,|14056,"
+  },
+  {
+   "type": "FREE_AGENT",
    "franchise": "Washington Misanthropes",
    "when": "1789638355",
    "detail": "16597,|17500,"
@@ -4999,12 +5005,6 @@
    "franchise": "Athenian Souvlakis",
    "when": "1788408072",
    "detail": "13592|1|"
-  },
-  {
-   "type": "AUCTION_WON",
-   "franchise": "Pete\u2019s Perfect Team",
-   "when": "1788408037",
-   "detail": "15889|1|"
   }
  ]
 }
