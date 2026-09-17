@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-16T12:17:52.269091+00:00",
+ "generated_at": "2026-09-17T12:17:13.280161+00:00",
  "season": "2026",
  "week": 1,
  "league": {
@@ -75,14 +75,6 @@
     "proj": 5.1
    },
    {
-    "id": "16757",
-    "name": "Kimani Vidal",
-    "pos": "RB",
-    "team": "LAC",
-    "ytd": 0.0,
-    "proj": 6.7
-   },
-   {
     "id": "16213",
     "name": "Dalton Kincaid",
     "pos": "TE",
@@ -91,12 +83,12 @@
     "proj": 11.0
    },
    {
-    "id": "15889",
-    "name": "Chigoziem Okonkwo",
-    "pos": "TE",
-    "team": "WAS",
-    "ytd": 4.0,
-    "proj": 8.0
+    "id": "16809",
+    "name": "Jalen Coker",
+    "pos": "WR",
+    "team": "CAR",
+    "ytd": 33.8,
+    "proj": 8.9
    },
    {
     "id": "15789",
@@ -105,6 +97,14 @@
     "team": "GBP",
     "ytd": 32.7,
     "proj": 12.4
+   },
+   {
+    "id": "16788",
+    "name": "Devaughn Vele",
+    "pos": "WR",
+    "team": "NOS",
+    "ytd": 19.9,
+    "proj": 8.4
    },
    {
     "id": "15768",
@@ -684,6 +684,14 @@
    },
    "players": [
     {
+     "id": "0525",
+     "name": "Tampa Bay Buccaneers",
+     "pos": "Def",
+     "team": "TBB",
+     "ytd": 9.0,
+     "proj": 1.4
+    },
+    {
      "id": "0528",
      "name": "Los Angeles Rams",
      "pos": "Def",
@@ -746,14 +754,6 @@
      "team": "SEA",
      "ytd": 7.8,
      "proj": 14.2
-    },
-    {
-     "id": "16597",
-     "name": "Jonathon Brooks",
-     "pos": "RB",
-     "team": "CAR",
-     "ytd": 7.2,
-     "proj": 8.9
     },
     {
      "id": "16222",
@@ -946,12 +946,11 @@
    },
    "players": [
     {
-     "id": "0516",
-     "name": "Dallas Cowboys",
+     "id": "0530",
+     "name": "San Francisco 49ers",
      "pos": "Def",
-     "team": "DAL",
-     "ytd": 4.0,
-     "proj": 2.6
+     "team": "SFO",
+     "ytd": 4.0
     },
     {
      "id": "13354",
@@ -1140,6 +1139,13 @@
      "proj": 6.8
     },
     {
+     "id": "13132",
+     "name": "Alvin Kamara",
+     "pos": "RB",
+     "team": "NOS",
+     "injury": "Out \u2014 Knee - MCL"
+    },
+    {
      "id": "17047",
      "name": "Dylan Sampson",
      "pos": "RB",
@@ -1264,6 +1270,14 @@
      "proj": 4.0
     },
     {
+     "id": "16597",
+     "name": "Jonathon Brooks",
+     "pos": "RB",
+     "team": "CAR",
+     "ytd": 7.2,
+     "proj": 8.9
+    },
+    {
      "id": "17053",
      "name": "Woody Marks",
      "pos": "RB",
@@ -1272,12 +1286,12 @@
      "proj": 7.0
     },
     {
-     "id": "17477",
-     "name": "Jonah Coleman",
-     "pos": "RB",
-     "team": "DEN",
-     "ytd": 0.0,
-     "proj": 4.8
+     "id": "17543",
+     "name": "Kenyon Sadiq",
+     "pos": "TE",
+     "team": "NYJ",
+     "ytd": 11.9,
+     "proj": 7.8
     },
     {
      "id": "17102",
@@ -1296,12 +1310,12 @@
      "proj": 11.5
     },
     {
-     "id": "17500",
-     "name": "Denzel Boston",
+     "id": "17599",
+     "name": "Caleb Douglas",
      "pos": "WR",
-     "team": "CLE",
-     "ytd": 13.9,
-     "proj": 2.9
+     "team": "MIA",
+     "ytd": 14.4,
+     "proj": 6.3
     },
     {
      "id": "16615",
@@ -1533,14 +1547,6 @@
      "proj": 5.1
     },
     {
-     "id": "16757",
-     "name": "Kimani Vidal",
-     "pos": "RB",
-     "team": "LAC",
-     "ytd": 0.0,
-     "proj": 6.7
-    },
-    {
      "id": "16213",
      "name": "Dalton Kincaid",
      "pos": "TE",
@@ -1549,12 +1555,12 @@
      "proj": 11.0
     },
     {
-     "id": "15889",
-     "name": "Chigoziem Okonkwo",
-     "pos": "TE",
-     "team": "WAS",
-     "ytd": 4.0,
-     "proj": 8.0
+     "id": "16809",
+     "name": "Jalen Coker",
+     "pos": "WR",
+     "team": "CAR",
+     "ytd": 33.8,
+     "proj": 8.9
     },
     {
      "id": "15789",
@@ -1563,6 +1569,14 @@
      "team": "GBP",
      "ytd": 32.7,
      "proj": 12.4
+    },
+    {
+     "id": "16788",
+     "name": "Devaughn Vele",
+     "pos": "WR",
+     "team": "NOS",
+     "ytd": 19.9,
+     "proj": 8.4
     },
     {
      "id": "15768",
@@ -1891,14 +1905,6 @@
    "proj": 9.1
   },
   {
-   "id": "16809",
-   "name": "Jalen Coker",
-   "pos": "WR",
-   "team": "CAR",
-   "ytd": 33.8,
-   "proj": 8.9
-  },
-  {
    "id": "11222",
    "name": "Keenan Allen",
    "pos": "WR",
@@ -1931,12 +1937,12 @@
    "proj": 8.5
   },
   {
-   "id": "16788",
-   "name": "Devaughn Vele",
-   "pos": "WR",
-   "team": "NOS",
-   "ytd": 19.9,
-   "proj": 8.4
+   "id": "15889",
+   "name": "Chigoziem Okonkwo",
+   "pos": "TE",
+   "team": "WAS",
+   "ytd": 4.0,
+   "proj": 8.0
   },
   {
    "id": "16586",
@@ -1952,14 +1958,6 @@
    "team": "HOU",
    "ytd": 6.2,
    "proj": 7.9
-  },
-  {
-   "id": "17543",
-   "name": "Kenyon Sadiq",
-   "pos": "TE",
-   "team": "NYJ",
-   "ytd": 11.9,
-   "proj": 7.8
   },
   {
    "id": "16342",
@@ -2074,6 +2072,14 @@
    "proj": 6.7
   },
   {
+   "id": "16757",
+   "name": "Kimani Vidal",
+   "pos": "RB",
+   "team": "LAC",
+   "ytd": 0.0,
+   "proj": 6.7
+  },
+  {
    "id": "15332",
    "name": "Tommy Tremble",
    "pos": "TE",
@@ -2128,14 +2134,6 @@
    "team": "BAL",
    "ytd": 0.0,
    "proj": 6.4
-  },
-  {
-   "id": "17599",
-   "name": "Caleb Douglas",
-   "pos": "WR",
-   "team": "MIA",
-   "ytd": 14.4,
-   "proj": 6.3
   },
   {
    "id": "14080",
@@ -2484,6 +2482,14 @@
    "name": "Jaylen Wright",
    "pos": "RB",
    "team": "MIA",
+   "ytd": 0.0,
+   "proj": 4.8
+  },
+  {
+   "id": "17477",
+   "name": "Jonah Coleman",
+   "pos": "RB",
+   "team": "DEN",
    "ytd": 0.0,
    "proj": 4.8
   },
@@ -2979,6 +2985,14 @@
    "proj": 2.9
   },
   {
+   "id": "17500",
+   "name": "Denzel Boston",
+   "pos": "WR",
+   "team": "CLE",
+   "ytd": 13.9,
+   "proj": 2.9
+  },
+  {
    "id": "17274",
    "name": "Corey Kiner",
    "pos": "RB",
@@ -3055,6 +3069,14 @@
    "pos": "Def",
    "team": "LVR",
    "ytd": 9.0,
+   "proj": 2.6
+  },
+  {
+   "id": "0516",
+   "name": "Dallas Cowboys",
+   "pos": "Def",
+   "team": "DAL",
+   "ytd": 4.0,
    "proj": 2.6
   },
   {
@@ -3311,14 +3333,6 @@
    "proj": 2.0
   },
   {
-   "id": "17234",
-   "name": "Jimmy Horn",
-   "pos": "WR",
-   "team": "CAR",
-   "ytd": -2.0,
-   "proj": 2.0
-  },
-  {
    "id": "17517",
    "name": "Ja'Kobi Lane",
    "pos": "WR",
@@ -3380,6 +3394,13 @@
    "pos": "TE",
    "team": "GBP",
    "ytd": 0.0,
+   "proj": 1.7
+  },
+  {
+   "id": "14118",
+   "name": "Lil'Jordan Humphrey",
+   "pos": "WR",
+   "team": "DEN",
    "proj": 1.7
   },
   {
@@ -3475,14 +3496,6 @@
    "team": "CHI",
    "ytd": 0.0,
    "proj": 1.5
-  },
-  {
-   "id": "0525",
-   "name": "Tampa Bay Buccaneers",
-   "pos": "Def",
-   "team": "TBB",
-   "ytd": 9.0,
-   "proj": 1.4
   },
   {
    "id": "15491",
@@ -3745,14 +3758,6 @@
    "team": "LAC",
    "ytd": 0.0,
    "proj": 0.8
-  },
-  {
-   "id": "16168",
-   "name": "Israel Abanikanda",
-   "pos": "RB",
-   "team": "FA",
-   "proj": 0.8,
-   "injury": "Out \u2014 Coach's Decision"
   },
   {
    "id": "17528",
@@ -4057,13 +4062,6 @@
    "ytd": 4.0
   },
   {
-   "id": "0530",
-   "name": "San Francisco 49ers",
-   "pos": "Def",
-   "team": "SFO",
-   "ytd": 4.0
-  },
-  {
    "id": "17752",
    "name": "Dohnte Meyers",
    "pos": "WR",
@@ -4184,13 +4182,6 @@
    "name": "Alexander Mattison",
    "pos": "RB",
    "team": "MIA"
-  },
-  {
-   "id": "13132",
-   "name": "Alvin Kamara",
-   "pos": "RB",
-   "team": "NOS",
-   "injury": "Out \u2014 Knee - MCL"
   },
   {
    "id": "17272",
@@ -4751,9 +4742,84 @@
    "name": "Easton Stick",
    "pos": "QB",
    "team": "TBB"
+  },
+  {
+   "id": "17269",
+   "name": "Efton Chism",
+   "pos": "WR",
+   "team": "NEP",
+   "injury": "Out \u2014 Coach's Decision"
+  },
+  {
+   "id": "17544",
+   "name": "Eli Stowers",
+   "pos": "TE",
+   "team": "PHI",
+   "injury": "IR \u2014 Hamstring"
+  },
+  {
+   "id": "15288",
+   "name": "Elijah Moore",
+   "pos": "WR",
+   "team": "PHI",
+   "injury": "Out \u2014 Coach's Decision"
   }
  ],
  "recent_transactions": [
+  {
+   "type": "FREE_AGENT",
+   "franchise": "Washington Misanthropes",
+   "when": "1789638355",
+   "detail": "16597,|17500,"
+  },
+  {
+   "type": "BBID_WAIVER",
+   "franchise": "Titsburgh Feelers",
+   "when": "1789621200",
+   "detail": "0525,|1.00|16597,"
+  },
+  {
+   "type": "BBID_WAIVER",
+   "franchise": "ASSASSINS",
+   "when": "1789621200",
+   "detail": "0530,|2.00|0516,"
+  },
+  {
+   "type": "BBID_WAIVER",
+   "franchise": "Washington Misanthropes",
+   "when": "1789621200",
+   "detail": "17599,|3.00|17477,"
+  },
+  {
+   "type": "BBID_WAIVER",
+   "franchise": "Pete\u2019s Perfect Team",
+   "when": "1789621200",
+   "detail": "16788,|5.00|16757,"
+  },
+  {
+   "type": "BBID_WAIVER",
+   "franchise": "Washington Misanthropes",
+   "when": "1789621200",
+   "detail": "17543,|6.00|"
+  },
+  {
+   "type": "BBID_WAIVER",
+   "franchise": "Based Crack Cocaine Enjoyers",
+   "when": "1789621200",
+   "detail": "13132,|20.00|"
+  },
+  {
+   "type": "BBID_WAIVER",
+   "franchise": "Pete\u2019s Perfect Team",
+   "when": "1789621200",
+   "detail": "16809,|26.00|15889,"
+  },
+  {
+   "type": "BBID_AUTO_PROCESS_WAIVERS",
+   "franchise": "",
+   "when": "1789621200",
+   "detail": ""
+  },
   {
    "type": "IR",
    "franchise": "Based Crack Cocaine Enjoyers",
@@ -4939,60 +5005,6 @@
    "franchise": "Pete\u2019s Perfect Team",
    "when": "1788408037",
    "detail": "15889|1|"
-  },
-  {
-   "type": "AUCTION_INIT",
-   "franchise": "Pete\u2019s Perfect Team",
-   "when": "1788408003",
-   "detail": "15889|1|"
-  },
-  {
-   "type": "AUCTION_WON",
-   "franchise": "Washington Misanthropes",
-   "when": "1788407981",
-   "detail": "15368|1|"
-  },
-  {
-   "type": "AUCTION_INIT",
-   "franchise": "Washington Misanthropes",
-   "when": "1788407950",
-   "detail": "15368|1|"
-  },
-  {
-   "type": "AUCTION_WON",
-   "franchise": "Based Crack Cocaine Enjoyers",
-   "when": "1788407944",
-   "detail": "14059|1|"
-  },
-  {
-   "type": "AUCTION_INIT",
-   "franchise": "Based Crack Cocaine Enjoyers",
-   "when": "1788407913",
-   "detail": "14059|1|"
-  },
-  {
-   "type": "AUCTION_WON",
-   "franchise": "Fuck Tom",
-   "when": "1788407906",
-   "detail": "17074|1|"
-  },
-  {
-   "type": "AUCTION_INIT",
-   "franchise": "Fuck Tom",
-   "when": "1788407874",
-   "detail": "17074|1|"
-  },
-  {
-   "type": "AUCTION_WON",
-   "franchise": "Athenian Souvlakis",
-   "when": "1788407830",
-   "detail": "0510|1|"
-  },
-  {
-   "type": "AUCTION_INIT",
-   "franchise": "Athenian Souvlakis",
-   "when": "1788407799",
-   "detail": "0510|1|"
   }
  ]
 }
