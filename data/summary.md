@@ -1,6 +1,6 @@
 # Pete’s Perfect Team — week 1
 
-Cap City Football · 12 teams · generated 2026-09-17 21:15 UTC
+Cap City Football · 12 teams · generated 2026-09-18 12:16 UTC
 Record 1-0-0, 120.6 points for
 
 ## Roster
@@ -14,7 +14,7 @@ Record 1-0-0, 120.6 points for
 | Saquon Barkley | RB | PHI | 19.0 | 9.3 |  |
 | Omarion Hampton | RB | LAC | 13.8 | 8.3 |  |
 | Tank Bigsby | RB | PHI | 5.1 | 0.3 |  |
-| Dalton Kincaid | TE | BUF | 11.0 | 21.3 |  |
+| Dalton Kincaid | TE | BUF | 11.0 | 46.2 |  |
 | Jalen Coker | WR | CAR | 8.9 | 33.8 |  |
 | Christian Watson | WR | GBP | 12.4 | 32.7 |  |
 | Devaughn Vele | WR | NOS | 8.4 | 19.9 |  |
@@ -29,7 +29,7 @@ Record 1-0-0, 120.6 points for
 
 **RB** — Sione Vaki (DET), Kimani Vidal (LAC), Devin Singletary (NYG), Chris Rodriguez (JAC), Justice Hill (BAL), George Holani (SEA), Emari Demercado (DAL), Bam Knight (ARI)
 
-**WR** — Malik Washington (MIA), Tre Tucker (LVR), Jakobi Meyers (JAC), Romeo Doubs (NEP), Jerry Jeudy (CLE), Keenan Allen (IND), Xavier Hutchinson (HOU), Demario Douglas (NEP)
+**WR** — Malik Washington (MIA), Tre Tucker (LVR), Jakobi Meyers (JAC), Jerry Jeudy (CLE), Keenan Allen (IND), Xavier Hutchinson (HOU), Demario Douglas (NEP), Ryan Flournoy (DAL)
 
 **TE** — Cade Otton (TBB), Pat Freiermuth (PIT), Dalton Schultz (HOU), Oronde Gadsden (LAC), Gunnar Helm (TEN), Greg Dulcich (MIA), AJ Barner (SEA), Theo Johnson (NYG)
 

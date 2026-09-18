@@ -76,10 +76,6 @@
     "id": "0002",
     "player": [
      {
-      "id": "14104",
-      "status": "ROSTER"
-     },
-     {
       "id": "15711",
       "status": "ROSTER"
      },
@@ -134,6 +130,14 @@
      {
       "id": "17482",
       "status": "ROSTER"
+     },
+     {
+      "id": "15779",
+      "status": "ROSTER"
+     },
+     {
+      "id": "14104",
+      "status": "INJURED_RESERVE"
      }
     ],
     "week": "2"
