@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-19T12:16:26.363367+00:00",
+ "generated_at": "2026-09-20T12:15:57.632624+00:00",
  "season": "2026",
  "week": 1,
  "league": {
@@ -3334,6 +3334,14 @@
    "proj": 2.0
   },
   {
+   "id": "17234",
+   "name": "Jimmy Horn",
+   "pos": "WR",
+   "team": "CAR",
+   "ytd": -2.0,
+   "proj": 2.0
+  },
+  {
    "id": "17517",
    "name": "Ja'Kobi Lane",
    "pos": "WR",
@@ -4765,13 +4773,6 @@
    "pos": "TE",
    "team": "PHI",
    "injury": "IR \u2014 Hamstring"
-  },
-  {
-   "id": "15288",
-   "name": "Elijah Moore",
-   "pos": "WR",
-   "team": "PHI",
-   "injury": "Out \u2014 Coach's Decision"
   }
  ],
  "recent_transactions": [
