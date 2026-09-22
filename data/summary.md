@@ -1,7 +1,7 @@
 # Pete’s Perfect Team — week 1
 
-Cap City Football · 12 teams · generated 2026-09-21 12:16 UTC
-Record 1-0-0, 120.6 points for
+Cap City Football · 12 teams · generated 2026-09-22 12:16 UTC
+Record 2-0-0, 250.6 points for
 
 ## Roster
 
@@ -35,4 +35,4 @@ Record 1-0-0, 120.6 points for
 
 **PK** — Tyler Bass (BUF), Wil Lutz (DEN), Cairo Santos (CHI), Jake Elliott (PHI), Spencer Shrader (IND), Chad Ryland (ARI), Eddy Pineiro (SFO), Riley Patterson (MIA)
 
-**Def** — Atlanta Falcons (ATL), Chicago Bears (CHI), Tennessee Titans (TEN), New Orleans Saints (NOS), Cleveland Browns (CLE), Washington Commanders (WAS), Detroit Lions (DET), Miami Dolphins (MIA)
+**Def** — Atlanta Falcons (ATL), Chicago Bears (CHI), Tennessee Titans (TEN), New Orleans Saints (NOS), Cleveland Browns (CLE), Washington Commanders (WAS), Detroit Lions (DET), New York Giants (NYG)
