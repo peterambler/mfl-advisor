@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-22T12:16:49.743300+00:00",
+ "generated_at": "2026-09-23T12:17:09.831057+00:00",
  "season": "2026",
  "week": 1,
  "league": {
@@ -910,7 +910,8 @@
      "pos": "TE",
      "team": "PHI",
      "ytd": 27.1,
-     "proj": 13.2
+     "proj": 13.2,
+     "slot": "INJURED_RESERVE"
     },
     {
      "id": "14138",
@@ -4372,13 +4373,6 @@
    "injury": "Out \u2014 Coach's Decision"
   },
   {
-   "id": "16595",
-   "name": "Audric Estime",
-   "pos": "RB",
-   "team": "NOS",
-   "injury": "IR \u2014 Thigh"
-  },
-  {
    "id": "16120",
    "name": "Austin Trammell",
    "pos": "WR",
@@ -4439,6 +4433,12 @@
    "injury": "Out \u2014 Coach's Decision"
   },
   {
+   "id": "11674",
+   "name": "Brandin Cooks",
+   "pos": "WR",
+   "team": "BUF"
+  },
+  {
    "id": "13638",
    "name": "Braxton Berrios",
    "pos": "WR",
@@ -4451,6 +4451,13 @@
    "pos": "TE",
    "team": "SFO",
    "ytd": 0.0
+  },
+  {
+   "id": "16962",
+   "name": "Brenden Bates",
+   "pos": "TE",
+   "team": "FA",
+   "injury": "Questionable \u2014 Undisclosed"
   },
   {
    "id": "17321",
@@ -4793,16 +4800,15 @@
    "name": "Devin Culp",
    "pos": "TE",
    "team": "TBB"
-  },
-  {
-   "id": "14847",
-   "name": "Devin Duvernay",
-   "pos": "WR",
-   "team": "ARI",
-   "ytd": 0.0
   }
  ],
  "recent_transactions": [
+  {
+   "type": "IR",
+   "franchise": "Team Brown",
+   "when": "1790106105",
+   "detail": ""
+  },
   {
    "type": "IR",
    "franchise": "Attitude",
@@ -5036,12 +5042,6 @@
    "franchise": "Based Crack Cocaine Enjoyers",
    "when": "1788408200",
    "detail": "17047|1|"
-  },
-  {
-   "type": "AUCTION_WON",
-   "franchise": "Pete\u2019s Perfect Team",
-   "when": "1788408187",
-   "detail": "16809|1|"
   }
  ]
 }
