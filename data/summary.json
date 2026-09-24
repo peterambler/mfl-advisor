@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-24T12:17:11.978953+00:00",
+ "generated_at": "2026-09-24T21:15:13.545763+00:00",
  "season": "2026",
  "week": 1,
  "league": {
@@ -833,6 +833,14 @@
      "proj": 6.8
     },
     {
+     "id": "16896",
+     "name": "Spencer Shrader",
+     "pos": "PK",
+     "team": "IND",
+     "ytd": 21.0,
+     "proj": 5.2
+    },
+    {
      "id": "11936",
      "name": "Chris Boswell",
      "pos": "PK",
@@ -1110,14 +1118,6 @@
      "proj": 5.4
     },
     {
-     "id": "17220",
-     "name": "Andres Borregales",
-     "pos": "PK",
-     "team": "NEP",
-     "ytd": 14.0,
-     "proj": 5.5
-    },
-    {
      "id": "13589",
      "name": "Josh Allen",
      "pos": "QB",
@@ -1148,6 +1148,14 @@
      "team": "WAS",
      "ytd": 19.0,
      "proj": 6.8
+    },
+    {
+     "id": "16165",
+     "name": "Tyjae Spears",
+     "pos": "RB",
+     "team": "TEN",
+     "ytd": 13.4,
+     "proj": 8.9
     },
     {
      "id": "13132",
@@ -1910,14 +1918,6 @@
    "proj": 9.1
   },
   {
-   "id": "16165",
-   "name": "Tyjae Spears",
-   "pos": "RB",
-   "team": "TEN",
-   "ytd": 13.4,
-   "proj": 8.9
-  },
-  {
    "id": "11222",
    "name": "Keenan Allen",
    "pos": "WR",
@@ -2317,6 +2317,14 @@
    "proj": 5.6
   },
   {
+   "id": "17220",
+   "name": "Andres Borregales",
+   "pos": "PK",
+   "team": "NEP",
+   "ytd": 14.0,
+   "proj": 5.5
+  },
+  {
    "id": "14840",
    "name": "Brandon Aiyuk",
    "pos": "WR",
@@ -2355,14 +2363,6 @@
    "team": "ATL",
    "ytd": 6.0,
    "proj": 5.3
-  },
-  {
-   "id": "16896",
-   "name": "Spencer Shrader",
-   "pos": "PK",
-   "team": "IND",
-   "ytd": 21.0,
-   "proj": 5.2
   },
   {
    "id": "16292",
@@ -4801,9 +4801,27 @@
    "name": "Deven Thompkins",
    "pos": "WR",
    "team": "LVR"
+  },
+  {
+   "id": "16796",
+   "name": "Devin Culp",
+   "pos": "TE",
+   "team": "TBB"
   }
  ],
  "recent_transactions": [
+  {
+   "type": "FREE_AGENT",
+   "franchise": "Team Brown",
+   "when": "1790275732",
+   "detail": "16896,|"
+  },
+  {
+   "type": "FREE_AGENT",
+   "franchise": "Based Crack Cocaine Enjoyers",
+   "when": "1790255579",
+   "detail": "16165,|17220,"
+  },
   {
    "type": "FREE_AGENT",
    "franchise": "Washington Misanthropes",
@@ -5031,18 +5049,6 @@
    "franchise": "Dawg Pound",
    "when": "1788753600",
    "detail": "0531,|7.00|16193,"
-  },
-  {
-   "type": "BBID_WAIVER",
-   "franchise": "Dawg Pound",
-   "when": "1788753600",
-   "detail": "17032,|7.00|"
-  },
-  {
-   "type": "BBID_AUTO_PROCESS_WAIVERS",
-   "franchise": "",
-   "when": "1788753600",
-   "detail": ""
   }
  ]
 }

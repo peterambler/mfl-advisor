@@ -1,6 +1,6 @@
 # Pete’s Perfect Team — week 1
 
-Cap City Football · 12 teams · generated 2026-09-24 12:17 UTC
+Cap City Football · 12 teams · generated 2026-09-24 21:15 UTC
 Record 2-0-0, 250.6 points for
 
 ## Roster
@@ -27,12 +27,12 @@ Record 2-0-0, 250.6 points for
 
 **QB** — Jaxson Dart (NYG), Jacoby Brissett (ARI), Cam Ward (TEN), Aaron Rodgers (PIT), Kirk Cousins (LVR), Deshaun Watson (CLE), Kyler Murray (MIN), Sam Darnold (SEA)
 
-**RB** — Kenneth Gainwell (TBB), Tyjae Spears (TEN), Jonathon Brooks (CAR), Sione Vaki (DET), Kimani Vidal (LAC), Devin Singletary (NYG), Chris Rodriguez (JAC), Justice Hill (BAL)
+**RB** — Kenneth Gainwell (TBB), Jonathon Brooks (CAR), Sione Vaki (DET), Kimani Vidal (LAC), Devin Singletary (NYG), Chris Rodriguez (JAC), Justice Hill (BAL), George Holani (SEA)
 
 **WR** — Malik Washington (MIA), Jakobi Meyers (JAC), Jerry Jeudy (CLE), Keenan Allen (IND), Xavier Hutchinson (HOU), Demario Douglas (NEP), Ryan Flournoy (DAL), Jauan Jennings (MIN)
 
 **TE** — Cade Otton (TBB), Pat Freiermuth (PIT), Oronde Gadsden (LAC), Mike Gesicki (CIN), Gunnar Helm (TEN), AJ Barner (SEA), Greg Dulcich (MIA), Theo Johnson (NYG)
 
-**PK** — Tyler Bass (BUF), Wil Lutz (DEN), Cairo Santos (CHI), Jake Elliott (PHI), Spencer Shrader (IND), Chad Ryland (ARI), Eddy Pineiro (SFO), Riley Patterson (MIA)
+**PK** — Tyler Bass (BUF), Wil Lutz (DEN), Andres Borregales (NEP), Cairo Santos (CHI), Jake Elliott (PHI), Chad Ryland (ARI), Eddy Pineiro (SFO), Riley Patterson (MIA)
 
 **Def** — Los Angeles Chargers (LAC), Jacksonville Jaguars (JAC), Atlanta Falcons (ATL), Chicago Bears (CHI), Tennessee Titans (TEN), New Orleans Saints (NOS), Cleveland Browns (CLE), Washington Commanders (WAS)
