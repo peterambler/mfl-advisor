@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-23T12:17:09.831057+00:00",
+ "generated_at": "2026-09-24T12:17:11.978953+00:00",
  "season": "2026",
  "week": 1,
  "league": {
@@ -167,14 +167,6 @@
      "proj": 5.0
     },
     {
-     "id": "17032",
-     "name": "Jaxson Dart",
-     "pos": "QB",
-     "team": "NYG",
-     "ytd": 29.9,
-     "proj": 26.1
-    },
-    {
      "id": "14779",
      "name": "Justin Herbert",
      "pos": "QB",
@@ -232,14 +224,6 @@
      "slot": "INJURED_RESERVE"
     },
     {
-     "id": "13672",
-     "name": "Mike Gesicki",
-     "pos": "TE",
-     "team": "CIN",
-     "ytd": 20.8,
-     "proj": 9.2
-    },
-    {
      "id": "17103",
      "name": "Harold Fannin",
      "pos": "TE",
@@ -254,6 +238,22 @@
      "team": "JAC",
      "ytd": 15.0,
      "proj": 9.4
+    },
+    {
+     "id": "17500",
+     "name": "Denzel Boston",
+     "pos": "WR",
+     "team": "CLE",
+     "ytd": 34.4,
+     "proj": 2.9
+    },
+    {
+     "id": "16287",
+     "name": "Tre Tucker",
+     "pos": "WR",
+     "team": "LVR",
+     "ytd": 27.6,
+     "proj": 10.1
     },
     {
      "id": "16190",
@@ -432,12 +432,12 @@
    },
    "players": [
     {
-     "id": "0509",
-     "name": "Jacksonville Jaguars",
+     "id": "0506",
+     "name": "Cincinnati Bengals",
      "pos": "Def",
-     "team": "JAC",
-     "ytd": 11.0,
-     "proj": 6.8
+     "team": "CIN",
+     "ytd": 22.0,
+     "proj": 2.9
     },
     {
      "id": "16414",
@@ -512,14 +512,6 @@
      "proj": 14.6
     },
     {
-     "id": "15329",
-     "name": "Kyle Pitts",
-     "pos": "TE",
-     "team": "ATL",
-     "ytd": 2.9,
-     "proj": 11.5
-    },
-    {
      "id": "11675",
      "name": "Davante Adams",
      "pos": "WR",
@@ -550,6 +542,14 @@
      "team": "DEN",
      "ytd": 23.0,
      "proj": 12.1
+    },
+    {
+     "id": "15293",
+     "name": "Rashod Bateman",
+     "pos": "WR",
+     "team": "BAL",
+     "ytd": 21.8,
+     "proj": 6.4
     }
    ]
   },
@@ -1004,20 +1004,20 @@
      "proj": 13.6
     },
     {
+     "id": "17477",
+     "name": "Jonah Coleman",
+     "pos": "RB",
+     "team": "DEN",
+     "ytd": 14.8,
+     "proj": 4.8
+    },
+    {
      "id": "16604",
      "name": "MarShawn Lloyd",
      "pos": "RB",
      "team": "GBP",
      "ytd": 12.3,
      "proj": 12.9
-    },
-    {
-     "id": "15255",
-     "name": "Kenneth Gainwell",
-     "pos": "RB",
-     "team": "TBB",
-     "ytd": 7.3,
-     "proj": 10.2
     },
     {
      "id": "14073",
@@ -1094,12 +1094,12 @@
    },
    "players": [
     {
-     "id": "0514",
-     "name": "Los Angeles Chargers",
+     "id": "0512",
+     "name": "Kansas City Chiefs",
      "pos": "Def",
-     "team": "LAC",
-     "ytd": 5.0,
-     "proj": 7.0
+     "team": "KCC",
+     "ytd": 12.0,
+     "proj": 2.1
     },
     {
      "id": "12437",
@@ -1250,6 +1250,14 @@
      "proj": 5.8
     },
     {
+     "id": "16148",
+     "name": "Bryce Young",
+     "pos": "QB",
+     "team": "CAR",
+     "ytd": 62.1,
+     "proj": 23.2
+    },
+    {
      "id": "12611",
      "name": "Jared Goff",
      "pos": "QB",
@@ -1290,14 +1298,6 @@
      "proj": 7.0
     },
     {
-     "id": "16597",
-     "name": "Jonathon Brooks",
-     "pos": "RB",
-     "team": "CAR",
-     "ytd": 9.8,
-     "proj": 8.9
-    },
-    {
      "id": "17102",
      "name": "Tyler Warren",
      "pos": "TE",
@@ -1314,20 +1314,20 @@
      "proj": 7.8
     },
     {
+     "id": "15329",
+     "name": "Kyle Pitts",
+     "pos": "TE",
+     "team": "ATL",
+     "ytd": 2.9,
+     "proj": 11.5
+    },
+    {
      "id": "16192",
      "name": "Parker Washington",
      "pos": "WR",
      "team": "JAC",
      "ytd": 36.1,
      "proj": 11.5
-    },
-    {
-     "id": "17599",
-     "name": "Caleb Douglas",
-     "pos": "WR",
-     "team": "MIA",
-     "ytd": 18.3,
-     "proj": 6.3
     },
     {
      "id": "17501",
@@ -1354,12 +1354,11 @@
      "proj": 3.4
     },
     {
-     "id": "17514",
-     "name": "De'Zhaun Stribling",
+     "id": "17498",
+     "name": "Jordyn Tyson",
      "pos": "WR",
-     "team": "SFO",
-     "ytd": 0.0,
-     "proj": 3.1,
+     "team": "NOS",
+     "injury": "IR-R \u2014 Hamstring",
      "slot": "INJURED_RESERVE"
     }
    ]
@@ -1675,14 +1674,6 @@
      "injury": "Out \u2014 Ankle"
     },
     {
-     "id": "16165",
-     "name": "Tyjae Spears",
-     "pos": "RB",
-     "team": "TEN",
-     "ytd": 13.4,
-     "proj": 8.9
-    },
-    {
      "id": "15712",
      "name": "Tyler Allgeier",
      "pos": "RB",
@@ -1705,6 +1696,14 @@
      "team": "NYG",
      "ytd": 38.9,
      "proj": 10.9
+    },
+    {
+     "id": "13772",
+     "name": "Dalton Schultz",
+     "pos": "TE",
+     "team": "HOU",
+     "ytd": 37.9,
+     "proj": 9.6
     },
     {
      "id": "15287",
@@ -1759,20 +1758,20 @@
  },
  "free_agents": [
   {
+   "id": "17032",
+   "name": "Jaxson Dart",
+   "pos": "QB",
+   "team": "NYG",
+   "ytd": 29.9,
+   "proj": 26.1
+  },
+  {
    "id": "12616",
    "name": "Jacoby Brissett",
    "pos": "QB",
    "team": "ARI",
    "ytd": 26.8,
    "proj": 24.2
-  },
-  {
-   "id": "16148",
-   "name": "Bryce Young",
-   "pos": "QB",
-   "team": "CAR",
-   "ytd": 62.1,
-   "proj": 23.2
   },
   {
    "id": "17030",
@@ -1855,12 +1854,12 @@
    "proj": 10.2
   },
   {
-   "id": "16287",
-   "name": "Tre Tucker",
-   "pos": "WR",
-   "team": "LVR",
-   "ytd": 27.6,
-   "proj": 10.1
+   "id": "15255",
+   "name": "Kenneth Gainwell",
+   "pos": "RB",
+   "team": "TBB",
+   "ytd": 7.3,
+   "proj": 10.2
   },
   {
    "id": "15331",
@@ -1879,14 +1878,6 @@
    "proj": 9.7
   },
   {
-   "id": "13772",
-   "name": "Dalton Schultz",
-   "pos": "TE",
-   "team": "HOU",
-   "ytd": 37.9,
-   "proj": 9.6
-  },
-  {
    "id": "14833",
    "name": "Jerry Jeudy",
    "pos": "WR",
@@ -1903,6 +1894,14 @@
    "proj": 9.4
   },
   {
+   "id": "13672",
+   "name": "Mike Gesicki",
+   "pos": "TE",
+   "team": "CIN",
+   "ytd": 20.8,
+   "proj": 9.2
+  },
+  {
    "id": "17105",
    "name": "Gunnar Helm",
    "pos": "TE",
@@ -1911,11 +1910,27 @@
    "proj": 9.1
   },
   {
+   "id": "16165",
+   "name": "Tyjae Spears",
+   "pos": "RB",
+   "team": "TEN",
+   "ytd": 13.4,
+   "proj": 8.9
+  },
+  {
    "id": "11222",
    "name": "Keenan Allen",
    "pos": "WR",
    "team": "IND",
    "ytd": 10.7,
+   "proj": 8.9
+  },
+  {
+   "id": "16597",
+   "name": "Jonathon Brooks",
+   "pos": "RB",
+   "team": "CAR",
+   "ytd": 9.8,
    "proj": 8.9
   },
   {
@@ -2046,6 +2061,14 @@
    "proj": 7.0
   },
   {
+   "id": "0514",
+   "name": "Los Angeles Chargers",
+   "pos": "Def",
+   "team": "LAC",
+   "ytd": 5.0,
+   "proj": 7.0
+  },
+  {
    "id": "13289",
    "name": "Mack Hollins",
    "pos": "WR",
@@ -2060,6 +2083,14 @@
    "team": "TEN",
    "ytd": -0.3,
    "proj": 6.9
+  },
+  {
+   "id": "0509",
+   "name": "Jacksonville Jaguars",
+   "pos": "Def",
+   "team": "JAC",
+   "ytd": 11.0,
+   "proj": 6.8
   },
   {
    "id": "16639",
@@ -2102,14 +2133,6 @@
    "proj": 6.5
   },
   {
-   "id": "15293",
-   "name": "Rashod Bateman",
-   "pos": "WR",
-   "team": "BAL",
-   "ytd": 21.8,
-   "proj": 6.4
-  },
-  {
    "id": "13189",
    "name": "Evan Engram",
    "pos": "TE",
@@ -2140,6 +2163,14 @@
    "team": "SFO",
    "ytd": 0.0,
    "proj": 6.4
+  },
+  {
+   "id": "17599",
+   "name": "Caleb Douglas",
+   "pos": "WR",
+   "team": "MIA",
+   "ytd": 18.3,
+   "proj": 6.3
   },
   {
    "id": "14080",
@@ -2475,14 +2506,6 @@
    "team": "PIT",
    "ytd": 0.0,
    "proj": 4.9
-  },
-  {
-   "id": "17477",
-   "name": "Jonah Coleman",
-   "pos": "RB",
-   "team": "DEN",
-   "ytd": 14.8,
-   "proj": 4.8
   },
   {
    "id": "14137",
@@ -2963,6 +2986,14 @@
    "proj": 3.1
   },
   {
+   "id": "17514",
+   "name": "De'Zhaun Stribling",
+   "pos": "WR",
+   "team": "SFO",
+   "ytd": 0.0,
+   "proj": 3.1
+  },
+  {
    "id": "17213",
    "name": "Jackson Hawes",
    "pos": "TE",
@@ -2985,22 +3016,6 @@
    "team": "MIA",
    "ytd": 3.0,
    "proj": 3.0
-  },
-  {
-   "id": "17500",
-   "name": "Denzel Boston",
-   "pos": "WR",
-   "team": "CLE",
-   "ytd": 34.4,
-   "proj": 2.9
-  },
-  {
-   "id": "0506",
-   "name": "Cincinnati Bengals",
-   "pos": "Def",
-   "team": "CIN",
-   "ytd": 22.0,
-   "proj": 2.9
   },
   {
    "id": "16432",
@@ -3295,14 +3310,6 @@
    "team": "GBP",
    "proj": 2.2,
    "injury": "IR-PUP \u2014 Neck"
-  },
-  {
-   "id": "0512",
-   "name": "Kansas City Chiefs",
-   "pos": "Def",
-   "team": "KCC",
-   "ytd": 12.0,
-   "proj": 2.1
   },
   {
    "id": "13940",
@@ -4794,15 +4801,81 @@
    "name": "Deven Thompkins",
    "pos": "WR",
    "team": "LVR"
-  },
-  {
-   "id": "16796",
-   "name": "Devin Culp",
-   "pos": "TE",
-   "team": "TBB"
   }
  ],
  "recent_transactions": [
+  {
+   "type": "FREE_AGENT",
+   "franchise": "Washington Misanthropes",
+   "when": "1790243332",
+   "detail": "15329,|16597,"
+  },
+  {
+   "type": "FREE_AGENT",
+   "franchise": "Washington Misanthropes",
+   "when": "1790243055",
+   "detail": "16148,|17514,"
+  },
+  {
+   "type": "IR",
+   "franchise": "Washington Misanthropes",
+   "when": "1790243009",
+   "detail": ""
+  },
+  {
+   "type": "BBID_WAIVER",
+   "franchise": "wait till next year",
+   "when": "1790226000",
+   "detail": "0506,|1.00|0509,"
+  },
+  {
+   "type": "BBID_WAIVER",
+   "franchise": "wait till next year",
+   "when": "1790226000",
+   "detail": "15293,|1.00|15329,"
+  },
+  {
+   "type": "BBID_WAIVER",
+   "franchise": "Based Crack Cocaine Enjoyers",
+   "when": "1790226000",
+   "detail": "0512,|2.00|0514,"
+  },
+  {
+   "type": "BBID_WAIVER",
+   "franchise": "Washington Misanthropes",
+   "when": "1790226000",
+   "detail": "17498,|7.00|17599,"
+  },
+  {
+   "type": "BBID_WAIVER",
+   "franchise": "Athenian Souvlakis",
+   "when": "1790226000",
+   "detail": "13772,|8.00|16165,"
+  },
+  {
+   "type": "BBID_WAIVER",
+   "franchise": "Dawg Pound",
+   "when": "1790226000",
+   "detail": "16287,|23.00|17032,"
+  },
+  {
+   "type": "BBID_WAIVER",
+   "franchise": "ASSASSINS",
+   "when": "1790226000",
+   "detail": "17477,|24.00|15255,"
+  },
+  {
+   "type": "BBID_WAIVER",
+   "franchise": "Dawg Pound",
+   "when": "1790226000",
+   "detail": "17500,|29.00|13672,"
+  },
+  {
+   "type": "BBID_AUTO_PROCESS_WAIVERS",
+   "franchise": "",
+   "when": "1790226000",
+   "detail": ""
+  },
   {
    "type": "IR",
    "franchise": "Team Brown",
@@ -4970,78 +5043,6 @@
    "franchise": "",
    "when": "1788753600",
    "detail": ""
-  },
-  {
-   "type": "LOCK_ALL_PLAYERS",
-   "franchise": "",
-   "when": "1788620400",
-   "detail": ""
-  },
-  {
-   "type": "BBID_WAIVER",
-   "franchise": "Athenian Souvlakis",
-   "when": "1788618410",
-   "detail": "17222,|1|14983,"
-  },
-  {
-   "type": "BBID_WAIVER",
-   "franchise": "Pete\u2019s Perfect Team",
-   "when": "1788618410",
-   "detail": "16757,|1|13132,"
-  },
-  {
-   "type": "BBID_WAIVER",
-   "franchise": "Pete\u2019s Perfect Team",
-   "when": "1788618410",
-   "detail": "16620,|1|16809,"
-  },
-  {
-   "type": "BBID_WAIVER",
-   "franchise": "Pete\u2019s Perfect Team",
-   "when": "1788618410",
-   "detail": "16164,|1|16174,"
-  },
-  {
-   "type": "BBID_WAIVER",
-   "franchise": "wait till next year",
-   "when": "1788618410",
-   "detail": "0509,|1|17032,"
-  },
-  {
-   "type": "PROCESS_WAIVERS",
-   "franchise": "",
-   "when": "1788618410",
-   "detail": ""
-  },
-  {
-   "type": "IR",
-   "franchise": "Dawg Pound",
-   "when": "1788464905",
-   "detail": ""
-  },
-  {
-   "type": "AUCTION_WON",
-   "franchise": "Based Crack Cocaine Enjoyers",
-   "when": "1788408310",
-   "detail": "12676|1|"
-  },
-  {
-   "type": "AUCTION_INIT",
-   "franchise": "Based Crack Cocaine Enjoyers",
-   "when": "1788408237",
-   "detail": "12676|1|"
-  },
-  {
-   "type": "AUCTION_WON",
-   "franchise": "Based Crack Cocaine Enjoyers",
-   "when": "1788408233",
-   "detail": "17047|1|"
-  },
-  {
-   "type": "AUCTION_INIT",
-   "franchise": "Based Crack Cocaine Enjoyers",
-   "when": "1788408200",
-   "detail": "17047|1|"
   }
  ]
 }

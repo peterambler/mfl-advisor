@@ -32,7 +32,7 @@
    "franchise": [
     {
      "abbrev": "Kids",
-     "bbidAvailableBalance": "120.00",
+     "bbidAvailableBalance": "68.00",
      "division": "00",
      "icon": "https://www46.myfantasyleague.com/fflnetdynamic2023/24838_franchise_icon0001.png",
      "id": "0001",
@@ -49,7 +49,7 @@
      "waiverSortOrder": "7"
     },
     {
-     "bbidAvailableBalance": "146.00",
+     "bbidAvailableBalance": "144.00",
      "division": "01",
      "icon": "https://www46.myfantasyleague.com/fflnet2010/icons/Toilet_Paper.gif",
      "id": "0003",
@@ -86,7 +86,7 @@
      "waiverSortOrder": "3"
     },
     {
-     "bbidAvailableBalance": "104.00",
+     "bbidAvailableBalance": "80.00",
      "division": "01",
      "icon": "https://www46.myfantasyleague.com/fflnet2012/newhelmets/nh-0013.png",
      "id": "0007",
@@ -94,7 +94,7 @@
      "waiverSortOrder": "8"
     },
     {
-     "bbidAvailableBalance": "80.00",
+     "bbidAvailableBalance": "78.00",
      "division": "01",
      "icon": "https://www46.myfantasyleague.com/fflnetdynamic2025/24838_franchise_icon0008.jpg",
      "id": "0008",
@@ -103,7 +103,7 @@
      "waiverSortOrder": "4"
     },
     {
-     "bbidAvailableBalance": "91.00",
+     "bbidAvailableBalance": "84.00",
      "division": "00",
      "id": "0009",
      "name": "Washington Misanthropes",
@@ -129,7 +129,7 @@
      "waiverSortOrder": "10"
     },
     {
-     "bbidAvailableBalance": "100.00",
+     "bbidAvailableBalance": "92.00",
      "division": "00",
      "id": "0012",
      "name": "Athenian Souvlakis",

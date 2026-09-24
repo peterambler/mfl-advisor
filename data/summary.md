@@ -1,6 +1,6 @@
 # Pete’s Perfect Team — week 1
 
-Cap City Football · 12 teams · generated 2026-09-23 12:17 UTC
+Cap City Football · 12 teams · generated 2026-09-24 12:17 UTC
 Record 2-0-0, 250.6 points for
 
 ## Roster
@@ -25,14 +25,14 @@ Record 2-0-0, 250.6 points for
 
 ## Best available
 
-**QB** — Jacoby Brissett (ARI), Bryce Young (CAR), Cam Ward (TEN), Aaron Rodgers (PIT), Kirk Cousins (LVR), Deshaun Watson (CLE), Kyler Murray (MIN), Sam Darnold (SEA)
+**QB** — Jaxson Dart (NYG), Jacoby Brissett (ARI), Cam Ward (TEN), Aaron Rodgers (PIT), Kirk Cousins (LVR), Deshaun Watson (CLE), Kyler Murray (MIN), Sam Darnold (SEA)
 
-**RB** — Sione Vaki (DET), Kimani Vidal (LAC), Devin Singletary (NYG), Chris Rodriguez (JAC), Justice Hill (BAL), George Holani (SEA), Emari Demercado (DAL), Bam Knight (ARI)
+**RB** — Kenneth Gainwell (TBB), Tyjae Spears (TEN), Jonathon Brooks (CAR), Sione Vaki (DET), Kimani Vidal (LAC), Devin Singletary (NYG), Chris Rodriguez (JAC), Justice Hill (BAL)
 
-**WR** — Malik Washington (MIA), Tre Tucker (LVR), Jakobi Meyers (JAC), Jerry Jeudy (CLE), Keenan Allen (IND), Xavier Hutchinson (HOU), Demario Douglas (NEP), Ryan Flournoy (DAL)
+**WR** — Malik Washington (MIA), Jakobi Meyers (JAC), Jerry Jeudy (CLE), Keenan Allen (IND), Xavier Hutchinson (HOU), Demario Douglas (NEP), Ryan Flournoy (DAL), Jauan Jennings (MIN)
 
-**TE** — Cade Otton (TBB), Pat Freiermuth (PIT), Dalton Schultz (HOU), Oronde Gadsden (LAC), Gunnar Helm (TEN), AJ Barner (SEA), Greg Dulcich (MIA), Theo Johnson (NYG)
+**TE** — Cade Otton (TBB), Pat Freiermuth (PIT), Oronde Gadsden (LAC), Mike Gesicki (CIN), Gunnar Helm (TEN), AJ Barner (SEA), Greg Dulcich (MIA), Theo Johnson (NYG)
 
 **PK** — Tyler Bass (BUF), Wil Lutz (DEN), Cairo Santos (CHI), Jake Elliott (PHI), Spencer Shrader (IND), Chad Ryland (ARI), Eddy Pineiro (SFO), Riley Patterson (MIA)
 
-**Def** — Atlanta Falcons (ATL), Chicago Bears (CHI), Tennessee Titans (TEN), New Orleans Saints (NOS), Cleveland Browns (CLE), Washington Commanders (WAS), Detroit Lions (DET), New York Giants (NYG)
+**Def** — Los Angeles Chargers (LAC), Jacksonville Jaguars (JAC), Atlanta Falcons (ATL), Chicago Bears (CHI), Tennessee Titans (TEN), New Orleans Saints (NOS), Cleveland Browns (CLE), Washington Commanders (WAS)

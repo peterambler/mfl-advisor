@@ -50,15 +50,15 @@
       "status": "ROSTER"
      },
      {
-      "id": "17032",
-      "status": "ROSTER"
-     },
-     {
       "id": "0531",
       "status": "ROSTER"
      },
      {
-      "id": "13672",
+      "id": "17500",
+      "status": "ROSTER"
+     },
+     {
+      "id": "16287",
       "status": "ROSTER"
      },
      {
@@ -186,10 +186,6 @@
       "status": "ROSTER"
      },
      {
-      "id": "15329",
-      "status": "ROSTER"
-     },
-     {
       "id": "11244",
       "status": "ROSTER"
      },
@@ -202,7 +198,11 @@
       "status": "ROSTER"
      },
      {
-      "id": "0509",
+      "id": "15293",
+      "status": "ROSTER"
+     },
+     {
+      "id": "0506",
       "status": "ROSTER"
      }
     ],
@@ -450,10 +450,6 @@
       "status": "ROSTER"
      },
      {
-      "id": "15255",
-      "status": "ROSTER"
-     },
-     {
       "id": "16604",
       "status": "ROSTER"
      },
@@ -467,6 +463,10 @@
      },
      {
       "id": "0530",
+      "status": "ROSTER"
+     },
+     {
+      "id": "17477",
       "status": "ROSTER"
      },
      {
@@ -512,10 +512,6 @@
       "status": "ROSTER"
      },
      {
-      "id": "0514",
-      "status": "ROSTER"
-     },
-     {
       "id": "15721",
       "status": "ROSTER"
      },
@@ -537,6 +533,10 @@
      },
      {
       "id": "13132",
+      "status": "ROSTER"
+     },
+     {
+      "id": "0512",
       "status": "ROSTER"
      },
      {
@@ -602,15 +602,15 @@
       "status": "ROSTER"
      },
      {
-      "id": "17599",
+      "id": "16148",
       "status": "ROSTER"
      },
      {
-      "id": "16597",
+      "id": "15329",
       "status": "ROSTER"
      },
      {
-      "id": "17514",
+      "id": "17498",
       "status": "INJURED_RESERVE"
      }
     ],
@@ -792,10 +792,6 @@
       "status": "ROSTER"
      },
      {
-      "id": "16165",
-      "status": "ROSTER"
-     },
-     {
       "id": "15712",
       "status": "ROSTER"
      },
@@ -809,6 +805,10 @@
      },
      {
       "id": "17485",
+      "status": "ROSTER"
+     },
+     {
+      "id": "13772",
       "status": "ROSTER"
      }
     ],
