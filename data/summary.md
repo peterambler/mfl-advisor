@@ -1,6 +1,6 @@
 # Pete’s Perfect Team — week 1
 
-Cap City Football · 12 teams · generated 2026-09-24 21:15 UTC
+Cap City Football · 12 teams · generated 2026-09-25 12:17 UTC
 Record 2-0-0, 250.6 points for
 
 ## Roster
@@ -9,18 +9,18 @@ Record 2-0-0, 250.6 points for
 |---|---|---|---|---|---|
 | Philadelphia Eagles | Def | PHI | 3.0 | 4.0 |  |
 | Cam Little | PK | JAC | 5.2 | 19.0 |  |
+| Jordan Love | QB | GBP | 17.0 | 60.3 |  |
 | Tyler Shough | QB | NOS | 22.0 | 52.2 |  |
-| Jordan Love | QB | GBP | 17.0 | 38.7 |  |
 | Omarion Hampton | RB | LAC | 13.8 | 25.8 |  |
 | Saquon Barkley | RB | PHI | 19.0 | 12.3 |  |
 | Tank Bigsby | RB | PHI | 5.1 | 12.1 |  |
 | Dalton Kincaid | TE | BUF | 11.0 | 46.2 |  |
+| Christian Watson | WR | GBP | 12.4 | 69.4 |  |
 | Jalen Coker | WR | CAR | 8.9 | 48.4 |  |
-| Christian Watson | WR | GBP | 12.4 | 46.8 |  |
+| Drake London | WR | ATL | 18.5 | 43.0 |  |
 | Devaughn Vele | WR | NOS | 8.4 | 31.3 |  |
 | Ja'Marr Chase | WR | CIN | 21.9 | 29.7 |  |
 | Xavier Worthy | WR | KCC | 8.9 | 18.3 |  |
-| Drake London | WR | ATL | 18.5 | 14.6 |  |
 | Alec Pierce | WR | IND | 12.4 | 12.2 |  |
 
 ## Best available
