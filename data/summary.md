@@ -1,6 +1,6 @@
 # Pete’s Perfect Team — week 1
 
-Cap City Football · 12 teams · generated 2026-09-25 12:17 UTC
+Cap City Football · 12 teams · generated 2026-09-26 12:15 UTC
 Record 2-0-0, 250.6 points for
 
 ## Roster
@@ -29,7 +29,7 @@ Record 2-0-0, 250.6 points for
 
 **RB** — Kenneth Gainwell (TBB), Jonathon Brooks (CAR), Sione Vaki (DET), Kimani Vidal (LAC), Devin Singletary (NYG), Chris Rodriguez (JAC), Justice Hill (BAL), George Holani (SEA)
 
-**WR** — Malik Washington (MIA), Jakobi Meyers (JAC), Jerry Jeudy (CLE), Keenan Allen (IND), Xavier Hutchinson (HOU), Demario Douglas (NEP), Ryan Flournoy (DAL), Jauan Jennings (MIN)
+**WR** — Jakobi Meyers (JAC), Jerry Jeudy (CLE), Keenan Allen (IND), Xavier Hutchinson (HOU), Demario Douglas (NEP), Ryan Flournoy (DAL), Jauan Jennings (MIN), Troy Franklin (DEN)
 
 **TE** — Cade Otton (TBB), Pat Freiermuth (PIT), Oronde Gadsden (LAC), Mike Gesicki (CIN), Gunnar Helm (TEN), AJ Barner (SEA), Greg Dulcich (MIA), Theo Johnson (NYG)
 

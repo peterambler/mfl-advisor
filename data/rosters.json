@@ -462,19 +462,19 @@
       "status": "ROSTER"
      },
      {
-      "id": "16212",
+      "id": "16641",
       "status": "ROSTER"
      },
      {
-      "id": "0530",
+      "id": "0527",
+      "status": "ROSTER"
+     },
+     {
+      "id": "17107",
       "status": "ROSTER"
      },
      {
       "id": "17477",
-      "status": "ROSTER"
-     },
-     {
-      "id": "16641",
       "status": "INJURED_RESERVE"
      }
     ],
@@ -677,6 +677,10 @@
      },
      {
       "id": "16184",
+      "status": "ROSTER"
+     },
+     {
+      "id": "16684",
       "status": "ROSTER"
      },
      {
