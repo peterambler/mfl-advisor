@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-27T12:16:42.507941+00:00",
+ "generated_at": "2026-09-28T12:18:25.721025+00:00",
  "season": "2026",
  "week": 1,
  "league": {
@@ -31,8 +31,16 @@
     "name": "Cam Little",
     "pos": "PK",
     "team": "JAC",
-    "ytd": 19.0,
+    "ytd": 24.0,
     "proj": 5.2
+   },
+   {
+    "id": "17039",
+    "name": "Tyler Shough",
+    "pos": "QB",
+    "team": "NOS",
+    "ytd": 78.6,
+    "proj": 22.0
    },
    {
     "id": "14782",
@@ -43,19 +51,11 @@
     "proj": 17.0
    },
    {
-    "id": "17039",
-    "name": "Tyler Shough",
-    "pos": "QB",
-    "team": "NOS",
-    "ytd": 52.2,
-    "proj": 22.0
-   },
-   {
     "id": "17044",
     "name": "Omarion Hampton",
     "pos": "RB",
     "team": "LAC",
-    "ytd": 25.8,
+    "ytd": 31.4,
     "proj": 13.8
    },
    {
@@ -79,7 +79,7 @@
     "name": "Dalton Kincaid",
     "pos": "TE",
     "team": "BUF",
-    "ytd": 46.2,
+    "ytd": 53.0,
     "proj": 11.0
    },
    {
@@ -91,11 +91,19 @@
     "proj": 12.4
    },
    {
+    "id": "15281",
+    "name": "Ja'Marr Chase",
+    "pos": "WR",
+    "team": "CIN",
+    "ytd": 54.5,
+    "proj": 21.9
+   },
+   {
     "id": "16809",
     "name": "Jalen Coker",
     "pos": "WR",
     "team": "CAR",
-    "ytd": 48.4,
+    "ytd": 52.2,
     "proj": 8.9
    },
    {
@@ -111,23 +119,15 @@
     "name": "Devaughn Vele",
     "pos": "WR",
     "team": "NOS",
-    "ytd": 31.3,
+    "ytd": 38.2,
     "proj": 8.4
-   },
-   {
-    "id": "15281",
-    "name": "Ja'Marr Chase",
-    "pos": "WR",
-    "team": "CIN",
-    "ytd": 29.7,
-    "proj": 21.9
    },
    {
     "id": "16620",
     "name": "Xavier Worthy",
     "pos": "WR",
     "team": "KCC",
-    "ytd": 18.3,
+    "ytd": 22.3,
     "proj": 8.9
    },
    {
@@ -155,7 +155,7 @@
      "name": "Buffalo Bills",
      "pos": "Def",
      "team": "BUF",
-     "ytd": 11.0,
+     "ytd": 15.0,
      "proj": 2.4
     },
     {
@@ -163,7 +163,7 @@
      "name": "Cameron Dicker",
      "pos": "PK",
      "team": "LAC",
-     "ytd": 4.0,
+     "ytd": 14.0,
      "proj": 5.0
     },
     {
@@ -171,7 +171,7 @@
      "name": "Justin Herbert",
      "pos": "QB",
      "team": "LAC",
-     "ytd": 25.2,
+     "ytd": 40.2,
      "proj": 24.7
     },
     {
@@ -179,7 +179,7 @@
      "name": "Drake Maye",
      "pos": "QB",
      "team": "NEP",
-     "ytd": 21.7,
+     "ytd": 27.5,
      "proj": 24.7
     },
     {
@@ -187,7 +187,7 @@
      "name": "Jahmyr Gibbs",
      "pos": "RB",
      "team": "DET",
-     "ytd": 56.9,
+     "ytd": 98.3,
      "proj": 18.5
     },
     {
@@ -195,7 +195,7 @@
      "name": "Javonte Williams",
      "pos": "RB",
      "team": "DAL",
-     "ytd": 32.2,
+     "ytd": 50.5,
      "proj": 12.8
     },
     {
@@ -211,7 +211,7 @@
      "name": "J.K. Dobbins",
      "pos": "RB",
      "team": "DEN",
-     "ytd": 7.2,
+     "ytd": 13.5,
      "proj": 12.0
     },
     {
@@ -228,7 +228,7 @@
      "name": "Harold Fannin",
      "pos": "TE",
      "team": "CLE",
-     "ytd": 16.4,
+     "ytd": 41.8,
      "proj": 12.2
     },
     {
@@ -236,7 +236,7 @@
      "name": "Brenton Strange",
      "pos": "TE",
      "team": "JAC",
-     "ytd": 15.0,
+     "ytd": 22.0,
      "proj": 9.4
     },
     {
@@ -244,32 +244,32 @@
      "name": "Denzel Boston",
      "pos": "WR",
      "team": "CLE",
-     "ytd": 34.4,
+     "ytd": 42.5,
      "proj": 2.9
-    },
-    {
-     "id": "16287",
-     "name": "Tre Tucker",
-     "pos": "WR",
-     "team": "LVR",
-     "ytd": 27.6,
-     "proj": 10.1
     },
     {
      "id": "16190",
      "name": "Zay Flowers",
      "pos": "WR",
      "team": "BAL",
-     "ytd": 26.0,
+     "ytd": 41.4,
      "proj": 14.9,
      "slot": "INJURED_RESERVE"
+    },
+    {
+     "id": "16287",
+     "name": "Tre Tucker",
+     "pos": "WR",
+     "team": "LVR",
+     "ytd": 35.9,
+     "proj": 10.1
     },
     {
      "id": "15761",
      "name": "Khalil Shakir",
      "pos": "WR",
      "team": "BUF",
-     "ytd": 15.8,
+     "ytd": 17.4,
      "proj": 11.7
     },
     {
@@ -277,7 +277,7 @@
      "name": "Brian Thomas Jr.",
      "pos": "WR",
      "team": "JAC",
-     "ytd": 14.0,
+     "ytd": 15.8,
      "proj": 11.3
     }
    ]
@@ -296,7 +296,7 @@
      "name": "Denver Broncos",
      "pos": "Def",
      "team": "DEN",
-     "ytd": 8.0,
+     "ytd": 21.0,
      "proj": 7.2
     },
     {
@@ -304,7 +304,7 @@
      "name": "Jake Bates",
      "pos": "PK",
      "team": "DET",
-     "ytd": 14.0,
+     "ytd": 21.0,
      "proj": 6.7
     },
     {
@@ -312,7 +312,7 @@
      "name": "Brock Purdy",
      "pos": "QB",
      "team": "SFO",
-     "ytd": 54.6,
+     "ytd": 88.9,
      "proj": 26.7
     },
     {
@@ -328,7 +328,7 @@
      "name": "Kenneth Walker III",
      "pos": "RB",
      "team": "KCC",
-     "ytd": 57.9,
+     "ytd": 79.2,
      "proj": 11.3
     },
     {
@@ -336,8 +336,16 @@
      "name": "Breece Hall",
      "pos": "RB",
      "team": "NYJ",
-     "ytd": 34.0,
+     "ytd": 42.5,
      "proj": 11.9
+    },
+    {
+     "id": "17482",
+     "name": "Mike Washington Jr.",
+     "pos": "RB",
+     "team": "LVR",
+     "ytd": 16.2,
+     "proj": 3.7
     },
     {
      "id": "14823",
@@ -348,19 +356,11 @@
      "proj": 10.5
     },
     {
-     "id": "17482",
-     "name": "Mike Washington Jr.",
-     "pos": "RB",
-     "team": "LVR",
-     "ytd": 4.8,
-     "proj": 3.7
-    },
-    {
      "id": "14861",
      "name": "Juwan Johnson",
      "pos": "TE",
      "team": "NOS",
-     "ytd": 28.1,
+     "ytd": 54.7,
      "proj": 11.0
     },
     {
@@ -380,12 +380,28 @@
      "proj": 5.6
     },
     {
+     "id": "16206",
+     "name": "Michael Wilson",
+     "pos": "WR",
+     "team": "ARI",
+     "ytd": 40.3,
+     "proj": 12.3
+    },
+    {
      "id": "13163",
      "name": "Chris Godwin",
      "pos": "WR",
      "team": "TBB",
-     "ytd": 17.1,
+     "ytd": 22.6,
      "proj": 8.9
+    },
+    {
+     "id": "15779",
+     "name": "Romeo Doubs",
+     "pos": "WR",
+     "team": "NEP",
+     "ytd": 20.5,
+     "proj": 9.7
     },
     {
      "id": "17070",
@@ -394,22 +410,6 @@
      "team": "CHI",
      "ytd": 15.7,
      "proj": 8.5
-    },
-    {
-     "id": "16206",
-     "name": "Michael Wilson",
-     "pos": "WR",
-     "team": "ARI",
-     "ytd": 14.4,
-     "proj": 12.3
-    },
-    {
-     "id": "15779",
-     "name": "Romeo Doubs",
-     "pos": "WR",
-     "team": "NEP",
-     "ytd": 12.6,
-     "proj": 9.7
     },
     {
      "id": "14104",
@@ -436,7 +436,7 @@
      "name": "Cincinnati Bengals",
      "pos": "Def",
      "team": "CIN",
-     "ytd": 22.0,
+     "ytd": 26.0,
      "proj": 2.9
     },
     {
@@ -444,7 +444,7 @@
      "name": "Brandon Aubrey",
      "pos": "PK",
      "team": "DAL",
-     "ytd": 18.0,
+     "ytd": 29.0,
      "proj": 5.4
     },
     {
@@ -452,23 +452,15 @@
      "name": "Lamar Jackson",
      "pos": "QB",
      "team": "BAL",
-     "ytd": 45.4,
+     "ytd": 67.7,
      "proj": 25.6
-    },
-    {
-     "id": "14071",
-     "name": "David Montgomery",
-     "pos": "RB",
-     "team": "HOU",
-     "ytd": 33.3,
-     "proj": 10.2
     },
     {
      "id": "17052",
      "name": "Bhayshul Tuten",
      "pos": "RB",
      "team": "JAC",
-     "ytd": 24.3,
+     "ytd": 41.3,
      "proj": 13.4
     },
     {
@@ -476,31 +468,39 @@
      "name": "Jaylen Warren",
      "pos": "RB",
      "team": "PIT",
-     "ytd": 20.0,
+     "ytd": 40.6,
      "proj": 11.9
     },
     {
-     "id": "15259",
-     "name": "Rhamondre Stevenson",
+     "id": "14071",
+     "name": "David Montgomery",
      "pos": "RB",
-     "team": "NEP",
-     "ytd": 18.1,
-     "proj": 12.4
+     "team": "HOU",
+     "ytd": 40.1,
+     "proj": 10.2
     },
     {
      "id": "14085",
      "name": "Tony Pollard",
      "pos": "RB",
      "team": "TEN",
-     "ytd": 12.0,
+     "ytd": 25.6,
      "proj": 12.9
+    },
+    {
+     "id": "15259",
+     "name": "Rhamondre Stevenson",
+     "pos": "RB",
+     "team": "NEP",
+     "ytd": 24.9,
+     "proj": 12.4
     },
     {
      "id": "11244",
      "name": "Travis Kelce",
      "pos": "TE",
      "team": "KCC",
-     "ytd": 39.5,
+     "ytd": 54.9,
      "proj": 12.7
     },
     {
@@ -508,7 +508,7 @@
      "name": "George Kittle",
      "pos": "TE",
      "team": "SFO",
-     "ytd": 23.5,
+     "ytd": 51.8,
      "proj": 14.6
     },
     {
@@ -516,7 +516,7 @@
      "name": "Davante Adams",
      "pos": "WR",
      "team": "LAR",
-     "ytd": 45.1,
+     "ytd": 65.8,
      "proj": 13.3
     },
     {
@@ -528,27 +528,27 @@
      "proj": 15.1
     },
     {
-     "id": "17071",
-     "name": "Tetairoa McMillan",
-     "pos": "WR",
-     "team": "CAR",
-     "ytd": 25.6,
-     "proj": 15.0
-    },
-    {
      "id": "15284",
      "name": "Jaylen Waddle",
      "pos": "WR",
      "team": "DEN",
-     "ytd": 23.0,
+     "ytd": 29.4,
      "proj": 12.1
+    },
+    {
+     "id": "17071",
+     "name": "Tetairoa McMillan",
+     "pos": "WR",
+     "team": "CAR",
+     "ytd": 29.3,
+     "proj": 15.0
     },
     {
      "id": "15293",
      "name": "Rashod Bateman",
      "pos": "WR",
      "team": "BAL",
-     "ytd": 21.8,
+     "ytd": 27.5,
      "proj": 6.4
     }
    ]
@@ -567,7 +567,7 @@
      "name": "New England Patriots",
      "pos": "Def",
      "team": "NEP",
-     "ytd": 17.0,
+     "ytd": 19.0,
      "proj": 2.3
     },
     {
@@ -575,7 +575,7 @@
      "name": "Will Reichard",
      "pos": "PK",
      "team": "MIN",
-     "ytd": 17.0,
+     "ytd": 33.0,
      "proj": 5.1
     },
     {
@@ -583,7 +583,7 @@
      "name": "Matthew Stafford",
      "pos": "QB",
      "team": "LAR",
-     "ytd": 36.2,
+     "ytd": 61.0,
      "proj": 25.6
     },
     {
@@ -591,7 +591,7 @@
      "name": "Malik Willis",
      "pos": "QB",
      "team": "MIA",
-     "ytd": 33.4,
+     "ytd": 45.5,
      "proj": 16.9
     },
     {
@@ -599,7 +599,7 @@
      "name": "Ashton Jeanty",
      "pos": "RB",
      "team": "LVR",
-     "ytd": 43.0,
+     "ytd": 55.3,
      "proj": 16.5
     },
     {
@@ -607,7 +607,7 @@
      "name": "Cam Skattebo",
      "pos": "RB",
      "team": "NYG",
-     "ytd": 23.6,
+     "ytd": 36.6,
      "proj": 15.8
     },
     {
@@ -615,7 +615,7 @@
      "name": "Quinshon Judkins",
      "pos": "RB",
      "team": "CLE",
-     "ytd": 16.8,
+     "ytd": 26.7,
      "proj": 9.6
     },
     {
@@ -623,7 +623,7 @@
      "name": "Keaton Mitchell",
      "pos": "RB",
      "team": "LAC",
-     "ytd": 5.8,
+     "ytd": 20.0,
      "proj": 3.8
     },
     {
@@ -631,7 +631,7 @@
      "name": "Jake Ferguson",
      "pos": "TE",
      "team": "DAL",
-     "ytd": 24.2,
+     "ytd": 36.1,
      "proj": 11.0
     },
     {
@@ -639,7 +639,7 @@
      "name": "CeeDee Lamb",
      "pos": "WR",
      "team": "DAL",
-     "ytd": 50.7,
+     "ytd": 70.9,
      "proj": 14.5
     },
     {
@@ -647,7 +647,7 @@
      "name": "Justin Jefferson",
      "pos": "WR",
      "team": "MIN",
-     "ytd": 39.7,
+     "ytd": 44.9,
      "proj": 13.9
     },
     {
@@ -655,8 +655,16 @@
      "name": "Josh Downs",
      "pos": "WR",
      "team": "IND",
-     "ytd": 19.9,
+     "ytd": 32.6,
      "proj": 12.1
+    },
+    {
+     "id": "17497",
+     "name": "Carnell Tate",
+     "pos": "WR",
+     "team": "TEN",
+     "ytd": 25.3,
+     "proj": 14.2
     },
     {
      "id": "16616",
@@ -665,14 +673,6 @@
      "team": "CHI",
      "ytd": 14.5,
      "proj": 12.1
-    },
-    {
-     "id": "17497",
-     "name": "Carnell Tate",
-     "pos": "WR",
-     "team": "TEN",
-     "ytd": 13.5,
-     "proj": 14.2
     },
     {
      "id": "17074",
@@ -698,7 +698,7 @@
      "name": "Tampa Bay Buccaneers",
      "pos": "Def",
      "team": "TBB",
-     "ytd": 11.0,
+     "ytd": 17.0,
      "proj": 1.4
     },
     {
@@ -706,7 +706,7 @@
      "name": "Los Angeles Rams",
      "pos": "Def",
      "team": "LAR",
-     "ytd": 8.0,
+     "ytd": 11.0,
      "proj": 4.9
     },
     {
@@ -714,7 +714,7 @@
      "name": "Harrison Mevis",
      "pos": "PK",
      "team": "LAR",
-     "ytd": 5.0,
+     "ytd": 20.0,
      "proj": 6.3
     },
     {
@@ -722,7 +722,7 @@
      "name": "Joe Burrow",
      "pos": "QB",
      "team": "CIN",
-     "ytd": 35.1,
+     "ytd": 60.5,
      "proj": 26.5
     },
     {
@@ -730,7 +730,7 @@
      "name": "Bo Nix",
      "pos": "QB",
      "team": "DEN",
-     "ytd": 23.8,
+     "ytd": 47.8,
      "proj": 24.8
     },
     {
@@ -738,7 +738,7 @@
      "name": "Kyren Williams",
      "pos": "RB",
      "team": "LAR",
-     "ytd": 31.2,
+     "ytd": 53.0,
      "proj": 15.0
     },
     {
@@ -746,7 +746,7 @@
      "name": "Chase Brown",
      "pos": "RB",
      "team": "CIN",
-     "ytd": 30.0,
+     "ytd": 38.9,
      "proj": 15.3
     },
     {
@@ -754,7 +754,7 @@
      "name": "Jacory Croskey-Merritt",
      "pos": "RB",
      "team": "WAS",
-     "ytd": 19.1,
+     "ytd": 24.4,
      "proj": 9.5
     },
     {
@@ -762,7 +762,7 @@
      "name": "Jadarian Price",
      "pos": "RB",
      "team": "SEA",
-     "ytd": 12.8,
+     "ytd": 14.0,
      "proj": 14.2
     },
     {
@@ -774,6 +774,22 @@
      "proj": 8.6
     },
     {
+     "id": "16194",
+     "name": "Rashee Rice",
+     "pos": "WR",
+     "team": "KCC",
+     "ytd": 38.0,
+     "proj": 14.6
+    },
+    {
+     "id": "11671",
+     "name": "Mike Evans",
+     "pos": "WR",
+     "team": "SFO",
+     "ytd": 37.7,
+     "proj": 12.6
+    },
+    {
      "id": "16195",
      "name": "Dontayvion Wicks",
      "pos": "WR",
@@ -782,27 +798,11 @@
      "proj": 7.6
     },
     {
-     "id": "11671",
-     "name": "Mike Evans",
-     "pos": "WR",
-     "team": "SFO",
-     "ytd": 25.3,
-     "proj": 12.6
-    },
-    {
-     "id": "16194",
-     "name": "Rashee Rice",
-     "pos": "WR",
-     "team": "KCC",
-     "ytd": 22.2,
-     "proj": 14.6
-    },
-    {
      "id": "14842",
      "name": "Michael Pittman",
      "pos": "WR",
      "team": "PIT",
-     "ytd": 8.8,
+     "ytd": 12.4,
      "proj": 8.3
     },
     {
@@ -829,7 +829,7 @@
      "name": "Seattle Seahawks",
      "pos": "Def",
      "team": "SEA",
-     "ytd": 15.0,
+     "ytd": 17.0,
      "proj": 6.8
     },
     {
@@ -837,7 +837,7 @@
      "name": "Spencer Shrader",
      "pos": "PK",
      "team": "IND",
-     "ytd": 21.0,
+     "ytd": 38.0,
      "proj": 5.2
     },
     {
@@ -845,7 +845,7 @@
      "name": "Chris Boswell",
      "pos": "PK",
      "team": "PIT",
-     "ytd": 14.0,
+     "ytd": 27.0,
      "proj": 5.1
     },
     {
@@ -853,7 +853,7 @@
      "name": "Patrick Mahomes",
      "pos": "QB",
      "team": "KCC",
-     "ytd": 56.3,
+     "ytd": 74.7,
      "proj": 25.4
     },
     {
@@ -861,7 +861,7 @@
      "name": "Baker Mayfield",
      "pos": "QB",
      "team": "TBB",
-     "ytd": 27.8,
+     "ytd": 41.3,
      "proj": 22.2
     },
     {
@@ -869,7 +869,7 @@
      "name": "Jonathan Taylor",
      "pos": "RB",
      "team": "IND",
-     "ytd": 54.3,
+     "ytd": 63.5,
      "proj": 18.1
     },
     {
@@ -877,7 +877,7 @@
      "name": "Chuba Hubbard",
      "pos": "RB",
      "team": "CAR",
-     "ytd": 38.1,
+     "ytd": 53.1,
      "proj": 11.7
     },
     {
@@ -885,7 +885,7 @@
      "name": "James Cook",
      "pos": "RB",
      "team": "BUF",
-     "ytd": 30.8,
+     "ytd": 50.2,
      "proj": 16.1
     },
     {
@@ -893,7 +893,7 @@
      "name": "Aaron Jones",
      "pos": "RB",
      "team": "MIN",
-     "ytd": 20.5,
+     "ytd": 34.7,
      "proj": 12.4
     },
     {
@@ -901,7 +901,7 @@
      "name": "Blake Corum",
      "pos": "RB",
      "team": "LAR",
-     "ytd": 15.6,
+     "ytd": 19.1,
      "proj": 7.4
     },
     {
@@ -909,7 +909,7 @@
      "name": "Sam LaPorta",
      "pos": "TE",
      "team": "DET",
-     "ytd": 29.5,
+     "ytd": 38.0,
      "proj": 11.5
     },
     {
@@ -926,7 +926,7 @@
      "name": "T.J. Hockenson",
      "pos": "TE",
      "team": "MIN",
-     "ytd": 21.1,
+     "ytd": 24.5,
      "proj": 8.6
     },
     {
@@ -934,7 +934,7 @@
      "name": "D.J. Moore",
      "pos": "WR",
      "team": "BUF",
-     "ytd": 21.0,
+     "ytd": 33.7,
      "proj": 13.2
     },
     {
@@ -942,7 +942,7 @@
      "name": "DK Metcalf",
      "pos": "WR",
      "team": "PIT",
-     "ytd": 14.7,
+     "ytd": 26.8,
      "proj": 12.7
     },
     {
@@ -950,7 +950,7 @@
      "name": "Courtland Sutton",
      "pos": "WR",
      "team": "DEN",
-     "ytd": 8.6,
+     "ytd": 16.2,
      "proj": 12.1
     }
    ]
@@ -969,7 +969,7 @@
      "name": "Carolina Panthers",
      "pos": "Def",
      "team": "CAR",
-     "ytd": 20.0,
+     "ytd": 24.0,
      "proj": 1.6
     },
     {
@@ -977,7 +977,7 @@
      "name": "Harrison Butker",
      "pos": "PK",
      "team": "KCC",
-     "ytd": 23.0,
+     "ytd": 29.0,
      "proj": 4.7
     },
     {
@@ -985,7 +985,7 @@
      "name": "Dak Prescott",
      "pos": "QB",
      "team": "DAL",
-     "ytd": 48.8,
+     "ytd": 69.5,
      "proj": 22.9
     },
     {
@@ -1009,7 +1009,7 @@
      "name": "Bucky Irving",
      "pos": "RB",
      "team": "TBB",
-     "ytd": 33.3,
+     "ytd": 41.1,
      "proj": 13.6
     },
     {
@@ -1037,59 +1037,60 @@
      "injury": "Suspended \u2014 Personal"
     },
     {
-     "id": "17107",
-     "name": "Terrance Ferguson",
-     "pos": "TE",
-     "team": "LAR",
-     "ytd": 18.8,
-     "proj": 6.1
-    },
-    {
      "id": "16641",
      "name": "Brock Bowers",
      "pos": "TE",
      "team": "LVR",
+     "ytd": 30.5,
      "injury": "Out \u2014 Knee - Meniscus"
     },
     {
-     "id": "16627",
-     "name": "Ladd McConkey",
-     "pos": "WR",
-     "team": "LAC",
-     "ytd": 25.7,
-     "proj": 13.7
+     "id": "17107",
+     "name": "Terrance Ferguson",
+     "pos": "TE",
+     "team": "LAR",
+     "ytd": 20.9,
+     "proj": 6.1
     },
     {
      "id": "14835",
      "name": "Tee Higgins",
      "pos": "WR",
      "team": "CIN",
-     "ytd": 23.4,
+     "ytd": 44.4,
      "proj": 15.2
+    },
+    {
+     "id": "16627",
+     "name": "Ladd McConkey",
+     "pos": "WR",
+     "team": "LAC",
+     "ytd": 36.3,
+     "proj": 13.7
     },
     {
      "id": "17081",
      "name": "Emeka Egbuka",
      "pos": "WR",
      "team": "TBB",
-     "ytd": 21.9,
+     "ytd": 33.1,
      "proj": 13.5
-    },
-    {
-     "id": "15756",
-     "name": "Jameson Williams",
-     "pos": "WR",
-     "team": "DET",
-     "ytd": 13.8,
-     "proj": 13.2
     },
     {
      "id": "16186",
      "name": "Jordan Addison",
      "pos": "WR",
      "team": "MIN",
-     "ytd": 4.1,
+     "ytd": 24.1,
      "proj": 10.5
+    },
+    {
+     "id": "15756",
+     "name": "Jameson Williams",
+     "pos": "WR",
+     "team": "DET",
+     "ytd": 22.7,
+     "proj": 13.2
     }
    ]
   },
@@ -1107,7 +1108,7 @@
      "name": "Kansas City Chiefs",
      "pos": "Def",
      "team": "KCC",
-     "ytd": 12.0,
+     "ytd": 16.0,
      "proj": 2.1
     },
     {
@@ -1115,7 +1116,7 @@
      "name": "Jason Myers",
      "pos": "PK",
      "team": "SEA",
-     "ytd": 14.0,
+     "ytd": 23.0,
      "proj": 5.4
     },
     {
@@ -1123,7 +1124,7 @@
      "name": "Josh Allen",
      "pos": "QB",
      "team": "BUF",
-     "ytd": 82.3,
+     "ytd": 101.8,
      "proj": 29.2
     },
     {
@@ -1131,31 +1132,31 @@
      "name": "Daniel Jones",
      "pos": "QB",
      "team": "IND",
-     "ytd": 24.2,
+     "ytd": 34.5,
      "proj": 24.5
-    },
-    {
-     "id": "16167",
-     "name": "De'Von Achane",
-     "pos": "RB",
-     "team": "MIA",
-     "ytd": 22.9,
-     "proj": 16.8
     },
     {
      "id": "15721",
      "name": "Rachaad White",
      "pos": "RB",
      "team": "WAS",
-     "ytd": 19.0,
+     "ytd": 30.1,
      "proj": 6.8
+    },
+    {
+     "id": "16167",
+     "name": "De'Von Achane",
+     "pos": "RB",
+     "team": "MIA",
+     "ytd": 24.6,
+     "proj": 16.8
     },
     {
      "id": "16165",
      "name": "Tyjae Spears",
      "pos": "RB",
      "team": "TEN",
-     "ytd": 13.4,
+     "ytd": 13.9,
      "proj": 8.9
     },
     {
@@ -1163,7 +1164,7 @@
      "name": "Alvin Kamara",
      "pos": "RB",
      "team": "NOS",
-     "ytd": 7.2,
+     "ytd": 12.3,
      "injury": "Out \u2014 Knee - MCL"
     },
     {
@@ -1180,7 +1181,7 @@
      "name": "Tyrone Tracy",
      "pos": "RB",
      "team": "NYG",
-     "ytd": -0.6,
+     "ytd": -0.3,
      "proj": 8.9
     },
     {
@@ -1188,7 +1189,7 @@
      "name": "Mark Andrews",
      "pos": "TE",
      "team": "BAL",
-     "ytd": 22.2,
+     "ytd": 28.2,
      "proj": 10.4
     },
     {
@@ -1196,7 +1197,7 @@
      "name": "Hunter Henry",
      "pos": "TE",
      "team": "NEP",
-     "ytd": 14.3,
+     "ytd": 15.9,
      "proj": 10.2
     },
     {
@@ -1204,7 +1205,7 @@
      "name": "Jaxon Smith-Njigba",
      "pos": "WR",
      "team": "SEA",
-     "ytd": 68.7,
+     "ytd": 104.2,
      "proj": 17.7
     },
     {
@@ -1212,7 +1213,7 @@
      "name": "Deebo Samuel",
      "pos": "WR",
      "team": "SFO",
-     "ytd": 24.5,
+     "ytd": 39.9,
      "proj": 9.8
     },
     {
@@ -1220,7 +1221,7 @@
      "name": "George Pickens",
      "pos": "WR",
      "team": "DAL",
-     "ytd": 15.8,
+     "ytd": 31.0,
      "proj": 14.6
     },
     {
@@ -1228,7 +1229,7 @@
      "name": "Marvin Harrison Jr.",
      "pos": "WR",
      "team": "ARI",
-     "ytd": 4.3,
+     "ytd": 11.3,
      "proj": 12.8
     }
    ]
@@ -1247,7 +1248,7 @@
      "name": "Minnesota Vikings",
      "pos": "Def",
      "team": "MIN",
-     "ytd": 17.0,
+     "ytd": 34.0,
      "proj": 3.2
     },
     {
@@ -1255,7 +1256,7 @@
      "name": "Evan McPherson",
      "pos": "PK",
      "team": "CIN",
-     "ytd": 31.0,
+     "ytd": 41.0,
      "proj": 5.8
     },
     {
@@ -1263,7 +1264,7 @@
      "name": "Bryce Young",
      "pos": "QB",
      "team": "CAR",
-     "ytd": 62.1,
+     "ytd": 78.7,
      "proj": 23.2
     },
     {
@@ -1271,7 +1272,7 @@
      "name": "Jared Goff",
      "pos": "QB",
      "team": "DET",
-     "ytd": 51.6,
+     "ytd": 73.7,
      "proj": 23.5
     },
     {
@@ -1287,40 +1288,40 @@
      "name": "Jeremiyah Love",
      "pos": "RB",
      "team": "ARI",
-     "ytd": 20.5,
+     "ytd": 42.4,
      "proj": 11.3
-    },
-    {
-     "id": "17474",
-     "name": "Emmett Johnson",
-     "pos": "RB",
-     "team": "KCC",
-     "ytd": 14.3,
-     "proj": 4.0
     },
     {
      "id": "17053",
      "name": "Woody Marks",
      "pos": "RB",
      "team": "HOU",
-     "ytd": 13.7,
+     "ytd": 22.8,
      "proj": 7.0
     },
     {
-     "id": "17102",
-     "name": "Tyler Warren",
-     "pos": "TE",
-     "team": "IND",
-     "ytd": 25.5,
-     "proj": 11.8
+     "id": "17474",
+     "name": "Emmett Johnson",
+     "pos": "RB",
+     "team": "KCC",
+     "ytd": 16.0,
+     "proj": 4.0
     },
     {
      "id": "17543",
      "name": "Kenyon Sadiq",
      "pos": "TE",
      "team": "NYJ",
-     "ytd": 16.0,
+     "ytd": 42.1,
      "proj": 7.8
+    },
+    {
+     "id": "17102",
+     "name": "Tyler Warren",
+     "pos": "TE",
+     "team": "IND",
+     "ytd": 41.6,
+     "proj": 11.8
     },
     {
      "id": "15329",
@@ -1335,31 +1336,31 @@
      "name": "Parker Washington",
      "pos": "WR",
      "team": "JAC",
-     "ytd": 36.1,
+     "ytd": 49.1,
      "proj": 11.5
-    },
-    {
-     "id": "17501",
-     "name": "KC Concepcion",
-     "pos": "WR",
-     "team": "CLE",
-     "ytd": 16.6,
-     "proj": 5.3
     },
     {
      "id": "16615",
      "name": "Malik Nabers",
      "pos": "WR",
      "team": "NYG",
-     "ytd": 14.0,
+     "ytd": 21.6,
      "proj": 14.3
+    },
+    {
+     "id": "17501",
+     "name": "KC Concepcion",
+     "pos": "WR",
+     "team": "CLE",
+     "ytd": 19.5,
+     "proj": 5.3
     },
     {
      "id": "17511",
      "name": "Malachi Fields",
      "pos": "WR",
      "team": "NYG",
-     "ytd": 9.5,
+     "ytd": 13.4,
      "proj": 3.4
     },
     {
@@ -1386,7 +1387,7 @@
      "name": "Houston Texans",
      "pos": "Def",
      "team": "HOU",
-     "ytd": 6.0,
+     "ytd": 16.0,
      "proj": 6.1
     },
     {
@@ -1394,7 +1395,7 @@
      "name": "Ka'imi Fairbairn",
      "pos": "PK",
      "team": "HOU",
-     "ytd": 16.0,
+     "ytd": 21.0,
      "proj": 4.9
     },
     {
@@ -1402,7 +1403,7 @@
      "name": "C.J. Stroud",
      "pos": "QB",
      "team": "HOU",
-     "ytd": 39.8,
+     "ytd": 53.2,
      "proj": 21.4
     },
     {
@@ -1418,7 +1419,7 @@
      "name": "Christian McCaffrey",
      "pos": "RB",
      "team": "SFO",
-     "ytd": 36.4,
+     "ytd": 58.0,
      "proj": 22.4
     },
     {
@@ -1426,8 +1427,16 @@
      "name": "Travis Etienne",
      "pos": "RB",
      "team": "NOS",
-     "ytd": 21.9,
+     "ytd": 30.9,
      "proj": 13.2
+    },
+    {
+     "id": "17068",
+     "name": "RJ Harvey",
+     "pos": "RB",
+     "team": "DEN",
+     "ytd": 18.8,
+     "proj": 10.0
     },
     {
      "id": "15972",
@@ -1439,19 +1448,11 @@
      "slot": "INJURED_RESERVE"
     },
     {
-     "id": "17068",
-     "name": "RJ Harvey",
-     "pos": "RB",
-     "team": "DEN",
-     "ytd": 8.1,
-     "proj": 10.0
-    },
-    {
      "id": "15794",
      "name": "Trey McBride",
      "pos": "TE",
      "team": "ARI",
-     "ytd": 46.0,
+     "ytd": 64.4,
      "proj": 18.6
     },
     {
@@ -1467,8 +1468,24 @@
      "name": "Garrett Wilson",
      "pos": "WR",
      "team": "NYJ",
-     "ytd": 30.6,
+     "ytd": 57.3,
      "proj": 15.3
+    },
+    {
+     "id": "14109",
+     "name": "Terry McLaurin",
+     "pos": "WR",
+     "team": "WAS",
+     "ytd": 30.1,
+     "proj": 13.9
+    },
+    {
+     "id": "16684",
+     "name": "Malik Washington",
+     "pos": "WR",
+     "team": "MIA",
+     "ytd": 26.1,
+     "proj": 10.2
     },
     {
      "id": "15290",
@@ -1477,22 +1494,6 @@
      "team": "HOU",
      "ytd": 21.2,
      "proj": 14.1
-    },
-    {
-     "id": "16684",
-     "name": "Malik Washington",
-     "pos": "WR",
-     "team": "MIA",
-     "ytd": 15.0,
-     "proj": 10.2
-    },
-    {
-     "id": "14109",
-     "name": "Terry McLaurin",
-     "pos": "WR",
-     "team": "WAS",
-     "ytd": 10.4,
-     "proj": 13.9
     },
     {
      "id": "16184",
@@ -1532,8 +1533,16 @@
      "name": "Cam Little",
      "pos": "PK",
      "team": "JAC",
-     "ytd": 19.0,
+     "ytd": 24.0,
      "proj": 5.2
+    },
+    {
+     "id": "17039",
+     "name": "Tyler Shough",
+     "pos": "QB",
+     "team": "NOS",
+     "ytd": 78.6,
+     "proj": 22.0
     },
     {
      "id": "14782",
@@ -1544,19 +1553,11 @@
      "proj": 17.0
     },
     {
-     "id": "17039",
-     "name": "Tyler Shough",
-     "pos": "QB",
-     "team": "NOS",
-     "ytd": 52.2,
-     "proj": 22.0
-    },
-    {
      "id": "17044",
      "name": "Omarion Hampton",
      "pos": "RB",
      "team": "LAC",
-     "ytd": 25.8,
+     "ytd": 31.4,
      "proj": 13.8
     },
     {
@@ -1580,7 +1581,7 @@
      "name": "Dalton Kincaid",
      "pos": "TE",
      "team": "BUF",
-     "ytd": 46.2,
+     "ytd": 53.0,
      "proj": 11.0
     },
     {
@@ -1592,11 +1593,19 @@
      "proj": 12.4
     },
     {
+     "id": "15281",
+     "name": "Ja'Marr Chase",
+     "pos": "WR",
+     "team": "CIN",
+     "ytd": 54.5,
+     "proj": 21.9
+    },
+    {
      "id": "16809",
      "name": "Jalen Coker",
      "pos": "WR",
      "team": "CAR",
-     "ytd": 48.4,
+     "ytd": 52.2,
      "proj": 8.9
     },
     {
@@ -1612,23 +1621,15 @@
      "name": "Devaughn Vele",
      "pos": "WR",
      "team": "NOS",
-     "ytd": 31.3,
+     "ytd": 38.2,
      "proj": 8.4
-    },
-    {
-     "id": "15281",
-     "name": "Ja'Marr Chase",
-     "pos": "WR",
-     "team": "CIN",
-     "ytd": 29.7,
-     "proj": 21.9
     },
     {
      "id": "16620",
      "name": "Xavier Worthy",
      "pos": "WR",
      "team": "KCC",
-     "ytd": 18.3,
+     "ytd": 22.3,
      "proj": 8.9
     },
     {
@@ -1655,7 +1656,7 @@
      "name": "Pittsburgh Steelers",
      "pos": "Def",
      "team": "PIT",
-     "ytd": 22.0,
+     "ytd": 27.0,
      "proj": 3.6
     },
     {
@@ -1663,7 +1664,7 @@
      "name": "Tyler Loop",
      "pos": "PK",
      "team": "BAL",
-     "ytd": 20.0,
+     "ytd": 32.0,
      "proj": 6.3
     },
     {
@@ -1671,7 +1672,7 @@
      "name": "Trevor Lawrence",
      "pos": "QB",
      "team": "JAC",
-     "ytd": 36.7,
+     "ytd": 58.3,
      "proj": 24.4
     },
     {
@@ -1679,55 +1680,55 @@
      "name": "Derrick Henry",
      "pos": "RB",
      "team": "BAL",
-     "ytd": 53.0,
+     "ytd": 74.9,
      "proj": 17.8
-    },
-    {
-     "id": "17043",
-     "name": "TreVeyon Henderson",
-     "pos": "RB",
-     "team": "NEP",
-     "ytd": 13.6,
-     "injury": "Out \u2014 Ankle"
     },
     {
      "id": "15712",
      "name": "Tyler Allgeier",
      "pos": "RB",
      "team": "ARI",
-     "ytd": 12.9,
+     "ytd": 17.9,
      "proj": 6.0
+    },
+    {
+     "id": "17043",
+     "name": "TreVeyon Henderson",
+     "pos": "RB",
+     "team": "NEP",
+     "ytd": 17.5,
+     "injury": "Out \u2014 Ankle"
     },
     {
      "id": "17485",
      "name": "Kaelon Black",
      "pos": "RB",
      "team": "SFO",
-     "ytd": 10.5,
+     "ytd": 12.2,
      "proj": 5.0
-    },
-    {
-     "id": "15798",
-     "name": "Isaiah Likely",
-     "pos": "TE",
-     "team": "NYG",
-     "ytd": 38.9,
-     "proj": 10.9
     },
     {
      "id": "13772",
      "name": "Dalton Schultz",
      "pos": "TE",
      "team": "HOU",
-     "ytd": 37.9,
+     "ytd": 44.7,
      "proj": 9.6
+    },
+    {
+     "id": "15798",
+     "name": "Isaiah Likely",
+     "pos": "TE",
+     "team": "NYG",
+     "ytd": 42.5,
+     "proj": 10.9
     },
     {
      "id": "15287",
      "name": "Amon-Ra St. Brown",
      "pos": "WR",
      "team": "DET",
-     "ytd": 63.9,
+     "ytd": 75.8,
      "proj": 18.2
     },
     {
@@ -1735,7 +1736,7 @@
      "name": "Chris Olave",
      "pos": "WR",
      "team": "NOS",
-     "ytd": 50.8,
+     "ytd": 70.5,
      "proj": 14.6
     },
     {
@@ -1743,8 +1744,24 @@
      "name": "Stefon Diggs",
      "pos": "WR",
      "team": "WAS",
-     "ytd": 37.2,
+     "ytd": 44.5,
      "proj": 10.8
+    },
+    {
+     "id": "15757",
+     "name": "Wan'Dale Robinson",
+     "pos": "WR",
+     "team": "TEN",
+     "ytd": 29.4,
+     "proj": 11.8
+    },
+    {
+     "id": "16188",
+     "name": "Quentin Johnston",
+     "pos": "WR",
+     "team": "LAC",
+     "ytd": 13.1,
+     "proj": 10.7
     },
     {
      "id": "16211",
@@ -1753,22 +1770,6 @@
      "team": "LAR",
      "ytd": 12.4,
      "proj": 21.6
-    },
-    {
-     "id": "15757",
-     "name": "Wan'Dale Robinson",
-     "pos": "WR",
-     "team": "TEN",
-     "ytd": 10.7,
-     "proj": 11.8
-    },
-    {
-     "id": "16188",
-     "name": "Quentin Johnston",
-     "pos": "WR",
-     "team": "LAC",
-     "ytd": 6.1,
-     "proj": 10.7
     }
    ]
   }
@@ -1787,7 +1788,7 @@
    "name": "Jacoby Brissett",
    "pos": "QB",
    "team": "ARI",
-   "ytd": 26.8,
+   "ytd": 55.2,
    "proj": 24.2
   },
   {
@@ -1795,7 +1796,7 @@
    "name": "Cam Ward",
    "pos": "QB",
    "team": "TEN",
-   "ytd": 35.0,
+   "ytd": 46.3,
    "proj": 22.1
   },
   {
@@ -1803,7 +1804,7 @@
    "name": "Aaron Rodgers",
    "pos": "QB",
    "team": "PIT",
-   "ytd": 21.0,
+   "ytd": 46.6,
    "proj": 21.3
   },
   {
@@ -1811,7 +1812,7 @@
    "name": "Kirk Cousins",
    "pos": "QB",
    "team": "LVR",
-   "ytd": 38.8,
+   "ytd": 63.5,
    "proj": 20.0
   },
   {
@@ -1819,7 +1820,7 @@
    "name": "Deshaun Watson",
    "pos": "QB",
    "team": "CLE",
-   "ytd": 38.2,
+   "ytd": 58.9,
    "proj": 19.7
   },
   {
@@ -1827,7 +1828,7 @@
    "name": "Kyler Murray",
    "pos": "QB",
    "team": "MIN",
-   "ytd": -0.2,
+   "ytd": 11.9,
    "proj": 19.0
   },
   {
@@ -1835,7 +1836,7 @@
    "name": "Sam Darnold",
    "pos": "QB",
    "team": "SEA",
-   "ytd": 0.7,
+   "ytd": 32.2,
    "proj": 18.8
   },
   {
@@ -1851,7 +1852,7 @@
    "name": "Geno Smith",
    "pos": "QB",
    "team": "NYJ",
-   "ytd": 29.6,
+   "ytd": 57.9,
    "proj": 13.0
   },
   {
@@ -1859,7 +1860,7 @@
    "name": "Cade Otton",
    "pos": "TE",
    "team": "TBB",
-   "ytd": 16.1,
+   "ytd": 26.1,
    "proj": 10.2
   },
   {
@@ -1867,23 +1868,23 @@
    "name": "Kenneth Gainwell",
    "pos": "RB",
    "team": "TBB",
-   "ytd": 7.3,
+   "ytd": 10.7,
    "proj": 10.2
-  },
-  {
-   "id": "15331",
-   "name": "Pat Freiermuth",
-   "pos": "TE",
-   "team": "PIT",
-   "ytd": 25.0,
-   "proj": 9.7
   },
   {
    "id": "14127",
    "name": "Jakobi Meyers",
    "pos": "WR",
    "team": "JAC",
-   "ytd": 16.0,
+   "ytd": 35.4,
+   "proj": 9.7
+  },
+  {
+   "id": "15331",
+   "name": "Pat Freiermuth",
+   "pos": "TE",
+   "team": "PIT",
+   "ytd": 30.9,
    "proj": 9.7
   },
   {
@@ -1907,7 +1908,7 @@
    "name": "Mike Gesicki",
    "pos": "TE",
    "team": "CIN",
-   "ytd": 20.8,
+   "ytd": 34.4,
    "proj": 9.2
   },
   {
@@ -1915,7 +1916,7 @@
    "name": "Gunnar Helm",
    "pos": "TE",
    "team": "TEN",
-   "ytd": 11.1,
+   "ytd": 14.9,
    "proj": 9.1
   },
   {
@@ -1923,7 +1924,7 @@
    "name": "Keenan Allen",
    "pos": "WR",
    "team": "IND",
-   "ytd": 10.7,
+   "ytd": 29.0,
    "proj": 8.9
   },
   {
@@ -1939,7 +1940,7 @@
    "name": "AJ Barner",
    "pos": "TE",
    "team": "SEA",
-   "ytd": 11.7,
+   "ytd": 25.3,
    "proj": 8.6
   },
   {
@@ -1947,7 +1948,7 @@
    "name": "Greg Dulcich",
    "pos": "TE",
    "team": "MIA",
-   "ytd": 8.4,
+   "ytd": 20.3,
    "proj": 8.6
   },
   {
@@ -1978,7 +1979,7 @@
    "name": "Xavier Hutchinson",
    "pos": "WR",
    "team": "HOU",
-   "ytd": 12.9,
+   "ytd": 21.4,
    "proj": 7.9
   },
   {
@@ -1986,7 +1987,7 @@
    "name": "Demario Douglas",
    "pos": "WR",
    "team": "NEP",
-   "ytd": 8.9,
+   "ytd": 13.7,
    "proj": 7.7
   },
   {
@@ -1994,7 +1995,7 @@
    "name": "Ryan Flournoy",
    "pos": "WR",
    "team": "DAL",
-   "ytd": 11.5,
+   "ytd": 15.7,
    "proj": 7.6
   },
   {
@@ -2002,7 +2003,7 @@
    "name": "Jauan Jennings",
    "pos": "WR",
    "team": "MIN",
-   "ytd": 0.0,
+   "ytd": 1.1,
    "proj": 7.5
   },
   {
@@ -2018,7 +2019,7 @@
    "name": "Sione Vaki",
    "pos": "RB",
    "team": "DET",
-   "ytd": 5.8,
+   "ytd": 10.5,
    "proj": 7.3
   },
   {
@@ -2026,7 +2027,7 @@
    "name": "Troy Franklin",
    "pos": "WR",
    "team": "DEN",
-   "ytd": 4.2,
+   "ytd": 7.3,
    "proj": 7.3
   },
   {
@@ -2034,7 +2035,7 @@
    "name": "Keon Coleman",
    "pos": "WR",
    "team": "BUF",
-   "ytd": 13.4,
+   "ytd": 18.1,
    "proj": 7.2
   },
   {
@@ -2042,7 +2043,7 @@
    "name": "Darnell Mooney",
    "pos": "WR",
    "team": "NYG",
-   "ytd": 11.5,
+   "ytd": 16.4,
    "proj": 7.2
   },
   {
@@ -2058,7 +2059,7 @@
    "name": "Cooper Kupp",
    "pos": "WR",
    "team": "SEA",
-   "ytd": 9.5,
+   "ytd": 24.1,
    "proj": 7.0
   },
   {
@@ -2066,7 +2067,7 @@
    "name": "Los Angeles Chargers",
    "pos": "Def",
    "team": "LAC",
-   "ytd": 5.0,
+   "ytd": 19.0,
    "proj": 7.0
   },
   {
@@ -2074,7 +2075,7 @@
    "name": "Mack Hollins",
    "pos": "WR",
    "team": "NEP",
-   "ytd": 12.9,
+   "ytd": 27.6,
    "proj": 6.9
   },
   {
@@ -2082,7 +2083,7 @@
    "name": "Chimere Dike",
    "pos": "WR",
    "team": "TEN",
-   "ytd": -0.3,
+   "ytd": -1.0,
    "proj": 6.9
   },
   {
@@ -2090,7 +2091,7 @@
    "name": "Jacksonville Jaguars",
    "pos": "Def",
    "team": "JAC",
-   "ytd": 11.0,
+   "ytd": 20.0,
    "proj": 6.8
   },
   {
@@ -2114,7 +2115,7 @@
    "name": "Kimani Vidal",
    "pos": "RB",
    "team": "LAC",
-   "ytd": 0.0,
+   "ytd": 3.0,
    "proj": 6.7
   },
   {
@@ -2122,7 +2123,7 @@
    "name": "Tommy Tremble",
    "pos": "TE",
    "team": "CAR",
-   "ytd": 7.6,
+   "ytd": 15.7,
    "proj": 6.6
   },
   {
@@ -2130,8 +2131,16 @@
    "name": "Elic Ayomanor",
    "pos": "WR",
    "team": "TEN",
-   "ytd": 17.0,
+   "ytd": 19.1,
    "proj": 6.5
+  },
+  {
+   "id": "17072",
+   "name": "Tre Harris",
+   "pos": "WR",
+   "team": "LAC",
+   "ytd": 24.9,
+   "proj": 6.4
   },
   {
    "id": "13189",
@@ -2139,14 +2148,6 @@
    "pos": "TE",
    "team": "DEN",
    "ytd": 18.5,
-   "proj": 6.4
-  },
-  {
-   "id": "17072",
-   "name": "Tre Harris",
-   "pos": "WR",
-   "team": "LAC",
-   "ytd": 11.3,
    "proj": 6.4
   },
   {
@@ -2186,7 +2187,7 @@
    "name": "Chris Rodriguez",
    "pos": "RB",
    "team": "JAC",
-   "ytd": 3.6,
+   "ytd": 13.3,
    "proj": 6.3
   },
   {
@@ -2202,15 +2203,7 @@
    "name": "Dawson Knox",
    "pos": "TE",
    "team": "BUF",
-   "ytd": 10.5,
-   "proj": 6.2
-  },
-  {
-   "id": "15786",
-   "name": "Jalen Nailor",
-   "pos": "WR",
-   "team": "LVR",
-   "ytd": 7.6,
+   "ytd": 12.1,
    "proj": 6.2
   },
   {
@@ -2218,7 +2211,15 @@
    "name": "Justice Hill",
    "pos": "RB",
    "team": "BAL",
-   "ytd": 7.6,
+   "ytd": 10.9,
+   "proj": 6.2
+  },
+  {
+   "id": "15786",
+   "name": "Jalen Nailor",
+   "pos": "WR",
+   "team": "LVR",
+   "ytd": 10.2,
    "proj": 6.2
   },
   {
@@ -2234,7 +2235,7 @@
    "name": "Tyquan Thornton",
    "pos": "WR",
    "team": "KCC",
-   "ytd": 12.6,
+   "ytd": 16.8,
    "proj": 6.1
   },
   {
@@ -2242,7 +2243,7 @@
    "name": "Jaylin Noel",
    "pos": "WR",
    "team": "HOU",
-   "ytd": 12.7,
+   "ytd": 17.2,
    "proj": 6.0
   },
   {
@@ -2266,7 +2267,7 @@
    "name": "Tyler Bass",
    "pos": "PK",
    "team": "BUF",
-   "ytd": 18.0,
+   "ytd": 24.0,
    "proj": 5.8
   },
   {
@@ -2274,7 +2275,7 @@
    "name": "Rashid Shaheed",
    "pos": "WR",
    "team": "SEA",
-   "ytd": 8.3,
+   "ytd": 11.7,
    "proj": 5.8
   },
   {
@@ -2282,7 +2283,7 @@
    "name": "George Holani",
    "pos": "RB",
    "team": "SEA",
-   "ytd": 5.4,
+   "ytd": 16.2,
    "proj": 5.7
   },
   {
@@ -2298,7 +2299,7 @@
    "name": "Wil Lutz",
    "pos": "PK",
    "team": "DEN",
-   "ytd": 13.0,
+   "ytd": 15.0,
    "proj": 5.6
   },
   {
@@ -2306,7 +2307,7 @@
    "name": "Daniel Bellinger",
    "pos": "TE",
    "team": "TEN",
-   "ytd": 1.9,
+   "ytd": 5.9,
    "proj": 5.6
   },
   {
@@ -2314,7 +2315,7 @@
    "name": "Andres Borregales",
    "pos": "PK",
    "team": "NEP",
-   "ytd": 14.0,
+   "ytd": 20.0,
    "proj": 5.5
   },
   {
@@ -2324,6 +2325,14 @@
    "team": "SFO",
    "proj": 5.5,
    "injury": "Holdout \u2014 Knee - ACL + MCL"
+  },
+  {
+   "id": "12141",
+   "name": "Marcus Mariota",
+   "pos": "QB",
+   "team": "WAS",
+   "ytd": 32.2,
+   "proj": 5.3
   },
   {
    "id": "11945",
@@ -2350,19 +2359,11 @@
    "proj": 5.3
   },
   {
-   "id": "12141",
-   "name": "Marcus Mariota",
-   "pos": "QB",
-   "team": "WAS",
-   "ytd": 9.9,
-   "proj": 5.3
-  },
-  {
    "id": "16292",
    "name": "Chad Ryland",
    "pos": "PK",
    "team": "ARI",
-   "ytd": 17.0,
+   "ytd": 31.0,
    "proj": 5.2
   },
   {
@@ -2370,7 +2371,7 @@
    "name": "Eddy Pineiro",
    "pos": "PK",
    "team": "SFO",
-   "ytd": 16.0,
+   "ytd": 24.0,
    "proj": 5.2
   },
   {
@@ -2378,7 +2379,7 @@
    "name": "Riley Patterson",
    "pos": "PK",
    "team": "MIA",
-   "ytd": 15.0,
+   "ytd": 19.0,
    "proj": 5.2
   },
   {
@@ -2394,7 +2395,7 @@
    "name": "Isaac TeSlaa",
    "pos": "WR",
    "team": "DET",
-   "ytd": 4.6,
+   "ytd": 14.2,
    "proj": 5.2
   },
   {
@@ -2410,6 +2411,7 @@
    "name": "Shedeur Sanders",
    "pos": "QB",
    "team": "CLE",
+   "ytd": 0.0,
    "proj": 5.2
   },
   {
@@ -2417,7 +2419,7 @@
    "name": "Chase McLaughlin",
    "pos": "PK",
    "team": "TBB",
-   "ytd": 27.0,
+   "ytd": 39.0,
    "proj": 5.1
   },
   {
@@ -2437,19 +2439,19 @@
    "proj": 5.0
   },
   {
+   "id": "16216",
+   "name": "Darnell Washington",
+   "pos": "TE",
+   "team": "PIT",
+   "ytd": 17.6,
+   "proj": 5.0
+  },
+  {
    "id": "0521",
    "name": "Chicago Bears",
    "pos": "Def",
    "team": "CHI",
    "ytd": 11.0,
-   "proj": 5.0
-  },
-  {
-   "id": "16216",
-   "name": "Darnell Washington",
-   "pos": "TE",
-   "team": "PIT",
-   "ytd": 6.2,
    "proj": 5.0
   },
   {
@@ -2461,27 +2463,11 @@
    "proj": 5.0
   },
   {
-   "id": "17668",
-   "name": "Trey Smack",
-   "pos": "PK",
-   "team": "GBP",
-   "ytd": 23.0,
-   "proj": 4.9
-  },
-  {
    "id": "17726",
    "name": "Drew Stevens",
    "pos": "PK",
    "team": "WAS",
-   "ytd": 15.0,
-   "proj": 4.9
-  },
-  {
-   "id": "17736",
-   "name": "Dominic Zvada",
-   "pos": "PK",
-   "team": "NYG",
-   "ytd": 12.0,
+   "ytd": 26.0,
    "proj": 4.9
   },
   {
@@ -2489,7 +2475,23 @@
    "name": "Tyler Higbee",
    "pos": "TE",
    "team": "LAR",
-   "ytd": 3.5,
+   "ytd": 25.3,
+   "proj": 4.9
+  },
+  {
+   "id": "17736",
+   "name": "Dominic Zvada",
+   "pos": "PK",
+   "team": "NYG",
+   "ytd": 24.0,
+   "proj": 4.9
+  },
+  {
+   "id": "17668",
+   "name": "Trey Smack",
+   "pos": "PK",
+   "team": "GBP",
+   "ytd": 23.0,
    "proj": 4.9
   },
   {
@@ -2505,7 +2507,7 @@
    "name": "Noah Fant",
    "pos": "TE",
    "team": "NOS",
-   "ytd": 14.1,
+   "ytd": 34.2,
    "proj": 4.8
   },
   {
@@ -2521,15 +2523,7 @@
    "name": "Ryan Fitzgerald",
    "pos": "PK",
    "team": "CAR",
-   "ytd": 18.0,
-   "proj": 4.7
-  },
-  {
-   "id": "14600",
-   "name": "Joey Slye",
-   "pos": "PK",
-   "team": "TEN",
-   "ytd": 13.0,
+   "ytd": 33.0,
    "proj": 4.7
   },
   {
@@ -2537,7 +2531,15 @@
    "name": "Ted Hurst",
    "pos": "WR",
    "team": "TBB",
-   "ytd": 11.3,
+   "ytd": 22.3,
+   "proj": 4.7
+  },
+  {
+   "id": "14600",
+   "name": "Joey Slye",
+   "pos": "PK",
+   "team": "TEN",
+   "ytd": 14.0,
    "proj": 4.7
   },
   {
@@ -2545,15 +2547,7 @@
    "name": "Daniel Carlson",
    "pos": "PK",
    "team": "NOS",
-   "ytd": 19.0,
-   "proj": 4.6
-  },
-  {
-   "id": "17079",
-   "name": "Tez Johnson",
-   "pos": "WR",
-   "team": "TBB",
-   "ytd": 5.9,
+   "ytd": 22.0,
    "proj": 4.6
   },
   {
@@ -2561,8 +2555,24 @@
    "name": "Noah Gray",
    "pos": "TE",
    "team": "KCC",
-   "ytd": 1.6,
+   "ytd": 9.5,
    "proj": 4.6
+  },
+  {
+   "id": "17079",
+   "name": "Tez Johnson",
+   "pos": "WR",
+   "team": "TBB",
+   "ytd": 7.7,
+   "proj": 4.6
+  },
+  {
+   "id": "14244",
+   "name": "Matt Gay",
+   "pos": "PK",
+   "team": "LVR",
+   "ytd": 30.0,
+   "proj": 4.5
   },
   {
    "id": "8851",
@@ -2570,14 +2580,6 @@
    "pos": "PK",
    "team": "ATL",
    "ytd": 24.0,
-   "proj": 4.5
-  },
-  {
-   "id": "14244",
-   "name": "Matt Gay",
-   "pos": "PK",
-   "team": "LVR",
-   "ytd": 18.0,
    "proj": 4.5
   },
   {
@@ -2600,7 +2602,7 @@
    "name": "Andre Szmyt",
    "pos": "PK",
    "team": "CLE",
-   "ytd": 16.0,
+   "ytd": 25.0,
    "proj": 4.4
   },
   {
@@ -2608,7 +2610,7 @@
    "name": "Pat Bryant",
    "pos": "WR",
    "team": "DEN",
-   "ytd": 9.8,
+   "ytd": 24.2,
    "proj": 4.4
   },
   {
@@ -2632,7 +2634,15 @@
    "name": "Darren Waller",
    "pos": "TE",
    "team": "CAR",
-   "ytd": 24.6,
+   "ytd": 36.0,
+   "proj": 4.3
+  },
+  {
+   "id": "17512",
+   "name": "Antonio Williams",
+   "pos": "WR",
+   "team": "WAS",
+   "ytd": 25.3,
    "proj": 4.3
   },
   {
@@ -2644,27 +2654,11 @@
    "proj": 4.3
   },
   {
-   "id": "17512",
-   "name": "Antonio Williams",
-   "pos": "WR",
-   "team": "WAS",
-   "ytd": 21.8,
-   "proj": 4.3
-  },
-  {
    "id": "13418",
    "name": "Kendrick Bourne",
    "pos": "WR",
    "team": "ARI",
-   "ytd": 18.6,
-   "proj": 4.3
-  },
-  {
-   "id": "13133",
-   "name": "Samaje Perine",
-   "pos": "RB",
-   "team": "CIN",
-   "ytd": 11.2,
+   "ytd": 22.8,
    "proj": 4.3
   },
   {
@@ -2672,7 +2666,15 @@
    "name": "Kayshon Boutte",
    "pos": "WR",
    "team": "HOU",
-   "ytd": 9.8,
+   "ytd": 13.9,
+   "proj": 4.3
+  },
+  {
+   "id": "13133",
+   "name": "Samaje Perine",
+   "pos": "RB",
+   "team": "CIN",
+   "ytd": 13.6,
    "proj": 4.3
   },
   {
@@ -2680,7 +2682,7 @@
    "name": "Tennessee Titans",
    "pos": "Def",
    "team": "TEN",
-   "ytd": 7.0,
+   "ytd": 11.0,
    "proj": 4.3
   },
   {
@@ -2688,7 +2690,7 @@
    "name": "KaVontae Turpin",
    "pos": "WR",
    "team": "DAL",
-   "ytd": 1.9,
+   "ytd": 10.7,
    "proj": 4.3
   },
   {
@@ -2696,7 +2698,7 @@
    "name": "Najee Harris",
    "pos": "RB",
    "team": "NYG",
-   "ytd": 0.6,
+   "ytd": 5.8,
    "proj": 4.3,
    "injury": "Out \u2014 Coach's Decision"
   },
@@ -2725,19 +2727,19 @@
    "proj": 4.1
   },
   {
-   "id": "14146",
-   "name": "Drew Sample",
-   "pos": "TE",
-   "team": "CIN",
-   "ytd": 5.4,
-   "proj": 4.1
-  },
-  {
    "id": "12140",
    "name": "Jameis Winston",
    "pos": "QB",
    "team": "NYG",
-   "ytd": 3.7,
+   "ytd": 11.0,
+   "proj": 4.1
+  },
+  {
+   "id": "14146",
+   "name": "Drew Sample",
+   "pos": "TE",
+   "team": "CIN",
+   "ytd": 6.4,
    "proj": 4.1
   },
   {
@@ -2745,7 +2747,7 @@
    "name": "New Orleans Saints",
    "pos": "Def",
    "team": "NOS",
-   "ytd": 9.0,
+   "ytd": 13.0,
    "proj": 4.0
   },
   {
@@ -2769,7 +2771,7 @@
    "name": "Roman Wilson",
    "pos": "WR",
    "team": "PIT",
-   "ytd": 13.4,
+   "ytd": 28.4,
    "proj": 3.8
   },
   {
@@ -2789,6 +2791,14 @@
    "proj": 3.8
   },
   {
+   "id": "16212",
+   "name": "Michael Mayer",
+   "pos": "TE",
+   "team": "LVR",
+   "ytd": 28.9,
+   "proj": 3.7
+  },
+  {
    "id": "15319",
    "name": "Joshua Palmer",
    "pos": "WR",
@@ -2797,11 +2807,11 @@
    "proj": 3.7
   },
   {
-   "id": "16212",
-   "name": "Michael Mayer",
-   "pos": "TE",
-   "team": "LVR",
-   "ytd": 15.9,
+   "id": "17254",
+   "name": "Konata Mumpfield",
+   "pos": "WR",
+   "team": "LAR",
+   "ytd": 21.5,
    "proj": 3.7
   },
   {
@@ -2809,15 +2819,7 @@
    "name": "Braelon Allen",
    "pos": "RB",
    "team": "NYJ",
-   "ytd": 12.5,
-   "proj": 3.7
-  },
-  {
-   "id": "17254",
-   "name": "Konata Mumpfield",
-   "pos": "WR",
-   "team": "LAR",
-   "ytd": 2.2,
+   "ytd": 17.2,
    "proj": 3.7
   },
   {
@@ -2825,7 +2827,7 @@
    "name": "Elijah Higgins",
    "pos": "TE",
    "team": "ARI",
-   "ytd": 0.0,
+   "ytd": 5.5,
    "proj": 3.7
   },
   {
@@ -2857,7 +2859,7 @@
    "name": "Brock Wright",
    "pos": "TE",
    "team": "DET",
-   "ytd": 1.6,
+   "ytd": 4.5,
    "proj": 3.5
   },
   {
@@ -2865,7 +2867,7 @@
    "name": "Kendre Miller",
    "pos": "RB",
    "team": "NOS",
-   "ytd": 9.0,
+   "ytd": 12.9,
    "proj": 3.4
   },
   {
@@ -2884,19 +2886,19 @@
    "proj": 3.4
   },
   {
-   "id": "0507",
-   "name": "Cleveland Browns",
-   "pos": "Def",
-   "team": "CLE",
-   "ytd": 6.0,
-   "proj": 3.3
-  },
-  {
    "id": "0520",
    "name": "Washington Commanders",
    "pos": "Def",
    "team": "WAS",
-   "ytd": 4.0,
+   "ytd": 16.0,
+   "proj": 3.3
+  },
+  {
+   "id": "0507",
+   "name": "Cleveland Browns",
+   "pos": "Def",
+   "team": "CLE",
+   "ytd": 11.0,
    "proj": 3.3
   },
   {
@@ -2907,11 +2909,19 @@
    "proj": 3.3
   },
   {
+   "id": "15796",
+   "name": "Jeremy Ruckert",
+   "pos": "TE",
+   "team": "NYJ",
+   "ytd": 20.0,
+   "proj": 3.2
+  },
+  {
    "id": "16630",
    "name": "Isaiah Williams",
    "pos": "WR",
    "team": "NYJ",
-   "ytd": 12.5,
+   "ytd": 15.6,
    "proj": 3.2
   },
   {
@@ -2923,6 +2933,14 @@
    "proj": 3.2
   },
   {
+   "id": "17109",
+   "name": "Mitchell Evans",
+   "pos": "TE",
+   "team": "CAR",
+   "ytd": 12.2,
+   "proj": 3.2
+  },
+  {
    "id": "16387",
    "name": "Chris Brooks",
    "pos": "RB",
@@ -2931,19 +2949,11 @@
    "proj": 3.2
   },
   {
-   "id": "17109",
-   "name": "Mitchell Evans",
-   "pos": "TE",
-   "team": "CAR",
-   "ytd": 4.7,
-   "proj": 3.2
-  },
-  {
-   "id": "15796",
-   "name": "Jeremy Ruckert",
-   "pos": "TE",
-   "team": "NYJ",
-   "ytd": 4.1,
+   "id": "17134",
+   "name": "Kyle Williams",
+   "pos": "WR",
+   "team": "NEP",
+   "ytd": 6.4,
    "proj": 3.2
   },
   {
@@ -2952,14 +2962,6 @@
    "pos": "QB",
    "team": "CAR",
    "ytd": 2.4,
-   "proj": 3.2
-  },
-  {
-   "id": "17134",
-   "name": "Kyle Williams",
-   "pos": "WR",
-   "team": "NEP",
-   "ytd": 2.0,
    "proj": 3.2
   },
   {
@@ -2975,7 +2977,7 @@
    "name": "Detroit Lions",
    "pos": "Def",
    "team": "DET",
-   "ytd": 11.0,
+   "ytd": 18.0,
    "proj": 3.1
   },
   {
@@ -2983,7 +2985,7 @@
    "name": "Brashard Smith",
    "pos": "RB",
    "team": "KCC",
-   "ytd": 0.0,
+   "ytd": 1.4,
    "proj": 3.1
   },
   {
@@ -3007,7 +3009,7 @@
    "name": "New York Giants",
    "pos": "Def",
    "team": "NYG",
-   "ytd": 7.0,
+   "ytd": 11.0,
    "proj": 3.0
   },
   {
@@ -3015,7 +3017,7 @@
    "name": "Miami Dolphins",
    "pos": "Def",
    "team": "MIA",
-   "ytd": 3.0,
+   "ytd": 5.0,
    "proj": 3.0
   },
   {
@@ -3031,7 +3033,7 @@
    "name": "Emanuel Wilson",
    "pos": "RB",
    "team": "SEA",
-   "ytd": 9.5,
+   "ytd": 10.9,
    "proj": 2.9
   },
   {
@@ -3039,7 +3041,7 @@
    "name": "Corey Kiner",
    "pos": "RB",
    "team": "NEP",
-   "ytd": 1.1,
+   "ytd": 4.8,
    "proj": 2.9
   },
   {
@@ -3047,7 +3049,7 @@
    "name": "Mo Alie-Cox",
    "pos": "TE",
    "team": "IND",
-   "ytd": 0.0,
+   "ytd": 3.0,
    "proj": 2.9
   },
   {
@@ -3055,7 +3057,7 @@
    "name": "New York Jets",
    "pos": "Def",
    "team": "NYJ",
-   "ytd": 13.0,
+   "ytd": 15.0,
    "proj": 2.8
   },
   {
@@ -3094,7 +3096,23 @@
    "name": "Las Vegas Raiders",
    "pos": "Def",
    "team": "LVR",
-   "ytd": 20.0,
+   "ytd": 31.0,
+   "proj": 2.6
+  },
+  {
+   "id": "17059",
+   "name": "Ollie Gordon",
+   "pos": "RB",
+   "team": "MIA",
+   "ytd": 15.2,
+   "proj": 2.6
+  },
+  {
+   "id": "16647",
+   "name": "Brevyn Spann-Ford",
+   "pos": "TE",
+   "team": "DAL",
+   "ytd": 7.2,
    "proj": 2.6
   },
   {
@@ -3103,14 +3121,6 @@
    "pos": "Def",
    "team": "DAL",
    "ytd": 6.0,
-   "proj": 2.6
-  },
-  {
-   "id": "16647",
-   "name": "Brevyn Spann-Ford",
-   "pos": "TE",
-   "team": "DAL",
-   "ytd": 3.8,
    "proj": 2.6
   },
   {
@@ -3138,14 +3148,6 @@
    "proj": 2.6
   },
   {
-   "id": "17059",
-   "name": "Ollie Gordon",
-   "pos": "RB",
-   "team": "MIA",
-   "ytd": 0.7,
-   "proj": 2.6
-  },
-  {
    "id": "15916",
    "name": "Drew Ogletree",
    "pos": "TE",
@@ -3170,19 +3172,11 @@
    "proj": 2.5
   },
   {
-   "id": "0519",
-   "name": "Arizona Cardinals",
-   "pos": "Def",
-   "team": "ARI",
-   "ytd": 11.0,
-   "proj": 2.4
-  },
-  {
    "id": "17062",
    "name": "Raheim Sanders",
    "pos": "RB",
    "team": "CLE",
-   "ytd": 7.7,
+   "ytd": 16.8,
    "proj": 2.4
   },
   {
@@ -3190,7 +3184,15 @@
    "name": "Chris Bell",
    "pos": "WR",
    "team": "MIA",
-   "ytd": 3.5,
+   "ytd": 14.2,
+   "proj": 2.4
+  },
+  {
+   "id": "0519",
+   "name": "Arizona Cardinals",
+   "pos": "Def",
+   "team": "ARI",
+   "ytd": 12.0,
    "proj": 2.4
   },
   {
@@ -3238,7 +3240,7 @@
    "name": "Nate Adkins",
    "pos": "TE",
    "team": "DEN",
-   "ytd": 13.6,
+   "ytd": 21.6,
    "proj": 2.3
   },
   {
@@ -3246,7 +3248,7 @@
    "name": "Foster Moreau",
    "pos": "TE",
    "team": "HOU",
-   "ytd": 10.2,
+   "ytd": 19.1,
    "proj": 2.3
   },
   {
@@ -3254,7 +3256,7 @@
    "name": "Baltimore Ravens",
    "pos": "Def",
    "team": "BAL",
-   "ytd": 9.0,
+   "ytd": 13.0,
    "proj": 2.3
   },
   {
@@ -3266,19 +3268,19 @@
    "proj": 2.3
   },
   {
+   "id": "17475",
+   "name": "Seth McGowan",
+   "pos": "RB",
+   "team": "IND",
+   "ytd": 2.4,
+   "proj": 2.3
+  },
+  {
    "id": "16633",
    "name": "Jordan Whittington",
    "pos": "WR",
    "team": "LAR",
    "ytd": 1.8,
-   "proj": 2.3
-  },
-  {
-   "id": "17475",
-   "name": "Seth McGowan",
-   "pos": "RB",
-   "team": "IND",
-   "ytd": 1.0,
    "proj": 2.3
   },
   {
@@ -3294,7 +3296,7 @@
    "name": "John Bates",
    "pos": "TE",
    "team": "WAS",
-   "ytd": 3.6,
+   "ytd": 5.7,
    "proj": 2.2
   },
   {
@@ -3313,6 +3315,22 @@
    "injury": "IR-PUP \u2014 Neck"
   },
   {
+   "id": "13315",
+   "name": "Eric Saubert",
+   "pos": "TE",
+   "team": "SEA",
+   "ytd": 8.4,
+   "proj": 2.1
+  },
+  {
+   "id": "16221",
+   "name": "Luke Schoonmaker",
+   "pos": "TE",
+   "team": "DAL",
+   "ytd": 4.6,
+   "proj": 2.1
+  },
+  {
    "id": "13940",
    "name": "Johnny Mundt",
    "pos": "TE",
@@ -3321,27 +3339,11 @@
    "proj": 2.1
   },
   {
-   "id": "16221",
-   "name": "Luke Schoonmaker",
-   "pos": "TE",
-   "team": "DAL",
-   "ytd": 2.5,
-   "proj": 2.1
-  },
-  {
    "id": "16391",
    "name": "Hunter Luepke",
    "pos": "RB",
    "team": "DAL",
    "ytd": 0.8,
-   "proj": 2.1
-  },
-  {
-   "id": "13315",
-   "name": "Eric Saubert",
-   "pos": "TE",
-   "team": "SEA",
-   "ytd": -0.2,
    "proj": 2.1
   },
   {
@@ -3381,7 +3383,7 @@
    "name": "Tyler Badie",
    "pos": "RB",
    "team": "DEN",
-   "ytd": 4.9,
+   "ytd": 7.3,
    "proj": 1.8,
    "injury": "Out \u2014 Coach's Decision"
   },
@@ -3390,7 +3392,7 @@
    "name": "Indianapolis Colts",
    "pos": "Def",
    "team": "IND",
-   "ytd": 3.0,
+   "ytd": 7.0,
    "proj": 1.8
   },
   {
@@ -3406,7 +3408,7 @@
    "name": "Matthew Hibner",
    "pos": "TE",
    "team": "BAL",
-   "ytd": 2.6,
+   "ytd": 13.5,
    "proj": 1.7
   },
   {
@@ -3441,19 +3443,19 @@
    "proj": 1.7
   },
   {
+   "id": "17086",
+   "name": "Jalen Royals",
+   "pos": "WR",
+   "team": "KCC",
+   "ytd": 10.7,
+   "proj": 1.6
+  },
+  {
    "id": "17333",
    "name": "Darius Cooper",
    "pos": "WR",
    "team": "PHI",
    "ytd": 10.6,
-   "proj": 1.6
-  },
-  {
-   "id": "17086",
-   "name": "Jalen Royals",
-   "pos": "WR",
-   "team": "KCC",
-   "ytd": 8.6,
    "proj": 1.6
   },
   {
@@ -3477,7 +3479,7 @@
    "name": "LeQuint Allen",
    "pos": "RB",
    "team": "JAC",
-   "ytd": 0.0,
+   "ytd": 2.9,
    "proj": 1.6
   },
   {
@@ -3485,7 +3487,7 @@
    "name": "Malachi Corley",
    "pos": "WR",
    "team": "CLE",
-   "ytd": 0.0,
+   "ytd": -2.0,
    "proj": 1.6
   },
   {
@@ -3520,11 +3522,11 @@
    "proj": 1.5
   },
   {
-   "id": "15292",
-   "name": "Dyami Brown",
+   "id": "16949",
+   "name": "Brycen Tremayne",
    "pos": "WR",
-   "team": "WAS",
-   "ytd": 4.1,
+   "team": "CAR",
+   "ytd": 12.3,
    "proj": 1.4
   },
   {
@@ -3532,15 +3534,15 @@
    "name": "Ben Skowronek",
    "pos": "WR",
    "team": "PIT",
-   "ytd": 1.2,
+   "ytd": 10.5,
    "proj": 1.4
   },
   {
-   "id": "16949",
-   "name": "Brycen Tremayne",
+   "id": "15292",
+   "name": "Dyami Brown",
    "pos": "WR",
-   "team": "CAR",
-   "ytd": 0.0,
+   "team": "WAS",
+   "ytd": 4.1,
    "proj": 1.4
   },
   {
@@ -3563,7 +3565,7 @@
    "name": "Ameer Abdullah",
    "pos": "RB",
    "team": "JAC",
-   "ytd": 6.5,
+   "ytd": 6.7,
    "proj": 1.3
   },
   {
@@ -3607,19 +3609,19 @@
    "proj": 1.2
   },
   {
-   "id": "17503",
-   "name": "Germie Bernard",
-   "pos": "WR",
-   "team": "PIT",
-   "ytd": 7.5,
-   "proj": 1.1
-  },
-  {
    "id": "17011",
    "name": "Jared Wayne",
    "pos": "WR",
    "team": "HOU",
-   "ytd": 7.5,
+   "ytd": 10.5,
+   "proj": 1.1
+  },
+  {
+   "id": "17503",
+   "name": "Germie Bernard",
+   "pos": "WR",
+   "team": "PIT",
+   "ytd": 9.9,
    "proj": 1.1
   },
   {
@@ -3628,6 +3630,14 @@
    "pos": "WR",
    "team": "CHI",
    "ytd": 7.1,
+   "proj": 1.1
+  },
+  {
+   "id": "15334",
+   "name": "Hunter Long",
+   "pos": "TE",
+   "team": "ARI",
+   "ytd": 1.6,
    "proj": 1.1
   },
   {
@@ -3643,14 +3653,6 @@
    "name": "Arian Smith",
    "pos": "WR",
    "team": "NYJ",
-   "ytd": 0.0,
-   "proj": 1.1
-  },
-  {
-   "id": "15334",
-   "name": "Hunter Long",
-   "pos": "TE",
-   "team": "ARI",
    "ytd": 0.0,
    "proj": 1.1
   },
@@ -3778,7 +3780,15 @@
    "name": "Alec Ingold",
    "pos": "RB",
    "team": "LAC",
-   "ytd": 0.0,
+   "ytd": 6.5,
+   "proj": 0.8
+  },
+  {
+   "id": "17528",
+   "name": "Kevin Coleman",
+   "pos": "WR",
+   "team": "MIA",
+   "ytd": 1.3,
    "proj": 0.8
   },
   {
@@ -3788,14 +3798,6 @@
    "team": "FA",
    "proj": 0.8,
    "injury": "Out \u2014 Coach's Decision"
-  },
-  {
-   "id": "17528",
-   "name": "Kevin Coleman",
-   "pos": "WR",
-   "team": "MIA",
-   "ytd": 0.0,
-   "proj": 0.8
   },
   {
    "id": "17655",
@@ -3889,23 +3891,23 @@
    "name": "Dylan Laube",
    "pos": "RB",
    "team": "LVR",
-   "ytd": 0.0,
+   "ytd": -2.0,
    "proj": 0.5
-  },
-  {
-   "id": "16958",
-   "name": "Ryan Miller",
-   "pos": "WR",
-   "team": "MIA",
-   "ytd": 14.7,
-   "proj": 0.4
   },
   {
    "id": "17527",
    "name": "Josh Cameron",
    "pos": "WR",
    "team": "JAC",
-   "ytd": 10.0,
+   "ytd": 18.2,
+   "proj": 0.4
+  },
+  {
+   "id": "16958",
+   "name": "Ryan Miller",
+   "pos": "WR",
+   "team": "MIA",
+   "ytd": 18.2,
    "proj": 0.4
   },
   {
@@ -3913,7 +3915,7 @@
    "name": "AJ Dillon",
    "pos": "RB",
    "team": "CAR",
-   "ytd": 2.8,
+   "ytd": 5.4,
    "proj": 0.4
   },
   {
@@ -3944,7 +3946,23 @@
    "name": "Colbie Young",
    "pos": "WR",
    "team": "CIN",
+   "ytd": 2.9,
+   "proj": 0.3
+  },
+  {
+   "id": "16441",
+   "name": "Tommy DeVito",
+   "pos": "QB",
+   "team": "NEP",
    "ytd": 1.7,
+   "proj": 0.3
+  },
+  {
+   "id": "13427",
+   "name": "Robert Tonyan",
+   "pos": "TE",
+   "team": "PIT",
+   "ytd": 1.3,
    "proj": 0.3
   },
   {
@@ -3976,21 +3994,6 @@
    "pos": "RB",
    "team": "TEN",
    "ytd": 0.0,
-   "proj": 0.3
-  },
-  {
-   "id": "13427",
-   "name": "Robert Tonyan",
-   "pos": "TE",
-   "team": "PIT",
-   "ytd": 0.0,
-   "proj": 0.3
-  },
-  {
-   "id": "16441",
-   "name": "Tommy DeVito",
-   "pos": "QB",
-   "team": "NEP",
    "proj": 0.3
   },
   {
@@ -4045,7 +4048,7 @@
    "name": "Laquon Treadwell",
    "pos": "WR",
    "team": "IND",
-   "ytd": 9.1,
+   "ytd": 12.1,
    "proj": 0.1
   },
   {
@@ -4053,7 +4056,7 @@
    "name": "Colson Yankoff",
    "pos": "TE",
    "team": "WAS",
-   "ytd": 2.8,
+   "ytd": 4.1,
    "proj": 0.1
   },
   {
@@ -4075,14 +4078,14 @@
    "name": "Jason Sanders",
    "pos": "PK",
    "team": "NYJ",
-   "ytd": 20.0
+   "ytd": 25.0
   },
   {
    "id": "15589",
    "name": "Cody White",
    "pos": "WR",
    "team": "LVR",
-   "ytd": 16.4
+   "ytd": 23.8
   },
   {
    "id": "16583",
@@ -4093,18 +4096,86 @@
    "injury": "Out \u2014 Knee - ACL"
   },
   {
-   "id": "0530",
-   "name": "San Francisco 49ers",
-   "pos": "Def",
-   "team": "SFO",
-   "ytd": 8.0
-  },
-  {
    "id": "12773",
    "name": "Chris Moore",
    "pos": "WR",
    "team": "FA",
-   "ytd": 7.9
+   "ytd": 15.3
+  },
+  {
+   "id": "0530",
+   "name": "San Francisco 49ers",
+   "pos": "Def",
+   "team": "SFO",
+   "ytd": 10.0
+  },
+  {
+   "id": "15759",
+   "name": "John Metchie",
+   "pos": "WR",
+   "team": "CAR",
+   "ytd": 9.9,
+   "injury": "Out \u2014 Coach's Decision"
+  },
+  {
+   "id": "17752",
+   "name": "Dohnte Meyers",
+   "pos": "WR",
+   "team": "CIN",
+   "ytd": 9.7
+  },
+  {
+   "id": "15752",
+   "name": "Treylon Burks",
+   "pos": "WR",
+   "team": "WAS",
+   "ytd": 9.3,
+   "injury": "Out \u2014 Coach's Decision"
+  },
+  {
+   "id": "14095",
+   "name": "Ty Johnson",
+   "pos": "RB",
+   "team": "BUF",
+   "ytd": 9.0,
+   "injury": "Out \u2014 Hamstring"
+  },
+  {
+   "id": "16219",
+   "name": "Davis Allen",
+   "pos": "TE",
+   "team": "LAR",
+   "ytd": 8.9
+  },
+  {
+   "id": "17192",
+   "name": "Jordan Watkins",
+   "pos": "WR",
+   "team": "SFO",
+   "ytd": 8.0,
+   "injury": "Out \u2014 Coach's Decision"
+  },
+  {
+   "id": "17098",
+   "name": "Tory Horton",
+   "pos": "WR",
+   "team": "SEA",
+   "ytd": 7.8,
+   "injury": "Out \u2014 Hamstring"
+  },
+  {
+   "id": "16496",
+   "name": "Brady Russell",
+   "pos": "RB",
+   "team": "SEA",
+   "ytd": 7.0
+  },
+  {
+   "id": "17360",
+   "name": "Myles Price",
+   "pos": "WR",
+   "team": "MIN",
+   "ytd": 6.0
   },
   {
    "id": "16621",
@@ -4123,10 +4194,17 @@
    "injury": "Out \u2014 Coach's Decision"
   },
   {
-   "id": "16219",
-   "name": "Davis Allen",
+   "id": "14370",
+   "name": "Tanner Hudson",
    "pos": "TE",
-   "team": "LAR",
+   "team": "CIN",
+   "ytd": 5.1
+  },
+  {
+   "id": "17184",
+   "name": "Jaylin Lane",
+   "pos": "WR",
+   "team": "WAS",
    "ytd": 4.5
   },
   {
@@ -4134,21 +4212,7 @@
    "name": "DeeJay Dallas",
    "pos": "RB",
    "team": "MIN",
-   "ytd": 4.1
-  },
-  {
-   "id": "16496",
-   "name": "Brady Russell",
-   "pos": "RB",
-   "team": "SEA",
-   "ytd": 4.0
-  },
-  {
-   "id": "17752",
-   "name": "Dohnte Meyers",
-   "pos": "WR",
-   "team": "CIN",
-   "ytd": 3.8
+   "ytd": 4.3
   },
   {
    "id": "15941",
@@ -4165,11 +4229,40 @@
    "ytd": 3.6
   },
   {
+   "id": "15840",
+   "name": "Jelani Woods",
+   "pos": "TE",
+   "team": "NYJ",
+   "ytd": 3.5
+  },
+  {
+   "id": "12658",
+   "name": "Sterling Shepard",
+   "pos": "WR",
+   "team": "FA",
+   "ytd": 3.3
+  },
+  {
+   "id": "15730",
+   "name": "Tyler Goodson",
+   "pos": "RB",
+   "team": "FA",
+   "ytd": 3.2
+  },
+  {
    "id": "17593",
    "name": "Marlin Klein",
    "pos": "TE",
    "team": "HOU",
    "ytd": 3.0
+  },
+  {
+   "id": "17269",
+   "name": "Efton Chism",
+   "pos": "WR",
+   "team": "NEP",
+   "ytd": 2.9,
+   "injury": "Out \u2014 Coach's Decision"
   },
   {
    "id": "17267",
@@ -4187,6 +4280,13 @@
    "injury": "Out \u2014 Coach's Decision"
   },
   {
+   "id": "17651",
+   "name": "Josh Cuevas",
+   "pos": "TE",
+   "team": "BAL",
+   "ytd": 2.8
+  },
+  {
    "id": "13963",
    "name": "KhaDarel Hodge",
    "pos": "WR",
@@ -4200,6 +4300,13 @@
    "team": "CHI",
    "ytd": 2.7,
    "injury": "Out \u2014 Back"
+  },
+  {
+   "id": "17492",
+   "name": "CJ Donaldson",
+   "pos": "RB",
+   "team": "NOS",
+   "ytd": 2.1
   },
   {
    "id": "17268",
@@ -4217,18 +4324,18 @@
    "injury": "Out \u2014 Hamstring"
   },
   {
+   "id": "17334",
+   "name": "Jackson Meeks",
+   "pos": "WR",
+   "team": "DET",
+   "ytd": 1.8
+  },
+  {
    "id": "15765",
    "name": "Kevin Austin",
    "pos": "WR",
    "team": "NOS",
    "ytd": 1.7
-  },
-  {
-   "id": "17492",
-   "name": "CJ Donaldson",
-   "pos": "RB",
-   "team": "NOS",
-   "ytd": 1.6
   },
   {
    "id": "16153",
@@ -4253,13 +4360,6 @@
    "injury": "Out \u2014 Coach's Decision"
   },
   {
-   "id": "14370",
-   "name": "Tanner Hudson",
-   "pos": "TE",
-   "team": "CIN",
-   "ytd": 1.5
-  },
-  {
    "id": "17510",
    "name": "Deion Burks",
    "pos": "WR",
@@ -4267,11 +4367,12 @@
    "ytd": 1.4
   },
   {
-   "id": "17184",
-   "name": "Jaylin Lane",
-   "pos": "WR",
-   "team": "WAS",
-   "ytd": 1.4
+   "id": "17481",
+   "name": "Demond Claiborne",
+   "pos": "RB",
+   "team": "MIN",
+   "ytd": 1.3,
+   "injury": "Out \u2014 Coach's Decision"
   },
   {
    "id": "15650",
@@ -4279,22 +4380,6 @@
    "pos": "RB",
    "team": "FA",
    "ytd": 1.2
-  },
-  {
-   "id": "17481",
-   "name": "Demond Claiborne",
-   "pos": "RB",
-   "team": "MIN",
-   "ytd": 1.2,
-   "injury": "Out \u2014 Coach's Decision"
-  },
-  {
-   "id": "17269",
-   "name": "Efton Chism",
-   "pos": "WR",
-   "team": "NEP",
-   "ytd": 1.0,
-   "injury": "Out \u2014 Coach's Decision"
   },
   {
    "id": "17476",
@@ -4749,77 +4834,15 @@
    "name": "Dan Villari",
    "pos": "TE",
    "team": "LAR"
-  },
-  {
-   "id": "17524",
-   "name": "Dane Key",
-   "pos": "WR",
-   "team": "FA"
-  },
-  {
-   "id": "15782",
-   "name": "Danny Gray",
-   "pos": "WR",
-   "team": "PHI",
-   "injury": "Questionable \u2014 Undisclosed"
-  },
-  {
-   "id": "13148",
-   "name": "Dare Ogunbowale",
-   "pos": "RB",
-   "team": "LVR"
-  },
-  {
-   "id": "15758",
-   "name": "David Bell",
-   "pos": "WR",
-   "team": "CLE"
-  },
-  {
-   "id": "13348",
-   "name": "David Moore",
-   "pos": "WR",
-   "team": "FA"
-  },
-  {
-   "id": "14110",
-   "name": "David Sills",
-   "pos": "WR",
-   "team": "TBB",
-   "injury": "IR-R \u2014 Undisclosed"
-  },
-  {
-   "id": "17717",
-   "name": "Davon Booth",
-   "pos": "RB",
-   "team": "IND"
-  },
-  {
-   "id": "17491",
-   "name": "Dean Connors",
-   "pos": "RB",
-   "team": "LAR"
-  },
-  {
-   "id": "15302",
-   "name": "Dee Eskridge",
-   "pos": "WR",
-   "team": "MIA"
-  },
-  {
-   "id": "16380",
-   "name": "Deneric Prince",
-   "pos": "RB",
-   "team": "NEP"
-  },
-  {
-   "id": "15977",
-   "name": "Deven Thompkins",
-   "pos": "WR",
-   "team": "LVR"
   }
  ],
  "recent_transactions": [
+  {
+   "type": "LOCK_ALL_PLAYERS",
+   "franchise": "",
+   "when": "1790528400",
+   "detail": ""
+  },
   {
    "type": "FREE_AGENT",
    "franchise": "ASSASSINS",
@@ -5053,12 +5076,6 @@
    "franchise": "ASSASSINS",
    "when": "1789233489",
    "detail": "16212,|15802,"
-  },
-  {
-   "type": "FREE_AGENT",
-   "franchise": "ASSASSINS",
-   "when": "1788999484",
-   "detail": "0516,|0501,"
   }
  ]
 }
