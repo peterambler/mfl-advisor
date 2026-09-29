@@ -1,7 +1,7 @@
 # Pete’s Perfect Team — week 1
 
-Cap City Football · 12 teams · generated 2026-09-28 12:18 UTC
-Record 2-0-0, 250.6 points for
+Cap City Football · 12 teams · generated 2026-09-29 12:18 UTC
+Record 3-0-0, 379.4 points for
 
 ## Roster
 
@@ -12,8 +12,8 @@ Record 2-0-0, 250.6 points for
 | Tyler Shough | QB | NOS | 22.0 | 78.6 |  |
 | Jordan Love | QB | GBP | 17.0 | 60.3 |  |
 | Omarion Hampton | RB | LAC | 13.8 | 31.4 |  |
-| Saquon Barkley | RB | PHI | 19.0 | 12.3 |  |
-| Tank Bigsby | RB | PHI | 5.1 | 12.1 |  |
+| Saquon Barkley | RB | PHI | 19.0 | 21.5 |  |
+| Tank Bigsby | RB | PHI | 5.1 | 11.6 |  |
 | Dalton Kincaid | TE | BUF | 11.0 | 53.0 |  |
 | Christian Watson | WR | GBP | 12.4 | 69.4 |  |
 | Ja'Marr Chase | WR | CIN | 21.9 | 54.5 |  |

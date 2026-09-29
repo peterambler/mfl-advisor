@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-28T12:18:25.721025+00:00",
+ "generated_at": "2026-09-29T12:18:20.553917+00:00",
  "season": "2026",
  "week": 1,
  "league": {
@@ -12,10 +12,10 @@
   "franchise_id": "0011",
   "name": "Pete\u2019s Perfect Team",
   "record": {
-   "w": "2",
+   "w": "3",
    "l": "0",
    "t": "0",
-   "pf": "250.6"
+   "pf": "379.4"
   },
   "roster": [
    {
@@ -63,7 +63,7 @@
     "name": "Saquon Barkley",
     "pos": "RB",
     "team": "PHI",
-    "ytd": 12.3,
+    "ytd": 21.5,
     "proj": 19.0
    },
    {
@@ -71,7 +71,7 @@
     "name": "Tank Bigsby",
     "pos": "RB",
     "team": "PHI",
-    "ytd": 12.1,
+    "ytd": 11.6,
     "proj": 5.1
    },
    {
@@ -145,9 +145,9 @@
    "name": "Dawg Pound",
    "record": {
     "w": "0",
-    "l": "2",
+    "l": "3",
     "t": "0",
-    "pf": "204.2"
+    "pf": "325.3"
    },
    "players": [
     {
@@ -203,7 +203,7 @@
      "name": "Kyle Monangai",
      "pos": "RB",
      "team": "CHI",
-     "ytd": 28.2,
+     "ytd": 31.3,
      "proj": 7.8
     },
     {
@@ -285,10 +285,10 @@
   "0002": {
    "name": "Clawing back up!",
    "record": {
-    "w": "1",
+    "w": "2",
     "l": "1",
     "t": "0",
-    "pf": "212.6"
+    "pf": "357.0"
    },
    "players": [
     {
@@ -368,7 +368,7 @@
      "name": "Colston Loveland",
      "pos": "TE",
      "team": "CHI",
-     "ytd": 1.4,
+     "ytd": 9.3,
      "proj": 12.8
     },
     {
@@ -388,6 +388,14 @@
      "proj": 12.3
     },
     {
+     "id": "17070",
+     "name": "Luther Burden",
+     "pos": "WR",
+     "team": "CHI",
+     "ytd": 35.5,
+     "proj": 8.5
+    },
+    {
      "id": "13163",
      "name": "Chris Godwin",
      "pos": "WR",
@@ -404,14 +412,6 @@
      "proj": 9.7
     },
     {
-     "id": "17070",
-     "name": "Luther Burden",
-     "pos": "WR",
-     "team": "CHI",
-     "ytd": 15.7,
-     "proj": 8.5
-    },
-    {
      "id": "14104",
      "name": "A.J. Brown",
      "pos": "WR",
@@ -426,9 +426,9 @@
    "name": "wait till next year",
    "record": {
     "w": "1",
-    "l": "1",
+    "l": "2",
     "t": "0",
-    "pf": "236.7"
+    "pf": "356.4"
    },
    "players": [
     {
@@ -524,7 +524,7 @@
      "name": "DeVonta Smith",
      "pos": "WR",
      "team": "PHI",
-     "ytd": 36.0,
+     "ytd": 48.5,
      "proj": 15.1
     },
     {
@@ -556,10 +556,10 @@
   "0004": {
    "name": "Fuck Tom",
    "record": {
-    "w": "2",
+    "w": "3",
     "l": "0",
     "t": "0",
-    "pf": "266.5"
+    "pf": "384.6"
    },
    "players": [
     {
@@ -671,7 +671,7 @@
      "name": "Rome Odunze",
      "pos": "WR",
      "team": "CHI",
-     "ytd": 14.5,
+     "ytd": 21.9,
      "proj": 12.1
     },
     {
@@ -688,9 +688,9 @@
    "name": "Titsburgh Feelers",
    "record": {
     "w": "0",
-    "l": "2",
+    "l": "3",
     "t": "0",
-    "pf": "180.6"
+    "pf": "294.4"
    },
    "players": [
     {
@@ -794,7 +794,7 @@
      "name": "Dontayvion Wicks",
      "pos": "WR",
      "team": "PHI",
-     "ytd": 27.7,
+     "ytd": 32.9,
      "proj": 7.6
     },
     {
@@ -810,7 +810,7 @@
      "name": "Makai Lemon",
      "pos": "WR",
      "team": "PHI",
-     "ytd": 5.4,
+     "ytd": 11.3,
      "proj": 2.5
     }
    ]
@@ -819,9 +819,9 @@
    "name": "Team Brown",
    "record": {
     "w": "0",
-    "l": "2",
+    "l": "3",
     "t": "0",
-    "pf": "222.2"
+    "pf": "332.5"
    },
    "players": [
     {
@@ -862,7 +862,8 @@
      "pos": "QB",
      "team": "TBB",
      "ytd": 41.3,
-     "proj": 22.2
+     "proj": 22.2,
+     "slot": "INJURED_RESERVE"
     },
     {
      "id": "14802",
@@ -959,9 +960,9 @@
    "name": "ASSASSINS",
    "record": {
     "w": "1",
-    "l": "1",
+    "l": "2",
     "t": "0",
-    "pf": "239.7"
+    "pf": "355.8"
    },
    "players": [
     {
@@ -993,7 +994,7 @@
      "name": "Jalen Hurts",
      "pos": "QB",
      "team": "PHI",
-     "ytd": 45.6,
+     "ytd": 59.8,
      "proj": 23.7
     },
     {
@@ -1001,7 +1002,7 @@
      "name": "D'Andre Swift",
      "pos": "RB",
      "team": "CHI",
-     "ytd": 45.3,
+     "ytd": 56.1,
      "proj": 13.8
     },
     {
@@ -1097,10 +1098,10 @@
   "0008": {
    "name": "Based Crack Cocaine Enjoyers",
    "record": {
-    "w": "0",
+    "w": "1",
     "l": "2",
     "t": "0",
-    "pf": "246.3"
+    "pf": "357.7"
    },
    "players": [
     {
@@ -1237,10 +1238,10 @@
   "0009": {
    "name": "Washington Misanthropes",
    "record": {
-    "w": "2",
+    "w": "3",
     "l": "0",
     "t": "0",
-    "pf": "242.0"
+    "pf": "387.9"
    },
    "players": [
     {
@@ -1376,10 +1377,10 @@
   "0010": {
    "name": "Attitude",
    "record": {
-    "w": "1",
+    "w": "2",
     "l": "1",
     "t": "0",
-    "pf": "227.4"
+    "pf": "362.3"
    },
    "players": [
     {
@@ -1514,10 +1515,10 @@
   "0011": {
    "name": "Pete\u2019s Perfect Team",
    "record": {
-    "w": "2",
+    "w": "3",
     "l": "0",
     "t": "0",
-    "pf": "250.6"
+    "pf": "379.4"
    },
    "players": [
     {
@@ -1565,7 +1566,7 @@
      "name": "Saquon Barkley",
      "pos": "RB",
      "team": "PHI",
-     "ytd": 12.3,
+     "ytd": 21.5,
      "proj": 19.0
     },
     {
@@ -1573,7 +1574,7 @@
      "name": "Tank Bigsby",
      "pos": "RB",
      "team": "PHI",
-     "ytd": 12.1,
+     "ytd": 11.6,
      "proj": 5.1
     },
     {
@@ -1646,9 +1647,9 @@
    "name": "Athenian Souvlakis",
    "record": {
     "w": "2",
-    "l": "0",
+    "l": "1",
     "t": "0",
-    "pf": "342.0"
+    "pf": "448.4"
    },
    "players": [
     {
@@ -2339,7 +2340,7 @@
    "name": "Cairo Santos",
    "pos": "PK",
    "team": "CHI",
-   "ytd": 15.0,
+   "ytd": 25.0,
    "proj": 5.3
   },
   {
@@ -2347,7 +2348,7 @@
    "name": "Jake Elliott",
    "pos": "PK",
    "team": "PHI",
-   "ytd": 14.0,
+   "ytd": 15.0,
    "proj": 5.3
   },
   {
@@ -2431,6 +2432,14 @@
    "proj": 5.1
   },
   {
+   "id": "0521",
+   "name": "Chicago Bears",
+   "pos": "Def",
+   "team": "CHI",
+   "ytd": 20.0,
+   "proj": 5.0
+  },
+  {
    "id": "12785",
    "name": "Demarcus Robinson",
    "pos": "WR",
@@ -2444,14 +2453,6 @@
    "pos": "TE",
    "team": "PIT",
    "ytd": 17.6,
-   "proj": 5.0
-  },
-  {
-   "id": "0521",
-   "name": "Chicago Bears",
-   "pos": "Def",
-   "team": "CHI",
-   "ytd": 11.0,
    "proj": 5.0
   },
   {
@@ -2715,7 +2716,7 @@
    "name": "Kalif Raymond",
    "pos": "WR",
    "team": "CHI",
-   "ytd": 25.4,
+   "ytd": 46.4,
    "proj": 4.1
   },
   {
@@ -3335,7 +3336,7 @@
    "name": "Johnny Mundt",
    "pos": "TE",
    "team": "PHI",
-   "ytd": 3.0,
+   "ytd": 4.5,
    "proj": 2.1
   },
   {
@@ -3463,7 +3464,7 @@
    "name": "Will Shipley",
    "pos": "RB",
    "team": "PHI",
-   "ytd": 7.1,
+   "ytd": 9.2,
    "proj": 1.6
   },
   {
@@ -3491,13 +3492,6 @@
    "proj": 1.6
   },
   {
-   "id": "10313",
-   "name": "Andy Dalton",
-   "pos": "QB",
-   "team": "PHI",
-   "proj": 1.5
-  },
-  {
    "id": "14984",
    "name": "Charlie Woerner",
    "pos": "TE",
@@ -3519,6 +3513,14 @@
    "pos": "RB",
    "team": "CHI",
    "ytd": 0.0,
+   "proj": 1.5
+  },
+  {
+   "id": "10313",
+   "name": "Andy Dalton",
+   "pos": "QB",
+   "team": "PHI",
+   "ytd": -2.0,
    "proj": 1.5
   },
   {
@@ -3641,6 +3643,14 @@
    "proj": 1.1
   },
   {
+   "id": "17521",
+   "name": "Zavion Thomas",
+   "pos": "WR",
+   "team": "CHI",
+   "ytd": 1.1,
+   "proj": 1.1
+  },
+  {
    "id": "14319",
    "name": "Andrew Beck",
    "pos": "RB",
@@ -3669,14 +3679,6 @@
    "name": "Montorie Foster",
    "pos": "WR",
    "team": "SEA",
-   "ytd": 0.0,
-   "proj": 1.1
-  },
-  {
-   "id": "17521",
-   "name": "Zavion Thomas",
-   "pos": "WR",
-   "team": "CHI",
    "ytd": 0.0,
    "proj": 1.1
   },
@@ -3883,7 +3885,7 @@
    "name": "Sam Roush",
    "pos": "TE",
    "team": "CHI",
-   "ytd": 2.1,
+   "ytd": 5.1,
    "proj": 0.5
   },
   {
@@ -3942,6 +3944,14 @@
    "proj": 0.4
   },
   {
+   "id": "10948",
+   "name": "Case Keenum",
+   "pos": "QB",
+   "team": "CHI",
+   "ytd": 27.0,
+   "proj": 0.3
+  },
+  {
    "id": "17542",
    "name": "Colbie Young",
    "pos": "WR",
@@ -3971,13 +3981,6 @@
    "pos": "TE",
    "team": "CLE",
    "ytd": 0.0,
-   "proj": 0.3
-  },
-  {
-   "id": "10948",
-   "name": "Case Keenum",
-   "pos": "QB",
-   "team": "CHI",
    "proj": 0.3
   },
   {
@@ -4313,6 +4316,13 @@
    "name": "Jake Briningstool",
    "pos": "TE",
    "team": "KCC",
+   "ytd": 2.1
+  },
+  {
+   "id": "11247",
+   "name": "Zach Ertz",
+   "pos": "TE",
+   "team": "FA",
    "ytd": 2.1
   },
   {
@@ -4828,15 +4838,15 @@
    "name": "Dameon Pierce",
    "pos": "RB",
    "team": "PHI"
-  },
-  {
-   "id": "17734",
-   "name": "Dan Villari",
-   "pos": "TE",
-   "team": "LAR"
   }
  ],
  "recent_transactions": [
+  {
+   "type": "IR",
+   "franchise": "Team Brown",
+   "when": "1790680570",
+   "detail": ""
+  },
   {
    "type": "LOCK_ALL_PLAYERS",
    "franchise": "",
@@ -5070,12 +5080,6 @@
    "franchise": "",
    "when": "1789318800",
    "detail": ""
-  },
-  {
-   "type": "FREE_AGENT",
-   "franchise": "ASSASSINS",
-   "when": "1789233489",
-   "detail": "16212,|15802,"
   }
  ]
 }

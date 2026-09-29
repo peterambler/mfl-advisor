@@ -46,7 +46,7 @@
      "id": "0002",
      "logo": "https://www46.myfantasyleague.com/fflnetdynamic2023/24838_franchise_logo0002.jpg",
      "name": "Clawing back up!",
-     "waiverSortOrder": "7"
+     "waiverSortOrder": "8"
     },
     {
      "bbidAvailableBalance": "144.00",
@@ -55,7 +55,7 @@
      "id": "0003",
      "logo": "https://www46.myfantasyleague.com/fflnet2010/logos/Bull_Head_3.gif",
      "name": "wait till next year",
-     "waiverSortOrder": "6"
+     "waiverSortOrder": "5"
     },
     {
      "bbidAvailableBalance": "100.00",
@@ -91,7 +91,7 @@
      "icon": "https://www46.myfantasyleague.com/fflnet2012/newhelmets/nh-0013.png",
      "id": "0007",
      "name": "ASSASSINS",
-     "waiverSortOrder": "8"
+     "waiverSortOrder": "6"
     },
     {
      "bbidAvailableBalance": "78.00",
@@ -107,7 +107,7 @@
      "division": "00",
      "id": "0009",
      "name": "Washington Misanthropes",
-     "waiverSortOrder": "9"
+     "waiverSortOrder": "12"
     },
     {
      "bbidAvailableBalance": "100.00",
@@ -116,7 +116,7 @@
      "id": "0010",
      "logo": "https://www42.myfantasyleague.com/fflnetdynamic2015/35945_franchise_logo0010.jpg",
      "name": "Attitude",
-     "waiverSortOrder": "5"
+     "waiverSortOrder": "7"
     },
     {
      "abbrev": "BK",
@@ -133,7 +133,7 @@
      "division": "00",
      "id": "0012",
      "name": "Athenian Souvlakis",
-     "waiverSortOrder": "12"
+     "waiverSortOrder": "9"
     }
    ]
   },
