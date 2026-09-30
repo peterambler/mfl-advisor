@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-29T12:18:20.553917+00:00",
+ "generated_at": "2026-09-30T12:21:55.948273+00:00",
  "season": "2026",
  "week": 1,
  "league": {
@@ -3755,14 +3755,6 @@
    "proj": 0.9
   },
   {
-   "id": "11679",
-   "name": "Odell Beckham",
-   "pos": "WR",
-   "team": "NYG",
-   "ytd": 0.0,
-   "proj": 0.9
-  },
-  {
    "id": "15693",
    "name": "Sam Howell",
    "pos": "QB",
@@ -4491,6 +4483,12 @@
    "injury": "Out \u2014 Coach's Decision"
   },
   {
+   "id": "13404",
+   "name": "Austin Ekeler",
+   "pos": "RB",
+   "team": "FA"
+  },
+  {
    "id": "16120",
    "name": "Austin Trammell",
    "pos": "WR",
@@ -4535,13 +4533,6 @@
    "pos": "TE",
    "team": "MIN",
    "injury": "IR \u2014 Undisclosed"
-  },
-  {
-   "id": "16444",
-   "name": "Blake Grupe",
-   "pos": "PK",
-   "team": "NYJ",
-   "injury": "Out \u2014 Coach's Decision"
   },
   {
    "id": "17040",
@@ -4838,6 +4829,12 @@
    "name": "Dameon Pierce",
    "pos": "RB",
    "team": "PHI"
+  },
+  {
+   "id": "17734",
+   "name": "Dan Villari",
+   "pos": "TE",
+   "team": "LAR"
   }
  ],
  "recent_transactions": [
