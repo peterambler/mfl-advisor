@@ -198,7 +198,7 @@
       "status": "ROSTER"
      },
      {
-      "id": "0506",
+      "id": "0521",
       "status": "ROSTER"
      }
     ],
@@ -384,10 +384,6 @@
       "status": "ROSTER"
      },
      {
-      "id": "16593",
-      "status": "ROSTER"
-     },
-     {
       "id": "16896",
       "status": "ROSTER"
      },
@@ -400,11 +396,11 @@
       "status": "ROSTER"
      },
      {
-      "id": "13674",
-      "status": "INJURED_RESERVE"
+      "id": "10700",
+      "status": "ROSTER"
      },
      {
-      "id": "13590",
+      "id": "13674",
       "status": "INJURED_RESERVE"
      }
     ],
@@ -540,7 +536,7 @@
       "status": "ROSTER"
      },
      {
-      "id": "0520",
+      "id": "16593",
       "status": "ROSTER"
      },
      {
