@@ -1,6 +1,6 @@
 # Pete’s Perfect Team — week 1
 
-Cap City Football · 12 teams · generated 2026-09-30 12:21 UTC
+Cap City Football · 12 teams · generated 2026-10-01 12:19 UTC
 Record 3-0-0, 379.4 points for
 
 ## Roster
@@ -13,6 +13,7 @@ Record 3-0-0, 379.4 points for
 | Jordan Love | QB | GBP | 17.0 | 60.3 |  |
 | Omarion Hampton | RB | LAC | 13.8 | 31.4 |  |
 | Saquon Barkley | RB | PHI | 19.0 | 21.5 |  |
+| Ollie Gordon | RB | MIA | 2.6 | 15.2 |  |
 | Tank Bigsby | RB | PHI | 5.1 | 11.6 |  |
 | Dalton Kincaid | TE | BUF | 11.0 | 53.0 |  |
 | Christian Watson | WR | GBP | 12.4 | 69.4 |  |
@@ -21,18 +22,17 @@ Record 3-0-0, 379.4 points for
 | Drake London | WR | ATL | 18.5 | 43.0 |  |
 | Devaughn Vele | WR | NOS | 8.4 | 38.2 |  |
 | Xavier Worthy | WR | KCC | 8.9 | 22.3 |  |
-| Alec Pierce | WR | IND | 12.4 | 12.2 |  |
 
 ## Best available
 
-**QB** — Jaxson Dart (NYG), Jacoby Brissett (ARI), Cam Ward (TEN), Aaron Rodgers (PIT), Kirk Cousins (LVR), Deshaun Watson (CLE), Kyler Murray (MIN), Sam Darnold (SEA)
+**QB** — Jaxson Dart (NYG), Daniel Jones (IND), Jacoby Brissett (ARI), Cam Ward (TEN), Aaron Rodgers (PIT), Kirk Cousins (LVR), Deshaun Watson (CLE), Kyler Murray (MIN)
 
-**RB** — Kenneth Gainwell (TBB), Jonathon Brooks (CAR), Sione Vaki (DET), Kimani Vidal (LAC), Devin Singletary (NYG), Chris Rodriguez (JAC), Justice Hill (BAL), George Holani (SEA)
+**RB** — De'Von Achane (MIA), Jonathon Brooks (CAR), Sione Vaki (DET), Kimani Vidal (LAC), Chris Rodriguez (JAC), Justice Hill (BAL), George Holani (SEA), Dylan Sampson (CLE)
 
-**WR** — Jakobi Meyers (JAC), Jerry Jeudy (CLE), Keenan Allen (IND), Xavier Hutchinson (HOU), Demario Douglas (NEP), Ryan Flournoy (DAL), Jauan Jennings (MIN), Troy Franklin (DEN)
+**WR** — Alec Pierce (IND), Brian Thomas Jr. (JAC), Tre Tucker (LVR), Jerry Jeudy (CLE), Xavier Hutchinson (HOU), Demario Douglas (NEP), Ryan Flournoy (DAL), Jauan Jennings (MIN)
 
-**TE** — Cade Otton (TBB), Pat Freiermuth (PIT), Oronde Gadsden (LAC), Mike Gesicki (CIN), Gunnar Helm (TEN), AJ Barner (SEA), Greg Dulcich (MIA), Theo Johnson (NYG)
+**TE** — Cade Otton (TBB), Pat Freiermuth (PIT), Oronde Gadsden (LAC), Mike Gesicki (CIN), Gunnar Helm (TEN), AJ Barner (SEA), T.J. Hockenson (MIN), Greg Dulcich (MIA)
 
 **PK** — Tyler Bass (BUF), Wil Lutz (DEN), Andres Borregales (NEP), Cairo Santos (CHI), Jake Elliott (PHI), Chad Ryland (ARI), Eddy Pineiro (SFO), Riley Patterson (MIA)
 
-**Def** — Los Angeles Chargers (LAC), Jacksonville Jaguars (JAC), Atlanta Falcons (ATL), Chicago Bears (CHI), Tennessee Titans (TEN), New Orleans Saints (NOS), Washington Commanders (WAS), Cleveland Browns (CLE)
+**Def** — Los Angeles Chargers (LAC), Jacksonville Jaguars (JAC), Atlanta Falcons (ATL), Chicago Bears (CHI), Tennessee Titans (TEN), New Orleans Saints (NOS), Cleveland Browns (CLE), Detroit Lions (DET)
