@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-01T21:16:04.429792+00:00",
+ "generated_at": "2026-10-02T12:17:48.427474+00:00",
  "season": "2026",
  "week": 1,
  "league": {
@@ -228,7 +228,7 @@
      "name": "Harold Fannin",
      "pos": "TE",
      "team": "CLE",
-     "ytd": 41.8,
+     "ytd": 54.2,
      "proj": 12.2
     },
     {
@@ -244,7 +244,7 @@
      "name": "Denzel Boston",
      "pos": "WR",
      "team": "CLE",
-     "ytd": 42.5,
+     "ytd": 55.4,
      "proj": 2.9
     },
     {
@@ -447,20 +447,20 @@
      "proj": 25.6
     },
     {
+     "id": "15742",
+     "name": "Jaylen Warren",
+     "pos": "RB",
+     "team": "PIT",
+     "ytd": 56.2,
+     "proj": 11.9
+    },
+    {
      "id": "17052",
      "name": "Bhayshul Tuten",
      "pos": "RB",
      "team": "JAC",
      "ytd": 41.3,
      "proj": 13.4
-    },
-    {
-     "id": "15742",
-     "name": "Jaylen Warren",
-     "pos": "RB",
-     "team": "PIT",
-     "ytd": 40.6,
-     "proj": 11.9
     },
     {
      "id": "14071",
@@ -594,20 +594,20 @@
      "proj": 16.5
     },
     {
+     "id": "17051",
+     "name": "Quinshon Judkins",
+     "pos": "RB",
+     "team": "CLE",
+     "ytd": 48.3,
+     "proj": 9.6
+    },
+    {
      "id": "17045",
      "name": "Cam Skattebo",
      "pos": "RB",
      "team": "NYG",
      "ytd": 36.6,
      "proj": 15.8
-    },
-    {
-     "id": "17051",
-     "name": "Quinshon Judkins",
-     "pos": "RB",
-     "team": "CLE",
-     "ytd": 26.7,
-     "proj": 9.6
     },
     {
      "id": "16178",
@@ -793,7 +793,7 @@
      "name": "Michael Pittman",
      "pos": "WR",
      "team": "PIT",
-     "ytd": 12.4,
+     "ytd": 15.9,
      "proj": 8.3
     },
     {
@@ -836,7 +836,7 @@
      "name": "Chris Boswell",
      "pos": "PK",
      "team": "PIT",
-     "ytd": 27.0,
+     "ytd": 31.0,
      "proj": 5.1
     },
     {
@@ -913,6 +913,14 @@
      "proj": 4.1
     },
     {
+     "id": "14102",
+     "name": "DK Metcalf",
+     "pos": "WR",
+     "team": "PIT",
+     "ytd": 43.3,
+     "proj": 12.7
+    },
+    {
      "id": "13635",
      "name": "D.J. Moore",
      "pos": "WR",
@@ -927,14 +935,6 @@
      "team": "IND",
      "ytd": 29.0,
      "proj": 8.9
-    },
-    {
-     "id": "14102",
-     "name": "DK Metcalf",
-     "pos": "WR",
-     "team": "PIT",
-     "ytd": 26.8,
-     "proj": 12.7
     },
     {
      "id": "13630",
@@ -1331,6 +1331,14 @@
      "proj": 11.5
     },
     {
+     "id": "17501",
+     "name": "KC Concepcion",
+     "pos": "WR",
+     "team": "CLE",
+     "ytd": 30.9,
+     "proj": 5.3
+    },
+    {
      "id": "17072",
      "name": "Tre Harris",
      "pos": "WR",
@@ -1345,14 +1353,6 @@
      "team": "NYG",
      "ytd": 21.6,
      "proj": 14.3
-    },
-    {
-     "id": "17501",
-     "name": "KC Concepcion",
-     "pos": "WR",
-     "team": "CLE",
-     "ytd": 19.5,
-     "proj": 5.3
     },
     {
      "id": "17498",
@@ -1648,7 +1648,7 @@
      "name": "Pittsburgh Steelers",
      "pos": "Def",
      "team": "PIT",
-     "ytd": 27.0,
+     "ytd": 33.0,
      "proj": 3.6
     },
     {
@@ -1812,7 +1812,7 @@
    "name": "Aaron Rodgers",
    "pos": "QB",
    "team": "PIT",
-   "ytd": 46.6,
+   "ytd": 71.6,
    "proj": 21.3
   },
   {
@@ -1820,7 +1820,7 @@
    "name": "Deshaun Watson",
    "pos": "QB",
    "team": "CLE",
-   "ytd": 58.9,
+   "ytd": 74.5,
    "proj": 19.7
   },
   {
@@ -1900,7 +1900,7 @@
    "name": "Pat Freiermuth",
    "pos": "TE",
    "team": "PIT",
-   "ytd": 30.9,
+   "ytd": 42.0,
    "proj": 9.7
   },
   {
@@ -1908,7 +1908,7 @@
    "name": "Jerry Jeudy",
    "pos": "WR",
    "team": "CLE",
-   "ytd": 4.6,
+   "ytd": 11.2,
    "proj": 9.6
   },
   {
@@ -2455,19 +2455,19 @@
    "proj": 5.1
   },
   {
+   "id": "16216",
+   "name": "Darnell Washington",
+   "pos": "TE",
+   "team": "PIT",
+   "ytd": 30.0,
+   "proj": 5.0
+  },
+  {
    "id": "12785",
    "name": "Demarcus Robinson",
    "pos": "WR",
    "team": "SFO",
    "ytd": 19.4,
-   "proj": 5.0
-  },
-  {
-   "id": "16216",
-   "name": "Darnell Washington",
-   "pos": "TE",
-   "team": "PIT",
-   "ytd": 17.6,
    "proj": 5.0
   },
   {
@@ -2610,7 +2610,7 @@
    "name": "Andre Szmyt",
    "pos": "PK",
    "team": "CLE",
-   "ytd": 25.0,
+   "ytd": 37.0,
    "proj": 4.4
   },
   {
@@ -2771,7 +2771,7 @@
    "name": "Roman Wilson",
    "pos": "WR",
    "team": "PIT",
-   "ytd": 28.4,
+   "ytd": 44.8,
    "proj": 3.8
   },
   {
@@ -2886,19 +2886,19 @@
    "proj": 3.4
   },
   {
+   "id": "0507",
+   "name": "Cleveland Browns",
+   "pos": "Def",
+   "team": "CLE",
+   "ytd": 20.0,
+   "proj": 3.3
+  },
+  {
    "id": "0520",
    "name": "Washington Commanders",
    "pos": "Def",
    "team": "WAS",
    "ytd": 16.0,
-   "proj": 3.3
-  },
-  {
-   "id": "0507",
-   "name": "Cleveland Browns",
-   "pos": "Def",
-   "team": "CLE",
-   "ytd": 11.0,
    "proj": 3.3
   },
   {
@@ -3077,19 +3077,19 @@
    "proj": 2.8
   },
   {
+   "id": "17076",
+   "name": "Isaiah Bond",
+   "pos": "WR",
+   "team": "CLE",
+   "ytd": 3.2,
+   "proj": 2.7
+  },
+  {
    "id": "17529",
    "name": "Brenen Thompson",
    "pos": "WR",
    "team": "LAC",
    "ytd": 2.3,
-   "proj": 2.7
-  },
-  {
-   "id": "17076",
-   "name": "Isaiah Bond",
-   "pos": "WR",
-   "team": "CLE",
-   "ytd": 2.0,
    "proj": 2.7
   },
   {
@@ -3176,7 +3176,7 @@
    "name": "Raheim Sanders",
    "pos": "RB",
    "team": "CLE",
-   "ytd": 16.8,
+   "ytd": 20.4,
    "proj": 2.4
   },
   {
@@ -3535,7 +3535,7 @@
    "name": "Ben Skowronek",
    "pos": "WR",
    "team": "PIT",
-   "ytd": 10.5,
+   "ytd": 12.2,
    "proj": 1.4
   },
   {
@@ -3610,19 +3610,19 @@
    "proj": 1.2
   },
   {
+   "id": "17503",
+   "name": "Germie Bernard",
+   "pos": "WR",
+   "team": "PIT",
+   "ytd": 13.0,
+   "proj": 1.1
+  },
+  {
    "id": "17011",
    "name": "Jared Wayne",
    "pos": "WR",
    "team": "HOU",
    "ytd": 10.5,
-   "proj": 1.1
-  },
-  {
-   "id": "17503",
-   "name": "Germie Bernard",
-   "pos": "WR",
-   "team": "PIT",
-   "ytd": 9.9,
    "proj": 1.1
   },
   {
@@ -4127,6 +4127,13 @@
    "injury": "Out \u2014 Coach's Decision"
   },
   {
+   "id": "16390",
+   "name": "Jaleel McLaughlin",
+   "pos": "RB",
+   "team": "CLE",
+   "ytd": 9.1
+  },
+  {
    "id": "14095",
    "name": "Ty Johnson",
    "pos": "RB",
@@ -4402,13 +4409,6 @@
    "name": "Frank Gore Jr.",
    "pos": "RB",
    "team": "FA",
-   "ytd": 0.3
-  },
-  {
-   "id": "16390",
-   "name": "Jaleel McLaughlin",
-   "pos": "RB",
-   "team": "CLE",
    "ytd": 0.3
   },
   {
