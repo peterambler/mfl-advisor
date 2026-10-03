@@ -3,6 +3,12 @@
  "transactions": {
   "transaction": [
    {
+    "franchise": "0001",
+    "timestamp": "1790947339",
+    "transaction": "13592,|",
+    "type": "FREE_AGENT"
+   },
+   {
     "franchise": "0008",
     "timestamp": "1790883864",
     "transaction": "16593,|0520,",

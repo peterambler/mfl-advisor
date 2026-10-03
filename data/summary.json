@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-02T12:17:48.427474+00:00",
+ "generated_at": "2026-10-03T14:58:07.361546+00:00",
  "season": "2026",
  "week": 1,
  "league": {
@@ -173,6 +173,14 @@
      "team": "LAC",
      "ytd": 40.2,
      "proj": 24.7
+    },
+    {
+     "id": "13592",
+     "name": "Sam Darnold",
+     "pos": "QB",
+     "team": "SEA",
+     "ytd": 32.2,
+     "proj": 18.8
     },
     {
      "id": "16580",
@@ -1832,14 +1840,6 @@
    "proj": 19.0
   },
   {
-   "id": "13592",
-   "name": "Sam Darnold",
-   "pos": "QB",
-   "team": "SEA",
-   "ytd": 32.2,
-   "proj": 18.8
-  },
-  {
    "id": "16167",
    "name": "De'Von Achane",
    "pos": "RB",
@@ -3420,14 +3420,6 @@
    "proj": 1.7
   },
   {
-   "id": "14118",
-   "name": "Lil'Jordan Humphrey",
-   "pos": "WR",
-   "team": "DEN",
-   "ytd": 0.0,
-   "proj": 1.7
-  },
-  {
    "id": "14789",
    "name": "Tyler Huntley",
    "pos": "QB",
@@ -4288,13 +4280,6 @@
    "ytd": 2.8
   },
   {
-   "id": "13963",
-   "name": "KhaDarel Hodge",
-   "pos": "WR",
-   "team": "SFO",
-   "ytd": 2.8
-  },
-  {
    "id": "16384",
    "name": "Tyson Bagent",
    "pos": "QB",
@@ -4539,6 +4524,13 @@
    "pos": "TE",
    "team": "MIN",
    "injury": "IR \u2014 Undisclosed"
+  },
+  {
+   "id": "16444",
+   "name": "Blake Grupe",
+   "pos": "PK",
+   "team": "NYJ",
+   "injury": "Out \u2014 Coach's Decision"
   },
   {
    "id": "17040",
@@ -4829,9 +4821,28 @@
    "pos": "RB",
    "team": "IND",
    "injury": "Out \u2014 Coach's Decision"
+  },
+  {
+   "id": "17308",
+   "name": "DJ Uiagalelei",
+   "pos": "QB",
+   "team": "LAC"
+  },
+  {
+   "id": "17699",
+   "name": "Dallen Bentley",
+   "pos": "TE",
+   "team": "DEN",
+   "injury": "Out \u2014 Coach's Decision"
   }
  ],
  "recent_transactions": [
+  {
+   "type": "FREE_AGENT",
+   "franchise": "Dawg Pound",
+   "when": "1790947339",
+   "detail": "13592,|"
+  },
   {
    "type": "FREE_AGENT",
    "franchise": "Based Crack Cocaine Enjoyers",
@@ -5065,12 +5076,6 @@
    "franchise": "Washington Misanthropes",
    "when": "1790243055",
    "detail": "16148,|17514,"
-  },
-  {
-   "type": "IR",
-   "franchise": "Washington Misanthropes",
-   "when": "1790243009",
-   "detail": ""
   }
  ]
 }
