@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-03T14:58:07.361546+00:00",
+ "generated_at": "2026-10-04T18:14:45.185283+00:00",
  "season": "2026",
  "week": 1,
  "league": {
@@ -755,14 +755,6 @@
      "team": "WAS",
      "ytd": 24.4,
      "proj": 9.5
-    },
-    {
-     "id": "17473",
-     "name": "Jadarian Price",
-     "pos": "RB",
-     "team": "SEA",
-     "ytd": 14.0,
-     "proj": 14.2
     },
     {
      "id": "16222",
@@ -1854,6 +1846,14 @@
    "team": "ATL",
    "ytd": 7.5,
    "proj": 15.7
+  },
+  {
+   "id": "17473",
+   "name": "Jadarian Price",
+   "pos": "RB",
+   "team": "SEA",
+   "ytd": 14.0,
+   "proj": 14.2
   },
   {
    "id": "11150",
@@ -3420,6 +3420,14 @@
    "proj": 1.7
   },
   {
+   "id": "14118",
+   "name": "Lil'Jordan Humphrey",
+   "pos": "WR",
+   "team": "DEN",
+   "ytd": 0.0,
+   "proj": 1.7
+  },
+  {
    "id": "14789",
    "name": "Tyler Huntley",
    "pos": "QB",
@@ -4821,22 +4829,21 @@
    "pos": "RB",
    "team": "IND",
    "injury": "Out \u2014 Coach's Decision"
-  },
-  {
-   "id": "17308",
-   "name": "DJ Uiagalelei",
-   "pos": "QB",
-   "team": "LAC"
-  },
-  {
-   "id": "17699",
-   "name": "Dallen Bentley",
-   "pos": "TE",
-   "team": "DEN",
-   "injury": "Out \u2014 Coach's Decision"
   }
  ],
  "recent_transactions": [
+  {
+   "type": "LOCK_ALL_PLAYERS",
+   "franchise": "",
+   "when": "1791133200",
+   "detail": ""
+  },
+  {
+   "type": "FREE_AGENT",
+   "franchise": "Titsburgh Feelers",
+   "when": "1791060355",
+   "detail": "|17473,"
+  },
   {
    "type": "FREE_AGENT",
    "franchise": "Dawg Pound",
@@ -5064,18 +5071,6 @@
    "franchise": "Based Crack Cocaine Enjoyers",
    "when": "1790255579",
    "detail": "16165,|17220,"
-  },
-  {
-   "type": "FREE_AGENT",
-   "franchise": "Washington Misanthropes",
-   "when": "1790243332",
-   "detail": "15329,|16597,"
-  },
-  {
-   "type": "FREE_AGENT",
-   "franchise": "Washington Misanthropes",
-   "when": "1790243055",
-   "detail": "16148,|17514,"
   }
  ]
 }
