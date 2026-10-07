@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-06T18:05:37.203154+00:00",
+ "generated_at": "2026-10-07T18:38:39.255400+00:00",
  "season": "2026",
  "week": 1,
  "league": {
@@ -485,14 +485,6 @@
      "team": "NEP",
      "ytd": 43.3,
      "proj": 12.4
-    },
-    {
-     "id": "14085",
-     "name": "Tony Pollard",
-     "pos": "RB",
-     "team": "TEN",
-     "ytd": 38.6,
-     "proj": 12.9
     },
     {
      "id": "13299",
@@ -1862,6 +1854,14 @@
    "team": "NYJ",
    "ytd": 67.9,
    "proj": 13.0
+  },
+  {
+   "id": "14085",
+   "name": "Tony Pollard",
+   "pos": "RB",
+   "team": "TEN",
+   "ytd": 38.6,
+   "proj": 12.9
   },
   {
    "id": "15768",
@@ -4833,15 +4833,15 @@
    "pos": "WR",
    "team": "SFO",
    "injury": "IR-R \u2014 Calf"
-  },
-  {
-   "id": "14803",
-   "name": "Clyde Edwards-Helaire",
-   "pos": "RB",
-   "team": "KCC"
   }
  ],
  "recent_transactions": [
+  {
+   "type": "FREE_AGENT",
+   "franchise": "wait till next year",
+   "when": "1791320327",
+   "detail": "|14085,"
+  },
   {
    "type": "LOCK_ALL_PLAYERS",
    "franchise": "",
@@ -5075,12 +5075,6 @@
    "franchise": "Team Brown",
    "when": "1790275732",
    "detail": "16896,|"
-  },
-  {
-   "type": "FREE_AGENT",
-   "franchise": "Based Crack Cocaine Enjoyers",
-   "when": "1790255579",
-   "detail": "16165,|17220,"
   }
  ]
 }

@@ -1,6 +1,6 @@
 # Pete’s Perfect Team — week 1
 
-Cap City Football · 12 teams · generated 2026-10-06 18:05 UTC
+Cap City Football · 12 teams · generated 2026-10-07 18:38 UTC
 Record 3-2-0, 462.4 points for
 
 ## Roster
@@ -27,7 +27,7 @@ Record 3-2-0, 462.4 points for
 
 **QB** — Jaxson Dart (NYG), Daniel Jones (IND), Jacoby Brissett (ARI), Baker Mayfield (TBB), Cam Ward (TEN), Aaron Rodgers (PIT), Deshaun Watson (CLE), Kyler Murray (MIN)
 
-**RB** — De'Von Achane (MIA), Jadarian Price (SEA), Jonathon Brooks (CAR), Sione Vaki (DET), Kimani Vidal (LAC), Chris Rodriguez (JAC), Justice Hill (BAL), George Holani (SEA)
+**RB** — De'Von Achane (MIA), Jadarian Price (SEA), Tony Pollard (TEN), Jonathon Brooks (CAR), Sione Vaki (DET), Kimani Vidal (LAC), Chris Rodriguez (JAC), Justice Hill (BAL)
 
 **WR** — Alec Pierce (IND), Brian Thomas Jr. (JAC), Tre Tucker (LVR), Jerry Jeudy (CLE), Xavier Hutchinson (HOU), Demario Douglas (NEP), Ryan Flournoy (DAL), Jauan Jennings (MIN)
 
