@@ -23,18 +23,18 @@
     "averagePick": "4.40",
     "draftSelPct": "100",
     "draftsSelectedIn": "5",
-    "id": "16161",
-    "maxPick": "7",
-    "minPick": "3",
+    "id": "16162",
+    "maxPick": "8",
+    "minPick": "1",
     "rank": "3"
    },
    {
     "averagePick": "4.40",
     "draftSelPct": "100",
     "draftsSelectedIn": "5",
-    "id": "16162",
-    "maxPick": "8",
-    "minPick": "1",
+    "id": "16161",
+    "maxPick": "7",
+    "minPick": "3",
     "rank": "4"
    },
    {
@@ -104,18 +104,18 @@
     "averagePick": "20.40",
     "draftSelPct": "100",
     "draftsSelectedIn": "5",
-    "id": "15237",
-    "maxPick": "21",
-    "minPick": "19",
+    "id": "17472",
+    "maxPick": "38",
+    "minPick": "10",
     "rank": "12"
    },
    {
     "averagePick": "20.40",
     "draftSelPct": "100",
     "draftsSelectedIn": "5",
-    "id": "17472",
-    "maxPick": "38",
-    "minPick": "10",
+    "id": "15237",
+    "maxPick": "21",
+    "minPick": "19",
     "rank": "13"
    },
    {
@@ -227,13 +227,22 @@
     "rank": "25"
    },
    {
+    "averagePick": "53.80",
+    "draftSelPct": "100",
+    "draftsSelectedIn": "5",
+    "id": "13604",
+    "maxPick": "85",
+    "minPick": "6",
+    "rank": "26"
+   },
+   {
     "averagePick": "54.00",
     "draftSelPct": "100",
     "draftsSelectedIn": "5",
     "id": "17104",
     "maxPick": "86",
     "minPick": "36",
-    "rank": "26"
+    "rank": "27"
    },
    {
     "averagePick": "57.40",
@@ -242,7 +251,7 @@
     "id": "16148",
     "maxPick": "118",
     "minPick": "35",
-    "rank": "27"
+    "rank": "28"
    },
    {
     "averagePick": "59.80",
@@ -251,7 +260,16 @@
     "id": "17052",
     "maxPick": "78",
     "minPick": "20",
-    "rank": "28"
+    "rank": "29"
+   },
+   {
+    "averagePick": "60.00",
+    "draftSelPct": "100",
+    "draftsSelectedIn": "5",
+    "id": "15256",
+    "maxPick": "91",
+    "minPick": "18",
+    "rank": "30"
    },
    {
     "averagePick": "61.00",
@@ -260,7 +278,16 @@
     "id": "17075",
     "maxPick": "78",
     "minPick": "44",
-    "rank": "29"
+    "rank": "31"
+   },
+   {
+    "averagePick": "64.00",
+    "draftSelPct": "100",
+    "draftsSelectedIn": "5",
+    "id": "16213",
+    "maxPick": "88",
+    "minPick": "28",
+    "rank": "32"
    },
    {
     "averagePick": "67.00",
@@ -269,7 +296,25 @@
     "id": "14104",
     "maxPick": "82",
     "minPick": "37",
-    "rank": "30"
+    "rank": "33"
+   },
+   {
+    "averagePick": "67.20",
+    "draftSelPct": "100",
+    "draftsSelectedIn": "5",
+    "id": "17051",
+    "maxPick": "90",
+    "minPick": "26",
+    "rank": "34"
+   },
+   {
+    "averagePick": "71.00",
+    "draftSelPct": "100",
+    "draftsSelectedIn": "5",
+    "id": "11675",
+    "maxPick": "106",
+    "minPick": "9",
+    "rank": "35"
    },
    {
     "averagePick": "71.20",
@@ -278,7 +323,70 @@
     "id": "17070",
     "maxPick": "101",
     "minPick": "43",
-    "rank": "31"
+    "rank": "36"
+   },
+   {
+    "averagePick": "72.40",
+    "draftSelPct": "100",
+    "draftsSelectedIn": "5",
+    "id": "15708",
+    "maxPick": "129",
+    "minPick": "11",
+    "rank": "37"
+   },
+   {
+    "averagePick": "73.40",
+    "draftSelPct": "100",
+    "draftsSelectedIn": "5",
+    "id": "16222",
+    "maxPick": "91",
+    "minPick": "27",
+    "rank": "38"
+   },
+   {
+    "averagePick": "81.80",
+    "draftSelPct": "100",
+    "draftsSelectedIn": "5",
+    "id": "15261",
+    "maxPick": "107",
+    "minPick": "13",
+    "rank": "39"
+   },
+   {
+    "averagePick": "84.60",
+    "draftSelPct": "100",
+    "draftsSelectedIn": "5",
+    "id": "15798",
+    "maxPick": "117",
+    "minPick": "32",
+    "rank": "40"
+   },
+   {
+    "averagePick": "85.80",
+    "draftSelPct": "100",
+    "draftsSelectedIn": "5",
+    "id": "13635",
+    "maxPick": "108",
+    "minPick": "36",
+    "rank": "41"
+   },
+   {
+    "averagePick": "89.00",
+    "draftSelPct": "100",
+    "draftsSelectedIn": "5",
+    "id": "16809",
+    "maxPick": "144",
+    "minPick": "31",
+    "rank": "42"
+   },
+   {
+    "averagePick": "89.40",
+    "draftSelPct": "100",
+    "draftsSelectedIn": "5",
+    "id": "15253",
+    "maxPick": "119",
+    "minPick": "25",
+    "rank": "43"
    },
    {
     "averagePick": "94.00",
@@ -287,7 +395,25 @@
     "id": "17501",
     "maxPick": "135",
     "minPick": "47",
-    "rank": "32"
+    "rank": "44"
+   },
+   {
+    "averagePick": "94.60",
+    "draftSelPct": "100",
+    "draftsSelectedIn": "5",
+    "id": "16614",
+    "maxPick": "112",
+    "minPick": "75",
+    "rank": "45"
+   },
+   {
+    "averagePick": "96.60",
+    "draftSelPct": "100",
+    "draftsSelectedIn": "5",
+    "id": "16186",
+    "maxPick": "124",
+    "minPick": "52",
+    "rank": "46"
    },
    {
     "averagePick": "97.60",
@@ -296,7 +422,16 @@
     "id": "16583",
     "maxPick": "154",
     "minPick": "53",
-    "rank": "33"
+    "rank": "47"
+   },
+   {
+    "averagePick": "108.00",
+    "draftSelPct": "100",
+    "draftsSelectedIn": "5",
+    "id": "17107",
+    "maxPick": "143",
+    "minPick": "37",
+    "rank": "48"
    },
    {
     "averagePick": "110.20",
@@ -305,12 +440,111 @@
     "id": "17030",
     "maxPick": "156",
     "minPick": "74",
-    "rank": "34"
+    "rank": "49"
+   },
+   {
+    "averagePick": "111.20",
+    "draftSelPct": "100",
+    "draftsSelectedIn": "5",
+    "id": "16593",
+    "maxPick": "142",
+    "minPick": "46",
+    "rank": "50"
+   },
+   {
+    "averagePick": "114.00",
+    "draftSelPct": "100",
+    "draftsSelectedIn": "5",
+    "id": "11671",
+    "maxPick": "151",
+    "minPick": "48",
+    "rank": "51"
+   },
+   {
+    "averagePick": "115.60",
+    "draftSelPct": "100",
+    "draftsSelectedIn": "5",
+    "id": "16195",
+    "maxPick": "167",
+    "minPick": "50",
+    "rank": "52"
+   },
+   {
+    "averagePick": "121.80",
+    "draftSelPct": "100",
+    "draftsSelectedIn": "5",
+    "id": "16684",
+    "maxPick": "159",
+    "minPick": "34",
+    "rank": "53"
+   },
+   {
+    "averagePick": "122.00",
+    "draftSelPct": "100",
+    "draftsSelectedIn": "5",
+    "id": "16620",
+    "maxPick": "149",
+    "minPick": "92",
+    "rank": "54"
+   },
+   {
+    "averagePick": "128.40",
+    "draftSelPct": "100",
+    "draftsSelectedIn": "5",
+    "id": "10700",
+    "maxPick": "184",
+    "minPick": "50",
+    "rank": "55"
+   },
+   {
+    "averagePick": "134.00",
+    "draftSelPct": "100",
+    "draftsSelectedIn": "5",
+    "id": "14138",
+    "maxPick": "158",
+    "minPick": "90",
+    "rank": "56"
+   },
+   {
+    "averagePick": "141.60",
+    "draftSelPct": "100",
+    "draftsSelectedIn": "5",
+    "id": "16596",
+    "maxPick": "165",
+    "minPick": "100",
+    "rank": "57"
+   },
+   {
+    "averagePick": "147.40",
+    "draftSelPct": "100",
+    "draftsSelectedIn": "5",
+    "id": "17482",
+    "maxPick": "167",
+    "minPick": "126",
+    "rank": "58"
+   },
+   {
+    "averagePick": "147.80",
+    "draftSelPct": "100",
+    "draftsSelectedIn": "5",
+    "id": "17099",
+    "maxPick": "198",
+    "minPick": "104",
+    "rank": "59"
+   },
+   {
+    "averagePick": "155.60",
+    "draftSelPct": "100",
+    "draftsSelectedIn": "5",
+    "id": "15716",
+    "maxPick": "182",
+    "minPick": "136",
+    "rank": "60"
    }
   ],
-  "timestamp": "1791136116",
+  "timestamp": "1791486099",
   "totalDrafts": "5",
-  "totalPicks": "34"
+  "totalPicks": "60"
  },
  "encoding": "utf-8",
  "version": "1.0"

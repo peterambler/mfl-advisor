@@ -1,6 +1,6 @@
 # Pete’s Perfect Team — week 1
 
-Cap City Football · 12 teams · generated 2026-10-08 18:37 UTC
+Cap City Football · 12 teams · generated 2026-10-08 21:17 UTC
 Record 3-2-0, 462.4 points for
 
 ## Roster
@@ -29,7 +29,7 @@ Record 3-2-0, 462.4 points for
 
 **RB** — De'Von Achane (MIA), Tyrone Tracy (NYG), Sione Vaki (DET), Woody Marks (HOU), Kimani Vidal (LAC), Chris Rodriguez (JAC), Justice Hill (BAL), George Holani (SEA)
 
-**WR** — Alec Pierce (IND), Courtland Sutton (DEN), Brian Thomas Jr. (JAC), Quentin Johnston (LAC), Tre Tucker (LVR), Jerry Jeudy (CLE), Michael Pittman (PIT), Xavier Hutchinson (HOU)
+**WR** — Alec Pierce (IND), Courtland Sutton (DEN), Brian Thomas Jr. (JAC), Quentin Johnston (LAC), Tre Tucker (LVR), Jerry Jeudy (CLE), Chris Godwin (TBB), Michael Pittman (PIT)
 
 **TE** — Kyle Pitts (ATL), Cade Otton (TBB), Pat Freiermuth (PIT), Oronde Gadsden (LAC), Gunnar Helm (TEN), AJ Barner (SEA), Greg Dulcich (MIA), Theo Johnson (NYG)
 

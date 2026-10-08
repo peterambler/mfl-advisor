@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-08T18:37:08.570943+00:00",
+ "generated_at": "2026-10-08T21:17:09.675178+00:00",
  "season": "2026",
  "week": 1,
  "league": {
@@ -355,6 +355,14 @@
      "proj": 3.7
     },
     {
+     "id": "16601",
+     "name": "Will Shipley",
+     "pos": "RB",
+     "team": "PHI",
+     "ytd": 11.5,
+     "proj": 1.6
+    },
+    {
      "id": "14861",
      "name": "Juwan Johnson",
      "pos": "TE",
@@ -401,14 +409,6 @@
      "team": "NEP",
      "ytd": 44.3,
      "proj": 9.7
-    },
-    {
-     "id": "13163",
-     "name": "Chris Godwin",
-     "pos": "WR",
-     "team": "TBB",
-     "ytd": 31.7,
-     "proj": 8.9
     },
     {
      "id": "14104",
@@ -1951,6 +1951,14 @@
    "proj": 9.1
   },
   {
+   "id": "13163",
+   "name": "Chris Godwin",
+   "pos": "WR",
+   "team": "TBB",
+   "ytd": 31.7,
+   "proj": 8.9
+  },
+  {
    "id": "16747",
    "name": "Tyrone Tracy",
    "pos": "RB",
@@ -3459,14 +3467,6 @@
    "proj": 1.6
   },
   {
-   "id": "16601",
-   "name": "Will Shipley",
-   "pos": "RB",
-   "team": "PHI",
-   "ytd": 11.5,
-   "proj": 1.6
-  },
-  {
    "id": "17086",
    "name": "Jalen Royals",
    "pos": "WR",
@@ -4861,6 +4861,12 @@
  "recent_transactions": [
   {
    "type": "FREE_AGENT",
+   "franchise": "Clawing back up!",
+   "when": "1791493626",
+   "detail": "16601,|13163,"
+  },
+  {
+   "type": "FREE_AGENT",
    "franchise": "Titsburgh Feelers",
    "when": "1791477149",
    "detail": "16204,|14842,"
@@ -5092,12 +5098,6 @@
    "franchise": "Based Crack Cocaine Enjoyers",
    "when": "1790855951",
    "detail": "14823,|"
-  },
-  {
-   "type": "IR",
-   "franchise": "Based Crack Cocaine Enjoyers",
-   "when": "1790855893",
-   "detail": ""
   }
  ]
 }
