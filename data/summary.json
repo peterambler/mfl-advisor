@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-08T21:17:09.675178+00:00",
+ "generated_at": "2026-10-09T18:08:13.308542+00:00",
  "season": "2026",
  "week": 1,
  "league": {
@@ -203,7 +203,7 @@
      "name": "Javonte Williams",
      "pos": "RB",
      "team": "DAL",
-     "ytd": 81.8,
+     "ytd": 96.0,
      "proj": 12.8
     },
     {
@@ -443,7 +443,7 @@
      "name": "Brandon Aubrey",
      "pos": "PK",
      "team": "DAL",
-     "ytd": 40.0,
+     "ytd": 45.0,
      "proj": 5.4
     },
     {
@@ -622,7 +622,7 @@
      "name": "Jake Ferguson",
      "pos": "TE",
      "team": "DAL",
-     "ytd": 40.5,
+     "ytd": 45.9,
      "proj": 11.0
     },
     {
@@ -630,7 +630,7 @@
      "name": "CeeDee Lamb",
      "pos": "WR",
      "team": "DAL",
-     "ytd": 112.8,
+     "ytd": 115.7,
      "proj": 14.5
     },
     {
@@ -976,7 +976,7 @@
      "name": "Dallas Cowboys",
      "pos": "Def",
      "team": "DAL",
-     "ytd": 8.0,
+     "ytd": 9.0,
      "proj": 2.6
     },
     {
@@ -992,7 +992,7 @@
      "name": "Dak Prescott",
      "pos": "QB",
      "team": "DAL",
-     "ytd": 91.0,
+     "ytd": 106.8,
      "proj": 22.9
     },
     {
@@ -1004,6 +1004,14 @@
      "proj": 23.7
     },
     {
+     "id": "16598",
+     "name": "Bucky Irving",
+     "pos": "RB",
+     "team": "TBB",
+     "ytd": 78.7,
+     "proj": 13.6
+    },
+    {
      "id": "14797",
      "name": "D'Andre Swift",
      "pos": "RB",
@@ -1012,12 +1020,12 @@
      "proj": 13.8
     },
     {
-     "id": "16598",
-     "name": "Bucky Irving",
+     "id": "15255",
+     "name": "Kenneth Gainwell",
      "pos": "RB",
      "team": "TBB",
-     "ytd": 47.2,
-     "proj": 13.6
+     "ytd": 27.2,
+     "proj": 10.2
     },
     {
      "id": "16604",
@@ -1026,14 +1034,6 @@
      "team": "GBP",
      "ytd": 26.0,
      "proj": 12.9
-    },
-    {
-     "id": "15255",
-     "name": "Kenneth Gainwell",
-     "pos": "RB",
-     "team": "TBB",
-     "ytd": 21.4,
-     "proj": 10.2
     },
     {
      "id": "17477",
@@ -1068,20 +1068,20 @@
      "proj": 15.2
     },
     {
+     "id": "17081",
+     "name": "Emeka Egbuka",
+     "pos": "WR",
+     "team": "TBB",
+     "ytd": 53.6,
+     "proj": 13.5
+    },
+    {
      "id": "15756",
      "name": "Jameson Williams",
      "pos": "WR",
      "team": "DET",
      "ytd": 38.9,
      "proj": 13.2
-    },
-    {
-     "id": "17081",
-     "name": "Emeka Egbuka",
-     "pos": "WR",
-     "team": "TBB",
-     "ytd": 36.4,
-     "proj": 13.5
     },
     {
      "id": "16627",
@@ -1207,20 +1207,20 @@
      "proj": 17.7
     },
     {
+     "id": "15762",
+     "name": "George Pickens",
+     "pos": "WR",
+     "team": "DAL",
+     "ytd": 68.5,
+     "proj": 14.6
+    },
+    {
      "id": "14136",
      "name": "Deebo Samuel",
      "pos": "WR",
      "team": "SFO",
      "ytd": 57.9,
      "proj": 9.8
-    },
-    {
-     "id": "15762",
-     "name": "George Pickens",
-     "pos": "WR",
-     "team": "DAL",
-     "ytd": 40.5,
-     "proj": 14.6
     },
     {
      "id": "16614",
@@ -1907,7 +1907,7 @@
    "name": "Cade Otton",
    "pos": "TE",
    "team": "TBB",
-   "ytd": 34.7,
+   "ytd": 40.8,
    "proj": 10.2
   },
   {
@@ -1955,7 +1955,7 @@
    "name": "Chris Godwin",
    "pos": "WR",
    "team": "TBB",
-   "ytd": 31.7,
+   "ytd": 38.7,
    "proj": 8.9
   },
   {
@@ -2034,7 +2034,7 @@
    "name": "Ryan Flournoy",
    "pos": "WR",
    "team": "DAL",
-   "ytd": 23.4,
+   "ytd": 35.4,
    "proj": 7.6
   },
   {
@@ -2438,14 +2438,6 @@
    "proj": 5.2
   },
   {
-   "id": "16385",
-   "name": "Emari Demercado",
-   "pos": "RB",
-   "team": "DAL",
-   "ytd": 1.5,
-   "proj": 5.2
-  },
-  {
    "id": "17031",
    "name": "Shedeur Sanders",
    "pos": "QB",
@@ -2458,7 +2450,7 @@
    "name": "Chase McLaughlin",
    "pos": "PK",
    "team": "TBB",
-   "ytd": 41.0,
+   "ytd": 48.0,
    "proj": 5.1
   },
   {
@@ -2590,19 +2582,19 @@
    "proj": 4.6
   },
   {
+   "id": "17079",
+   "name": "Tez Johnson",
+   "pos": "WR",
+   "team": "TBB",
+   "ytd": 19.8,
+   "proj": 4.6
+  },
+  {
    "id": "15337",
    "name": "Noah Gray",
    "pos": "TE",
    "team": "KCC",
    "ytd": 13.6,
-   "proj": 4.6
-  },
-  {
-   "id": "17079",
-   "name": "Tez Johnson",
-   "pos": "WR",
-   "team": "TBB",
-   "ytd": 12.4,
    "proj": 4.6
   },
   {
@@ -2713,7 +2705,7 @@
    "name": "KaVontae Turpin",
    "pos": "WR",
    "team": "DAL",
-   "ytd": 10.7,
+   "ytd": 12.9,
    "proj": 4.3
   },
   {
@@ -3211,6 +3203,14 @@
    "proj": 2.4
   },
   {
+   "id": "16218",
+   "name": "Payne Durham",
+   "pos": "TE",
+   "team": "TBB",
+   "ytd": 1.6,
+   "proj": 2.4
+  },
+  {
    "id": "13595",
    "name": "Mason Rudolph",
    "pos": "QB",
@@ -3223,14 +3223,6 @@
    "name": "Mac Jones",
    "pos": "QB",
    "team": "SFO",
-   "ytd": 0.0,
-   "proj": 2.4
-  },
-  {
-   "id": "16218",
-   "name": "Payne Durham",
-   "pos": "TE",
-   "team": "TBB",
    "ytd": 0.0,
    "proj": 2.4
   },
@@ -3334,7 +3326,7 @@
    "name": "Luke Schoonmaker",
    "pos": "TE",
    "team": "DAL",
-   "ytd": 4.6,
+   "ytd": 6.7,
    "proj": 2.1
   },
   {
@@ -3350,7 +3342,7 @@
    "name": "Hunter Luepke",
    "pos": "RB",
    "team": "DAL",
-   "ytd": 2.0,
+   "ytd": 2.5,
    "proj": 2.1
   },
   {
@@ -3475,14 +3467,6 @@
    "proj": 1.6
   },
   {
-   "id": "17478",
-   "name": "Kaytron Allen",
-   "pos": "RB",
-   "team": "WAS",
-   "ytd": 4.1,
-   "proj": 1.6
-  },
-  {
    "id": "17061",
    "name": "LeQuint Allen",
    "pos": "RB",
@@ -3535,7 +3519,7 @@
    "name": "Tampa Bay Buccaneers",
    "pos": "Def",
    "team": "TBB",
-   "ytd": 21.0,
+   "ytd": 27.0,
    "proj": 1.4
   },
   {
@@ -3722,19 +3706,19 @@
    "injury": "IR-PUP \u2014 Leg"
   },
   {
+   "id": "16197",
+   "name": "Jonathan Mingo",
+   "pos": "WR",
+   "team": "DAL",
+   "ytd": 6.0,
+   "proj": 0.9
+  },
+  {
    "id": "17097",
    "name": "Tai Felton",
    "pos": "WR",
    "team": "MIN",
    "ytd": 2.4,
-   "proj": 0.9
-  },
-  {
-   "id": "16197",
-   "name": "Jonathan Mingo",
-   "pos": "WR",
-   "team": "DAL",
-   "ytd": 2.0,
    "proj": 0.9
   },
   {
@@ -4114,6 +4098,13 @@
    "injury": "Out \u2014 Knee - ACL"
   },
   {
+   "id": "17469",
+   "name": "Jalon Daniels",
+   "pos": "QB",
+   "team": "TBB",
+   "ytd": 27.6
+  },
+  {
    "id": "17752",
    "name": "Dohnte Meyers",
    "pos": "WR",
@@ -4191,13 +4182,6 @@
    "ytd": 12.0
   },
   {
-   "id": "17469",
-   "name": "Jalon Daniels",
-   "pos": "QB",
-   "team": "TBB",
-   "ytd": 11.8
-  },
-  {
    "id": "16390",
    "name": "Jaleel McLaughlin",
    "pos": "RB",
@@ -4217,6 +4201,14 @@
    "pos": "WR",
    "team": "MIN",
    "ytd": 8.8
+  },
+  {
+   "id": "16166",
+   "name": "Sean Tucker",
+   "pos": "RB",
+   "team": "TBB",
+   "ytd": 8.8,
+   "injury": "Out \u2014 Hamstring"
   },
   {
    "id": "16621",
@@ -4247,14 +4239,6 @@
    "pos": "RB",
    "team": "SEA",
    "ytd": 7.0
-  },
-  {
-   "id": "16166",
-   "name": "Sean Tucker",
-   "pos": "RB",
-   "team": "TBB",
-   "ytd": 7.0,
-   "injury": "Out \u2014 Hamstring"
   },
   {
    "id": "17492",
@@ -4856,6 +4840,18 @@
    "pos": "WR",
    "team": "SFO",
    "injury": "IR-R \u2014 Calf"
+  },
+  {
+   "id": "14803",
+   "name": "Clyde Edwards-Helaire",
+   "pos": "RB",
+   "team": "KCC"
+  },
+  {
+   "id": "16600",
+   "name": "Cody Schrader",
+   "pos": "RB",
+   "team": "FA"
   }
  ],
  "recent_transactions": [
