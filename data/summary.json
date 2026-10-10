@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-09T18:08:13.308542+00:00",
+ "generated_at": "2026-10-10T17:07:19.708720+00:00",
  "season": "2026",
  "week": 1,
  "league": {
@@ -3467,6 +3467,14 @@
    "proj": 1.6
   },
   {
+   "id": "17478",
+   "name": "Kaytron Allen",
+   "pos": "RB",
+   "team": "WAS",
+   "ytd": 4.1,
+   "proj": 1.6
+  },
+  {
    "id": "17061",
    "name": "LeQuint Allen",
    "pos": "RB",
@@ -3504,14 +3512,6 @@
    "pos": "TE",
    "team": "TEN",
    "ytd": 0.0,
-   "proj": 1.5
-  },
-  {
-   "id": "10313",
-   "name": "Andy Dalton",
-   "pos": "QB",
-   "team": "PHI",
-   "ytd": -2.0,
    "proj": 1.5
   },
   {
