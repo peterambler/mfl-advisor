@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-10T17:07:19.708720+00:00",
+ "generated_at": "2026-10-11T17:30:26.321052+00:00",
  "season": "2026",
  "week": 1,
  "league": {
@@ -159,12 +159,12 @@
      "proj": 2.4
     },
     {
-     "id": "17277",
-     "name": "Ryan Fitzgerald",
+     "id": "12956",
+     "name": "Wil Lutz",
      "pos": "PK",
-     "team": "CAR",
-     "ytd": 42.0,
-     "proj": 4.7
+     "team": "DEN",
+     "ytd": 23.0,
+     "proj": 5.6
     },
     {
      "id": "16580",
@@ -2334,14 +2334,6 @@
    "proj": 5.7
   },
   {
-   "id": "12956",
-   "name": "Wil Lutz",
-   "pos": "PK",
-   "team": "DEN",
-   "ytd": 23.0,
-   "proj": 5.6
-  },
-  {
    "id": "15873",
    "name": "Daniel Bellinger",
    "pos": "TE",
@@ -2548,6 +2540,14 @@
    "team": "NOS",
    "ytd": 34.2,
    "proj": 4.8
+  },
+  {
+   "id": "17277",
+   "name": "Ryan Fitzgerald",
+   "pos": "PK",
+   "team": "CAR",
+   "ytd": 42.0,
+   "proj": 4.7
   },
   {
    "id": "13354",
@@ -4408,13 +4408,6 @@
    "ytd": 1.8
   },
   {
-   "id": "15765",
-   "name": "Kevin Austin",
-   "pos": "WR",
-   "team": "NOS",
-   "ytd": 1.7
-  },
-  {
    "id": "16153",
    "name": "Stetson Bennett",
    "pos": "QB",
@@ -4611,13 +4604,6 @@
    "injury": "Out \u2014 Coach's Decision"
   },
   {
-   "id": "17040",
-   "name": "Brady Cook",
-   "pos": "QB",
-   "team": "MIA",
-   "injury": "Out \u2014 Coach's Decision"
-  },
-  {
    "id": "11674",
    "name": "Brandin Cooks",
    "pos": "WR",
@@ -4677,12 +4663,6 @@
    "pos": "WR",
    "team": "NYG",
    "injury": "Questionable \u2014 Achilles"
-  },
-  {
-   "id": "16975",
-   "name": "Bryce Oliver",
-   "pos": "WR",
-   "team": "CLE"
   },
   {
    "id": "16751",
@@ -4852,9 +4832,42 @@
    "name": "Cody Schrader",
    "pos": "RB",
    "team": "FA"
+  },
+  {
+   "id": "16834",
+   "name": "Cole Burgess",
+   "pos": "WR",
+   "team": "PIT",
+   "injury": "IR \u2014 Undisclosed"
+  },
+  {
+   "id": "17654",
+   "name": "Cole Payton",
+   "pos": "QB",
+   "team": "PHI",
+   "injury": "Out \u2014 Coach's Decision"
+  },
+  {
+   "id": "15803",
+   "name": "Cole Turner",
+   "pos": "TE",
+   "team": "MIA",
+   "injury": "IR \u2014 Undisclosed"
   }
  ],
  "recent_transactions": [
+  {
+   "type": "LOCK_ALL_PLAYERS",
+   "franchise": "",
+   "when": "1791738000",
+   "detail": ""
+  },
+  {
+   "type": "FREE_AGENT",
+   "franchise": "Dawg Pound",
+   "when": "1791685782",
+   "detail": "12956,|17277,"
+  },
   {
    "type": "FREE_AGENT",
    "franchise": "Clawing back up!",
@@ -5082,18 +5095,6 @@
    "franchise": "Based Crack Cocaine Enjoyers",
    "when": "1790856145",
    "detail": "14080,|"
-  },
-  {
-   "type": "FREE_AGENT",
-   "franchise": "Based Crack Cocaine Enjoyers",
-   "when": "1790856058",
-   "detail": "|14059,"
-  },
-  {
-   "type": "FREE_AGENT",
-   "franchise": "Based Crack Cocaine Enjoyers",
-   "when": "1790855951",
-   "detail": "14823,|"
   }
  ]
 }

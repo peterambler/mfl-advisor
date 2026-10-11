@@ -1,6 +1,6 @@
 # Pete’s Perfect Team — week 1
 
-Cap City Football · 12 teams · generated 2026-10-10 17:07 UTC
+Cap City Football · 12 teams · generated 2026-10-11 17:30 UTC
 Record 3-2-0, 462.4 points for
 
 ## Roster
@@ -33,6 +33,6 @@ Record 3-2-0, 462.4 points for
 
 **TE** — Kyle Pitts (ATL), Cade Otton (TBB), Pat Freiermuth (PIT), Oronde Gadsden (LAC), Gunnar Helm (TEN), AJ Barner (SEA), Greg Dulcich (MIA), Theo Johnson (NYG)
 
-**PK** — Wil Lutz (DEN), Andres Borregales (NEP), Cairo Santos (CHI), Jake Elliott (PHI), Chad Ryland (ARI), Eddy Pineiro (SFO), Riley Patterson (MIA), Chase McLaughlin (TBB)
+**PK** — Andres Borregales (NEP), Cairo Santos (CHI), Jake Elliott (PHI), Chad Ryland (ARI), Eddy Pineiro (SFO), Riley Patterson (MIA), Chase McLaughlin (TBB), Chris Boswell (PIT)
 
 **Def** — Los Angeles Chargers (LAC), Atlanta Falcons (ATL), Tennessee Titans (TEN), New Orleans Saints (NOS), Washington Commanders (WAS), Cleveland Browns (CLE), Detroit Lions (DET), New York Giants (NYG)
