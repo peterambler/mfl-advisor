@@ -3,6 +3,13 @@
  "transactions": {
   "transaction": [
    {
+    "by_commish": "1",
+    "franchise": "0001",
+    "timestamp": "1791748284",
+    "transaction": "0522,|0501,",
+    "type": "FREE_AGENT"
+   },
+   {
     "franchise": "",
     "timestamp": "1791738000",
     "transaction": "",
