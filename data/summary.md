@@ -1,7 +1,7 @@
 # Pete’s Perfect Team — week 1
 
-Cap City Football · 12 teams · generated 2026-10-12 21:03 UTC
-Record 3-2-0, 462.4 points for
+Cap City Football · 12 teams · generated 2026-10-13 19:02 UTC
+Record 3-3-0, 569.6 points for
 
 ## Roster
 
@@ -15,7 +15,7 @@ Record 3-2-0, 462.4 points for
 | Ollie Gordon | RB | MIA | 2.6 | 48.0 |  |
 | Saquon Barkley | RB | PHI | 19.0 | 23.5 |  |
 | Tank Bigsby | RB | PHI | 5.1 | 17.1 |  |
-| Dalton Kincaid | TE | BUF | 11.0 | 54.9 |  |
+| Dalton Kincaid | TE | BUF | 11.0 | 57.8 |  |
 | Christian Watson | WR | GBP | 12.4 | 109.4 |  |
 | Ja'Marr Chase | WR | CIN | 21.9 | 79.9 |  |
 | Drake London | WR | ATL | 18.5 | 76.4 |  |

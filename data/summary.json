@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-12T21:03:47.629957+00:00",
+ "generated_at": "2026-10-13T19:02:39.646666+00:00",
  "season": "2026",
  "week": 1,
  "league": {
@@ -13,9 +13,9 @@
   "name": "Pete\u2019s Perfect Team",
   "record": {
    "w": "3",
-   "l": "2",
+   "l": "3",
    "t": "0",
-   "pf": "462.4"
+   "pf": "569.6"
   },
   "roster": [
    {
@@ -87,7 +87,7 @@
     "name": "Dalton Kincaid",
     "pos": "TE",
     "team": "BUF",
-    "ytd": 54.9,
+    "ytd": 57.8,
     "proj": 11.0
    },
    {
@@ -144,10 +144,10 @@
   "0001": {
    "name": "Dawg Pound",
    "record": {
-    "w": "2",
+    "w": "3",
     "l": "3",
     "t": "0",
-    "pf": "460.7"
+    "pf": "576.3"
    },
    "players": [
     {
@@ -276,7 +276,7 @@
      "name": "Khalil Shakir",
      "pos": "WR",
      "team": "BUF",
-     "ytd": 30.6,
+     "ytd": 41.6,
      "proj": 11.7
     }
    ]
@@ -285,9 +285,9 @@
    "name": "Clawing back up!",
    "record": {
     "w": "3",
-    "l": "2",
+    "l": "3",
     "t": "0",
-    "pf": "490.4"
+    "pf": "599.0"
    },
    "players": [
     {
@@ -424,10 +424,10 @@
   "0003": {
    "name": "wait till next year",
    "record": {
-    "w": "3",
+    "w": "4",
     "l": "2",
     "t": "0",
-    "pf": "495.3"
+    "pf": "616.9"
    },
    "players": [
     {
@@ -511,20 +511,20 @@
      "proj": 12.7
     },
     {
+     "id": "11675",
+     "name": "Davante Adams",
+     "pos": "WR",
+     "team": "LAR",
+     "ytd": 95.1,
+     "proj": 13.3
+    },
+    {
      "id": "17071",
      "name": "Tetairoa McMillan",
      "pos": "WR",
      "team": "CAR",
      "ytd": 74.5,
      "proj": 15.0
-    },
-    {
-     "id": "11675",
-     "name": "Davante Adams",
-     "pos": "WR",
-     "team": "LAR",
-     "ytd": 73.0,
-     "proj": 13.3
     },
     {
      "id": "15284",
@@ -548,9 +548,9 @@
    "name": "Fuck Tom",
    "record": {
     "w": "3",
-    "l": "2",
+    "l": "3",
     "t": "0",
-    "pf": "519.1"
+    "pf": "618.8"
    },
    "players": [
     {
@@ -574,7 +574,7 @@
      "name": "Matthew Stafford",
      "pos": "QB",
      "team": "LAR",
-     "ytd": 73.9,
+     "ytd": 105.1,
      "proj": 25.6
     },
     {
@@ -679,9 +679,9 @@
    "name": "Titsburgh Feelers",
    "record": {
     "w": "1",
-    "l": "4",
+    "l": "5",
     "t": "0",
-    "pf": "423.2"
+    "pf": "540.6"
    },
    "players": [
     {
@@ -697,7 +697,7 @@
      "name": "Los Angeles Rams",
      "pos": "Def",
      "team": "LAR",
-     "ytd": 17.0,
+     "ytd": 21.0,
      "proj": 4.9
     },
     {
@@ -705,7 +705,7 @@
      "name": "Harrison Mevis",
      "pos": "PK",
      "team": "LAR",
-     "ytd": 26.0,
+     "ytd": 30.0,
      "proj": 6.3
     },
     {
@@ -729,7 +729,7 @@
      "name": "Kyren Williams",
      "pos": "RB",
      "team": "LAR",
-     "ytd": 89.7,
+     "ytd": 109.3,
      "proj": 15.0
     },
     {
@@ -818,9 +818,9 @@
    "name": "Team Brown",
    "record": {
     "w": "2",
-    "l": "3",
+    "l": "4",
     "t": "0",
-    "pf": "488.4"
+    "pf": "623.1"
    },
    "players": [
     {
@@ -864,6 +864,14 @@
      "proj": 18.1
     },
     {
+     "id": "15715",
+     "name": "James Cook",
+     "pos": "RB",
+     "team": "BUF",
+     "ytd": 89.3,
+     "proj": 16.1
+    },
+    {
      "id": "15261",
      "name": "Chuba Hubbard",
      "pos": "RB",
@@ -878,14 +886,6 @@
      "team": "MIN",
      "ytd": 70.2,
      "proj": 12.4
-    },
-    {
-     "id": "15715",
-     "name": "James Cook",
-     "pos": "RB",
-     "team": "BUF",
-     "ytd": 66.5,
-     "proj": 16.1
     },
     {
      "id": "16597",
@@ -965,10 +965,10 @@
   "0007": {
    "name": "ASSASSINS",
    "record": {
-    "w": "2",
+    "w": "3",
     "l": "3",
     "t": "0",
-    "pf": "454.6"
+    "pf": "601.1"
    },
    "players": [
     {
@@ -984,7 +984,7 @@
      "name": "Tyler Bass",
      "pos": "PK",
      "team": "BUF",
-     "ytd": 32.0,
+     "ytd": 45.0,
      "proj": 5.8
     },
     {
@@ -1104,10 +1104,10 @@
   "0008": {
    "name": "Based Crack Cocaine Enjoyers",
    "record": {
-    "w": "2",
+    "w": "3",
     "l": "3",
     "t": "0",
-    "pf": "466.1"
+    "pf": "608.5"
    },
    "players": [
     {
@@ -1131,8 +1131,16 @@
      "name": "Josh Allen",
      "pos": "QB",
      "team": "BUF",
-     "ytd": 122.9,
+     "ytd": 154.5,
      "proj": 29.2
+    },
+    {
+     "id": "16593",
+     "name": "Blake Corum",
+     "pos": "RB",
+     "team": "LAR",
+     "ytd": 38.4,
+     "proj": 7.4
     },
     {
      "id": "13132",
@@ -1157,14 +1165,6 @@
      "team": "TEN",
      "ytd": 25.4,
      "proj": 8.9
-    },
-    {
-     "id": "16593",
-     "name": "Blake Corum",
-     "pos": "RB",
-     "team": "LAR",
-     "ytd": 22.2,
-     "proj": 7.4
     },
     {
      "id": "14080",
@@ -1235,10 +1235,10 @@
   "0009": {
    "name": "Washington Misanthropes",
    "record": {
-    "w": "3",
+    "w": "4",
     "l": "2",
     "t": "0",
-    "pf": "493.8"
+    "pf": "647.1"
    },
    "players": [
     {
@@ -1375,9 +1375,9 @@
    "name": "Attitude",
    "record": {
     "w": "3",
-    "l": "2",
+    "l": "3",
     "t": "0",
-    "pf": "491.6"
+    "pf": "642.1"
    },
    "players": [
     {
@@ -1475,7 +1475,7 @@
      "name": "Colby Parkinson",
      "pos": "TE",
      "team": "LAR",
-     "ytd": 5.7,
+     "ytd": 7.1,
      "proj": 11.7
     },
     {
@@ -1522,9 +1522,9 @@
    "name": "Pete\u2019s Perfect Team",
    "record": {
     "w": "3",
-    "l": "2",
+    "l": "3",
     "t": "0",
-    "pf": "462.4"
+    "pf": "569.6"
    },
    "players": [
     {
@@ -1596,7 +1596,7 @@
      "name": "Dalton Kincaid",
      "pos": "TE",
      "team": "BUF",
-     "ytd": 54.9,
+     "ytd": 57.8,
      "proj": 11.0
     },
     {
@@ -1652,10 +1652,10 @@
   "0012": {
    "name": "Athenian Souvlakis",
    "record": {
-    "w": "3",
+    "w": "4",
     "l": "2",
     "t": "0",
-    "pf": "576.0"
+    "pf": "735.9"
    },
    "players": [
     {
@@ -1747,6 +1747,14 @@
      "proj": 14.6
     },
     {
+     "id": "16211",
+     "name": "Puka Nacua",
+     "pos": "WR",
+     "team": "LAR",
+     "ytd": 77.8,
+     "proj": 21.6
+    },
+    {
      "id": "12186",
      "name": "Stefon Diggs",
      "pos": "WR",
@@ -1767,16 +1775,8 @@
      "name": "Keon Coleman",
      "pos": "WR",
      "team": "BUF",
-     "ytd": 41.7,
+     "ytd": 49.4,
      "proj": 7.2
-    },
-    {
-     "id": "16211",
-     "name": "Puka Nacua",
-     "pos": "WR",
-     "team": "LAR",
-     "ytd": 40.1,
-     "proj": 21.6
     }
    ]
   }
@@ -2242,7 +2242,7 @@
    "name": "Dawson Knox",
    "pos": "TE",
    "team": "BUF",
-   "ytd": 15.7,
+   "ytd": 17.5,
    "proj": 6.2
   },
   {
@@ -2490,8 +2490,16 @@
    "name": "Ray Davis",
    "pos": "RB",
    "team": "BUF",
-   "ytd": 2.0,
+   "ytd": 6.3,
    "proj": 5.0
+  },
+  {
+   "id": "12678",
+   "name": "Tyler Higbee",
+   "pos": "TE",
+   "team": "LAR",
+   "ytd": 54.1,
+   "proj": 4.9
   },
   {
    "id": "17736",
@@ -2507,14 +2515,6 @@
    "pos": "PK",
    "team": "WAS",
    "ytd": 40.0,
-   "proj": 4.9
-  },
-  {
-   "id": "12678",
-   "name": "Tyler Higbee",
-   "pos": "TE",
-   "team": "LAR",
-   "ytd": 38.7,
    "proj": 4.9
   },
   {
@@ -3177,7 +3177,7 @@
    "name": "Buffalo Bills",
    "pos": "Def",
    "team": "BUF",
-   "ytd": 20.0,
+   "ytd": 21.0,
    "proj": 2.4
   },
   {
@@ -3617,14 +3617,6 @@
    "pos": "WR",
    "team": "PIT",
    "ytd": 27.4,
-   "proj": 1.1
-  },
-  {
-   "id": "17011",
-   "name": "Jared Wayne",
-   "pos": "WR",
-   "team": "HOU",
-   "ytd": 10.5,
    "proj": 1.1
   },
   {
@@ -4138,6 +4130,14 @@
    "injury": "Out \u2014 Coach's Decision"
   },
   {
+   "id": "14095",
+   "name": "Ty Johnson",
+   "pos": "RB",
+   "team": "BUF",
+   "ytd": 23.4,
+   "injury": "Out \u2014 Hamstring"
+  },
+  {
    "id": "16621",
    "name": "Devontez Walker",
    "pos": "WR",
@@ -4191,20 +4191,19 @@
    "ytd": 15.3
   },
   {
+   "id": "16219",
+   "name": "Davis Allen",
+   "pos": "TE",
+   "team": "LAR",
+   "ytd": 13.9
+  },
+  {
    "id": "17679",
    "name": "Athan Kaliakmanis",
    "pos": "QB",
    "team": "WAS",
    "ytd": 12.9,
    "injury": "Out \u2014 Coach's Decision"
-  },
-  {
-   "id": "14095",
-   "name": "Ty Johnson",
-   "pos": "RB",
-   "team": "BUF",
-   "ytd": 12.2,
-   "injury": "Out \u2014 Hamstring"
   },
   {
    "id": "17360",
@@ -4233,13 +4232,6 @@
    "pos": "RB",
    "team": "CLE",
    "ytd": 9.1
-  },
-  {
-   "id": "16219",
-   "name": "Davis Allen",
-   "pos": "TE",
-   "team": "LAR",
-   "ytd": 8.9
   },
   {
    "id": "16166",
@@ -4307,6 +4299,14 @@
    "ytd": 7.0
   },
   {
+   "id": "15301",
+   "name": "Tutu Atwell",
+   "pos": "WR",
+   "team": "LAR",
+   "ytd": 6.1,
+   "injury": "Out \u2014 Coach's Decision"
+  },
+  {
    "id": "15840",
    "name": "Jelani Woods",
    "pos": "TE",
@@ -4343,14 +4343,6 @@
    "team": "FA",
    "ytd": 4.8,
    "injury": "Questionable \u2014 Hamstring"
-  },
-  {
-   "id": "15301",
-   "name": "Tutu Atwell",
-   "pos": "WR",
-   "team": "LAR",
-   "ytd": 4.7,
-   "injury": "Out \u2014 Coach's Decision"
   },
   {
    "id": "13377",
@@ -4867,6 +4859,13 @@
   {
    "id": "16191",
    "name": "Cedric Tillman",
+   "pos": "WR",
+   "team": "FA",
+   "ytd": 0.0
+  },
+  {
+   "id": "16203",
+   "name": "Charlie Jones",
    "pos": "WR",
    "team": "FA",
    "ytd": 0.0
