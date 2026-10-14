@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-13T19:02:39.646666+00:00",
+ "generated_at": "2026-10-14T16:48:09.543577+00:00",
  "season": "2026",
  "week": 1,
  "league": {
@@ -2430,6 +2430,14 @@
    "proj": 5.2
   },
   {
+   "id": "16385",
+   "name": "Emari Demercado",
+   "pos": "RB",
+   "team": "DAL",
+   "ytd": 1.5,
+   "proj": 5.2
+  },
+  {
    "id": "17031",
    "name": "Shedeur Sanders",
    "pos": "QB",
@@ -3620,6 +3628,14 @@
    "proj": 1.1
   },
   {
+   "id": "17011",
+   "name": "Jared Wayne",
+   "pos": "WR",
+   "team": "HOU",
+   "ytd": 10.5,
+   "proj": 1.1
+  },
+  {
    "id": "17353",
    "name": "Jahdae Walker",
    "pos": "WR",
@@ -3895,14 +3911,6 @@
    "pos": "WR",
    "team": "JAC",
    "ytd": 31.7,
-   "proj": 0.4
-  },
-  {
-   "id": "16958",
-   "name": "Ryan Miller",
-   "pos": "WR",
-   "team": "MIA",
-   "ytd": 18.2,
    "proj": 0.4
   },
   {
@@ -4182,13 +4190,6 @@
    "team": "SEA",
    "ytd": 15.4,
    "injury": "Out \u2014 Hamstring"
-  },
-  {
-   "id": "12773",
-   "name": "Chris Moore",
-   "pos": "WR",
-   "team": "FA",
-   "ytd": 15.3
   },
   {
    "id": "16219",
@@ -4703,6 +4704,13 @@
    "injury": "Out \u2014 Coach's Decision"
   },
   {
+   "id": "17040",
+   "name": "Brady Cook",
+   "pos": "QB",
+   "team": "MIA",
+   "injury": "Out \u2014 Coach's Decision"
+  },
+  {
    "id": "13638",
    "name": "Braxton Berrios",
    "pos": "WR",
@@ -4859,13 +4867,6 @@
   {
    "id": "16191",
    "name": "Cedric Tillman",
-   "pos": "WR",
-   "team": "FA",
-   "ytd": 0.0
-  },
-  {
-   "id": "16203",
-   "name": "Charlie Jones",
    "pos": "WR",
    "team": "FA",
    "ytd": 0.0
