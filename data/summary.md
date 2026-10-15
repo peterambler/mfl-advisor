@@ -1,6 +1,6 @@
 # Pete’s Perfect Team — week 1
 
-Cap City Football · 12 teams · generated 2026-10-14 16:48 UTC
+Cap City Football · 12 teams · generated 2026-10-15 16:34 UTC
 Record 3-3-0, 569.6 points for
 
 ## Roster
@@ -14,7 +14,7 @@ Record 3-3-0, 569.6 points for
 | Omarion Hampton | RB | LAC | 13.8 | 49.6 |  |
 | Ollie Gordon | RB | MIA | 2.6 | 48.0 |  |
 | Saquon Barkley | RB | PHI | 19.0 | 23.5 |  |
-| Tank Bigsby | RB | PHI | 5.1 | 17.1 |  |
+| Dameon Pierce | RB | PHI |  | 3.4 |  |
 | Dalton Kincaid | TE | BUF | 11.0 | 57.8 |  |
 | Christian Watson | WR | GBP | 12.4 | 109.4 |  |
 | Ja'Marr Chase | WR | CIN | 21.9 | 79.9 |  |
@@ -27,12 +27,12 @@ Record 3-3-0, 569.6 points for
 
 **QB** — Jaxson Dart (NYG), Daniel Jones (IND), Jacoby Brissett (ARI), Baker Mayfield (TBB), Cam Ward (TEN), Aaron Rodgers (PIT), Kyler Murray (MIN), Cooper Rush (ATL)
 
-**RB** — De'Von Achane (MIA), Tyrone Tracy (NYG), Sione Vaki (DET), Woody Marks (HOU), Kimani Vidal (LAC), Chris Rodriguez (JAC), Justice Hill (BAL), George Holani (SEA)
+**RB** — De'Von Achane (MIA), Jonathon Brooks (CAR), Tyrone Tracy (NYG), Sione Vaki (DET), Kimani Vidal (LAC), Chris Rodriguez (JAC), Devin Singletary (NYG), Justice Hill (BAL)
 
-**WR** — Alec Pierce (IND), Courtland Sutton (DEN), Brian Thomas Jr. (JAC), Quentin Johnston (LAC), Tre Tucker (LVR), Jerry Jeudy (CLE), Chris Godwin (TBB), Michael Pittman (PIT)
+**WR** — Alec Pierce (IND), Courtland Sutton (DEN), Brian Thomas Jr. (JAC), Quentin Johnston (LAC), Jerry Jeudy (CLE), Chris Godwin (TBB), Michael Pittman (PIT), Xavier Hutchinson (HOU)
 
-**TE** — Kyle Pitts (ATL), Cade Otton (TBB), Pat Freiermuth (PIT), Oronde Gadsden (LAC), Gunnar Helm (TEN), AJ Barner (SEA), Greg Dulcich (MIA), Theo Johnson (NYG)
+**TE** — Kyle Pitts (ATL), Cade Otton (TBB), Dalton Schultz (HOU), Oronde Gadsden (LAC), Gunnar Helm (TEN), AJ Barner (SEA), Greg Dulcich (MIA), Theo Johnson (NYG)
 
-**PK** — Andres Borregales (NEP), Cairo Santos (CHI), Jake Elliott (PHI), Chad Ryland (ARI), Eddy Pineiro (SFO), Riley Patterson (MIA), Chase McLaughlin (TBB), Chris Boswell (PIT)
+**PK** — Evan McPherson (CIN), Wil Lutz (DEN), Andres Borregales (NEP), Cairo Santos (CHI), Jake Elliott (PHI), Chad Ryland (ARI), Riley Patterson (MIA), Chase McLaughlin (TBB)
 
-**Def** — Los Angeles Chargers (LAC), Atlanta Falcons (ATL), Tennessee Titans (TEN), New Orleans Saints (NOS), Cleveland Browns (CLE), Washington Commanders (WAS), New York Giants (NYG), Miami Dolphins (MIA)
+**Def** — Los Angeles Chargers (LAC), Atlanta Falcons (ATL), Tennessee Titans (TEN), New Orleans Saints (NOS), Cleveland Browns (CLE), Washington Commanders (WAS), Detroit Lions (DET), Miami Dolphins (MIA)

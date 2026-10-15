@@ -32,7 +32,7 @@
    "franchise": [
     {
      "abbrev": "Kids",
-     "bbidAvailableBalance": "56.00",
+     "bbidAvailableBalance": "50.00",
      "division": "00",
      "icon": "https://www46.myfantasyleague.com/fflnetdynamic2023/24838_franchise_icon0001.png",
      "id": "0001",
@@ -40,7 +40,7 @@
      "waiverSortOrder": "9"
     },
     {
-     "bbidAvailableBalance": "107.00",
+     "bbidAvailableBalance": "106.00",
      "division": "00",
      "icon": "https://www46.myfantasyleague.com/fflnetdynamic2023/24838_franchise_icon0002.jpg",
      "id": "0002",
@@ -77,7 +77,7 @@
      "waiverSortOrder": "1"
     },
     {
-     "bbidAvailableBalance": "40.00",
+     "bbidAvailableBalance": "35.00",
      "division": "00",
      "icon": "https://www46.myfantasyleague.com/fflnet2008/icons/Trophy.gif",
      "id": "0006",
@@ -120,7 +120,7 @@
     },
     {
      "abbrev": "BK",
-     "bbidAvailableBalance": "44.00",
+     "bbidAvailableBalance": "38.00",
      "division": "01",
      "icon": "https://www42.myfantasyleague.com/fflnetdynamic2016/24838_franchise_icon0011.png",
      "id": "0011",
@@ -129,7 +129,7 @@
      "waiverSortOrder": "5"
     },
     {
-     "bbidAvailableBalance": "87.00",
+     "bbidAvailableBalance": "67.00",
      "division": "00",
      "id": "0012",
      "name": "Athenian Souvlakis",
@@ -231,7 +231,7 @@
    ]
   },
   "id": "24838",
-  "injuredReserve": "4",
+  "injuredReserve": "2",
   "lastRegularSeasonWeek": "14",
   "loadRosters": "live_auction",
   "lockout": "No",
