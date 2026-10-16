@@ -1,6 +1,6 @@
 # Pete’s Perfect Team — week 1
 
-Cap City Football · 12 teams · generated 2026-10-15 23:36 UTC
+Cap City Football · 12 teams · generated 2026-10-16 16:18 UTC
 Record 3-3-0, 569.6 points for
 
 ## Roster
@@ -27,12 +27,12 @@ Record 3-3-0, 569.6 points for
 
 **QB** — Jaxson Dart (NYG), Daniel Jones (IND), Jacoby Brissett (ARI), Baker Mayfield (TBB), Cam Ward (TEN), Aaron Rodgers (PIT), Kyler Murray (MIN), Cooper Rush (ATL)
 
-**RB** — De'Von Achane (MIA), Jonathon Brooks (CAR), Tyrone Tracy (NYG), Sione Vaki (DET), Kimani Vidal (LAC), Chris Rodriguez (JAC), Devin Singletary (NYG), Justice Hill (BAL)
+**RB** — De'Von Achane (MIA), Kenneth Gainwell (TBB), Jonathon Brooks (CAR), Tyrone Tracy (NYG), Sione Vaki (DET), Kimani Vidal (LAC), Chris Rodriguez (JAC), Devin Singletary (NYG)
 
-**WR** — Alec Pierce (IND), Courtland Sutton (DEN), Brian Thomas Jr. (JAC), Quentin Johnston (LAC), Jerry Jeudy (CLE), Chris Godwin (TBB), Michael Pittman (PIT), Xavier Hutchinson (HOU)
+**WR** — Alec Pierce (IND), Courtland Sutton (DEN), Quentin Johnston (LAC), Jerry Jeudy (CLE), Chris Godwin (TBB), Michael Pittman (PIT), Xavier Hutchinson (HOU), Demario Douglas (NEP)
 
 **TE** — Kyle Pitts (ATL), Cade Otton (TBB), Dalton Schultz (HOU), Oronde Gadsden (LAC), Gunnar Helm (TEN), AJ Barner (SEA), Greg Dulcich (MIA), Theo Johnson (NYG)
 
 **PK** — Evan McPherson (CIN), Wil Lutz (DEN), Andres Borregales (NEP), Cairo Santos (CHI), Jake Elliott (PHI), Chad Ryland (ARI), Riley Patterson (MIA), Chase McLaughlin (TBB)
 
-**Def** — Los Angeles Chargers (LAC), Atlanta Falcons (ATL), Tennessee Titans (TEN), New Orleans Saints (NOS), Cleveland Browns (CLE), Washington Commanders (WAS), Detroit Lions (DET), Miami Dolphins (MIA)
+**Def** — Los Angeles Chargers (LAC), Atlanta Falcons (ATL), Chicago Bears (CHI), Tennessee Titans (TEN), New Orleans Saints (NOS), Washington Commanders (WAS), Detroit Lions (DET), Miami Dolphins (MIA)
