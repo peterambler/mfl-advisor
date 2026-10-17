@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-16T16:18:54.087577+00:00",
+ "generated_at": "2026-10-17T15:13:32.025673+00:00",
  "season": "2026",
  "week": 1,
  "league": {
@@ -941,14 +941,6 @@
      "team": "PIT",
      "ytd": 27.4,
      "proj": 1.1
-    },
-    {
-     "id": "12801",
-     "name": "Tyreek Hill",
-     "pos": "WR",
-     "team": "FA",
-     "injury": "Out \u2014 Knee - ACL",
-     "slot": "INJURED_RESERVE"
     }
    ]
   },
@@ -4883,6 +4875,30 @@
  "recent_transactions": [
   {
    "type": "FREE_AGENT",
+   "franchise": "Team Brown",
+   "when": "1792242220",
+   "detail": "14138,|"
+  },
+  {
+   "type": "FREE_AGENT",
+   "franchise": "Team Brown",
+   "when": "1792242198",
+   "detail": "|12801,"
+  },
+  {
+   "type": "IR",
+   "franchise": "Team Brown",
+   "when": "1792242186",
+   "detail": ""
+  },
+  {
+   "type": "FREE_AGENT",
+   "franchise": "Team Brown",
+   "when": "1792242172",
+   "detail": "|14138,"
+  },
+  {
+   "type": "FREE_AGENT",
    "franchise": "wait till next year",
    "when": "1792159746",
    "detail": "0507,|0523,"
@@ -5096,30 +5112,6 @@
    "franchise": "Team Brown",
    "when": "1791471774",
    "detail": "|13630,"
-  },
-  {
-   "type": "IR",
-   "franchise": "Based Crack Cocaine Enjoyers",
-   "when": "1791467335",
-   "detail": ""
-  },
-  {
-   "type": "FREE_AGENT",
-   "franchise": "Based Crack Cocaine Enjoyers",
-   "when": "1791467326",
-   "detail": "|16747,"
-  },
-  {
-   "type": "FREE_AGENT",
-   "franchise": "Based Crack Cocaine Enjoyers",
-   "when": "1791467302",
-   "detail": "0506,|0512,"
-  },
-  {
-   "type": "FREE_AGENT",
-   "franchise": "Titsburgh Feelers",
-   "when": "1791461902",
-   "detail": "13672,|"
   }
  ]
 }
