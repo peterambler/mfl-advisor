@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-17T15:13:32.025673+00:00",
+ "generated_at": "2026-10-18T15:34:58.381755+00:00",
  "season": "2026",
  "week": 1,
  "league": {
@@ -351,7 +351,8 @@
      "pos": "RB",
      "team": "NYJ",
      "ytd": 42.5,
-     "proj": 11.9
+     "proj": 11.9,
+     "slot": "INJURED_RESERVE"
     },
     {
      "id": "17482",
@@ -415,8 +416,7 @@
      "pos": "WR",
      "team": "NEP",
      "ytd": 5.6,
-     "proj": 15.1,
-     "slot": "INJURED_RESERVE"
+     "proj": 15.1
     }
    ]
   },
@@ -561,11 +561,11 @@
      "proj": 2.3
     },
     {
-     "id": "16681",
-     "name": "Will Reichard",
+     "id": "11936",
+     "name": "Chris Boswell",
      "pos": "PK",
-     "team": "MIN",
-     "ytd": 66.0,
+     "team": "PIT",
+     "ytd": 44.0,
      "proj": 5.1
     },
     {
@@ -2452,19 +2452,19 @@
    "proj": 5.2
   },
   {
+   "id": "16681",
+   "name": "Will Reichard",
+   "pos": "PK",
+   "team": "MIN",
+   "ytd": 66.0,
+   "proj": 5.1
+  },
+  {
    "id": "14717",
    "name": "Chase McLaughlin",
    "pos": "PK",
    "team": "TBB",
    "ytd": 48.0,
-   "proj": 5.1
-  },
-  {
-   "id": "11936",
-   "name": "Chris Boswell",
-   "pos": "PK",
-   "team": "PIT",
-   "ytd": 44.0,
    "proj": 5.1
   },
   {
@@ -4374,13 +4374,6 @@
    "ytd": 4.4
   },
   {
-   "id": "13793",
-   "name": "Marquez Valdes-Scantling",
-   "pos": "WR",
-   "team": "FA",
-   "ytd": 4.2
-  },
-  {
    "id": "17481",
    "name": "Demond Claiborne",
    "pos": "RB",
@@ -4870,9 +4863,27 @@
    "pos": "TE",
    "team": "LVR",
    "injury": "IR-R \u2014 Undisclosed"
+  },
+  {
+   "id": "16760",
+   "name": "Casey Washington",
+   "pos": "WR",
+   "team": "FA"
   }
  ],
  "recent_transactions": [
+  {
+   "type": "IR",
+   "franchise": "Clawing back up!",
+   "when": "1792328627",
+   "detail": ""
+  },
+  {
+   "type": "FREE_AGENT",
+   "franchise": "Fuck Tom",
+   "when": "1792292055",
+   "detail": "11936,|16681,"
+  },
   {
    "type": "FREE_AGENT",
    "franchise": "Team Brown",
@@ -5100,18 +5111,6 @@
    "franchise": "Team Brown",
    "when": "1791471908",
    "detail": ""
-  },
-  {
-   "type": "IR",
-   "franchise": "Team Brown",
-   "when": "1791471796",
-   "detail": ""
-  },
-  {
-   "type": "FREE_AGENT",
-   "franchise": "Team Brown",
-   "when": "1791471774",
-   "detail": "|13630,"
   }
  ]
 }
