@@ -3,6 +3,26 @@
  "transactions": {
   "transaction": [
    {
+    "by_commish": "1",
+    "franchise": "0005",
+    "timestamp": "1792414367",
+    "transaction": "|16843,",
+    "type": "FREE_AGENT"
+   },
+   {
+    "by_commish": "1",
+    "franchise": "0005",
+    "timestamp": "1792414356",
+    "transaction": "|13672,",
+    "type": "FREE_AGENT"
+   },
+   {
+    "franchise": "",
+    "timestamp": "1792342800",
+    "transaction": "",
+    "type": "LOCK_ALL_PLAYERS"
+   },
+   {
     "activated": "14104,",
     "deactivated": "15708,",
     "franchise": "0002",
