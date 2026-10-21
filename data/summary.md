@@ -1,6 +1,6 @@
 # Pete’s Perfect Team — week 1
 
-Cap City Football · 12 teams · generated 2026-10-20 16:33 UTC
+Cap City Football · 12 teams · generated 2026-10-21 16:51 UTC
 Record 4-3-0, 681.0 points for
 
 ## Roster
@@ -25,14 +25,14 @@ Record 4-3-0, 681.0 points for
 
 ## Best available
 
-**QB** — Jaxson Dart (NYG), Daniel Jones (IND), Jacoby Brissett (ARI), Baker Mayfield (TBB), Cam Ward (TEN), Aaron Rodgers (PIT), Kyler Murray (MIN), Cooper Rush (ATL)
+**QB** — Jaxson Dart (NYG), Daniel Jones (IND), Jacoby Brissett (ARI), Baker Mayfield (TBB), Cam Ward (TEN), Aaron Rodgers (PIT), Kyler Murray (MIN), Geno Smith (NYJ)
 
 **RB** — De'Von Achane (MIA), Kenneth Gainwell (TBB), Tyrone Tracy (NYG), Jonathon Brooks (CAR), Sione Vaki (DET), Kimani Vidal (LAC), Chris Rodriguez (JAC), Devin Singletary (NYG)
 
-**WR** — Alec Pierce (IND), Courtland Sutton (DEN), Quentin Johnston (LAC), Jerry Jeudy (CLE), Chris Godwin (TBB), Michael Pittman (PIT), Xavier Hutchinson (HOU), Demario Douglas (NEP)
+**WR** — Terry McLaurin (WAS), Alec Pierce (IND), Courtland Sutton (DEN), Quentin Johnston (LAC), Romeo Doubs (NEP), Jerry Jeudy (CLE), Chris Godwin (TBB), Michael Pittman (PIT)
 
-**TE** — Kyle Pitts (ATL), Cade Otton (TBB), Dalton Schultz (HOU), Oronde Gadsden (LAC), Mike Gesicki (CIN), Gunnar Helm (TEN), AJ Barner (SEA), Greg Dulcich (MIA)
+**TE** — Colby Parkinson (LAR), Kyle Pitts (ATL), Cade Otton (TBB), Dalton Schultz (HOU), Oronde Gadsden (LAC), Mike Gesicki (CIN), Gunnar Helm (TEN), AJ Barner (SEA)
 
-**PK** — Evan McPherson (CIN), Wil Lutz (DEN), Andres Borregales (NEP), Cairo Santos (CHI), Jake Elliott (PHI), Chad Ryland (ARI), Riley Patterson (MIA), Will Reichard (MIN)
+**PK** — Evan McPherson (CIN), Wil Lutz (DEN), Andres Borregales (NEP), Cairo Santos (CHI), Jake Elliott (PHI), Chad Ryland (ARI), Will Reichard (MIN), Chase McLaughlin (TBB)
 
 **Def** — Los Angeles Chargers (LAC), Atlanta Falcons (ATL), Chicago Bears (CHI), Tennessee Titans (TEN), New Orleans Saints (NOS), Washington Commanders (WAS), Detroit Lions (DET), Miami Dolphins (MIA)

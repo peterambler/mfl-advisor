@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-20T16:33:40.292343+00:00",
+ "generated_at": "2026-10-21T16:51:00.803680+00:00",
  "season": "2026",
  "week": 1,
  "league": {
@@ -351,8 +351,7 @@
      "pos": "RB",
      "team": "NYJ",
      "ytd": 42.5,
-     "proj": 11.9,
-     "slot": "INJURED_RESERVE"
+     "proj": 11.9
     },
     {
      "id": "17482",
@@ -401,14 +400,6 @@
      "team": "ARI",
      "ytd": 71.4,
      "proj": 12.3
-    },
-    {
-     "id": "15779",
-     "name": "Romeo Doubs",
-     "pos": "WR",
-     "team": "NEP",
-     "ytd": 58.1,
-     "proj": 9.7
     },
     {
      "id": "14104",
@@ -1240,13 +1231,6 @@
      "proj": 3.2
     },
     {
-     "id": "0530",
-     "name": "San Francisco 49ers",
-     "pos": "Def",
-     "team": "SFO",
-     "ytd": 35.0
-    },
-    {
      "id": "13719",
      "name": "Eddy Pineiro",
      "pos": "PK",
@@ -1440,8 +1424,7 @@
      "pos": "RB",
      "team": "MIN",
      "ytd": 11.9,
-     "proj": 7.7,
-     "slot": "INJURED_RESERVE"
+     "proj": 7.7
     },
     {
      "id": "16610",
@@ -1458,14 +1441,6 @@
      "team": "ARI",
      "ytd": 112.2,
      "proj": 18.6
-    },
-    {
-     "id": "14871",
-     "name": "Colby Parkinson",
-     "pos": "TE",
-     "team": "LAR",
-     "ytd": 22.0,
-     "proj": 11.7
     },
     {
      "id": "15753",
@@ -1490,14 +1465,6 @@
      "team": "MIA",
      "ytd": 50.2,
      "proj": 10.2
-    },
-    {
-     "id": "14109",
-     "name": "Terry McLaurin",
-     "pos": "WR",
-     "team": "WAS",
-     "ytd": 46.0,
-     "proj": 13.9
     },
     {
      "id": "14122",
@@ -1844,12 +1811,12 @@
    "proj": 16.8
   },
   {
-   "id": "13124",
-   "name": "Cooper Rush",
-   "pos": "QB",
-   "team": "ATL",
-   "ytd": 7.5,
-   "proj": 15.7
+   "id": "14109",
+   "name": "Terry McLaurin",
+   "pos": "WR",
+   "team": "WAS",
+   "ytd": 46.0,
+   "proj": 13.9
   },
   {
    "id": "11150",
@@ -1874,6 +1841,14 @@
    "team": "DEN",
    "ytd": 31.3,
    "proj": 12.1
+  },
+  {
+   "id": "14871",
+   "name": "Colby Parkinson",
+   "pos": "TE",
+   "team": "LAR",
+   "ytd": 22.0,
+   "proj": 11.7
   },
   {
    "id": "15329",
@@ -1906,6 +1881,14 @@
    "team": "TBB",
    "ytd": 30.6,
    "proj": 10.2
+  },
+  {
+   "id": "15779",
+   "name": "Romeo Doubs",
+   "pos": "WR",
+   "team": "NEP",
+   "ytd": 58.1,
+   "proj": 9.7
   },
   {
    "id": "13772",
@@ -2428,14 +2411,6 @@
    "proj": 5.2
   },
   {
-   "id": "15369",
-   "name": "Riley Patterson",
-   "pos": "PK",
-   "team": "MIA",
-   "ytd": 27.0,
-   "proj": 5.2
-  },
-  {
    "id": "13192",
    "name": "David Njoku",
    "pos": "TE",
@@ -2721,15 +2696,6 @@
    "team": "DAL",
    "ytd": 12.9,
    "proj": 4.3
-  },
-  {
-   "id": "15254",
-   "name": "Najee Harris",
-   "pos": "RB",
-   "team": "NYG",
-   "ytd": 11.4,
-   "proj": 4.3,
-   "injury": "Out \u2014 Coach's Decision"
   },
   {
    "id": "17078",
@@ -3539,6 +3505,14 @@
    "proj": 1.5
   },
   {
+   "id": "10313",
+   "name": "Andy Dalton",
+   "pos": "QB",
+   "team": "PHI",
+   "ytd": -2.0,
+   "proj": 1.5
+  },
+  {
    "id": "0525",
    "name": "Tampa Bay Buccaneers",
    "pos": "Def",
@@ -3920,6 +3894,14 @@
    "proj": 0.4
   },
   {
+   "id": "16958",
+   "name": "Ryan Miller",
+   "pos": "WR",
+   "team": "MIA",
+   "ytd": 18.2,
+   "proj": 0.4
+  },
+  {
    "id": "14805",
    "name": "AJ Dillon",
    "pos": "RB",
@@ -4120,6 +4102,13 @@
    "team": "WAS",
    "ytd": 36.2,
    "injury": "Out \u2014 Coach's Decision"
+  },
+  {
+   "id": "0530",
+   "name": "San Francisco 49ers",
+   "pos": "Def",
+   "team": "SFO",
+   "ytd": 35.0
   },
   {
    "id": "17752",
@@ -4443,6 +4432,13 @@
    "injury": "IR-R \u2014 Thumb"
   },
   {
+   "id": "13793",
+   "name": "Marquez Valdes-Scantling",
+   "pos": "WR",
+   "team": "FA",
+   "ytd": 4.2
+  },
+  {
    "id": "17481",
    "name": "Demond Claiborne",
    "pos": "RB",
@@ -4625,13 +4621,6 @@
    "injury": "Out \u2014 Coach's Decision"
   },
   {
-   "id": "16612",
-   "name": "Carson Steele",
-   "pos": "RB",
-   "team": "PHI",
-   "ytd": 1.4
-  },
-  {
    "id": "15288",
    "name": "Elijah Moore",
    "pos": "WR",
@@ -4802,6 +4791,12 @@
    "injury": "Out \u2014 Coach's Decision"
   },
   {
+   "id": "11947",
+   "name": "Brandon McManus",
+   "pos": "PK",
+   "team": "FA"
+  },
+  {
    "id": "13638",
    "name": "Braxton Berrios",
    "pos": "WR",
@@ -4854,35 +4849,45 @@
    "pos": "WR",
    "team": "NYG",
    "injury": "Questionable \u2014 Achilles"
-  },
-  {
-   "id": "16975",
-   "name": "Bryce Oliver",
-   "pos": "WR",
-   "team": "CLE"
-  },
-  {
-   "id": "16751",
-   "name": "Bub Means",
-   "pos": "WR",
-   "team": "FA"
-  },
-  {
-   "id": "17671",
-   "name": "C.J. Williams",
-   "pos": "WR",
-   "team": "JAC",
-   "ytd": 0.0
-  },
-  {
-   "id": "17504",
-   "name": "CJ Daniels",
-   "pos": "WR",
-   "team": "LAR",
-   "injury": "Out \u2014 Coach's Decision"
   }
  ],
  "recent_transactions": [
+  {
+   "type": "IR",
+   "franchise": "Clawing back up!",
+   "when": "1792548699",
+   "detail": ""
+  },
+  {
+   "type": "FREE_AGENT",
+   "franchise": "Clawing back up!",
+   "when": "1792548691",
+   "detail": "|15779,"
+  },
+  {
+   "type": "FREE_AGENT",
+   "franchise": "Washington Misanthropes",
+   "when": "1792542561",
+   "detail": "|0530,"
+  },
+  {
+   "type": "FREE_AGENT",
+   "franchise": "Attitude",
+   "when": "1792516393",
+   "detail": "|14871,"
+  },
+  {
+   "type": "FREE_AGENT",
+   "franchise": "Attitude",
+   "when": "1792516310",
+   "detail": "|14109,"
+  },
+  {
+   "type": "IR",
+   "franchise": "Attitude",
+   "when": "1792516194",
+   "detail": ""
+  },
   {
    "type": "FREE_AGENT",
    "franchise": "Titsburgh Feelers",
@@ -5086,42 +5091,6 @@
    "franchise": "Pete\u2019s Perfect Team",
    "when": "1792040400",
    "detail": "15717,|6.00|16164,"
-  },
-  {
-   "type": "BBID_WAIVER",
-   "franchise": "Athenian Souvlakis",
-   "when": "1792040400",
-   "detail": "17053,|20.00|17485,"
-  },
-  {
-   "type": "BBID_AUTO_PROCESS_WAIVERS",
-   "franchise": "",
-   "when": "1792040400",
-   "detail": ""
-  },
-  {
-   "type": "FREE_AGENT",
-   "franchise": "Dawg Pound",
-   "when": "1791748284",
-   "detail": "0522,|0501,"
-  },
-  {
-   "type": "LOCK_ALL_PLAYERS",
-   "franchise": "",
-   "when": "1791738000",
-   "detail": ""
-  },
-  {
-   "type": "FREE_AGENT",
-   "franchise": "Dawg Pound",
-   "when": "1791685782",
-   "detail": "12956,|17277,"
-  },
-  {
-   "type": "FREE_AGENT",
-   "franchise": "Clawing back up!",
-   "when": "1791493626",
-   "detail": "16601,|13163,"
   }
  ]
 }
