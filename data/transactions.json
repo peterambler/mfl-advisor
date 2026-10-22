@@ -3,6 +3,96 @@
  "transactions": {
   "transaction": [
    {
+    "franchise": "0008",
+    "timestamp": "1792668044",
+    "transaction": "0530,|0531,",
+    "type": "FREE_AGENT"
+   },
+   {
+    "franchise": "0009",
+    "timestamp": "1792664782",
+    "transaction": "16620,|",
+    "type": "FREE_AGENT"
+   },
+   {
+    "franchise": "0007",
+    "timestamp": "1792664100",
+    "transaction": "0508,|0517,",
+    "type": "FREE_AGENT"
+   },
+   {
+    "franchise": "0007",
+    "timestamp": "1792663994",
+    "transaction": "16681,|14983,",
+    "type": "FREE_AGENT"
+   },
+   {
+    "franchise": "0011",
+    "timestamp": "1792645200",
+    "transaction": "15368,|1.00|14782,",
+    "type": "BBID_WAIVER"
+   },
+   {
+    "franchise": "0011",
+    "timestamp": "1792645200",
+    "transaction": "0505,|1.00|0518,",
+    "type": "BBID_WAIVER"
+   },
+   {
+    "franchise": "0011",
+    "timestamp": "1792645200",
+    "transaction": "12678,|1.00|16620,",
+    "type": "BBID_WAIVER"
+   },
+   {
+    "franchise": "0008",
+    "timestamp": "1792645200",
+    "transaction": "7836,|5.00|16165,",
+    "type": "BBID_WAIVER"
+   },
+   {
+    "franchise": "0012",
+    "timestamp": "1792645200",
+    "transaction": "16583,|7.00|15331,",
+    "type": "BBID_WAIVER"
+   },
+   {
+    "franchise": "0012",
+    "timestamp": "1792645200",
+    "transaction": "17502,|10.00|16617,",
+    "type": "BBID_WAIVER"
+   },
+   {
+    "franchise": "0012",
+    "timestamp": "1792645200",
+    "transaction": "16171,|10.00|15757,",
+    "type": "BBID_WAIVER"
+   },
+   {
+    "franchise": "0007",
+    "timestamp": "1792645200",
+    "transaction": "15329,|15.00|",
+    "type": "BBID_WAIVER"
+   },
+   {
+    "franchise": "0010",
+    "timestamp": "1792645200",
+    "transaction": "13630,|15.00|",
+    "type": "BBID_WAIVER"
+   },
+   {
+    "franchise": "",
+    "timestamp": "1792645200",
+    "transaction": "",
+    "type": "BBID_AUTO_PROCESS_WAIVERS"
+   },
+   {
+    "franchise": "0007",
+    "timestamp": "1792626816",
+    "transaction": "|14783,",
+    "type": "FREE_AGENT"
+   },
+   {
     "activated": "15708,",
     "deactivated": "",
     "franchise": "0002",
