@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-22T16:51:07.872167+00:00",
+ "generated_at": "2026-10-22T23:55:59.718330+00:00",
  "season": "2026",
  "week": 1,
  "league": {
@@ -1653,12 +1653,12 @@
      "proj": 24.4
     },
     {
-     "id": "16583",
-     "name": "Michael Penix Jr.",
+     "id": "14782",
+     "name": "Jordan Love",
      "pos": "QB",
-     "team": "ATL",
-     "ytd": 71.2,
-     "injury": "Out \u2014 Knee - ACL"
+     "team": "GBP",
+     "ytd": 127.2,
+     "proj": 17.0
     },
     {
      "id": "12626",
@@ -1816,14 +1816,6 @@
    "team": "MIN",
    "ytd": 46.5,
    "proj": 19.0
-  },
-  {
-   "id": "14782",
-   "name": "Jordan Love",
-   "pos": "QB",
-   "team": "GBP",
-   "ytd": 127.2,
-   "proj": 17.0
   },
   {
    "id": "16167",
@@ -4082,6 +4074,14 @@
    "proj": 0.1
   },
   {
+   "id": "16583",
+   "name": "Michael Penix Jr.",
+   "pos": "QB",
+   "team": "ATL",
+   "ytd": 71.2,
+   "injury": "Out \u2014 Knee - ACL"
+  },
+  {
    "id": "13832",
    "name": "Jason Sanders",
    "pos": "PK",
@@ -4866,6 +4866,12 @@
  "recent_transactions": [
   {
    "type": "FREE_AGENT",
+   "franchise": "Athenian Souvlakis",
+   "when": "1792701556",
+   "detail": "14782,|16583,"
+  },
+  {
+   "type": "FREE_AGENT",
    "franchise": "Based Crack Cocaine Enjoyers",
    "when": "1792668044",
    "detail": "0530,|0531,"
@@ -5097,12 +5103,6 @@
    "franchise": "Team Brown",
    "when": "1792061530",
    "detail": ""
-  },
-  {
-   "type": "FREE_AGENT",
-   "franchise": "Team Brown",
-   "when": "1792061516",
-   "detail": "|14138,"
   }
  ]
 }
