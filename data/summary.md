@@ -1,6 +1,6 @@
 # Pete’s Perfect Team — week 1
 
-Cap City Football · 12 teams · generated 2026-10-22 23:55 UTC
+Cap City Football · 12 teams · generated 2026-10-23 16:42 UTC
 Record 4-3-0, 681.0 points for
 
 ## Roster
@@ -25,14 +25,14 @@ Record 4-3-0, 681.0 points for
 
 ## Best available
 
-**QB** — Jaxson Dart (NYG), Daniel Jones (IND), Jacoby Brissett (ARI), Jalen Hurts (PHI), Baker Mayfield (TBB), Cam Ward (TEN), Kyler Murray (MIN), Geno Smith (NYJ)
+**QB** — Jaxson Dart (NYG), Bo Nix (DEN), Daniel Jones (IND), Jacoby Brissett (ARI), Jalen Hurts (PHI), Baker Mayfield (TBB), Cam Ward (TEN), Kyler Murray (MIN)
 
-**RB** — De'Von Achane (MIA), Kenneth Gainwell (TBB), Tyjae Spears (TEN), Tyrone Tracy (NYG), Jonathon Brooks (CAR), Sione Vaki (DET), Kimani Vidal (LAC), Chris Rodriguez (JAC)
+**RB** — De'Von Achane (MIA), Kenneth Gainwell (TBB), Tyjae Spears (TEN), Jonathon Brooks (CAR), Sione Vaki (DET), Kimani Vidal (LAC), Chris Rodriguez (JAC), Devin Singletary (NYG)
 
 **WR** — Terry McLaurin (WAS), Alec Pierce (IND), Wan'Dale Robinson (TEN), Quentin Johnston (LAC), Romeo Doubs (NEP), Jerry Jeudy (CLE), Chris Godwin (TBB), Michael Pittman (PIT)
 
 **TE** — Colby Parkinson (LAR), Cade Otton (TBB), Pat Freiermuth (PIT), Dalton Schultz (HOU), Oronde Gadsden (LAC), Mike Gesicki (CIN), Gunnar Helm (TEN), AJ Barner (SEA)
 
-**PK** — Tyler Bass (BUF), Wil Lutz (DEN), Andres Borregales (NEP), Cairo Santos (CHI), Jake Elliott (PHI), Chad Ryland (ARI), Chase McLaughlin (TBB), Cameron Dicker (LAC)
+**PK** — Tyler Bass (BUF), Wil Lutz (DEN), Andres Borregales (NEP), Cairo Santos (CHI), Jake Elliott (PHI), Chad Ryland (ARI), Cameron Dicker (LAC), Dominic Zvada (NYG)
 
-**Def** — Los Angeles Chargers (LAC), Atlanta Falcons (ATL), Chicago Bears (CHI), New Orleans Saints (NOS), Washington Commanders (WAS), Detroit Lions (DET), New York Giants (NYG), Philadelphia Eagles (PHI)
+**Def** — Los Angeles Chargers (LAC), Atlanta Falcons (ATL), Chicago Bears (CHI), Los Angeles Rams (LAR), New Orleans Saints (NOS), Washington Commanders (WAS), Detroit Lions (DET), New York Giants (NYG)

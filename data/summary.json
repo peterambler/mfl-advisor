@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-22T23:55:59.718330+00:00",
+ "generated_at": "2026-10-23T16:42:47.665589+00:00",
  "season": "2026",
  "week": 1,
  "league": {
@@ -170,7 +170,7 @@
      "name": "Drake Maye",
      "pos": "QB",
      "team": "NEP",
-     "ytd": 124.8,
+     "ytd": 155.5,
      "proj": 24.7
     },
     {
@@ -326,7 +326,7 @@
      "name": "Caleb Williams",
      "pos": "QB",
      "team": "CHI",
-     "ytd": 68.7,
+     "ytd": 93.9,
      "proj": 24.4
     },
     {
@@ -374,7 +374,7 @@
      "name": "Colston Loveland",
      "pos": "TE",
      "team": "CHI",
-     "ytd": 46.9,
+     "ytd": 68.5,
      "proj": 12.8
     },
     {
@@ -390,7 +390,7 @@
      "name": "Luther Burden",
      "pos": "WR",
      "team": "CHI",
-     "ytd": 73.3,
+     "ytd": 97.0,
      "proj": 8.5
     },
     {
@@ -406,7 +406,7 @@
      "name": "A.J. Brown",
      "pos": "WR",
      "team": "NEP",
-     "ytd": 11.3,
+     "ytd": 19.1,
      "proj": 15.1
     }
    ]
@@ -473,7 +473,7 @@
      "name": "Rhamondre Stevenson",
      "pos": "RB",
      "team": "NEP",
-     "ytd": 64.4,
+     "ytd": 86.9,
      "proj": 12.4
     },
     {
@@ -548,7 +548,7 @@
      "name": "New England Patriots",
      "pos": "Def",
      "team": "NEP",
-     "ytd": 34.0,
+     "ytd": 37.0,
      "proj": 2.3
     },
     {
@@ -640,19 +640,19 @@
      "proj": 13.9
     },
     {
+     "id": "16616",
+     "name": "Rome Odunze",
+     "pos": "WR",
+     "team": "CHI",
+     "ytd": 60.1,
+     "proj": 12.1
+    },
+    {
      "id": "16187",
      "name": "Josh Downs",
      "pos": "WR",
      "team": "IND",
      "ytd": 53.6,
-     "proj": 12.1
-    },
-    {
-     "id": "16616",
-     "name": "Rome Odunze",
-     "pos": "WR",
-     "team": "CHI",
-     "ytd": 49.2,
      "proj": 12.1
     },
     {
@@ -675,6 +675,14 @@
    },
    "players": [
     {
+     "id": "0506",
+     "name": "Cincinnati Bengals",
+     "pos": "Def",
+     "team": "CIN",
+     "ytd": 39.0,
+     "proj": 2.9
+    },
+    {
      "id": "0509",
      "name": "Jacksonville Jaguars",
      "pos": "Def",
@@ -683,20 +691,12 @@
      "proj": 6.8
     },
     {
-     "id": "0528",
-     "name": "Los Angeles Rams",
-     "pos": "Def",
-     "team": "LAR",
-     "ytd": 23.0,
-     "proj": 4.9
-    },
-    {
-     "id": "17726",
-     "name": "Drew Stevens",
+     "id": "14717",
+     "name": "Chase McLaughlin",
      "pos": "PK",
-     "team": "WAS",
-     "ytd": 47.0,
-     "proj": 4.9
+     "team": "TBB",
+     "ytd": 65.0,
+     "proj": 5.1
     },
     {
      "id": "14777",
@@ -705,14 +705,6 @@
      "team": "CIN",
      "ytd": 115.0,
      "proj": 26.5
-    },
-    {
-     "id": "16582",
-     "name": "Bo Nix",
-     "pos": "QB",
-     "team": "DEN",
-     "ytd": 78.3,
-     "proj": 24.8
     },
     {
      "id": "15710",
@@ -739,6 +731,22 @@
      "proj": 9.5
     },
     {
+     "id": "16747",
+     "name": "Tyrone Tracy",
+     "pos": "RB",
+     "team": "NYG",
+     "ytd": 23.3,
+     "proj": 8.9
+    },
+    {
+     "id": "17485",
+     "name": "Kaelon Black",
+     "pos": "RB",
+     "team": "SFO",
+     "ytd": 19.8,
+     "proj": 5.0
+    },
+    {
      "id": "17473",
      "name": "Jadarian Price",
      "pos": "RB",
@@ -746,13 +754,6 @@
      "ytd": 14.0,
      "proj": 14.2,
      "slot": "INJURED_RESERVE"
-    },
-    {
-     "id": "13404",
-     "name": "Austin Ekeler",
-     "pos": "RB",
-     "team": "FA",
-     "ytd": 10.2
     },
     {
      "id": "16222",
@@ -972,7 +973,7 @@
      "name": "D'Andre Swift",
      "pos": "RB",
      "team": "CHI",
-     "ytd": 103.8,
+     "ytd": 122.8,
      "proj": 13.8
     },
     {
@@ -1158,7 +1159,7 @@
      "name": "Hunter Henry",
      "pos": "TE",
      "team": "NEP",
-     "ytd": 59.2,
+     "ytd": 75.1,
      "proj": 10.2
     },
     {
@@ -1685,20 +1686,20 @@
      "proj": 6.0
     },
     {
+     "id": "17043",
+     "name": "TreVeyon Henderson",
+     "pos": "RB",
+     "team": "NEP",
+     "ytd": 33.8,
+     "injury": "Out \u2014 Ankle"
+    },
+    {
      "id": "16171",
      "name": "Kendre Miller",
      "pos": "RB",
      "team": "NOS",
      "ytd": 32.8,
      "proj": 3.4
-    },
-    {
-     "id": "17043",
-     "name": "TreVeyon Henderson",
-     "pos": "RB",
-     "team": "NEP",
-     "ytd": 29.5,
-     "injury": "Out \u2014 Ankle"
     },
     {
      "id": "17047",
@@ -1768,6 +1769,14 @@
    "team": "NYG",
    "ytd": 29.9,
    "proj": 26.1
+  },
+  {
+   "id": "16582",
+   "name": "Bo Nix",
+   "pos": "QB",
+   "team": "DEN",
+   "ytd": 78.3,
+   "proj": 24.8
   },
   {
    "id": "14059",
@@ -1962,14 +1971,6 @@
    "proj": 8.9
   },
   {
-   "id": "16747",
-   "name": "Tyrone Tracy",
-   "pos": "RB",
-   "team": "NYG",
-   "ytd": 23.3,
-   "proj": 8.9
-  },
-  {
    "id": "16597",
    "name": "Jonathon Brooks",
    "pos": "RB",
@@ -2038,7 +2039,7 @@
    "name": "Demario Douglas",
    "pos": "WR",
    "team": "NEP",
-   "ytd": 59.3,
+   "ytd": 64.6,
    "proj": 7.7
   },
   {
@@ -2326,7 +2327,7 @@
    "name": "Cole Kmet",
    "pos": "TE",
    "team": "CHI",
-   "ytd": 20.4,
+   "ytd": 26.9,
    "proj": 5.9
   },
   {
@@ -2382,7 +2383,7 @@
    "name": "Andres Borregales",
    "pos": "PK",
    "team": "NEP",
-   "ytd": 40.0,
+   "ytd": 47.0,
    "proj": 5.5
   },
   {
@@ -2398,7 +2399,7 @@
    "name": "Cairo Santos",
    "pos": "PK",
    "team": "CHI",
-   "ytd": 45.0,
+   "ytd": 60.0,
    "proj": 5.3
   },
   {
@@ -2466,14 +2467,6 @@
    "proj": 5.2
   },
   {
-   "id": "14717",
-   "name": "Chase McLaughlin",
-   "pos": "PK",
-   "team": "TBB",
-   "ytd": 65.0,
-   "proj": 5.1
-  },
-  {
    "id": "16164",
    "name": "Tank Bigsby",
    "pos": "RB",
@@ -2502,7 +2495,7 @@
    "name": "Chicago Bears",
    "pos": "Def",
    "team": "CHI",
-   "ytd": 38.0,
+   "ytd": 42.0,
    "proj": 5.0
   },
   {
@@ -2511,14 +2504,6 @@
    "pos": "PK",
    "team": "LAC",
    "ytd": 37.0,
-   "proj": 5.0
-  },
-  {
-   "id": "17485",
-   "name": "Kaelon Black",
-   "pos": "RB",
-   "team": "SFO",
-   "ytd": 19.8,
    "proj": 5.0
   },
   {
@@ -2546,11 +2531,27 @@
    "proj": 4.9
   },
   {
+   "id": "17726",
+   "name": "Drew Stevens",
+   "pos": "PK",
+   "team": "WAS",
+   "ytd": 47.0,
+   "proj": 4.9
+  },
+  {
    "id": "17668",
    "name": "Trey Smack",
    "pos": "PK",
    "team": "GBP",
    "ytd": 47.0,
+   "proj": 4.9
+  },
+  {
+   "id": "0528",
+   "name": "Los Angeles Rams",
+   "pos": "Def",
+   "team": "LAR",
+   "ytd": 23.0,
    "proj": 4.9
   },
   {
@@ -2733,7 +2734,7 @@
    "name": "Eli Raridon",
    "pos": "TE",
    "team": "NEP",
-   "ytd": 29.1,
+   "ytd": 45.1,
    "proj": 4.1
   },
   {
@@ -3008,14 +3009,6 @@
    "proj": 3.0
   },
   {
-   "id": "0506",
-   "name": "Cincinnati Bengals",
-   "pos": "Def",
-   "team": "CIN",
-   "ytd": 39.0,
-   "proj": 2.9
-  },
-  {
    "id": "12677",
    "name": "Austin Hooper",
    "pos": "TE",
@@ -3028,7 +3021,7 @@
    "name": "Corey Kiner",
    "pos": "RB",
    "team": "NEP",
-   "ytd": 15.4,
+   "ytd": 16.7,
    "proj": 2.9
   },
   {
@@ -3492,7 +3485,7 @@
    "name": "Roschon Johnson",
    "pos": "RB",
    "team": "CHI",
-   "ytd": 26.8,
+   "ytd": 28.1,
    "proj": 1.5
   },
   {
@@ -4111,6 +4104,14 @@
    "injury": "Out \u2014 Coach's Decision"
   },
   {
+   "id": "17269",
+   "name": "Efton Chism",
+   "pos": "WR",
+   "team": "NEP",
+   "ytd": 28.6,
+   "injury": "Out \u2014 Coach's Decision"
+  },
+  {
    "id": "17752",
    "name": "Dohnte Meyers",
    "pos": "WR",
@@ -4124,14 +4125,6 @@
    "team": "BUF",
    "ytd": 28.1,
    "injury": "Out \u2014 Hamstring"
-  },
-  {
-   "id": "17269",
-   "name": "Efton Chism",
-   "pos": "WR",
-   "team": "NEP",
-   "ytd": 26.0,
-   "injury": "Out \u2014 Coach's Decision"
   },
   {
    "id": "17651",
@@ -4274,6 +4267,13 @@
    "pos": "TE",
    "team": "MIN",
    "ytd": 10.6
+  },
+  {
+   "id": "13404",
+   "name": "Austin Ekeler",
+   "pos": "RB",
+   "team": "FA",
+   "ytd": 10.2
   },
   {
    "id": "11674",
@@ -4866,6 +4866,36 @@
  "recent_transactions": [
   {
    "type": "FREE_AGENT",
+   "franchise": "Titsburgh Feelers",
+   "when": "1792767136",
+   "detail": "0506,|0528,"
+  },
+  {
+   "type": "FREE_AGENT",
+   "franchise": "Titsburgh Feelers",
+   "when": "1792766881",
+   "detail": "16747,|16582,"
+  },
+  {
+   "type": "FREE_AGENT",
+   "franchise": "Titsburgh Feelers",
+   "when": "1792766799",
+   "detail": "14717,|14983,"
+  },
+  {
+   "type": "FREE_AGENT",
+   "franchise": "Titsburgh Feelers",
+   "when": "1792766750",
+   "detail": "17485,|13404,"
+  },
+  {
+   "type": "FREE_AGENT",
+   "franchise": "Titsburgh Feelers",
+   "when": "1792766698",
+   "detail": "14983,|17726,"
+  },
+  {
+   "type": "FREE_AGENT",
    "franchise": "Athenian Souvlakis",
    "when": "1792701556",
    "detail": "14782,|16583,"
@@ -5073,36 +5103,6 @@
    "franchise": "wait till next year",
    "when": "1792159538",
    "detail": "0523,|0521,"
-  },
-  {
-   "type": "FREE_AGENT",
-   "franchise": "ASSASSINS",
-   "when": "1792111589",
-   "detail": "16618,|15255,"
-  },
-  {
-   "type": "FREE_AGENT",
-   "franchise": "ASSASSINS",
-   "when": "1792062739",
-   "detail": "0517,|0516,"
-  },
-  {
-   "type": "FREE_AGENT",
-   "franchise": "Team Brown",
-   "when": "1792061578",
-   "detail": "14138,|"
-  },
-  {
-   "type": "FREE_AGENT",
-   "franchise": "Team Brown",
-   "when": "1792061541",
-   "detail": "|16597,"
-  },
-  {
-   "type": "IR",
-   "franchise": "Team Brown",
-   "when": "1792061530",
-   "detail": ""
   }
  ]
 }
