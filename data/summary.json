@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-23T16:42:47.665589+00:00",
+ "generated_at": "2026-10-24T15:36:20.145855+00:00",
  "season": "2026",
  "week": 1,
  "league": {
@@ -506,7 +506,8 @@
      "pos": "WR",
      "team": "LAR",
      "ytd": 102.0,
-     "proj": 13.3
+     "proj": 13.3,
+     "slot": "INJURED_RESERVE"
     },
     {
      "id": "17071",
@@ -523,6 +524,14 @@
      "team": "PHI",
      "ytd": 69.0,
      "proj": 15.1
+    },
+    {
+     "id": "17080",
+     "name": "Jaylin Noel",
+     "pos": "WR",
+     "team": "HOU",
+     "ytd": 65.0,
+     "proj": 6.0
     },
     {
      "id": "15284",
@@ -2305,14 +2314,6 @@
    "team": "LAR",
    "ytd": 20.9,
    "proj": 6.1
-  },
-  {
-   "id": "17080",
-   "name": "Jaylin Noel",
-   "pos": "WR",
-   "team": "HOU",
-   "ytd": 65.0,
-   "proj": 6.0
   },
   {
    "id": "16207",
@@ -4298,13 +4299,6 @@
    "injury": "Out \u2014 Hamstring"
   },
   {
-   "id": "14815",
-   "name": "DeeJay Dallas",
-   "pos": "RB",
-   "team": "MIN",
-   "ytd": 8.4
-  },
-  {
    "id": "17096",
    "name": "Savion Williams",
    "pos": "WR",
@@ -4621,6 +4615,13 @@
    "injury": "Out \u2014 Coach's Decision"
   },
   {
+   "id": "16612",
+   "name": "Carson Steele",
+   "pos": "RB",
+   "team": "PHI",
+   "ytd": 1.4
+  },
+  {
    "id": "15288",
    "name": "Elijah Moore",
    "pos": "WR",
@@ -4861,9 +4862,28 @@
    "name": "Bub Means",
    "pos": "WR",
    "team": "FA"
+  },
+  {
+   "id": "17671",
+   "name": "C.J. Williams",
+   "pos": "WR",
+   "team": "JAC",
+   "ytd": 0.0
   }
  ],
  "recent_transactions": [
+  {
+   "type": "FREE_AGENT",
+   "franchise": "wait till next year",
+   "when": "1792806367",
+   "detail": "17080,|"
+  },
+  {
+   "type": "IR",
+   "franchise": "wait till next year",
+   "when": "1792806154",
+   "detail": ""
+  },
   {
    "type": "FREE_AGENT",
    "franchise": "Titsburgh Feelers",
@@ -5091,18 +5111,6 @@
    "franchise": "Team Brown",
    "when": "1792242172",
    "detail": "|14138,"
-  },
-  {
-   "type": "FREE_AGENT",
-   "franchise": "wait till next year",
-   "when": "1792159746",
-   "detail": "0507,|0523,"
-  },
-  {
-   "type": "FREE_AGENT",
-   "franchise": "wait till next year",
-   "when": "1792159538",
-   "detail": "0523,|0521,"
   }
  ]
 }
