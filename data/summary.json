@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-24T15:36:20.145855+00:00",
+ "generated_at": "2026-10-25T15:46:20.960364+00:00",
  "season": "2026",
  "week": 1,
  "league": {
@@ -174,14 +174,6 @@
      "proj": 24.7
     },
     {
-     "id": "14779",
-     "name": "Justin Herbert",
-     "pos": "QB",
-     "team": "LAC",
-     "ytd": 74.0,
-     "proj": 24.7
-    },
-    {
      "id": "13592",
      "name": "Sam Darnold",
      "pos": "QB",
@@ -220,6 +212,14 @@
      "team": "DEN",
      "ytd": 49.7,
      "proj": 12.0
+    },
+    {
+     "id": "15727",
+     "name": "Bam Knight",
+     "pos": "RB",
+     "team": "ARI",
+     "ytd": 15.0,
+     "proj": 5.1
     },
     {
      "id": "16169",
@@ -1058,6 +1058,14 @@
      "proj": 13.2
     },
     {
+     "id": "13163",
+     "name": "Chris Godwin",
+     "pos": "WR",
+     "team": "TBB",
+     "ytd": 46.4,
+     "proj": 8.9
+    },
+    {
      "id": "16627",
      "name": "Ladd McConkey",
      "pos": "WR",
@@ -1072,14 +1080,6 @@
      "team": "MIN",
      "ytd": 33.3,
      "proj": 10.5
-    },
-    {
-     "id": "16618",
-     "name": "Brian Thomas Jr.",
-     "pos": "WR",
-     "team": "JAC",
-     "ytd": 25.5,
-     "proj": 11.3
     }
    ]
   },
@@ -1344,12 +1344,12 @@
      "proj": 8.9
     },
     {
-     "id": "17501",
-     "name": "KC Concepcion",
+     "id": "17502",
+     "name": "Omar Cooper Jr.",
      "pos": "WR",
-     "team": "CLE",
-     "ytd": 40.3,
-     "proj": 5.3
+     "team": "NYJ",
+     "ytd": 26.3,
+     "proj": 3.4
     },
     {
      "id": "17498",
@@ -1760,12 +1760,12 @@
      "proj": 10.8
     },
     {
-     "id": "17502",
-     "name": "Omar Cooper Jr.",
+     "id": "17254",
+     "name": "Konata Mumpfield",
      "pos": "WR",
-     "team": "NYJ",
-     "ytd": 26.3,
-     "proj": 3.4
+     "team": "LAR",
+     "ytd": 26.7,
+     "proj": 3.7
     }
    ]
   }
@@ -1786,6 +1786,14 @@
    "team": "DEN",
    "ytd": 78.3,
    "proj": 24.8
+  },
+  {
+   "id": "14779",
+   "name": "Justin Herbert",
+   "pos": "QB",
+   "team": "LAC",
+   "ytd": 74.0,
+   "proj": 24.7
   },
   {
    "id": "14059",
@@ -1884,6 +1892,14 @@
    "proj": 11.7
   },
   {
+   "id": "16618",
+   "name": "Brian Thomas Jr.",
+   "pos": "WR",
+   "team": "JAC",
+   "ytd": 25.5,
+   "proj": 11.3
+  },
+  {
    "id": "16188",
    "name": "Quentin Johnston",
    "pos": "WR",
@@ -1962,14 +1978,6 @@
    "team": "TEN",
    "ytd": 17.5,
    "proj": 9.1
-  },
-  {
-   "id": "13163",
-   "name": "Chris Godwin",
-   "pos": "WR",
-   "team": "TBB",
-   "ytd": 46.4,
-   "proj": 8.9
   },
   {
    "id": "16165",
@@ -2404,6 +2412,14 @@
    "proj": 5.3
   },
   {
+   "id": "17501",
+   "name": "KC Concepcion",
+   "pos": "WR",
+   "team": "CLE",
+   "ytd": 40.3,
+   "proj": 5.3
+  },
+  {
    "id": "12141",
    "name": "Marcus Mariota",
    "pos": "QB",
@@ -2473,14 +2489,6 @@
    "pos": "RB",
    "team": "PHI",
    "ytd": 17.1,
-   "proj": 5.1
-  },
-  {
-   "id": "15727",
-   "name": "Bam Knight",
-   "pos": "RB",
-   "team": "ARI",
-   "ytd": 15.0,
    "proj": 5.1
   },
   {
@@ -2816,14 +2824,6 @@
    "pos": "WR",
    "team": "BUF",
    "ytd": 27.7,
-   "proj": 3.7
-  },
-  {
-   "id": "17254",
-   "name": "Konata Mumpfield",
-   "pos": "WR",
-   "team": "LAR",
-   "ytd": 26.7,
    "proj": 3.7
   },
   {
@@ -3665,14 +3665,6 @@
    "proj": 1.1
   },
   {
-   "id": "17754",
-   "name": "Montorie Foster",
-   "pos": "WR",
-   "team": "SEA",
-   "ytd": 0.0,
-   "proj": 1.1
-  },
-  {
    "id": "15766",
    "name": "Skyy Moore",
    "pos": "WR",
@@ -4299,6 +4291,13 @@
    "injury": "Out \u2014 Hamstring"
   },
   {
+   "id": "14815",
+   "name": "DeeJay Dallas",
+   "pos": "RB",
+   "team": "MIN",
+   "ytd": 8.4
+  },
+  {
    "id": "17096",
    "name": "Savion Williams",
    "pos": "WR",
@@ -4874,6 +4873,30 @@
  "recent_transactions": [
   {
    "type": "FREE_AGENT",
+   "franchise": "Dawg Pound",
+   "when": "1792942229",
+   "detail": "15727,|14779,"
+  },
+  {
+   "type": "FREE_AGENT",
+   "franchise": "Washington Misanthropes",
+   "when": "1792935143",
+   "detail": "17502,|17501,"
+  },
+  {
+   "type": "FREE_AGENT",
+   "franchise": "Athenian Souvlakis",
+   "when": "1792865189",
+   "detail": "17254,|17502,"
+  },
+  {
+   "type": "FREE_AGENT",
+   "franchise": "ASSASSINS",
+   "when": "1792858260",
+   "detail": "13163,|16618,"
+  },
+  {
+   "type": "FREE_AGENT",
    "franchise": "wait till next year",
    "when": "1792806367",
    "detail": "17080,|"
@@ -5087,30 +5110,6 @@
    "franchise": "Fuck Tom",
    "when": "1792292055",
    "detail": "11936,|16681,"
-  },
-  {
-   "type": "FREE_AGENT",
-   "franchise": "Team Brown",
-   "when": "1792242220",
-   "detail": "14138,|"
-  },
-  {
-   "type": "FREE_AGENT",
-   "franchise": "Team Brown",
-   "when": "1792242198",
-   "detail": "|12801,"
-  },
-  {
-   "type": "IR",
-   "franchise": "Team Brown",
-   "when": "1792242186",
-   "detail": ""
-  },
-  {
-   "type": "FREE_AGENT",
-   "franchise": "Team Brown",
-   "when": "1792242172",
-   "detail": "|14138,"
   }
  ]
 }
