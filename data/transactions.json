@@ -3,6 +3,12 @@
  "transactions": {
   "transaction": [
    {
+    "franchise": "",
+    "timestamp": "1792947600",
+    "transaction": "",
+    "type": "LOCK_ALL_PLAYERS"
+   },
+   {
     "franchise": "0001",
     "timestamp": "1792942229",
     "transaction": "15727,|14779,",
