@@ -1,7 +1,7 @@
 # Pete’s Perfect Team — week 1
 
-Cap City Football · 12 teams · generated 2026-10-26 18:28 UTC
-Record 4-3-0, 681.0 points for
+Cap City Football · 12 teams · generated 2026-10-27 17:42 UTC
+Record 5-3-0, 788.3 points for
 
 ## Roster
 
@@ -13,8 +13,8 @@ Record 4-3-0, 681.0 points for
 | Tyler Shough | QB | NOS | 22.0 | 143.2 |  |
 | Ollie Gordon | RB | MIA | 2.6 | 65.3 |  |
 | Omarion Hampton | RB | LAC | 13.8 | 57.5 |  |
-| Saquon Barkley | RB | PHI | 19.0 | 23.5 |  |
-| Dameon Pierce | RB | PHI |  | 18.4 |  |
+| Saquon Barkley | RB | PHI | 19.0 | 38.6 |  |
+| Dameon Pierce | RB | PHI |  | 30.2 |  |
 | Dalton Kincaid | TE | BUF | 11.0 | 69.6 |  |
 | Tyler Higbee | TE | LAR | 4.9 | 64.7 |  |
 | Christian Watson | WR | GBP | 12.4 | 129.5 |  |

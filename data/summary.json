@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-26T18:28:04.558735+00:00",
+ "generated_at": "2026-10-27T17:42:16.431341+00:00",
  "season": "2026",
  "week": 1,
  "league": {
@@ -12,10 +12,10 @@
   "franchise_id": "0011",
   "name": "Pete\u2019s Perfect Team",
   "record": {
-   "w": "4",
+   "w": "5",
    "l": "3",
    "t": "0",
-   "pf": "681.0"
+   "pf": "788.3"
   },
   "roster": [
    {
@@ -71,7 +71,7 @@
     "name": "Saquon Barkley",
     "pos": "RB",
     "team": "PHI",
-    "ytd": 23.5,
+    "ytd": 38.6,
     "proj": 19.0
    },
    {
@@ -79,7 +79,7 @@
     "name": "Dameon Pierce",
     "pos": "RB",
     "team": "PHI",
-    "ytd": 18.4
+    "ytd": 30.2
    },
    {
     "id": "16213",
@@ -143,10 +143,10 @@
   "0001": {
    "name": "Dawg Pound",
    "record": {
-    "w": "3",
+    "w": "4",
     "l": "4",
     "t": "0",
-    "pf": "676.9"
+    "pf": "812.5"
    },
    "players": [
     {
@@ -194,7 +194,7 @@
      "name": "Javonte Williams",
      "pos": "RB",
      "team": "DAL",
-     "ytd": 109.0,
+     "ytd": 130.5,
      "proj": 12.8
     },
     {
@@ -283,10 +283,10 @@
   "0002": {
    "name": "Clawing back up!",
    "record": {
-    "w": "4",
+    "w": "5",
     "l": "3",
     "t": "0",
-    "pf": "729.4"
+    "pf": "848.4"
    },
    "players": [
     {
@@ -415,9 +415,9 @@
    "name": "wait till next year",
    "record": {
     "w": "5",
-    "l": "2",
+    "l": "3",
     "t": "0",
-    "pf": "710.0"
+    "pf": "834.8"
    },
    "players": [
     {
@@ -433,7 +433,7 @@
      "name": "Brandon Aubrey",
      "pos": "PK",
      "team": "DAL",
-     "ytd": 46.0,
+     "ytd": 60.0,
      "proj": 5.4
     },
     {
@@ -547,9 +547,9 @@
    "name": "Fuck Tom",
    "record": {
     "w": "3",
-    "l": "4",
+    "l": "5",
     "t": "0",
-    "pf": "722.2"
+    "pf": "840.7"
    },
    "players": [
     {
@@ -629,7 +629,7 @@
      "name": "CeeDee Lamb",
      "pos": "WR",
      "team": "DAL",
-     "ytd": 131.7,
+     "ytd": 156.1,
      "proj": 14.5
     },
     {
@@ -677,10 +677,10 @@
   "0005": {
    "name": "Titsburgh Feelers",
    "record": {
-    "w": "1",
+    "w": "2",
     "l": "6",
     "t": "0",
-    "pf": "596.4"
+    "pf": "701.4"
    },
    "players": [
     {
@@ -818,9 +818,9 @@
    "name": "Team Brown",
    "record": {
     "w": "3",
-    "l": "4",
+    "l": "5",
     "t": "0",
-    "pf": "769.3"
+    "pf": "849.4"
    },
    "players": [
     {
@@ -908,7 +908,7 @@
      "name": "Dallas Goedert",
      "pos": "TE",
      "team": "PHI",
-     "ytd": 51.5,
+     "ytd": 62.5,
      "proj": 13.2
     },
     {
@@ -948,10 +948,10 @@
   "0007": {
    "name": "ASSASSINS",
    "record": {
-    "w": "3",
+    "w": "4",
     "l": "4",
     "t": "0",
-    "pf": "697.9"
+    "pf": "852.0"
    },
    "players": [
     {
@@ -975,7 +975,7 @@
      "name": "Dak Prescott",
      "pos": "QB",
      "team": "DAL",
-     "ytd": 120.4,
+     "ytd": 145.8,
      "proj": 22.9
     },
     {
@@ -1088,10 +1088,10 @@
   "0008": {
    "name": "Based Crack Cocaine Enjoyers",
    "record": {
-    "w": "4",
+    "w": "5",
     "l": "3",
     "t": "0",
-    "pf": "753.7"
+    "pf": "891.4"
    },
    "players": [
     {
@@ -1202,7 +1202,7 @@
      "name": "George Pickens",
      "pos": "WR",
      "team": "DAL",
-     "ytd": 81.8,
+     "ytd": 97.5,
      "proj": 14.6
     },
     {
@@ -1228,9 +1228,9 @@
    "name": "Washington Misanthropes",
    "record": {
     "w": "4",
-    "l": "3",
+    "l": "4",
     "t": "0",
-    "pf": "743.8"
+    "pf": "874.2"
    },
    "players": [
     {
@@ -1367,9 +1367,9 @@
    "name": "Attitude",
    "record": {
     "w": "3",
-    "l": "4",
+    "l": "5",
     "t": "0",
-    "pf": "751.6"
+    "pf": "862.3"
    },
    "players": [
     {
@@ -1504,10 +1504,10 @@
   "0011": {
    "name": "Pete\u2019s Perfect Team",
    "record": {
-    "w": "4",
+    "w": "5",
     "l": "3",
     "t": "0",
-    "pf": "681.0"
+    "pf": "788.3"
    },
    "players": [
     {
@@ -1563,7 +1563,7 @@
      "name": "Saquon Barkley",
      "pos": "RB",
      "team": "PHI",
-     "ytd": 23.5,
+     "ytd": 38.6,
      "proj": 19.0
     },
     {
@@ -1571,7 +1571,7 @@
      "name": "Dameon Pierce",
      "pos": "RB",
      "team": "PHI",
-     "ytd": 18.4
+     "ytd": 30.2
     },
     {
      "id": "16213",
@@ -1635,9 +1635,9 @@
    "name": "Athenian Souvlakis",
    "record": {
     "w": "5",
-    "l": "2",
+    "l": "3",
     "t": "0",
-    "pf": "854.3"
+    "pf": "961.2"
    },
    "players": [
     {
@@ -2066,7 +2066,7 @@
    "name": "Ryan Flournoy",
    "pos": "WR",
    "team": "DAL",
-   "ytd": 52.4,
+   "ytd": 63.4,
    "proj": 7.6
   },
   {
@@ -2442,7 +2442,7 @@
    "name": "Jake Elliott",
    "pos": "PK",
    "team": "PHI",
-   "ytd": 33.0,
+   "ytd": 36.0,
    "proj": 5.3
   },
   {
@@ -2642,7 +2642,7 @@
    "name": "Marquise Brown",
    "pos": "WR",
    "team": "PHI",
-   "ytd": 1.2,
+   "ytd": 6.2,
    "proj": 4.5
   },
   {
@@ -3008,7 +3008,7 @@
    "name": "Philadelphia Eagles",
    "pos": "Def",
    "team": "PHI",
-   "ytd": 15.0,
+   "ytd": 14.0,
    "proj": 3.0
   },
   {
@@ -3076,6 +3076,14 @@
    "proj": 2.6
   },
   {
+   "id": "16647",
+   "name": "Brevyn Spann-Ford",
+   "pos": "TE",
+   "team": "DAL",
+   "ytd": 19.0,
+   "proj": 2.6
+  },
+  {
    "id": "17591",
    "name": "Nate Boerkircher",
    "pos": "TE",
@@ -3084,19 +3092,11 @@
    "proj": 2.6
   },
   {
-   "id": "16647",
-   "name": "Brevyn Spann-Ford",
-   "pos": "TE",
-   "team": "DAL",
-   "ytd": 15.6,
-   "proj": 2.6
-  },
-  {
    "id": "0516",
    "name": "Dallas Cowboys",
    "pos": "Def",
    "team": "DAL",
-   "ytd": 14.0,
+   "ytd": 18.0,
    "proj": 2.6
   },
   {
@@ -3136,7 +3136,7 @@
    "name": "Makai Lemon",
    "pos": "WR",
    "team": "PHI",
-   "ytd": 31.2,
+   "ytd": 50.9,
    "proj": 2.5
   },
   {
@@ -3307,19 +3307,19 @@
    "proj": 2.1
   },
   {
-   "id": "16221",
-   "name": "Luke Schoonmaker",
-   "pos": "TE",
+   "id": "16391",
+   "name": "Hunter Luepke",
+   "pos": "RB",
    "team": "DAL",
    "ytd": 6.7,
    "proj": 2.1
   },
   {
-   "id": "16391",
-   "name": "Hunter Luepke",
-   "pos": "RB",
+   "id": "16221",
+   "name": "Luke Schoonmaker",
+   "pos": "TE",
    "team": "DAL",
-   "ytd": 6.4,
+   "ytd": 6.7,
    "proj": 2.1
   },
   {
@@ -3432,7 +3432,7 @@
    "name": "Darius Cooper",
    "pos": "WR",
    "team": "PHI",
-   "ytd": 45.9,
+   "ytd": 48.6,
    "proj": 1.6
   },
   {
@@ -4145,6 +4145,14 @@
    "injury": "Out \u2014 Hamstring"
   },
   {
+   "id": "15702",
+   "name": "Tanner McKee",
+   "pos": "QB",
+   "team": "PHI",
+   "ytd": 27.5,
+   "injury": "Out \u2014 Coach's Decision"
+  },
+  {
    "id": "15759",
    "name": "John Metchie",
    "pos": "WR",
@@ -4237,14 +4245,6 @@
    "ytd": 15.3
   },
   {
-   "id": "15702",
-   "name": "Tanner McKee",
-   "pos": "QB",
-   "team": "PHI",
-   "ytd": 14.8,
-   "injury": "Out \u2014 Coach's Decision"
-  },
-  {
    "id": "17231",
    "name": "Gavin Bartholomew",
    "pos": "TE",
@@ -4300,6 +4300,13 @@
    "pos": "RB",
    "team": "FA",
    "ytd": 10.2
+  },
+  {
+   "id": "15730",
+   "name": "Tyler Goodson",
+   "pos": "RB",
+   "team": "FA",
+   "ytd": 10.1
   },
   {
    "id": "16403",
@@ -4375,11 +4382,12 @@
    "injury": "Out \u2014 Hamstring"
   },
   {
-   "id": "15730",
-   "name": "Tyler Goodson",
+   "id": "15263",
+   "name": "Elijah Mitchell",
    "pos": "RB",
    "team": "FA",
-   "ytd": 6.3
+   "ytd": 6.4,
+   "injury": "Questionable \u2014 Undisclosed"
   },
   {
    "id": "15301",
@@ -4410,6 +4418,14 @@
    "pos": "PK",
    "team": "FA",
    "ytd": 5.0
+  },
+  {
+   "id": "15288",
+   "name": "Elijah Moore",
+   "pos": "WR",
+   "team": "PHI",
+   "ytd": 5.0,
+   "injury": "Out \u2014 Coach's Decision"
   },
   {
    "id": "17526",
@@ -4676,14 +4692,6 @@
    "ytd": 1.4
   },
   {
-   "id": "15288",
-   "name": "Elijah Moore",
-   "pos": "WR",
-   "team": "PHI",
-   "ytd": 1.4,
-   "injury": "Out \u2014 Coach's Decision"
-  },
-  {
    "id": "13143",
    "name": "Jeremy McNichols",
    "pos": "RB",
@@ -4871,12 +4879,6 @@
    "name": "Brennan Presley",
    "pos": "WR",
    "team": "LAR"
-  },
-  {
-   "id": "14065",
-   "name": "Brett Rypien",
-   "pos": "QB",
-   "team": "FA"
   }
  ],
  "recent_transactions": [
