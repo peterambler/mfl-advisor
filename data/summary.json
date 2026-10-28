@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-27T17:42:16.431341+00:00",
+ "generated_at": "2026-10-28T18:04:15.017646+00:00",
  "season": "2026",
  "week": 1,
  "league": {
@@ -1095,13 +1095,6 @@
    },
    "players": [
     {
-     "id": "0530",
-     "name": "San Francisco 49ers",
-     "pos": "Def",
-     "team": "SFO",
-     "ytd": 35.0
-    },
-    {
      "id": "12437",
      "name": "Jason Myers",
      "pos": "PK",
@@ -1116,14 +1109,6 @@
      "team": "BUF",
      "ytd": 175.4,
      "proj": 29.2
-    },
-    {
-     "id": "7836",
-     "name": "Aaron Rodgers",
-     "pos": "QB",
-     "team": "PIT",
-     "ytd": 129.9,
-     "proj": 21.3
     },
     {
      "id": "16593",
@@ -1838,6 +1823,14 @@
    "proj": 22.1
   },
   {
+   "id": "7836",
+   "name": "Aaron Rodgers",
+   "pos": "QB",
+   "team": "PIT",
+   "ytd": 129.9,
+   "proj": 21.3
+  },
+  {
    "id": "14056",
    "name": "Kyler Murray",
    "pos": "QB",
@@ -2467,14 +2460,6 @@
    "pos": "TE",
    "team": "LAC",
    "ytd": 14.4,
-   "proj": 5.2
-  },
-  {
-   "id": "16385",
-   "name": "Emari Demercado",
-   "pos": "RB",
-   "team": "DAL",
-   "ytd": 1.5,
    "proj": 5.2
   },
   {
@@ -3667,6 +3652,14 @@
    "proj": 1.1
   },
   {
+   "id": "17754",
+   "name": "Montorie Foster",
+   "pos": "WR",
+   "team": "SEA",
+   "ytd": 0.0,
+   "proj": 1.1
+  },
+  {
    "id": "15766",
    "name": "Skyy Moore",
    "pos": "WR",
@@ -3960,14 +3953,6 @@
    "proj": 0.3
   },
   {
-   "id": "17696",
-   "name": "Carsen Ryan",
-   "pos": "TE",
-   "team": "CLE",
-   "ytd": 0.0,
-   "proj": 0.3
-  },
-  {
    "id": "16648",
    "name": "Jared Wiley",
    "pos": "TE",
@@ -4098,6 +4083,13 @@
    "team": "WAS",
    "ytd": 36.2,
    "injury": "Out \u2014 Coach's Decision"
+  },
+  {
+   "id": "0530",
+   "name": "San Francisco 49ers",
+   "pos": "Def",
+   "team": "SFO",
+   "ytd": 35.0
   },
   {
    "id": "16219",
@@ -4685,13 +4677,6 @@
    "ytd": 1.5
   },
   {
-   "id": "16612",
-   "name": "Carson Steele",
-   "pos": "RB",
-   "team": "PHI",
-   "ytd": 1.4
-  },
-  {
    "id": "13143",
    "name": "Jeremy McNichols",
    "pos": "RB",
@@ -4882,6 +4867,18 @@
   }
  ],
  "recent_transactions": [
+  {
+   "type": "FREE_AGENT",
+   "franchise": "Based Crack Cocaine Enjoyers",
+   "when": "1793186635",
+   "detail": "|0530,"
+  },
+  {
+   "type": "FREE_AGENT",
+   "franchise": "Based Crack Cocaine Enjoyers",
+   "when": "1793186578",
+   "detail": "|7836,"
+  },
   {
    "type": "LOCK_ALL_PLAYERS",
    "franchise": "",
@@ -5109,18 +5106,6 @@
    "franchise": "Titsburgh Feelers",
    "when": "1792414356",
    "detail": "|13672,"
-  },
-  {
-   "type": "LOCK_ALL_PLAYERS",
-   "franchise": "",
-   "when": "1792342800",
-   "detail": ""
-  },
-  {
-   "type": "IR",
-   "franchise": "Clawing back up!",
-   "when": "1792328627",
-   "detail": ""
   }
  ]
 }

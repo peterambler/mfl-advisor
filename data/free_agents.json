@@ -4,6 +4,10 @@
   "leagueUnit": {
    "player": [
     {
+     "id": "0530",
+     "status": "locked"
+    },
+    {
      "id": "16168",
      "status": "locked"
     },
@@ -588,10 +592,6 @@
      "status": "locked"
     },
     {
-     "id": "16385",
-     "status": "locked"
-    },
-    {
      "id": "15979",
      "status": "locked"
     },
@@ -805,6 +805,10 @@
     },
     {
      "id": "16379",
+     "status": "locked"
+    },
+    {
+     "id": "17754",
      "status": "locked"
     },
     {
@@ -1117,6 +1121,10 @@
     },
     {
      "id": "14858",
+     "status": "locked"
+    },
+    {
+     "id": "16919",
      "status": "locked"
     },
     {
@@ -1788,6 +1796,10 @@
      "status": "locked"
     },
     {
+     "id": "16763",
+     "status": "locked"
+    },
+    {
      "id": "16199",
      "status": "locked"
     },
@@ -1972,6 +1984,10 @@
      "status": "locked"
     },
     {
+     "id": "7836",
+     "status": "locked"
+    },
+    {
      "id": "16174",
      "status": "locked"
     },
@@ -2009,10 +2025,6 @@
     },
     {
      "id": "16496",
-     "status": "locked"
-    },
-    {
-     "id": "17696",
      "status": "locked"
     },
     {
@@ -2201,10 +2213,6 @@
     },
     {
      "id": "16165",
-     "status": "locked"
-    },
-    {
-     "id": "16612",
      "status": "locked"
     },
     {
