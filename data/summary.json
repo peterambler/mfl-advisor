@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-29T18:12:45.743411+00:00",
+ "generated_at": "2026-10-30T00:42:56.747535+00:00",
  "season": "2026",
  "week": 1,
  "league": {
@@ -1356,12 +1356,12 @@
    },
    "players": [
     {
-     "id": "0532",
-     "name": "Houston Texans",
+     "id": "0526",
+     "name": "Atlanta Falcons",
      "pos": "Def",
-     "team": "HOU",
-     "ytd": 35.0,
-     "proj": 6.1
+     "team": "ATL",
+     "ytd": 42.0,
+     "proj": 5.3
     },
     {
      "id": "12860",
@@ -1370,6 +1370,14 @@
      "team": "HOU",
      "ytd": 76.0,
      "proj": 4.9
+    },
+    {
+     "id": "16846",
+     "name": "Jake Bates",
+     "pos": "PK",
+     "team": "DET",
+     "ytd": 57.0,
+     "proj": 6.7
     },
     {
      "id": "16150",
@@ -1475,12 +1483,6 @@
      "team": "DEN",
      "ytd": 38.8,
      "proj": 12.1
-    },
-    {
-     "id": "14122",
-     "name": "Darius Slayton",
-     "pos": "WR",
-     "team": "NYG"
     }
    ]
   },
@@ -1693,8 +1695,7 @@
      "pos": "RB",
      "team": "CLE",
      "ytd": 10.7,
-     "proj": 5.7,
-     "slot": "INJURED_RESERVE"
+     "proj": 5.7
     },
     {
      "id": "15798",
@@ -1743,14 +1744,6 @@
      "team": "WAS",
      "ytd": 69.4,
      "proj": 10.8
-    },
-    {
-     "id": "17254",
-     "name": "Konata Mumpfield",
-     "pos": "WR",
-     "team": "LAR",
-     "ytd": 29.2,
-     "proj": 3.7
     }
    ]
   }
@@ -2173,14 +2166,6 @@
    "proj": 6.8
   },
   {
-   "id": "16846",
-   "name": "Jake Bates",
-   "pos": "PK",
-   "team": "DET",
-   "ytd": 57.0,
-   "proj": 6.7
-  },
-  {
    "id": "16626",
    "name": "Adonai Mitchell",
    "pos": "WR",
@@ -2317,6 +2302,14 @@
    "proj": 6.1
   },
   {
+   "id": "0532",
+   "name": "Houston Texans",
+   "pos": "Def",
+   "team": "HOU",
+   "ytd": 35.0,
+   "proj": 6.1
+  },
+  {
    "id": "17107",
    "name": "Terrance Ferguson",
    "pos": "TE",
@@ -2410,14 +2403,6 @@
    "pos": "PK",
    "team": "CHI",
    "ytd": 60.0,
-   "proj": 5.3
-  },
-  {
-   "id": "0526",
-   "name": "Atlanta Falcons",
-   "pos": "Def",
-   "team": "ATL",
-   "ytd": 42.0,
    "proj": 5.3
   },
   {
@@ -2817,6 +2802,14 @@
    "pos": "TE",
    "team": "ARI",
    "ytd": 37.6,
+   "proj": 3.7
+  },
+  {
+   "id": "17254",
+   "name": "Konata Mumpfield",
+   "pos": "WR",
+   "team": "LAR",
+   "ytd": 29.2,
    "proj": 3.7
   },
   {
@@ -4869,6 +4862,30 @@
  ],
  "recent_transactions": [
   {
+   "type": "IR",
+   "franchise": "Athenian Souvlakis",
+   "when": "1793314356",
+   "detail": ""
+  },
+  {
+   "type": "FREE_AGENT",
+   "franchise": "Athenian Souvlakis",
+   "when": "1793314309",
+   "detail": "|17254,"
+  },
+  {
+   "type": "FREE_AGENT",
+   "franchise": "Attitude",
+   "when": "1793298875",
+   "detail": "0526,|0532,"
+  },
+  {
+   "type": "FREE_AGENT",
+   "franchise": "Attitude",
+   "when": "1793298836",
+   "detail": "16846,|14122,"
+  },
+  {
    "type": "FREE_AGENT",
    "franchise": "Pete\u2019s Perfect Team",
    "when": "1793292535",
@@ -5083,30 +5100,6 @@
    "franchise": "ASSASSINS",
    "when": "1792663994",
    "detail": "16681,|14983,"
-  },
-  {
-   "type": "BBID_WAIVER",
-   "franchise": "Pete\u2019s Perfect Team",
-   "when": "1792645200",
-   "detail": "15368,|1.00|14782,"
-  },
-  {
-   "type": "BBID_WAIVER",
-   "franchise": "Pete\u2019s Perfect Team",
-   "when": "1792645200",
-   "detail": "0505,|1.00|0518,"
-  },
-  {
-   "type": "BBID_WAIVER",
-   "franchise": "Pete\u2019s Perfect Team",
-   "when": "1792645200",
-   "detail": "12678,|1.00|16620,"
-  },
-  {
-   "type": "BBID_WAIVER",
-   "franchise": "Based Crack Cocaine Enjoyers",
-   "when": "1792645200",
-   "detail": "7836,|5.00|16165,"
   }
  ]
 }
