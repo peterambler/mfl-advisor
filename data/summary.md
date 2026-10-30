@@ -1,6 +1,6 @@
 # Pete’s Perfect Team — week 1
 
-Cap City Football · 12 teams · generated 2026-10-30 00:42 UTC
+Cap City Football · 12 teams · generated 2026-10-30 17:50 UTC
 Record 5-3-0, 788.3 points for
 
 ## Roster
@@ -17,11 +17,11 @@ Record 5-3-0, 788.3 points for
 | Saquon Barkley | RB | PHI | 19.0 | 38.6 |  |
 | Dameon Pierce | RB | PHI |  | 30.2 |  |
 | Dalton Kincaid | TE | BUF | 11.0 | 69.6 |  |
-| Christian Watson | WR | GBP | 12.4 | 129.5 |  |
+| Christian Watson | WR | GBP | 12.4 | 146.8 |  |
 | Drake London | WR | ATL | 18.5 | 108.2 |  |
 | Ja'Marr Chase | WR | CIN | 21.9 | 97.1 |  |
 | Devaughn Vele | WR | NOS | 8.4 | 85.8 |  |
-| Jalen Coker | WR | CAR | 8.9 | 69.8 |  |
+| Jalen Coker | WR | CAR | 8.9 | 79.4 |  |
 
 ## Best available
 
