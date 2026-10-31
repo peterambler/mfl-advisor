@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-30T17:50:16.540164+00:00",
+ "generated_at": "2026-10-31T16:59:46.654534+00:00",
  "season": "2026",
  "week": 1,
  "league": {
@@ -445,14 +445,6 @@
      "proj": 5.4
     },
     {
-     "id": "13113",
-     "name": "Deshaun Watson",
-     "pos": "QB",
-     "team": "CLE",
-     "ytd": 120.7,
-     "proj": 19.7
-    },
-    {
      "id": "13593",
      "name": "Lamar Jackson",
      "pos": "QB",
@@ -540,6 +532,14 @@
      "team": "DEN",
      "ytd": 63.9,
      "proj": 12.1
+    },
+    {
+     "id": "17599",
+     "name": "Caleb Douglas",
+     "pos": "WR",
+     "team": "MIA",
+     "ytd": 39.3,
+     "proj": 6.3
     }
    ]
   },
@@ -979,6 +979,14 @@
      "proj": 22.9
     },
     {
+     "id": "16582",
+     "name": "Bo Nix",
+     "pos": "QB",
+     "team": "DEN",
+     "ytd": 106.7,
+     "proj": 24.8
+    },
+    {
      "id": "14797",
      "name": "D'Andre Swift",
      "pos": "RB",
@@ -1056,7 +1064,8 @@
      "pos": "WR",
      "team": "TBB",
      "ytd": 71.4,
-     "proj": 13.5
+     "proj": 13.5,
+     "slot": "INJURED_RESERVE"
     },
     {
      "id": "16627",
@@ -1281,14 +1290,6 @@
      "proj": 11.3
     },
     {
-     "id": "17474",
-     "name": "Emmett Johnson",
-     "pos": "RB",
-     "team": "KCC",
-     "ytd": 26.1,
-     "proj": 4.0
-    },
-    {
      "id": "17102",
      "name": "Tyler Warren",
      "pos": "TE",
@@ -1335,6 +1336,14 @@
      "team": "NYJ",
      "ytd": 48.8,
      "proj": 3.4
+    },
+    {
+     "id": "16618",
+     "name": "Brian Thomas Jr.",
+     "pos": "WR",
+     "team": "JAC",
+     "ytd": 25.5,
+     "proj": 11.3
     },
     {
      "id": "17498",
@@ -1758,14 +1767,6 @@
    "proj": 26.1
   },
   {
-   "id": "16582",
-   "name": "Bo Nix",
-   "pos": "QB",
-   "team": "DEN",
-   "ytd": 106.7,
-   "proj": 24.8
-  },
-  {
    "id": "14779",
    "name": "Justin Herbert",
    "pos": "QB",
@@ -1812,6 +1813,14 @@
    "team": "PIT",
    "ytd": 129.9,
    "proj": 21.3
+  },
+  {
+   "id": "13113",
+   "name": "Deshaun Watson",
+   "pos": "QB",
+   "team": "CLE",
+   "ytd": 120.7,
+   "proj": 19.7
   },
   {
    "id": "16167",
@@ -1868,14 +1877,6 @@
    "team": "LAR",
    "ytd": 33.0,
    "proj": 11.7
-  },
-  {
-   "id": "16618",
-   "name": "Brian Thomas Jr.",
-   "pos": "WR",
-   "team": "JAC",
-   "ytd": 25.5,
-   "proj": 11.3
   },
   {
    "id": "16188",
@@ -2228,14 +2229,6 @@
    "team": "SFO",
    "ytd": 0.0,
    "proj": 6.4
-  },
-  {
-   "id": "17599",
-   "name": "Caleb Douglas",
-   "pos": "WR",
-   "team": "MIA",
-   "ytd": 39.3,
-   "proj": 6.3
   },
   {
    "id": "14080",
@@ -2746,6 +2739,14 @@
    "pos": "Def",
    "team": "NOS",
    "ytd": 39.0,
+   "proj": 4.0
+  },
+  {
+   "id": "17474",
+   "name": "Emmett Johnson",
+   "pos": "RB",
+   "team": "KCC",
+   "ytd": 26.1,
    "proj": 4.0
   },
   {
@@ -4858,9 +4859,46 @@
    "pos": "WR",
    "team": "NYG",
    "ytd": 0.0
+  },
+  {
+   "id": "16367",
+   "name": "Brayden Willis",
+   "pos": "TE",
+   "team": "SFO",
+   "ytd": 0.0
   }
  ],
  "recent_transactions": [
+  {
+   "type": "FREE_AGENT",
+   "franchise": "Washington Misanthropes",
+   "when": "1793446407",
+   "detail": "16618,|17474,"
+  },
+  {
+   "type": "FREE_AGENT",
+   "franchise": "ASSASSINS",
+   "when": "1793403020",
+   "detail": "16582,|16175,"
+  },
+  {
+   "type": "FREE_AGENT",
+   "franchise": "ASSASSINS",
+   "when": "1793402602",
+   "detail": "16175,|"
+  },
+  {
+   "type": "IR",
+   "franchise": "ASSASSINS",
+   "when": "1793402120",
+   "detail": ""
+  },
+  {
+   "type": "FREE_AGENT",
+   "franchise": "wait till next year",
+   "when": "1793387604",
+   "detail": "17599,|13113,"
+  },
   {
    "type": "IR",
    "franchise": "Athenian Souvlakis",
@@ -5070,36 +5108,6 @@
    "franchise": "Titsburgh Feelers",
    "when": "1792766698",
    "detail": "14983,|17726,"
-  },
-  {
-   "type": "FREE_AGENT",
-   "franchise": "Athenian Souvlakis",
-   "when": "1792701556",
-   "detail": "14782,|16583,"
-  },
-  {
-   "type": "FREE_AGENT",
-   "franchise": "Based Crack Cocaine Enjoyers",
-   "when": "1792668044",
-   "detail": "0530,|0531,"
-  },
-  {
-   "type": "FREE_AGENT",
-   "franchise": "Washington Misanthropes",
-   "when": "1792664782",
-   "detail": "16620,|"
-  },
-  {
-   "type": "FREE_AGENT",
-   "franchise": "ASSASSINS",
-   "when": "1792664100",
-   "detail": "0508,|0517,"
-  },
-  {
-   "type": "FREE_AGENT",
-   "franchise": "ASSASSINS",
-   "when": "1792663994",
-   "detail": "16681,|14983,"
   }
  ]
 }

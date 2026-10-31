@@ -186,15 +186,15 @@
       "status": "ROSTER"
      },
      {
-      "id": "13113",
-      "status": "ROSTER"
-     },
-     {
       "id": "0521",
       "status": "ROSTER"
      },
      {
       "id": "0525",
+      "status": "ROSTER"
+     },
+     {
+      "id": "17599",
       "status": "ROSTER"
      },
      {
@@ -414,10 +414,6 @@
       "status": "ROSTER"
      },
      {
-      "id": "17081",
-      "status": "ROSTER"
-     },
-     {
       "id": "14797",
       "status": "ROSTER"
      },
@@ -468,6 +464,14 @@
      {
       "id": "17477",
       "status": "ROSTER"
+     },
+     {
+      "id": "16582",
+      "status": "ROSTER"
+     },
+     {
+      "id": "17081",
+      "status": "INJURED_RESERVE"
      }
     ],
     "week": "8"
@@ -566,10 +570,6 @@
       "status": "ROSTER"
      },
      {
-      "id": "17474",
-      "status": "ROSTER"
-     },
-     {
       "id": "0524",
       "status": "ROSTER"
      },
@@ -599,6 +599,10 @@
      },
      {
       "id": "14983",
+      "status": "ROSTER"
+     },
+     {
+      "id": "16618",
       "status": "ROSTER"
      },
      {
