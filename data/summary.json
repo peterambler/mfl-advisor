@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-31T16:59:46.654534+00:00",
+ "generated_at": "2026-11-01T17:45:24.191210+00:00",
  "season": "2026",
  "week": 1,
  "league": {
@@ -203,7 +203,8 @@
      "pos": "RB",
      "team": "CHI",
      "ytd": 59.3,
-     "proj": 7.8
+     "proj": 7.8,
+     "slot": "INJURED_RESERVE"
     },
     {
      "id": "14800",
@@ -227,8 +228,7 @@
      "pos": "RB",
      "team": "SEA",
      "proj": 6.7,
-     "injury": "IR-PUP \u2014 Knee - ACL",
-     "slot": "INJURED_RESERVE"
+     "injury": "IR-PUP \u2014 Knee - ACL"
     },
     {
      "id": "17103",
@@ -1426,7 +1426,8 @@
      "pos": "RB",
      "team": "DEN",
      "ytd": 67.4,
-     "proj": 10.0
+     "proj": 10.0,
+     "slot": "INJURED_RESERVE"
     },
     {
      "id": "15253",
@@ -4870,6 +4871,18 @@
  ],
  "recent_transactions": [
   {
+   "type": "IR",
+   "franchise": "Attitude",
+   "when": "1793550372",
+   "detail": ""
+  },
+  {
+   "type": "IR",
+   "franchise": "Dawg Pound",
+   "when": "1793549464",
+   "detail": ""
+  },
+  {
    "type": "FREE_AGENT",
    "franchise": "Washington Misanthropes",
    "when": "1793446407",
@@ -5096,18 +5109,6 @@
    "franchise": "Titsburgh Feelers",
    "when": "1792766799",
    "detail": "14717,|14983,"
-  },
-  {
-   "type": "FREE_AGENT",
-   "franchise": "Titsburgh Feelers",
-   "when": "1792766750",
-   "detail": "17485,|13404,"
-  },
-  {
-   "type": "FREE_AGENT",
-   "franchise": "Titsburgh Feelers",
-   "when": "1792766698",
-   "detail": "14983,|17726,"
   }
  ]
 }
