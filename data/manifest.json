@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-01T17:45:24.191210+00:00",
+ "fetched_at": "2026-11-02T21:31:02.201940+00:00",
  "season": "2026",
  "week": 1,
  "league_id": "24838",
@@ -16,12 +16,12 @@
   "transactions": "data/transactions.json",
   "trade_bait": "data/trade_bait.json",
   "adp": "data/adp.json",
+  "nfl_schedule": "data/nfl_schedule.json",
   "players": "data/players.json"
  },
  "failed": [
   "injuries",
-  "pendingTrades",
-  "nflSchedule"
+  "pendingTrades"
  ],
  "authenticated": false,
  "summary": "data/summary.json"
