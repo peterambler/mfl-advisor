@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-02T21:31:02.201940+00:00",
+ "generated_at": "2026-11-03T19:15:14.597917+00:00",
  "season": "2026",
  "week": 1,
  "league": {
@@ -12,10 +12,10 @@
   "franchise_id": "0011",
   "name": "Pete\u2019s Perfect Team",
   "record": {
-   "w": "5",
+   "w": "6",
    "l": "3",
    "t": "0",
-   "pf": "788.3"
+   "pf": "908.6"
   },
   "roster": [
    {
@@ -144,9 +144,9 @@
    "name": "Dawg Pound",
    "record": {
     "w": "4",
-    "l": "4",
+    "l": "5",
     "t": "0",
-    "pf": "812.5"
+    "pf": "918.5"
    },
    "players": [
     {
@@ -178,7 +178,7 @@
      "name": "Sam Darnold",
      "pos": "QB",
      "team": "SEA",
-     "ytd": 86.9,
+     "ytd": 105.3,
      "proj": 18.8
     },
     {
@@ -227,6 +227,7 @@
      "name": "Zach Charbonnet",
      "pos": "RB",
      "team": "SEA",
+     "ytd": 5.9,
      "proj": 6.7,
      "injury": "IR-PUP \u2014 Knee - ACL"
     },
@@ -283,10 +284,10 @@
   "0002": {
    "name": "Clawing back up!",
    "record": {
-    "w": "5",
+    "w": "6",
     "l": "3",
     "t": "0",
-    "pf": "848.4"
+    "pf": "982.2"
    },
    "players": [
     {
@@ -326,7 +327,7 @@
      "name": "Caleb Williams",
      "pos": "QB",
      "team": "CHI",
-     "ytd": 93.9,
+     "ytd": 110.4,
      "proj": 24.4
     },
     {
@@ -362,20 +363,20 @@
      "proj": 3.7
     },
     {
+     "id": "17104",
+     "name": "Colston Loveland",
+     "pos": "TE",
+     "team": "CHI",
+     "ytd": 83.6,
+     "proj": 12.8
+    },
+    {
      "id": "14861",
      "name": "Juwan Johnson",
      "pos": "TE",
      "team": "NOS",
      "ytd": 76.0,
      "proj": 11.0
-    },
-    {
-     "id": "17104",
-     "name": "Colston Loveland",
-     "pos": "TE",
-     "team": "CHI",
-     "ytd": 68.5,
-     "proj": 12.8
     },
     {
      "id": "17075",
@@ -386,20 +387,20 @@
      "proj": 5.6
     },
     {
+     "id": "17070",
+     "name": "Luther Burden",
+     "pos": "WR",
+     "team": "CHI",
+     "ytd": 115.6,
+     "proj": 8.5
+    },
+    {
      "id": "16206",
      "name": "Michael Wilson",
      "pos": "WR",
      "team": "ARI",
      "ytd": 108.8,
      "proj": 12.3
-    },
-    {
-     "id": "17070",
-     "name": "Luther Burden",
-     "pos": "WR",
-     "team": "CHI",
-     "ytd": 97.0,
-     "proj": 8.5
     },
     {
      "id": "14104",
@@ -415,9 +416,9 @@
    "name": "wait till next year",
    "record": {
     "w": "5",
-    "l": "3",
+    "l": "4",
     "t": "0",
-    "pf": "834.8"
+    "pf": "950.5"
    },
    "players": [
     {
@@ -433,7 +434,7 @@
      "name": "Chicago Bears",
      "pos": "Def",
      "team": "CHI",
-     "ytd": 42.0,
+     "ytd": 48.0,
      "proj": 5.0
     },
     {
@@ -547,9 +548,9 @@
    "name": "Fuck Tom",
    "record": {
     "w": "3",
-    "l": "5",
+    "l": "6",
     "t": "0",
-    "pf": "840.7"
+    "pf": "923.6"
    },
    "players": [
     {
@@ -649,19 +650,19 @@
      "proj": 14.2
     },
     {
+     "id": "16616",
+     "name": "Rome Odunze",
+     "pos": "WR",
+     "team": "CHI",
+     "ytd": 72.8,
+     "proj": 12.1
+    },
+    {
      "id": "16187",
      "name": "Josh Downs",
      "pos": "WR",
      "team": "IND",
      "ytd": 69.7,
-     "proj": 12.1
-    },
-    {
-     "id": "16616",
-     "name": "Rome Odunze",
-     "pos": "WR",
-     "team": "CHI",
-     "ytd": 60.1,
      "proj": 12.1
     },
     {
@@ -677,10 +678,10 @@
   "0005": {
    "name": "Titsburgh Feelers",
    "record": {
-    "w": "2",
+    "w": "3",
     "l": "6",
     "t": "0",
-    "pf": "701.4"
+    "pf": "828.9"
    },
    "players": [
     {
@@ -732,14 +733,6 @@
      "proj": 15.3
     },
     {
-     "id": "16757",
-     "name": "Kimani Vidal",
-     "pos": "RB",
-     "team": "LAC",
-     "ytd": 39.3,
-     "proj": 6.7
-    },
-    {
      "id": "17485",
      "name": "Kaelon Black",
      "pos": "RB",
@@ -752,9 +745,8 @@
      "name": "Jadarian Price",
      "pos": "RB",
      "team": "SEA",
-     "ytd": 14.0,
-     "proj": 14.2,
-     "slot": "INJURED_RESERVE"
+     "ytd": 19.7,
+     "proj": 14.2
     },
     {
      "id": "16222",
@@ -817,10 +809,10 @@
   "0006": {
    "name": "Team Brown",
    "record": {
-    "w": "3",
+    "w": "4",
     "l": "5",
     "t": "0",
-    "pf": "849.4"
+    "pf": "972.1"
    },
    "players": [
     {
@@ -828,7 +820,7 @@
      "name": "Seattle Seahawks",
      "pos": "Def",
      "team": "SEA",
-     "ytd": 46.0,
+     "ytd": 49.0,
      "proj": 6.8
     },
     {
@@ -948,10 +940,10 @@
   "0007": {
    "name": "ASSASSINS",
    "record": {
-    "w": "4",
+    "w": "5",
     "l": "4",
     "t": "0",
-    "pf": "852.0"
+    "pf": "1037.9"
    },
    "players": [
     {
@@ -987,20 +979,20 @@
      "proj": 24.8
     },
     {
+     "id": "14797",
+     "name": "D'Andre Swift",
+     "pos": "RB",
+     "team": "CHI",
+     "ytd": 150.7,
+     "proj": 13.8
+    },
+    {
      "id": "16598",
      "name": "Bucky Irving",
      "pos": "RB",
      "team": "TBB",
      "ytd": 130.6,
      "proj": 13.6
-    },
-    {
-     "id": "14797",
-     "name": "D'Andre Swift",
-     "pos": "RB",
-     "team": "CHI",
-     "ytd": 122.8,
-     "proj": 13.8
     },
     {
      "id": "17477",
@@ -1089,9 +1081,9 @@
    "name": "Based Crack Cocaine Enjoyers",
    "record": {
     "w": "5",
-    "l": "3",
+    "l": "4",
     "t": "0",
-    "pf": "891.4"
+    "pf": "993.6"
    },
    "players": [
     {
@@ -1107,7 +1099,7 @@
      "name": "Jason Myers",
      "pos": "PK",
      "team": "SEA",
-     "ytd": 66.0,
+     "ytd": 69.0,
      "proj": 5.4
     },
     {
@@ -1179,7 +1171,7 @@
      "name": "Jaxon Smith-Njigba",
      "pos": "WR",
      "team": "SEA",
-     "ytd": 196.3,
+     "ytd": 220.1,
      "proj": 17.7
     },
     {
@@ -1220,9 +1212,9 @@
    "name": "Washington Misanthropes",
    "record": {
     "w": "4",
-    "l": "4",
+    "l": "5",
     "t": "0",
-    "pf": "874.2"
+    "pf": "959.9"
    },
    "players": [
     {
@@ -1359,9 +1351,9 @@
    "name": "Attitude",
    "record": {
     "w": "3",
-    "l": "5",
+    "l": "6",
     "t": "0",
-    "pf": "862.3"
+    "pf": "950.1"
    },
    "players": [
     {
@@ -1499,10 +1491,10 @@
   "0011": {
    "name": "Pete\u2019s Perfect Team",
    "record": {
-    "w": "5",
+    "w": "6",
     "l": "3",
     "t": "0",
-    "pf": "788.3"
+    "pf": "908.6"
    },
    "players": [
     {
@@ -1629,10 +1621,10 @@
   "0012": {
    "name": "Athenian Souvlakis",
    "record": {
-    "w": "5",
+    "w": "6",
     "l": "3",
     "t": "0",
-    "pf": "961.2"
+    "pf": "1088.5"
    },
    "players": [
     {
@@ -2012,7 +2004,7 @@
    "name": "AJ Barner",
    "pos": "TE",
    "team": "SEA",
-   "ytd": 48.0,
+   "ytd": 52.9,
    "proj": 8.6
   },
   {
@@ -2132,7 +2124,7 @@
    "name": "Cooper Kupp",
    "pos": "WR",
    "team": "SEA",
-   "ytd": 43.9,
+   "ytd": 51.6,
    "proj": 7.0
   },
   {
@@ -2173,6 +2165,14 @@
    "pos": "WR",
    "team": "NYJ",
    "ytd": 48.5,
+   "proj": 6.7
+  },
+  {
+   "id": "16757",
+   "name": "Kimani Vidal",
+   "pos": "RB",
+   "team": "LAC",
+   "ytd": 39.3,
    "proj": 6.7
   },
   {
@@ -2356,7 +2356,7 @@
    "name": "George Holani",
    "pos": "RB",
    "team": "SEA",
-   "ytd": 35.6,
+   "ytd": 36.5,
    "proj": 5.7
   },
   {
@@ -2396,7 +2396,7 @@
    "name": "Cairo Santos",
    "pos": "PK",
    "team": "CHI",
-   "ytd": 60.0,
+   "ytd": 71.0,
    "proj": 5.3
   },
   {
@@ -2715,7 +2715,7 @@
    "name": "Kalif Raymond",
    "pos": "WR",
    "team": "CHI",
-   "ytd": 56.4,
+   "ytd": 63.7,
    "proj": 4.1
   },
   {
@@ -3483,7 +3483,7 @@
    "name": "Roschon Johnson",
    "pos": "RB",
    "team": "CHI",
-   "ytd": 28.1,
+   "ytd": 31.9,
    "proj": 1.5
   },
   {
@@ -3598,19 +3598,19 @@
    "proj": 1.2
   },
   {
+   "id": "17521",
+   "name": "Zavion Thomas",
+   "pos": "WR",
+   "team": "CHI",
+   "ytd": 11.2,
+   "proj": 1.1
+  },
+  {
    "id": "17011",
    "name": "Jared Wayne",
    "pos": "WR",
    "team": "HOU",
    "ytd": 10.5,
-   "proj": 1.1
-  },
-  {
-   "id": "17521",
-   "name": "Zavion Thomas",
-   "pos": "WR",
-   "team": "CHI",
-   "ytd": 9.8,
    "proj": 1.1
   },
   {
@@ -4164,6 +4164,14 @@
    "injury": "Out \u2014 Coach's Decision"
   },
   {
+   "id": "17098",
+   "name": "Tory Horton",
+   "pos": "WR",
+   "team": "SEA",
+   "ytd": 25.3,
+   "injury": "Out \u2014 Hamstring"
+  },
+  {
    "id": "16166",
    "name": "Sean Tucker",
    "pos": "RB",
@@ -4193,14 +4201,6 @@
    "pos": "RB",
    "team": "CLE",
    "ytd": 18.6
-  },
-  {
-   "id": "17098",
-   "name": "Tory Horton",
-   "pos": "WR",
-   "team": "SEA",
-   "ytd": 17.7,
-   "injury": "Out \u2014 Hamstring"
   },
   {
    "id": "16621",
@@ -4872,16 +4872,21 @@
    "name": "Amar Johnson",
    "pos": "RB",
    "team": "LAC"
-  },
-  {
-   "id": "16732",
-   "name": "Anthony Gould",
-   "pos": "WR",
-   "team": "FA",
-   "ytd": 0.0
   }
  ],
  "recent_transactions": [
+  {
+   "type": "IR",
+   "franchise": "Titsburgh Feelers",
+   "when": "1793718830",
+   "detail": ""
+  },
+  {
+   "type": "FREE_AGENT",
+   "franchise": "Titsburgh Feelers",
+   "when": "1793718830",
+   "detail": "|16757,"
+  },
   {
    "type": "LOCK_ALL_PLAYERS",
    "franchise": "",
@@ -5109,18 +5114,6 @@
    "franchise": "wait till next year",
    "when": "1792806154",
    "detail": ""
-  },
-  {
-   "type": "FREE_AGENT",
-   "franchise": "Titsburgh Feelers",
-   "when": "1792767136",
-   "detail": "0506,|0528,"
-  },
-  {
-   "type": "FREE_AGENT",
-   "franchise": "Titsburgh Feelers",
-   "when": "1792766881",
-   "detail": "16747,|16582,"
   }
  ]
 }
