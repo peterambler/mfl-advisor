@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-03T19:15:14.597917+00:00",
+ "generated_at": "2026-11-04T19:31:28.565950+00:00",
  "season": "2026",
  "week": 1,
  "league": {
@@ -787,14 +787,6 @@
      "team": "WAS",
      "ytd": 54.9,
      "proj": 4.3
-    },
-    {
-     "id": "16195",
-     "name": "Dontayvion Wicks",
-     "pos": "WR",
-     "team": "PHI",
-     "ytd": 53.4,
-     "proj": 7.6
     },
     {
      "id": "16204",
@@ -2061,6 +2053,14 @@
    "pos": "WR",
    "team": "DAL",
    "ytd": 76.5,
+   "proj": 7.6
+  },
+  {
+   "id": "16195",
+   "name": "Dontayvion Wicks",
+   "pos": "WR",
+   "team": "PHI",
+   "ytd": 53.4,
    "proj": 7.6
   },
   {
@@ -4372,14 +4372,6 @@
    "ytd": 8.8
   },
   {
-   "id": "16595",
-   "name": "Audric Estime",
-   "pos": "RB",
-   "team": "NOS",
-   "ytd": 7.9,
-   "injury": "IR \u2014 Thigh"
-  },
-  {
    "id": "17407",
    "name": "Hayden Rucci",
    "pos": "TE",
@@ -4663,6 +4655,13 @@
    "ytd": 3.0
   },
   {
+   "id": "13963",
+   "name": "KhaDarel Hodge",
+   "pos": "WR",
+   "team": "SFO",
+   "ytd": 2.8
+  },
+  {
    "id": "15303",
    "name": "Simi Fehoko",
    "pos": "WR",
@@ -4866,15 +4865,15 @@
    "name": "Alexander Mattison",
    "pos": "RB",
    "team": "MIA"
-  },
-  {
-   "id": "17272",
-   "name": "Amar Johnson",
-   "pos": "RB",
-   "team": "LAC"
   }
  ],
  "recent_transactions": [
+  {
+   "type": "FREE_AGENT",
+   "franchise": "Titsburgh Feelers",
+   "when": "1793813555",
+   "detail": "|16195,"
+  },
   {
    "type": "IR",
    "franchise": "Titsburgh Feelers",
@@ -5108,12 +5107,6 @@
    "franchise": "wait till next year",
    "when": "1792806367",
    "detail": "17080,|"
-  },
-  {
-   "type": "IR",
-   "franchise": "wait till next year",
-   "when": "1792806154",
-   "detail": ""
   }
  ]
 }
