@@ -3,6 +3,90 @@
  "transactions": {
   "transaction": [
    {
+    "franchise": "0006",
+    "timestamp": "1793899468",
+    "transaction": "0525,|",
+    "type": "FREE_AGENT"
+   },
+   {
+    "franchise": "0003",
+    "timestamp": "1793887840",
+    "transaction": "15255,|11150,",
+    "type": "FREE_AGENT"
+   },
+   {
+    "franchise": "0002",
+    "timestamp": "1793868823",
+    "transaction": "|12616,",
+    "type": "FREE_AGENT"
+   },
+   {
+    "franchise": "0003",
+    "timestamp": "1793858400",
+    "transaction": "16626,|1.00|14071,",
+    "type": "BBID_WAIVER"
+   },
+   {
+    "franchise": "0003",
+    "timestamp": "1793858400",
+    "transaction": "11150,|1.00|0525,",
+    "type": "BBID_WAIVER"
+   },
+   {
+    "franchise": "0012",
+    "timestamp": "1793858400",
+    "transaction": "16292,|1.00|17222,",
+    "type": "BBID_WAIVER"
+   },
+   {
+    "franchise": "0003",
+    "timestamp": "1793858400",
+    "transaction": "16583,|1.00|17599,",
+    "type": "BBID_WAIVER"
+   },
+   {
+    "franchise": "0012",
+    "timestamp": "1793858400",
+    "transaction": "0532,|2.00|15331,",
+    "type": "BBID_WAIVER"
+   },
+   {
+    "franchise": "0009",
+    "timestamp": "1793858400",
+    "transaction": "17474,|7.00|17543,",
+    "type": "BBID_WAIVER"
+   },
+   {
+    "franchise": "",
+    "timestamp": "1793858400",
+    "transaction": "",
+    "type": "BBID_AUTO_PROCESS_WAIVERS"
+   },
+   {
+    "activated": "17498,",
+    "deactivated": "17472,",
+    "franchise": "0009",
+    "timestamp": "1793843782",
+    "type": "IR"
+   },
+   {
+    "franchise": "0006",
+    "timestamp": "1793824665",
+    "transaction": "|16896,",
+    "type": "FREE_AGENT"
+   },
+   {
+    "by_commish": "1",
+    "comments": "",
+    "expires": "1793854800",
+    "franchise": "0006",
+    "franchise1_gave_up": "13319,",
+    "franchise2": "0010",
+    "franchise2_gave_up": "12860,",
+    "timestamp": "1793823822",
+    "type": "TRADE"
+   },
+   {
     "franchise": "0005",
     "timestamp": "1793813555",
     "transaction": "|16195,",

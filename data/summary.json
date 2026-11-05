@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-04T19:31:28.565950+00:00",
+ "generated_at": "2026-11-05T19:40:51.657484+00:00",
  "season": "2026",
  "week": 1,
  "league": {
@@ -315,14 +315,6 @@
      "proj": 26.7
     },
     {
-     "id": "12616",
-     "name": "Jacoby Brissett",
-     "pos": "QB",
-     "team": "ARI",
-     "ytd": 128.5,
-     "proj": 24.2
-    },
-    {
      "id": "16579",
      "name": "Caleb Williams",
      "pos": "QB",
@@ -422,14 +414,6 @@
    },
    "players": [
     {
-     "id": "0525",
-     "name": "Tampa Bay Buccaneers",
-     "pos": "Def",
-     "team": "TBB",
-     "ytd": 70.0,
-     "proj": 1.4
-    },
-    {
      "id": "0521",
      "name": "Chicago Bears",
      "pos": "Def",
@@ -444,6 +428,14 @@
      "team": "DAL",
      "ytd": 73.0,
      "proj": 5.4
+    },
+    {
+     "id": "16583",
+     "name": "Michael Penix Jr.",
+     "pos": "QB",
+     "team": "ATL",
+     "ytd": 93.3,
+     "injury": "Out \u2014 Knee - ACL"
     },
     {
      "id": "13593",
@@ -478,11 +470,11 @@
      "proj": 12.4
     },
     {
-     "id": "14071",
-     "name": "David Montgomery",
+     "id": "15255",
+     "name": "Kenneth Gainwell",
      "pos": "RB",
-     "team": "HOU",
-     "ytd": 45.5,
+     "team": "TBB",
+     "ytd": 53.4,
      "proj": 10.2
     },
     {
@@ -535,12 +527,12 @@
      "proj": 15.1
     },
     {
-     "id": "17599",
-     "name": "Caleb Douglas",
+     "id": "16626",
+     "name": "Adonai Mitchell",
      "pos": "WR",
-     "team": "MIA",
-     "ytd": 47.6,
-     "proj": 6.3
+     "team": "NYJ",
+     "ytd": 48.5,
+     "proj": 6.7
     }
    ]
   },
@@ -808,6 +800,14 @@
    },
    "players": [
     {
+     "id": "0525",
+     "name": "Tampa Bay Buccaneers",
+     "pos": "Def",
+     "team": "TBB",
+     "ytd": 70.0,
+     "proj": 1.4
+    },
+    {
      "id": "0515",
      "name": "Seattle Seahawks",
      "pos": "Def",
@@ -816,12 +816,12 @@
      "proj": 6.8
     },
     {
-     "id": "16896",
-     "name": "Spencer Shrader",
+     "id": "12860",
+     "name": "Ka'imi Fairbairn",
      "pos": "PK",
-     "team": "IND",
-     "ytd": 89.0,
-     "proj": 5.2
+     "team": "HOU",
+     "ytd": 76.0,
+     "proj": 4.9
     },
     {
      "id": "10700",
@@ -862,14 +862,6 @@
      "team": "BUF",
      "ytd": 131.7,
      "proj": 16.1
-    },
-    {
-     "id": "13319",
-     "name": "Aaron Jones",
-     "pos": "RB",
-     "team": "MIN",
-     "ytd": 79.8,
-     "proj": 12.4
     },
     {
      "id": "16214",
@@ -1263,7 +1255,8 @@
      "pos": "RB",
      "team": "ARI",
      "ytd": 54.2,
-     "proj": 11.3
+     "proj": 11.3,
+     "slot": "INJURED_RESERVE"
     },
     {
      "id": "15716",
@@ -1274,20 +1267,20 @@
      "proj": 4.3
     },
     {
+     "id": "17474",
+     "name": "Emmett Johnson",
+     "pos": "RB",
+     "team": "KCC",
+     "ytd": 51.4,
+     "proj": 4.0
+    },
+    {
      "id": "17102",
      "name": "Tyler Warren",
      "pos": "TE",
      "team": "IND",
      "ytd": 81.5,
      "proj": 11.8
-    },
-    {
-     "id": "17543",
-     "name": "Kenyon Sadiq",
-     "pos": "TE",
-     "team": "NYJ",
-     "ytd": 52.6,
-     "proj": 7.8
     },
     {
      "id": "16615",
@@ -1334,8 +1327,7 @@
      "name": "Jordyn Tyson",
      "pos": "WR",
      "team": "NOS",
-     "injury": "IR-R \u2014 Hamstring",
-     "slot": "INJURED_RESERVE"
+     "injury": "IR-R \u2014 Hamstring"
     }
    ]
   },
@@ -1355,14 +1347,6 @@
      "team": "ATL",
      "ytd": 43.0,
      "proj": 5.3
-    },
-    {
-     "id": "12860",
-     "name": "Ka'imi Fairbairn",
-     "pos": "PK",
-     "team": "HOU",
-     "ytd": 76.0,
-     "proj": 4.9
     },
     {
      "id": "16846",
@@ -1395,6 +1379,14 @@
      "team": "SFO",
      "ytd": 144.0,
      "proj": 22.4
+    },
+    {
+     "id": "13319",
+     "name": "Aaron Jones",
+     "pos": "RB",
+     "team": "MIN",
+     "ytd": 79.8,
+     "proj": 12.4
     },
     {
      "id": "16432",
@@ -1628,12 +1620,20 @@
      "proj": 3.6
     },
     {
-     "id": "17222",
-     "name": "Tyler Loop",
+     "id": "0532",
+     "name": "Houston Texans",
+     "pos": "Def",
+     "team": "HOU",
+     "ytd": 35.0,
+     "proj": 6.1
+    },
+    {
+     "id": "16292",
+     "name": "Chad Ryland",
      "pos": "PK",
-     "team": "BAL",
-     "ytd": 69.0,
-     "proj": 6.3
+     "team": "ARI",
+     "ytd": 82.0,
+     "proj": 5.2
     },
     {
      "id": "14782",
@@ -1700,14 +1700,6 @@
      "proj": 10.9
     },
     {
-     "id": "15331",
-     "name": "Pat Freiermuth",
-     "pos": "TE",
-     "team": "PIT",
-     "ytd": 85.0,
-     "proj": 9.7
-    },
-    {
      "id": "15287",
      "name": "Amon-Ra St. Brown",
      "pos": "WR",
@@ -1766,6 +1758,14 @@
    "team": "IND",
    "ytd": 86.8,
    "proj": 24.5
+  },
+  {
+   "id": "12616",
+   "name": "Jacoby Brissett",
+   "pos": "QB",
+   "team": "ARI",
+   "ytd": 128.5,
+   "proj": 24.2
   },
   {
    "id": "14783",
@@ -1872,11 +1872,11 @@
    "proj": 10.7
   },
   {
-   "id": "15255",
-   "name": "Kenneth Gainwell",
+   "id": "14071",
+   "name": "David Montgomery",
    "pos": "RB",
-   "team": "TBB",
-   "ytd": 53.4,
+   "team": "HOU",
+   "ytd": 45.5,
    "proj": 10.2
   },
   {
@@ -1886,6 +1886,14 @@
    "team": "TBB",
    "ytd": 42.3,
    "proj": 10.2
+  },
+  {
+   "id": "15331",
+   "name": "Pat Freiermuth",
+   "pos": "TE",
+   "team": "PIT",
+   "ytd": 85.0,
+   "proj": 9.7
   },
   {
    "id": "15779",
@@ -2040,6 +2048,14 @@
    "proj": 7.9
   },
   {
+   "id": "17543",
+   "name": "Kenyon Sadiq",
+   "pos": "TE",
+   "team": "NYJ",
+   "ytd": 52.6,
+   "proj": 7.8
+  },
+  {
    "id": "16342",
    "name": "Demario Douglas",
    "pos": "WR",
@@ -2160,14 +2176,6 @@
    "proj": 6.8
   },
   {
-   "id": "16626",
-   "name": "Adonai Mitchell",
-   "pos": "WR",
-   "team": "NYJ",
-   "ytd": 48.5,
-   "proj": 6.7
-  },
-  {
    "id": "16757",
    "name": "Kimani Vidal",
    "pos": "RB",
@@ -2232,6 +2240,22 @@
    "proj": 6.4
   },
   {
+   "id": "17222",
+   "name": "Tyler Loop",
+   "pos": "PK",
+   "team": "BAL",
+   "ytd": 69.0,
+   "proj": 6.3
+  },
+  {
+   "id": "17599",
+   "name": "Caleb Douglas",
+   "pos": "WR",
+   "team": "MIA",
+   "ytd": 47.6,
+   "proj": 6.3
+  },
+  {
    "id": "16174",
    "name": "Chris Rodriguez",
    "pos": "RB",
@@ -2293,14 +2317,6 @@
    "pos": "WR",
    "team": "KCC",
    "ytd": 44.9,
-   "proj": 6.1
-  },
-  {
-   "id": "0532",
-   "name": "Houston Texans",
-   "pos": "Def",
-   "team": "HOU",
-   "ytd": 35.0,
    "proj": 6.1
   },
   {
@@ -2416,11 +2432,11 @@
    "proj": 5.3
   },
   {
-   "id": "16292",
-   "name": "Chad Ryland",
+   "id": "16896",
+   "name": "Spencer Shrader",
    "pos": "PK",
-   "team": "ARI",
-   "ytd": 82.0,
+   "team": "IND",
+   "ytd": 89.0,
    "proj": 5.2
   },
   {
@@ -2576,14 +2592,6 @@
    "proj": 4.7
   },
   {
-   "id": "13718",
-   "name": "Daniel Carlson",
-   "pos": "PK",
-   "team": "NOS",
-   "ytd": 47.0,
-   "proj": 4.6
-  },
-  {
    "id": "15337",
    "name": "Noah Gray",
    "pos": "TE",
@@ -2733,14 +2741,6 @@
    "team": "CIN",
    "ytd": 19.0,
    "proj": 4.1
-  },
-  {
-   "id": "17474",
-   "name": "Emmett Johnson",
-   "pos": "RB",
-   "team": "KCC",
-   "ytd": 51.4,
-   "proj": 4.0
   },
   {
    "id": "0529",
@@ -4059,14 +4059,6 @@
    "proj": 0.1
   },
   {
-   "id": "16583",
-   "name": "Michael Penix Jr.",
-   "pos": "QB",
-   "team": "ATL",
-   "ytd": 93.3,
-   "injury": "Out \u2014 Knee - ACL"
-  },
-  {
    "id": "13832",
    "name": "Jason Sanders",
    "pos": "PK",
@@ -4087,13 +4079,6 @@
    "pos": "QB",
    "team": "TBB",
    "ytd": 40.7
-  },
-  {
-   "id": "15589",
-   "name": "Cody White",
-   "pos": "WR",
-   "team": "LVR",
-   "ytd": 39.2
   },
   {
    "id": "15702",
@@ -4370,6 +4355,14 @@
    "pos": "RB",
    "team": "MIN",
    "ytd": 8.8
+  },
+  {
+   "id": "16595",
+   "name": "Audric Estime",
+   "pos": "RB",
+   "team": "NOS",
+   "ytd": 7.9,
+   "injury": "IR \u2014 Thigh"
   },
   {
    "id": "17407",
@@ -4870,6 +4863,84 @@
  "recent_transactions": [
   {
    "type": "FREE_AGENT",
+   "franchise": "Team Brown",
+   "when": "1793899468",
+   "detail": "0525,|"
+  },
+  {
+   "type": "FREE_AGENT",
+   "franchise": "wait till next year",
+   "when": "1793887840",
+   "detail": "15255,|11150,"
+  },
+  {
+   "type": "FREE_AGENT",
+   "franchise": "Clawing back up!",
+   "when": "1793868823",
+   "detail": "|12616,"
+  },
+  {
+   "type": "BBID_WAIVER",
+   "franchise": "wait till next year",
+   "when": "1793858400",
+   "detail": "16626,|1.00|14071,"
+  },
+  {
+   "type": "BBID_WAIVER",
+   "franchise": "wait till next year",
+   "when": "1793858400",
+   "detail": "11150,|1.00|0525,"
+  },
+  {
+   "type": "BBID_WAIVER",
+   "franchise": "Athenian Souvlakis",
+   "when": "1793858400",
+   "detail": "16292,|1.00|17222,"
+  },
+  {
+   "type": "BBID_WAIVER",
+   "franchise": "wait till next year",
+   "when": "1793858400",
+   "detail": "16583,|1.00|17599,"
+  },
+  {
+   "type": "BBID_WAIVER",
+   "franchise": "Athenian Souvlakis",
+   "when": "1793858400",
+   "detail": "0532,|2.00|15331,"
+  },
+  {
+   "type": "BBID_WAIVER",
+   "franchise": "Washington Misanthropes",
+   "when": "1793858400",
+   "detail": "17474,|7.00|17543,"
+  },
+  {
+   "type": "BBID_AUTO_PROCESS_WAIVERS",
+   "franchise": "",
+   "when": "1793858400",
+   "detail": ""
+  },
+  {
+   "type": "IR",
+   "franchise": "Washington Misanthropes",
+   "when": "1793843782",
+   "detail": ""
+  },
+  {
+   "type": "FREE_AGENT",
+   "franchise": "Team Brown",
+   "when": "1793824665",
+   "detail": "|16896,"
+  },
+  {
+   "type": "TRADE",
+   "franchise": "Team Brown",
+   "when": "1793823822",
+   "detail": ""
+  },
+  {
+   "type": "FREE_AGENT",
    "franchise": "Titsburgh Feelers",
    "when": "1793813555",
    "detail": "|16195,"
@@ -5029,84 +5100,6 @@
    "franchise": "Washington Misanthropes",
    "when": "1793267041",
    "detail": "17501,|16620,"
-  },
-  {
-   "type": "BBID_WAIVER",
-   "franchise": "wait till next year",
-   "when": "1793250000",
-   "detail": "0521,|1.00|0507,"
-  },
-  {
-   "type": "BBID_WAIVER",
-   "franchise": "Athenian Souvlakis",
-   "when": "1793250000",
-   "detail": "15331,|5.00|16171,"
-  },
-  {
-   "type": "BBID_WAIVER",
-   "franchise": "Clawing back up!",
-   "when": "1793250000",
-   "detail": "12616,|5.00|16846,"
-  },
-  {
-   "type": "BBID_WAIVER",
-   "franchise": "ASSASSINS",
-   "when": "1793250000",
-   "detail": "17475,|13.00|13163,"
-  },
-  {
-   "type": "BBID_AUTO_PROCESS_WAIVERS",
-   "franchise": "",
-   "when": "1793250000",
-   "detail": ""
-  },
-  {
-   "type": "FREE_AGENT",
-   "franchise": "Based Crack Cocaine Enjoyers",
-   "when": "1793186635",
-   "detail": "|0530,"
-  },
-  {
-   "type": "FREE_AGENT",
-   "franchise": "Based Crack Cocaine Enjoyers",
-   "when": "1793186578",
-   "detail": "|7836,"
-  },
-  {
-   "type": "LOCK_ALL_PLAYERS",
-   "franchise": "",
-   "when": "1792947600",
-   "detail": ""
-  },
-  {
-   "type": "FREE_AGENT",
-   "franchise": "Dawg Pound",
-   "when": "1792942229",
-   "detail": "15727,|14779,"
-  },
-  {
-   "type": "FREE_AGENT",
-   "franchise": "Washington Misanthropes",
-   "when": "1792935143",
-   "detail": "17502,|17501,"
-  },
-  {
-   "type": "FREE_AGENT",
-   "franchise": "Athenian Souvlakis",
-   "when": "1792865189",
-   "detail": "17254,|17502,"
-  },
-  {
-   "type": "FREE_AGENT",
-   "franchise": "ASSASSINS",
-   "when": "1792858260",
-   "detail": "13163,|16618,"
-  },
-  {
-   "type": "FREE_AGENT",
-   "franchise": "wait till next year",
-   "when": "1792806367",
-   "detail": "17080,|"
   }
  ]
 }
