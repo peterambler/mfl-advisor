@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-05T19:40:51.657484+00:00",
+ "generated_at": "2026-11-06T01:26:22.569527+00:00",
  "season": "2026",
  "week": 1,
  "league": {
@@ -955,14 +955,6 @@
      "proj": 22.9
     },
     {
-     "id": "16582",
-     "name": "Bo Nix",
-     "pos": "QB",
-     "team": "DEN",
-     "ytd": 127.2,
-     "proj": 24.8
-    },
-    {
      "id": "14797",
      "name": "D'Andre Swift",
      "pos": "RB",
@@ -977,6 +969,15 @@
      "team": "TBB",
      "ytd": 130.6,
      "proj": 13.6
+    },
+    {
+     "id": "14071",
+     "name": "David Montgomery",
+     "pos": "RB",
+     "team": "HOU",
+     "ytd": 45.5,
+     "proj": 10.2,
+     "slot": "INJURED_RESERVE"
     },
     {
      "id": "17477",
@@ -1040,8 +1041,7 @@
      "pos": "WR",
      "team": "TBB",
      "ytd": 71.4,
-     "proj": 13.5,
-     "slot": "INJURED_RESERVE"
+     "proj": 13.5
     },
     {
      "id": "16627",
@@ -1744,6 +1744,14 @@
    "proj": 26.1
   },
   {
+   "id": "16582",
+   "name": "Bo Nix",
+   "pos": "QB",
+   "team": "DEN",
+   "ytd": 127.2,
+   "proj": 24.8
+  },
+  {
    "id": "14779",
    "name": "Justin Herbert",
    "pos": "QB",
@@ -1870,14 +1878,6 @@
    "team": "LAC",
    "ytd": 32.9,
    "proj": 10.7
-  },
-  {
-   "id": "14071",
-   "name": "David Montgomery",
-   "pos": "RB",
-   "team": "HOU",
-   "ytd": 45.5,
-   "proj": 10.2
   },
   {
    "id": "15802",
@@ -4862,6 +4862,18 @@
  ],
  "recent_transactions": [
   {
+   "type": "IR",
+   "franchise": "ASSASSINS",
+   "when": "1793926173",
+   "detail": ""
+  },
+  {
+   "type": "FREE_AGENT",
+   "franchise": "ASSASSINS",
+   "when": "1793926145",
+   "detail": "14071,|16582,"
+  },
+  {
    "type": "FREE_AGENT",
    "franchise": "Team Brown",
    "when": "1793899468",
@@ -5088,18 +5100,6 @@
    "franchise": "ASSASSINS",
    "when": "1793268427",
    "detail": "0528,|0508,"
-  },
-  {
-   "type": "FREE_AGENT",
-   "franchise": "Washington Misanthropes",
-   "when": "1793267196",
-   "detail": "14983,|13719,"
-  },
-  {
-   "type": "FREE_AGENT",
-   "franchise": "Washington Misanthropes",
-   "when": "1793267041",
-   "detail": "17501,|16620,"
   }
  ]
 }
