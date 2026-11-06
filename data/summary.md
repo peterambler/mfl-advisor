@@ -1,6 +1,6 @@
 # Pete’s Perfect Team — week 1
 
-Cap City Football · 12 teams · generated 2026-11-06 01:26 UTC
+Cap City Football · 12 teams · generated 2026-11-06 19:03 UTC
 Record 6-3-0, 908.6 points for
 
 ## Roster
@@ -8,8 +8,8 @@ Record 6-3-0, 908.6 points for
 | Player | Pos | Team | Proj | YTD | Note |
 |---|---|---|---|---|---|
 | Cleveland Browns | Def | CLE | 3.3 | 42.0 |  |
+| Cam Little | PK | JAC | 5.2 | 79.0 |  |
 | Evan McPherson | PK | CIN | 5.8 | 63.0 |  |
-| Cam Little | PK | JAC | 5.2 | 62.0 |  |
 | Tyler Shough | QB | NOS | 22.0 | 143.2 |  |
 | Kyler Murray | QB | MIN | 19.0 | 82.9 |  |
 | Ollie Gordon | RB | MIA | 2.6 | 72.2 |  |

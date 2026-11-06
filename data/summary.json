@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-06T01:26:22.569527+00:00",
+ "generated_at": "2026-11-06T19:03:15.508899+00:00",
  "season": "2026",
  "week": 1,
  "league": {
@@ -27,20 +27,20 @@
     "proj": 3.3
    },
    {
+    "id": "16680",
+    "name": "Cam Little",
+    "pos": "PK",
+    "team": "JAC",
+    "ytd": 79.0,
+    "proj": 5.2
+   },
+   {
     "id": "15368",
     "name": "Evan McPherson",
     "pos": "PK",
     "team": "CIN",
     "ytd": 63.0,
     "proj": 5.8
-   },
-   {
-    "id": "16680",
-    "name": "Cam Little",
-    "pos": "PK",
-    "team": "JAC",
-    "ytd": 62.0,
-    "proj": 5.2
    },
    {
     "id": "17039",
@@ -244,7 +244,7 @@
      "name": "Brenton Strange",
      "pos": "TE",
      "team": "JAC",
-     "ytd": 75.8,
+     "ytd": 80.6,
      "proj": 9.4
     },
     {
@@ -252,7 +252,7 @@
      "name": "Zay Flowers",
      "pos": "WR",
      "team": "BAL",
-     "ytd": 122.2,
+     "ytd": 127.5,
      "proj": 14.9
     },
     {
@@ -264,20 +264,20 @@
      "proj": 2.9
     },
     {
+     "id": "14127",
+     "name": "Jakobi Meyers",
+     "pos": "WR",
+     "team": "JAC",
+     "ytd": 75.6,
+     "proj": 9.7
+    },
+    {
      "id": "15761",
      "name": "Khalil Shakir",
      "pos": "WR",
      "team": "BUF",
      "ytd": 66.4,
      "proj": 11.7
-    },
-    {
-     "id": "14127",
-     "name": "Jakobi Meyers",
-     "pos": "WR",
-     "team": "JAC",
-     "ytd": 65.1,
-     "proj": 9.7
     }
    ]
   },
@@ -458,7 +458,7 @@
      "name": "Bhayshul Tuten",
      "pos": "RB",
      "team": "JAC",
-     "ytd": 118.6,
+     "ytd": 127.5,
      "proj": 13.4
     },
     {
@@ -662,7 +662,7 @@
      "name": "Travis Hunter",
      "pos": "WR",
      "team": "JAC",
-     "ytd": 20.4,
+     "ytd": 19.4,
      "proj": 3.4
     }
    ]
@@ -677,20 +677,20 @@
    },
    "players": [
     {
+     "id": "0509",
+     "name": "Jacksonville Jaguars",
+     "pos": "Def",
+     "team": "JAC",
+     "ytd": 55.0,
+     "proj": 6.8
+    },
+    {
      "id": "0506",
      "name": "Cincinnati Bengals",
      "pos": "Def",
      "team": "CIN",
      "ytd": 52.0,
      "proj": 2.9
-    },
-    {
-     "id": "0509",
-     "name": "Jacksonville Jaguars",
-     "pos": "Def",
-     "team": "JAC",
-     "ytd": 47.0,
-     "proj": 6.8
     },
     {
      "id": "14717",
@@ -1147,7 +1147,7 @@
      "name": "Mark Andrews",
      "pos": "TE",
      "team": "BAL",
-     "ytd": 62.3,
+     "ytd": 66.7,
      "proj": 10.4
     },
     {
@@ -1295,7 +1295,7 @@
      "name": "Parker Washington",
      "pos": "WR",
      "team": "JAC",
-     "ytd": 95.5,
+     "ytd": 109.6,
      "proj": 11.5
     },
     {
@@ -1490,20 +1490,20 @@
      "proj": 3.3
     },
     {
+     "id": "16680",
+     "name": "Cam Little",
+     "pos": "PK",
+     "team": "JAC",
+     "ytd": 79.0,
+     "proj": 5.2
+    },
+    {
      "id": "15368",
      "name": "Evan McPherson",
      "pos": "PK",
      "team": "CIN",
      "ytd": 63.0,
      "proj": 5.8
-    },
-    {
-     "id": "16680",
-     "name": "Cam Little",
-     "pos": "PK",
-     "team": "JAC",
-     "ytd": 62.0,
-     "proj": 5.2
     },
     {
      "id": "17039",
@@ -1648,7 +1648,7 @@
      "name": "Trevor Lawrence",
      "pos": "QB",
      "team": "JAC",
-     "ytd": 150.7,
+     "ytd": 166.8,
      "proj": 24.4
     },
     {
@@ -1656,7 +1656,7 @@
      "name": "Derrick Henry",
      "pos": "RB",
      "team": "BAL",
-     "ytd": 136.7,
+     "ytd": 142.4,
      "proj": 17.8
     },
     {
@@ -2204,7 +2204,7 @@
    "name": "Rashod Bateman",
    "pos": "WR",
    "team": "BAL",
-   "ytd": 53.8,
+   "ytd": 55.4,
    "proj": 6.4
   },
   {
@@ -2248,19 +2248,19 @@
    "proj": 6.3
   },
   {
+   "id": "16174",
+   "name": "Chris Rodriguez",
+   "pos": "RB",
+   "team": "JAC",
+   "ytd": 54.4,
+   "proj": 6.3
+  },
+  {
    "id": "17599",
    "name": "Caleb Douglas",
    "pos": "WR",
    "team": "MIA",
    "ytd": 47.6,
-   "proj": 6.3
-  },
-  {
-   "id": "16174",
-   "name": "Chris Rodriguez",
-   "pos": "RB",
-   "team": "JAC",
-   "ytd": 43.2,
    "proj": 6.3
   },
   {
@@ -2284,7 +2284,7 @@
    "name": "Justice Hill",
    "pos": "RB",
    "team": "BAL",
-   "ytd": 42.9,
+   "ytd": 61.1,
    "proj": 6.2
   },
   {
@@ -3083,7 +3083,7 @@
    "name": "Nate Boerkircher",
    "pos": "TE",
    "team": "JAC",
-   "ytd": 29.4,
+   "ytd": 39.0,
    "proj": 2.6
   },
   {
@@ -3235,7 +3235,7 @@
    "name": "Baltimore Ravens",
    "pos": "Def",
    "team": "BAL",
-   "ytd": 33.0,
+   "ytd": 35.0,
    "proj": 2.3
   },
   {
@@ -3395,7 +3395,7 @@
    "name": "Matthew Hibner",
    "pos": "TE",
    "team": "BAL",
-   "ytd": 19.8,
+   "ytd": 21.4,
    "proj": 1.7
   },
   {
@@ -3550,19 +3550,19 @@
    "proj": 1.4
   },
   {
+   "id": "12155",
+   "name": "Ameer Abdullah",
+   "pos": "RB",
+   "team": "JAC",
+   "ytd": 11.0,
+   "proj": 1.3
+  },
+  {
    "id": "15785",
    "name": "Bo Melton",
    "pos": "WR",
    "team": "GBP",
    "ytd": 8.4,
-   "proj": 1.3
-  },
-  {
-   "id": "12155",
-   "name": "Ameer Abdullah",
-   "pos": "RB",
-   "team": "JAC",
-   "ytd": 8.0,
    "proj": 1.3
   },
   {
@@ -3880,7 +3880,7 @@
    "name": "Josh Cameron",
    "pos": "WR",
    "team": "JAC",
-   "ytd": 31.7,
+   "ytd": 33.3,
    "proj": 0.4
   },
   {
@@ -3993,7 +3993,7 @@
    "name": "LaJohntay Wester",
    "pos": "WR",
    "team": "BAL",
-   "ytd": 8.4,
+   "ytd": 8.8,
    "proj": 0.2
   },
   {
@@ -4440,11 +4440,26 @@
    "ytd": 6.3
   },
   {
+   "id": "16286",
+   "name": "Jake Moody",
+   "pos": "PK",
+   "team": "FA",
+   "ytd": 6.0
+  },
+  {
    "id": "15909",
    "name": "James Mitchell",
    "pos": "TE",
    "team": "FA",
    "ytd": 6.0
+  },
+  {
+   "id": "17644",
+   "name": "Tanner Koziol",
+   "pos": "TE",
+   "team": "JAC",
+   "ytd": 5.9,
+   "injury": "Out \u2014 Coach's Decision"
   },
   {
    "id": "11247",
@@ -4677,14 +4692,6 @@
    "injury": "Out \u2014 Coach's Decision"
   },
   {
-   "id": "17644",
-   "name": "Tanner Koziol",
-   "pos": "TE",
-   "team": "JAC",
-   "ytd": 2.0,
-   "injury": "Out \u2014 Coach's Decision"
-  },
-  {
    "id": "17069",
    "name": "Jaydon Blue",
    "pos": "RB",
@@ -4748,6 +4755,14 @@
    "ytd": 1.6
   },
   {
+   "id": "17760",
+   "name": "Joe Fagnano",
+   "pos": "QB",
+   "team": "BAL",
+   "ytd": 1.2,
+   "injury": "Out \u2014 Coach's Decision"
+  },
+  {
    "id": "17476",
    "name": "Nicholas Singleton",
    "pos": "RB",
@@ -4761,14 +4776,6 @@
    "pos": "RB",
    "team": "NYG",
    "ytd": 1.1
-  },
-  {
-   "id": "17760",
-   "name": "Joe Fagnano",
-   "pos": "QB",
-   "team": "BAL",
-   "ytd": 0.9,
-   "injury": "Out \u2014 Coach's Decision"
   },
   {
    "id": "17743",
@@ -4852,12 +4859,6 @@
    "pos": "WR",
    "team": "LAR",
    "ytd": 0.0
-  },
-  {
-   "id": "14223",
-   "name": "Alexander Mattison",
-   "pos": "RB",
-   "team": "MIA"
   }
  ],
  "recent_transactions": [
