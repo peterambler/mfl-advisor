@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-06T19:03:15.508899+00:00",
+ "generated_at": "2026-11-07T17:36:11.078822+00:00",
  "season": "2026",
  "week": 1,
  "league": {
@@ -1180,7 +1180,8 @@
      "pos": "WR",
      "team": "SFO",
      "ytd": 60.4,
-     "proj": 9.8
+     "proj": 9.8,
+     "slot": "INJURED_RESERVE"
     },
     {
      "id": "16614",
@@ -3956,14 +3957,6 @@
    "proj": 0.3
   },
   {
-   "id": "17696",
-   "name": "Carsen Ryan",
-   "pos": "TE",
-   "team": "CLE",
-   "ytd": 0.0,
-   "proj": 0.3
-  },
-  {
    "id": "16648",
    "name": "Jared Wiley",
    "pos": "TE",
@@ -4079,6 +4072,13 @@
    "pos": "QB",
    "team": "TBB",
    "ytd": 40.7
+  },
+  {
+   "id": "15589",
+   "name": "Cody White",
+   "pos": "WR",
+   "team": "LVR",
+   "ytd": 39.2
   },
   {
    "id": "15702",
@@ -4578,13 +4578,6 @@
    "ytd": 3.9
   },
   {
-   "id": "15767",
-   "name": "Velus Jones",
-   "pos": "WR",
-   "team": "SEA",
-   "ytd": 3.8
-  },
-  {
    "id": "17276",
    "name": "Andrew Armstrong",
    "pos": "WR",
@@ -4835,6 +4828,12 @@
    "injury": "IR-R \u2014 Undisclosed"
   },
   {
+   "id": "16868",
+   "name": "Adrian Martinez",
+   "pos": "QB",
+   "team": "FA"
+  },
+  {
    "id": "17336",
    "name": "Ahmani Marshall",
    "pos": "RB",
@@ -4862,6 +4861,12 @@
   }
  ],
  "recent_transactions": [
+  {
+   "type": "IR",
+   "franchise": "Based Crack Cocaine Enjoyers",
+   "when": "1794057925",
+   "detail": ""
+  },
   {
    "type": "IR",
    "franchise": "ASSASSINS",
@@ -5095,12 +5100,6 @@
    "franchise": "ASSASSINS",
    "when": "1793273013",
    "detail": "|16604,"
-  },
-  {
-   "type": "FREE_AGENT",
-   "franchise": "ASSASSINS",
-   "when": "1793268427",
-   "detail": "0528,|0508,"
   }
  ]
 }
