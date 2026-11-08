@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-07T17:36:11.078822+00:00",
+ "generated_at": "2026-11-08T17:45:50.243253+00:00",
  "season": "2026",
  "week": 1,
  "league": {
@@ -470,14 +470,6 @@
      "proj": 12.4
     },
     {
-     "id": "15255",
-     "name": "Kenneth Gainwell",
-     "pos": "RB",
-     "team": "TBB",
-     "ytd": 53.4,
-     "proj": 10.2
-    },
-    {
      "id": "13299",
      "name": "George Kittle",
      "pos": "TE",
@@ -533,6 +525,14 @@
      "team": "NYJ",
      "ytd": 48.5,
      "proj": 6.7
+    },
+    {
+     "id": "12785",
+     "name": "Demarcus Robinson",
+     "pos": "WR",
+     "team": "SFO",
+     "ytd": 19.4,
+     "proj": 5.0
     }
    ]
   },
@@ -560,6 +560,14 @@
      "team": "PIT",
      "ytd": 82.0,
      "proj": 5.1
+    },
+    {
+     "id": "17220",
+     "name": "Andres Borregales",
+     "pos": "PK",
+     "team": "NEP",
+     "ytd": 53.0,
+     "proj": 5.5
     },
     {
      "id": "9431",
@@ -599,7 +607,8 @@
      "pos": "RB",
      "team": "NYG",
      "ytd": 70.7,
-     "proj": 15.8
+     "proj": 15.8,
+     "slot": "INJURED_RESERVE"
     },
     {
      "id": "16178",
@@ -1260,14 +1269,6 @@
      "slot": "INJURED_RESERVE"
     },
     {
-     "id": "15716",
-     "name": "Brian Robinson",
-     "pos": "RB",
-     "team": "ATL",
-     "ytd": 53.1,
-     "proj": 4.3
-    },
-    {
      "id": "17474",
      "name": "Emmett Johnson",
      "pos": "RB",
@@ -1306,6 +1307,14 @@
      "team": "CLE",
      "ytd": 70.2,
      "proj": 5.3
+    },
+    {
+     "id": "17499",
+     "name": "Makai Lemon",
+     "pos": "WR",
+     "team": "PHI",
+     "ytd": 62.6,
+     "proj": 2.5
     },
     {
      "id": "17502",
@@ -1881,6 +1890,14 @@
    "proj": 10.7
   },
   {
+   "id": "15255",
+   "name": "Kenneth Gainwell",
+   "pos": "RB",
+   "team": "TBB",
+   "ytd": 53.4,
+   "proj": 10.2
+  },
+  {
    "id": "15802",
    "name": "Cade Otton",
    "pos": "TE",
@@ -2393,14 +2410,6 @@
    "proj": 5.6
   },
   {
-   "id": "17220",
-   "name": "Andres Borregales",
-   "pos": "PK",
-   "team": "NEP",
-   "ytd": 53.0,
-   "proj": 5.5
-  },
-  {
    "id": "14840",
    "name": "Brandon Aiyuk",
    "pos": "WR",
@@ -2502,14 +2511,6 @@
    "pos": "PK",
    "team": "LAC",
    "ytd": 48.0,
-   "proj": 5.0
-  },
-  {
-   "id": "12785",
-   "name": "Demarcus Robinson",
-   "pos": "WR",
-   "team": "SFO",
-   "ytd": 19.4,
    "proj": 5.0
   },
   {
@@ -2669,6 +2670,14 @@
    "pos": "TE",
    "team": "CAR",
    "ytd": 59.2,
+   "proj": 4.3
+  },
+  {
+   "id": "15716",
+   "name": "Brian Robinson",
+   "pos": "RB",
+   "team": "ATL",
+   "ytd": 53.1,
    "proj": 4.3
   },
   {
@@ -2861,14 +2870,6 @@
    "pos": "WR",
    "team": "NYG",
    "ytd": 46.8,
-   "proj": 3.4
-  },
-  {
-   "id": "16171",
-   "name": "Kendre Miller",
-   "pos": "RB",
-   "team": "NOS",
-   "ytd": 38.6,
    "proj": 3.4
   },
   {
@@ -3134,14 +3135,6 @@
    "team": "BUF",
    "proj": 2.6,
    "injury": "IR-PUP \u2014 Knee - ACL"
-  },
-  {
-   "id": "17499",
-   "name": "Makai Lemon",
-   "pos": "WR",
-   "team": "PHI",
-   "ytd": 62.6,
-   "proj": 2.5
   },
   {
    "id": "17605",
@@ -3957,6 +3950,14 @@
    "proj": 0.3
   },
   {
+   "id": "17696",
+   "name": "Carsen Ryan",
+   "pos": "TE",
+   "team": "CLE",
+   "ytd": 0.0,
+   "proj": 0.3
+  },
+  {
    "id": "16648",
    "name": "Jared Wiley",
    "pos": "TE",
@@ -4578,6 +4579,13 @@
    "ytd": 3.9
   },
   {
+   "id": "15767",
+   "name": "Velus Jones",
+   "pos": "WR",
+   "team": "SEA",
+   "ytd": 3.8
+  },
+  {
    "id": "17276",
    "name": "Andrew Armstrong",
    "pos": "WR",
@@ -4863,6 +4871,36 @@
  "recent_transactions": [
   {
    "type": "IR",
+   "franchise": "Dawg Pound",
+   "when": "1794159956",
+   "detail": ""
+  },
+  {
+   "type": "FREE_AGENT",
+   "franchise": "Fuck Tom",
+   "when": "1794150493",
+   "detail": "17220,|"
+  },
+  {
+   "type": "IR",
+   "franchise": "Fuck Tom",
+   "when": "1794150474",
+   "detail": ""
+  },
+  {
+   "type": "FREE_AGENT",
+   "franchise": "Washington Misanthropes",
+   "when": "1794147831",
+   "detail": "17499,|15716,"
+  },
+  {
+   "type": "FREE_AGENT",
+   "franchise": "wait till next year",
+   "when": "1794147266",
+   "detail": "12785,|15255,"
+  },
+  {
+   "type": "IR",
    "franchise": "Based Crack Cocaine Enjoyers",
    "when": "1794057925",
    "detail": ""
@@ -5070,36 +5108,6 @@
    "franchise": "Based Crack Cocaine Enjoyers",
    "when": "1793284893",
    "detail": ""
-  },
-  {
-   "type": "FREE_AGENT",
-   "franchise": "Based Crack Cocaine Enjoyers",
-   "when": "1793284843",
-   "detail": "0522,|"
-  },
-  {
-   "type": "FREE_AGENT",
-   "franchise": "Titsburgh Feelers",
-   "when": "1793278653",
-   "detail": "16617,|16747,"
-  },
-  {
-   "type": "FREE_AGENT",
-   "franchise": "Titsburgh Feelers",
-   "when": "1793278618",
-   "detail": "16757,|17256,"
-  },
-  {
-   "type": "IR",
-   "franchise": "ASSASSINS",
-   "when": "1793273026",
-   "detail": ""
-  },
-  {
-   "type": "FREE_AGENT",
-   "franchise": "ASSASSINS",
-   "when": "1793273013",
-   "detail": "|16604,"
   }
  ]
 }

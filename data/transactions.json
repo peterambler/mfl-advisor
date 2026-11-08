@@ -3,6 +3,38 @@
  "transactions": {
   "transaction": [
    {
+    "activated": "17066,",
+    "deactivated": "15727,",
+    "franchise": "0001",
+    "timestamp": "1794159956",
+    "type": "IR"
+   },
+   {
+    "franchise": "0004",
+    "timestamp": "1794150493",
+    "transaction": "17220,|",
+    "type": "FREE_AGENT"
+   },
+   {
+    "activated": "",
+    "deactivated": "17045,",
+    "franchise": "0004",
+    "timestamp": "1794150474",
+    "type": "IR"
+   },
+   {
+    "franchise": "0009",
+    "timestamp": "1794147831",
+    "transaction": "17499,|15716,",
+    "type": "FREE_AGENT"
+   },
+   {
+    "franchise": "0003",
+    "timestamp": "1794147266",
+    "transaction": "12785,|15255,",
+    "type": "FREE_AGENT"
+   },
+   {
     "activated": "",
     "deactivated": "14136,",
     "franchise": "0008",

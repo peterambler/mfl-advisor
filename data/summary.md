@@ -1,6 +1,6 @@
 # Pete’s Perfect Team — week 1
 
-Cap City Football · 12 teams · generated 2026-11-07 17:36 UTC
+Cap City Football · 12 teams · generated 2026-11-08 17:45 UTC
 Record 6-3-0, 908.6 points for
 
 ## Roster
@@ -27,12 +27,12 @@ Record 6-3-0, 908.6 points for
 
 **QB** — Jaxson Dart (NYG), Bo Nix (DEN), Justin Herbert (LAC), Daniel Jones (IND), Jacoby Brissett (ARI), Jalen Hurts (PHI), Baker Mayfield (TBB), Cam Ward (TEN)
 
-**RB** — De'Von Achane (MIA), MarShawn Lloyd (GBP), Jacory Croskey-Merritt (WAS), Tyrone Tracy (NYG), Tyjae Spears (TEN), Jonathon Brooks (CAR), Sione Vaki (DET), Kimani Vidal (LAC)
+**RB** — De'Von Achane (MIA), MarShawn Lloyd (GBP), Kenneth Gainwell (TBB), Jacory Croskey-Merritt (WAS), Tyrone Tracy (NYG), Tyjae Spears (TEN), Jonathon Brooks (CAR), Sione Vaki (DET)
 
 **WR** — Terry McLaurin (WAS), Alec Pierce (IND), Wan'Dale Robinson (TEN), Quentin Johnston (LAC), Romeo Doubs (NEP), Jerry Jeudy (CLE), Xavier Worthy (KCC), Chris Godwin (TBB)
 
 **TE** — Colby Parkinson (LAR), Cade Otton (TBB), Pat Freiermuth (PIT), Dalton Schultz (HOU), Oronde Gadsden (LAC), Mike Gesicki (CIN), Gunnar Helm (TEN), Greg Dulcich (MIA)
 
-**PK** — Tyler Loop (BAL), Wil Lutz (DEN), Andres Borregales (NEP), Cairo Santos (CHI), Jake Elliott (PHI), Spencer Shrader (IND), Eddy Pineiro (SFO), Cameron Dicker (LAC)
+**PK** — Tyler Loop (BAL), Wil Lutz (DEN), Cairo Santos (CHI), Jake Elliott (PHI), Spencer Shrader (IND), Eddy Pineiro (SFO), Cameron Dicker (LAC), Drew Stevens (WAS)
 
 **Def** — Los Angeles Chargers (LAC), Tennessee Titans (TEN), New Orleans Saints (NOS), Washington Commanders (WAS), New York Giants (NYG), Miami Dolphins (MIA), Philadelphia Eagles (PHI), New York Jets (NYJ)
