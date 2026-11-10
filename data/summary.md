@@ -1,7 +1,7 @@
 # Pete’s Perfect Team — week 1
 
-Cap City Football · 12 teams · generated 2026-11-09 22:03 UTC
-Record 6-3-0, 908.6 points for
+Cap City Football · 12 teams · generated 2026-11-10 19:27 UTC
+Record 7-3-0, 1052.5 points for
 
 ## Roster
 
@@ -16,7 +16,7 @@ Record 6-3-0, 908.6 points for
 | Omarion Hampton | RB | LAC | 13.8 | 68.2 |  |
 | Saquon Barkley | RB | PHI | 19.0 | 59.2 |  |
 | Dameon Pierce | RB | PHI |  | 30.2 |  |
-| Dalton Kincaid | TE | BUF | 11.0 | 90.4 |  |
+| Dalton Kincaid | TE | BUF | 11.0 | 96.9 |  |
 | Christian Watson | WR | GBP | 12.4 | 176.9 |  |
 | Ja'Marr Chase | WR | CIN | 21.9 | 159.7 |  |
 | Drake London | WR | ATL | 18.5 | 121.8 |  |
@@ -35,4 +35,4 @@ Record 6-3-0, 908.6 points for
 
 **PK** — Tyler Loop (BAL), Wil Lutz (DEN), Cairo Santos (CHI), Jake Elliott (PHI), Spencer Shrader (IND), Eddy Pineiro (SFO), Cameron Dicker (LAC), Dominic Zvada (NYG)
 
-**Def** — Los Angeles Chargers (LAC), Tennessee Titans (TEN), New Orleans Saints (NOS), Washington Commanders (WAS), New York Giants (NYG), Philadelphia Eagles (PHI), Miami Dolphins (MIA), New York Jets (NYJ)
+**Def** — Los Angeles Chargers (LAC), Tennessee Titans (TEN), New Orleans Saints (NOS), Washington Commanders (WAS), Detroit Lions (DET), New York Giants (NYG), Philadelphia Eagles (PHI), Miami Dolphins (MIA)

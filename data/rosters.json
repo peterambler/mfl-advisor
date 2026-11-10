@@ -70,7 +70,7 @@
       "status": "INJURED_RESERVE"
      }
     ],
-    "week": "9"
+    "week": "10"
    },
    {
     "id": "0002",
@@ -132,15 +132,11 @@
       "status": "ROSTER"
      }
     ],
-    "week": "9"
+    "week": "10"
    },
    {
     "id": "0003",
     "player": [
-     {
-      "id": "13593",
-      "status": "ROSTER"
-     },
      {
       "id": "15282",
       "status": "ROSTER"
@@ -196,9 +192,13 @@
      {
       "id": "11675",
       "status": "INJURED_RESERVE"
+     },
+     {
+      "id": "13593",
+      "status": "INJURED_RESERVE"
      }
     ],
-    "week": "9"
+    "week": "10"
    },
    {
     "id": "0004",
@@ -268,7 +268,7 @@
       "status": "INJURED_RESERVE"
      }
     ],
-    "week": "9"
+    "week": "10"
    },
    {
     "id": "0005",
@@ -330,7 +330,7 @@
       "status": "ROSTER"
      }
     ],
-    "week": "9"
+    "week": "10"
    },
    {
     "id": "0006",
@@ -396,7 +396,7 @@
       "status": "ROSTER"
      }
     ],
-    "week": "9"
+    "week": "10"
    },
    {
     "id": "0007",
@@ -423,10 +423,6 @@
      },
      {
       "id": "15756",
-      "status": "ROSTER"
-     },
-     {
-      "id": "14073",
       "status": "ROSTER"
      },
      {
@@ -463,10 +459,14 @@
      },
      {
       "id": "14071",
+      "status": "ROSTER"
+     },
+     {
+      "id": "14073",
       "status": "INJURED_RESERVE"
      }
     ],
-    "week": "9"
+    "week": "10"
    },
    {
     "id": "0008",
@@ -520,19 +520,11 @@
       "status": "ROSTER"
      },
      {
-      "id": "13133",
-      "status": "ROSTER"
-     },
-     {
-      "id": "0522",
-      "status": "ROSTER"
-     },
-     {
       "id": "14136",
-      "status": "INJURED_RESERVE"
+      "status": "ROSTER"
      }
     ],
-    "week": "9"
+    "week": "10"
    },
    {
     "id": "0009",
@@ -602,7 +594,7 @@
       "status": "INJURED_RESERVE"
      }
     ],
-    "week": "9"
+    "week": "10"
    },
    {
     "id": "0010",
@@ -672,7 +664,7 @@
       "status": "INJURED_RESERVE"
      }
     ],
-    "week": "9"
+    "week": "10"
    },
    {
     "id": "0011",
@@ -738,7 +730,7 @@
       "status": "ROSTER"
      }
     ],
-    "week": "9"
+    "week": "10"
    },
    {
     "id": "0012",
@@ -804,7 +796,7 @@
       "status": "ROSTER"
      }
     ],
-    "week": "9"
+    "week": "10"
    }
   ]
  },

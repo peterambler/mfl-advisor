@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-09T22:03:53.408063+00:00",
+ "generated_at": "2026-11-10T19:27:59.814349+00:00",
  "season": "2026",
  "week": 1,
  "league": {
@@ -12,10 +12,10 @@
   "franchise_id": "0011",
   "name": "Pete\u2019s Perfect Team",
   "record": {
-   "w": "6",
+   "w": "7",
    "l": "3",
    "t": "0",
-   "pf": "908.6"
+   "pf": "1052.5"
   },
   "roster": [
    {
@@ -94,7 +94,7 @@
     "name": "Dalton Kincaid",
     "pos": "TE",
     "team": "BUF",
-    "ytd": 90.4,
+    "ytd": 96.9,
     "proj": 11.0
    },
    {
@@ -143,10 +143,10 @@
   "0001": {
    "name": "Dawg Pound",
    "record": {
-    "w": "4",
+    "w": "5",
     "l": "5",
     "t": "0",
-    "pf": "918.5"
+    "pf": "1032.6"
    },
    "players": [
     {
@@ -264,30 +264,30 @@
      "proj": 2.9
     },
     {
+     "id": "15761",
+     "name": "Khalil Shakir",
+     "pos": "WR",
+     "team": "BUF",
+     "ytd": 76.2,
+     "proj": 11.7
+    },
+    {
      "id": "14127",
      "name": "Jakobi Meyers",
      "pos": "WR",
      "team": "JAC",
      "ytd": 75.6,
      "proj": 9.7
-    },
-    {
-     "id": "15761",
-     "name": "Khalil Shakir",
-     "pos": "WR",
-     "team": "BUF",
-     "ytd": 66.4,
-     "proj": 11.7
     }
    ]
   },
   "0002": {
    "name": "Clawing back up!",
    "record": {
-    "w": "6",
+    "w": "7",
     "l": "3",
     "t": "0",
-    "pf": "982.2"
+    "pf": "1146.7"
    },
    "players": [
     {
@@ -407,10 +407,10 @@
   "0003": {
    "name": "wait till next year",
    "record": {
-    "w": "5",
+    "w": "6",
     "l": "4",
     "t": "0",
-    "pf": "950.5"
+    "pf": "1045.4"
    },
    "players": [
     {
@@ -443,7 +443,8 @@
      "pos": "QB",
      "team": "BAL",
      "ytd": 88.8,
-     "proj": 25.6
+     "proj": 25.6,
+     "slot": "INJURED_RESERVE"
     },
     {
      "id": "15742",
@@ -540,9 +541,9 @@
    "name": "Fuck Tom",
    "record": {
     "w": "3",
-    "l": "6",
+    "l": "7",
     "t": "0",
-    "pf": "923.6"
+    "pf": "1022.0"
    },
    "players": [
     {
@@ -635,20 +636,20 @@
      "proj": 14.5
     },
     {
+     "id": "14836",
+     "name": "Justin Jefferson",
+     "pos": "WR",
+     "team": "MIN",
+     "ytd": 96.3,
+     "proj": 13.9
+    },
+    {
      "id": "16616",
      "name": "Rome Odunze",
      "pos": "WR",
      "team": "CHI",
      "ytd": 88.8,
      "proj": 12.1
-    },
-    {
-     "id": "14836",
-     "name": "Justin Jefferson",
-     "pos": "WR",
-     "team": "MIN",
-     "ytd": 87.5,
-     "proj": 13.9
     },
     {
      "id": "17497",
@@ -680,9 +681,9 @@
    "name": "Titsburgh Feelers",
    "record": {
     "w": "3",
-    "l": "6",
+    "l": "7",
     "t": "0",
-    "pf": "828.9"
+    "pf": "922.4"
    },
    "players": [
     {
@@ -770,7 +771,7 @@
      "name": "Keon Coleman",
      "pos": "WR",
      "team": "BUF",
-     "ytd": 66.7,
+     "ytd": 71.4,
      "proj": 7.2
     },
     {
@@ -803,9 +804,9 @@
    "name": "Team Brown",
    "record": {
     "w": "4",
-    "l": "5",
+    "l": "6",
     "t": "0",
-    "pf": "972.1"
+    "pf": "1074.0"
    },
    "players": [
     {
@@ -857,20 +858,20 @@
      "proj": 18.1
     },
     {
+     "id": "15715",
+     "name": "James Cook",
+     "pos": "RB",
+     "team": "BUF",
+     "ytd": 148.4,
+     "proj": 16.1
+    },
+    {
      "id": "15261",
      "name": "Chuba Hubbard",
      "pos": "RB",
      "team": "CAR",
      "ytd": 146.6,
      "proj": 11.7
-    },
-    {
-     "id": "15715",
-     "name": "James Cook",
-     "pos": "RB",
-     "team": "BUF",
-     "ytd": 131.7,
-     "proj": 16.1
     },
     {
      "id": "16214",
@@ -885,7 +886,7 @@
      "name": "T.J. Hockenson",
      "pos": "TE",
      "team": "MIN",
-     "ytd": 86.0,
+     "ytd": 94.1,
      "proj": 8.6
     },
     {
@@ -925,7 +926,7 @@
      "name": "D.J. Moore",
      "pos": "WR",
      "team": "BUF",
-     "ytd": 53.0,
+     "ytd": 59.6,
      "proj": 13.2
     }
    ]
@@ -933,10 +934,10 @@
   "0007": {
    "name": "ASSASSINS",
    "record": {
-    "w": "5",
+    "w": "6",
     "l": "4",
     "t": "0",
-    "pf": "1037.9"
+    "pf": "1162.2"
    },
    "players": [
     {
@@ -952,7 +953,7 @@
      "name": "Will Reichard",
      "pos": "PK",
      "team": "MIN",
-     "ytd": 80.0,
+     "ytd": 89.0,
      "proj": 5.1
     },
     {
@@ -993,8 +994,7 @@
      "pos": "RB",
      "team": "HOU",
      "ytd": 45.5,
-     "proj": 10.2,
-     "slot": "INJURED_RESERVE"
+     "proj": 10.2
     },
     {
      "id": "14073",
@@ -1002,7 +1002,8 @@
      "pos": "RB",
      "team": "GBP",
      "ytd": 43.8,
-     "injury": "Suspended \u2014 Personal"
+     "injury": "Suspended \u2014 Personal",
+     "slot": "INJURED_RESERVE"
     },
     {
      "id": "17475",
@@ -1053,20 +1054,20 @@
      "proj": 13.5
     },
     {
+     "id": "16186",
+     "name": "Jordan Addison",
+     "pos": "WR",
+     "team": "MIN",
+     "ytd": 54.0,
+     "proj": 10.5
+    },
+    {
      "id": "16627",
      "name": "Ladd McConkey",
      "pos": "WR",
      "team": "LAC",
      "ytd": 51.6,
      "proj": 13.7
-    },
-    {
-     "id": "16186",
-     "name": "Jordan Addison",
-     "pos": "WR",
-     "team": "MIN",
-     "ytd": 49.2,
-     "proj": 10.5
     }
    ]
   },
@@ -1074,19 +1075,11 @@
    "name": "Based Crack Cocaine Enjoyers",
    "record": {
     "w": "5",
-    "l": "4",
+    "l": "5",
     "t": "0",
-    "pf": "993.6"
+    "pf": "1064.6"
    },
    "players": [
-    {
-     "id": "0522",
-     "name": "Detroit Lions",
-     "pos": "Def",
-     "team": "DET",
-     "ytd": 43.0,
-     "proj": 3.1
-    },
     {
      "id": "12437",
      "name": "Jason Myers",
@@ -1100,7 +1093,7 @@
      "name": "Josh Allen",
      "pos": "QB",
      "team": "BUF",
-     "ytd": 204.9,
+     "ytd": 220.1,
      "proj": 29.2
     },
     {
@@ -1126,14 +1119,6 @@
      "team": "WAS",
      "ytd": 69.7,
      "proj": 6.8
-    },
-    {
-     "id": "13133",
-     "name": "Samaje Perine",
-     "pos": "RB",
-     "team": "CIN",
-     "ytd": 44.9,
-     "proj": 4.3
     },
     {
      "id": "14823",
@@ -1189,8 +1174,7 @@
      "pos": "WR",
      "team": "SFO",
      "ytd": 60.4,
-     "proj": 9.8,
-     "slot": "INJURED_RESERVE"
+     "proj": 9.8
     },
     {
      "id": "16614",
@@ -1206,9 +1190,9 @@
    "name": "Washington Misanthropes",
    "record": {
     "w": "4",
-    "l": "5",
+    "l": "6",
     "t": "0",
-    "pf": "959.9"
+    "pf": "1068.7"
    },
    "players": [
     {
@@ -1216,7 +1200,7 @@
      "name": "Minnesota Vikings",
      "pos": "Def",
      "team": "MIN",
-     "ytd": 63.0,
+     "ytd": 69.0,
      "proj": 3.2
     },
     {
@@ -1224,7 +1208,7 @@
      "name": "Tyler Bass",
      "pos": "PK",
      "team": "BUF",
-     "ytd": 78.0,
+     "ytd": 91.0,
      "proj": 5.8
     },
     {
@@ -1345,10 +1329,10 @@
   "0010": {
    "name": "Attitude",
    "record": {
-    "w": "3",
+    "w": "4",
     "l": "6",
     "t": "0",
-    "pf": "950.1"
+    "pf": "1080.0"
    },
    "players": [
     {
@@ -1396,7 +1380,7 @@
      "name": "Aaron Jones",
      "pos": "RB",
      "team": "MIN",
-     "ytd": 79.8,
+     "ytd": 82.9,
      "proj": 12.4
     },
     {
@@ -1430,7 +1414,7 @@
      "name": "Jordan Mason",
      "pos": "RB",
      "team": "MIN",
-     "ytd": 20.7,
+     "ytd": 26.9,
      "proj": 7.7
     },
     {
@@ -1486,10 +1470,10 @@
   "0011": {
    "name": "Pete\u2019s Perfect Team",
    "record": {
-    "w": "6",
+    "w": "7",
     "l": "3",
     "t": "0",
-    "pf": "908.6"
+    "pf": "1052.5"
    },
    "players": [
     {
@@ -1568,7 +1552,7 @@
      "name": "Dalton Kincaid",
      "pos": "TE",
      "team": "BUF",
-     "ytd": 90.4,
+     "ytd": 96.9,
      "proj": 11.0
     },
     {
@@ -1617,9 +1601,9 @@
    "name": "Athenian Souvlakis",
    "record": {
     "w": "6",
-    "l": "3",
+    "l": "4",
     "t": "0",
-    "pf": "1088.5"
+    "pf": "1219.7"
    },
    "players": [
     {
@@ -2111,7 +2095,7 @@
    "name": "Carson Wentz",
    "pos": "QB",
    "team": "MIN",
-   "ytd": 27.5,
+   "ytd": 25.6,
    "proj": 7.4
   },
   {
@@ -2327,7 +2311,7 @@
    "name": "Dawson Knox",
    "pos": "TE",
    "team": "BUF",
-   "ytd": 20.3,
+   "ytd": 28.9,
    "proj": 6.2
   },
   {
@@ -2519,7 +2503,7 @@
    "name": "Ray Davis",
    "pos": "RB",
    "team": "BUF",
-   "ytd": 11.2,
+   "ytd": 11.4,
    "proj": 5.0
   },
   {
@@ -2704,6 +2688,14 @@
    "pos": "Def",
    "team": "TEN",
    "ytd": 47.0,
+   "proj": 4.3
+  },
+  {
+   "id": "13133",
+   "name": "Samaje Perine",
+   "pos": "RB",
+   "team": "CIN",
+   "ytd": 44.9,
    "proj": 4.3
   },
   {
@@ -2963,11 +2955,19 @@
    "proj": 3.2
   },
   {
+   "id": "0522",
+   "name": "Detroit Lions",
+   "pos": "Def",
+   "team": "DET",
+   "ytd": 43.0,
+   "proj": 3.1
+  },
+  {
    "id": "17213",
    "name": "Jackson Hawes",
    "pos": "TE",
    "team": "BUF",
-   "ytd": 1.9,
+   "ytd": 3.9,
    "proj": 3.1
   },
   {
@@ -3151,7 +3151,7 @@
    "name": "Buffalo Bills",
    "pos": "Def",
    "team": "BUF",
-   "ytd": 36.0,
+   "ytd": 46.0,
    "proj": 2.4
   },
   {
@@ -3985,6 +3985,14 @@
    "proj": 0.2
   },
   {
+   "id": "17419",
+   "name": "Keleki Latu",
+   "pos": "TE",
+   "team": "BUF",
+   "ytd": 10.1,
+   "proj": 0.2
+  },
+  {
    "id": "16640",
    "name": "Jacob Cowing",
    "pos": "WR",
@@ -3998,14 +4006,6 @@
    "pos": "WR",
    "team": "BAL",
    "ytd": 8.8,
-   "proj": 0.2
-  },
-  {
-   "id": "17419",
-   "name": "Keleki Latu",
-   "pos": "TE",
-   "team": "BUF",
-   "ytd": 0.0,
    "proj": 0.2
   },
   {
@@ -4114,6 +4114,14 @@
    "ytd": 39.2
   },
   {
+   "id": "14095",
+   "name": "Ty Johnson",
+   "pos": "RB",
+   "team": "BUF",
+   "ytd": 39.1,
+   "injury": "Out \u2014 Hamstring"
+  },
+  {
    "id": "17192",
    "name": "Jordan Watkins",
    "pos": "WR",
@@ -4143,14 +4151,6 @@
    "team": "CAR",
    "ytd": 35.4,
    "injury": "Out \u2014 Coach's Decision"
-  },
-  {
-   "id": "14095",
-   "name": "Ty Johnson",
-   "pos": "RB",
-   "team": "BUF",
-   "ytd": 33.4,
-   "injury": "Out \u2014 Hamstring"
   },
   {
    "id": "17651",
@@ -4324,6 +4324,13 @@
    "ytd": 13.7
   },
   {
+   "id": "17360",
+   "name": "Myles Price",
+   "pos": "WR",
+   "team": "MIN",
+   "ytd": 13.4
+  },
+  {
    "id": "17679",
    "name": "Athan Kaliakmanis",
    "pos": "QB",
@@ -4346,13 +4353,6 @@
    "ytd": 12.0
   },
   {
-   "id": "17360",
-   "name": "Myles Price",
-   "pos": "WR",
-   "team": "MIN",
-   "ytd": 11.8
-  },
-  {
    "id": "17492",
    "name": "CJ Donaldson",
    "pos": "RB",
@@ -4365,6 +4365,13 @@
    "pos": "WR",
    "team": "HOU",
    "ytd": 11.0
+  },
+  {
+   "id": "14815",
+   "name": "DeeJay Dallas",
+   "pos": "RB",
+   "team": "MIN",
+   "ytd": 10.0
   },
   {
    "id": "17544",
@@ -4387,13 +4394,6 @@
    "pos": "TE",
    "team": "NYJ",
    "ytd": 8.9
-  },
-  {
-   "id": "14815",
-   "name": "DeeJay Dallas",
-   "pos": "RB",
-   "team": "MIN",
-   "ytd": 8.8
   },
   {
    "id": "17545",
@@ -4701,6 +4701,13 @@
    "ytd": 3.0
   },
   {
+   "id": "17282",
+   "name": "Max Brosmer",
+   "pos": "QB",
+   "team": "MIN",
+   "ytd": 2.9
+  },
+  {
    "id": "15303",
    "name": "Simi Fehoko",
    "pos": "WR",
@@ -4849,31 +4856,39 @@
    "team": "BAL",
    "ytd": 1.2,
    "injury": "Out \u2014 Coach's Decision"
-  },
-  {
-   "id": "17476",
-   "name": "Nicholas Singleton",
-   "pos": "RB",
-   "team": "TEN",
-   "ytd": 1.2,
-   "injury": "Out \u2014 Coach's Decision"
-  },
-  {
-   "id": "13455",
-   "name": "Patrick Ricard",
-   "pos": "RB",
-   "team": "NYG",
-   "ytd": 1.1
-  },
-  {
-   "id": "17743",
-   "name": "Jack Strand",
-   "pos": "QB",
-   "team": "ATL",
-   "ytd": 0.6
   }
  ],
  "recent_transactions": [
+  {
+   "type": "FREE_AGENT",
+   "franchise": "Based Crack Cocaine Enjoyers",
+   "when": "1794327611",
+   "detail": "|0522,"
+  },
+  {
+   "type": "IR",
+   "franchise": "Based Crack Cocaine Enjoyers",
+   "when": "1794327600",
+   "detail": ""
+  },
+  {
+   "type": "FREE_AGENT",
+   "franchise": "Based Crack Cocaine Enjoyers",
+   "when": "1794327590",
+   "detail": "|13133,"
+  },
+  {
+   "type": "IR",
+   "franchise": "wait till next year",
+   "when": "1794323316",
+   "detail": ""
+  },
+  {
+   "type": "IR",
+   "franchise": "ASSASSINS",
+   "when": "1794312583",
+   "detail": ""
+  },
   {
    "type": "LOCK_ALL_PLAYERS",
    "franchise": "",
@@ -5083,36 +5098,6 @@
    "franchise": "Athenian Souvlakis",
    "when": "1793314309",
    "detail": "|17254,"
-  },
-  {
-   "type": "FREE_AGENT",
-   "franchise": "Attitude",
-   "when": "1793298875",
-   "detail": "0526,|0532,"
-  },
-  {
-   "type": "FREE_AGENT",
-   "franchise": "Attitude",
-   "when": "1793298836",
-   "detail": "16846,|14122,"
-  },
-  {
-   "type": "FREE_AGENT",
-   "franchise": "Pete\u2019s Perfect Team",
-   "when": "1793292535",
-   "detail": "0507,|0505,"
-  },
-  {
-   "type": "FREE_AGENT",
-   "franchise": "Pete\u2019s Perfect Team",
-   "when": "1793292178",
-   "detail": "14056,|12678,"
-  },
-  {
-   "type": "FREE_AGENT",
-   "franchise": "wait till next year",
-   "when": "1793290979",
-   "detail": "0525,|17080,"
   }
  ]
 }
