@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-10T19:27:59.814349+00:00",
+ "generated_at": "2026-11-11T19:23:20.253110+00:00",
  "season": "2026",
  "week": 1,
  "league": {
@@ -392,7 +392,8 @@
      "pos": "WR",
      "team": "ARI",
      "ytd": 120.8,
-     "proj": 12.3
+     "proj": 12.3,
+     "slot": "INJURED_RESERVE"
     },
     {
      "id": "14104",
@@ -3730,14 +3731,6 @@
    "proj": 0.9
   },
   {
-   "id": "11679",
-   "name": "Odell Beckham",
-   "pos": "WR",
-   "team": "NYG",
-   "ytd": 0.0,
-   "proj": 0.9
-  },
-  {
    "id": "15693",
    "name": "Sam Howell",
    "pos": "QB",
@@ -4412,13 +4405,6 @@
    "injury": "Out \u2014 Coach's Decision"
   },
   {
-   "id": "17407",
-   "name": "Hayden Rucci",
-   "pos": "TE",
-   "team": "JAC",
-   "ytd": 7.9
-  },
-  {
    "id": "17707",
    "name": "J Michael Sturdivant",
    "pos": "WR",
@@ -4758,13 +4744,6 @@
    "ytd": 1.9
   },
   {
-   "id": "17069",
-   "name": "Jaydon Blue",
-   "pos": "RB",
-   "team": "PHI",
-   "ytd": 1.9
-  },
-  {
    "id": "13994",
    "name": "Pharaoh Brown",
    "pos": "TE",
@@ -4784,20 +4763,6 @@
    "pos": "WR",
    "team": "LVR",
    "ytd": 1.8
-  },
-  {
-   "id": "17334",
-   "name": "Jackson Meeks",
-   "pos": "WR",
-   "team": "DET",
-   "ytd": 1.8
-  },
-  {
-   "id": "13348",
-   "name": "David Moore",
-   "pos": "WR",
-   "team": "FA",
-   "ytd": 1.7
   },
   {
    "id": "13776",
@@ -4856,9 +4821,51 @@
    "team": "BAL",
    "ytd": 1.2,
    "injury": "Out \u2014 Coach's Decision"
+  },
+  {
+   "id": "17476",
+   "name": "Nicholas Singleton",
+   "pos": "RB",
+   "team": "TEN",
+   "ytd": 1.2,
+   "injury": "Out \u2014 Coach's Decision"
+  },
+  {
+   "id": "13455",
+   "name": "Patrick Ricard",
+   "pos": "RB",
+   "team": "NYG",
+   "ytd": 1.1
+  },
+  {
+   "id": "17743",
+   "name": "Jack Strand",
+   "pos": "QB",
+   "team": "ATL",
+   "ytd": 0.6
+  },
+  {
+   "id": "16359",
+   "name": "Lew Nichols",
+   "pos": "RB",
+   "team": "PIT",
+   "ytd": 0.6
+  },
+  {
+   "id": "15714",
+   "name": "Zamir White",
+   "pos": "RB",
+   "team": "NOS",
+   "ytd": 0.5
   }
  ],
  "recent_transactions": [
+  {
+   "type": "IR",
+   "franchise": "Clawing back up!",
+   "when": "1794402973",
+   "detail": ""
+  },
   {
    "type": "FREE_AGENT",
    "franchise": "Based Crack Cocaine Enjoyers",
@@ -5092,12 +5099,6 @@
    "franchise": "Athenian Souvlakis",
    "when": "1793314356",
    "detail": ""
-  },
-  {
-   "type": "FREE_AGENT",
-   "franchise": "Athenian Souvlakis",
-   "when": "1793314309",
-   "detail": "|17254,"
   }
  ]
 }

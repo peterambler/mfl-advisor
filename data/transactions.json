@@ -3,6 +3,13 @@
  "transactions": {
   "transaction": [
    {
+    "activated": "",
+    "deactivated": "16206,",
+    "franchise": "0002",
+    "timestamp": "1794402973",
+    "type": "IR"
+   },
+   {
     "franchise": "0008",
     "timestamp": "1794327611",
     "transaction": "|0522,",
