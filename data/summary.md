@@ -1,6 +1,6 @@
 # Pete’s Perfect Team — week 1
 
-Cap City Football · 12 teams · generated 2026-11-11 19:23 UTC
+Cap City Football · 12 teams · generated 2026-11-12 19:41 UTC
 Record 7-3-0, 1052.5 points for
 
 ## Roster
@@ -25,14 +25,14 @@ Record 7-3-0, 1052.5 points for
 
 ## Best available
 
-**QB** — Jaxson Dart (NYG), Bo Nix (DEN), Justin Herbert (LAC), Daniel Jones (IND), Jacoby Brissett (ARI), Jalen Hurts (PHI), Baker Mayfield (TBB), Cam Ward (TEN)
+**QB** — Jaxson Dart (NYG), Bo Nix (DEN), Justin Herbert (LAC), Daniel Jones (IND), Jalen Hurts (PHI), Baker Mayfield (TBB), Cam Ward (TEN), Aaron Rodgers (PIT)
 
-**RB** — De'Von Achane (MIA), MarShawn Lloyd (GBP), Kenneth Gainwell (TBB), Jacory Croskey-Merritt (WAS), Tyrone Tracy (NYG), Tyjae Spears (TEN), Jonathon Brooks (CAR), Sione Vaki (DET)
+**RB** — De'Von Achane (MIA), Kenneth Gainwell (TBB), Jacory Croskey-Merritt (WAS), Tyrone Tracy (NYG), Tyjae Spears (TEN), Jonathon Brooks (CAR), Sione Vaki (DET), Kimani Vidal (LAC)
 
-**WR** — Terry McLaurin (WAS), Alec Pierce (IND), Wan'Dale Robinson (TEN), Quentin Johnston (LAC), Romeo Doubs (NEP), Jerry Jeudy (CLE), Xavier Worthy (KCC), Chris Godwin (TBB)
+**WR** — Terry McLaurin (WAS), Alec Pierce (IND), Brian Thomas Jr. (JAC), Quentin Johnston (LAC), Romeo Doubs (NEP), Jerry Jeudy (CLE), Xavier Worthy (KCC), Chris Godwin (TBB)
 
-**TE** — Colby Parkinson (LAR), Cade Otton (TBB), Pat Freiermuth (PIT), Dalton Schultz (HOU), Oronde Gadsden (LAC), Mike Gesicki (CIN), Gunnar Helm (TEN), AJ Barner (SEA)
+**TE** — Colby Parkinson (LAR), Kyle Pitts (ATL), Cade Otton (TBB), Pat Freiermuth (PIT), Dalton Schultz (HOU), Oronde Gadsden (LAC), Mike Gesicki (CIN), Gunnar Helm (TEN)
 
-**PK** — Tyler Loop (BAL), Wil Lutz (DEN), Cairo Santos (CHI), Jake Elliott (PHI), Spencer Shrader (IND), Eddy Pineiro (SFO), Cameron Dicker (LAC), Dominic Zvada (NYG)
+**PK** — Tyler Loop (BAL), Wil Lutz (DEN), Andres Borregales (NEP), Cairo Santos (CHI), Jake Elliott (PHI), Eddy Pineiro (SFO), Chase McLaughlin (TBB), Cameron Dicker (LAC)
 
-**Def** — Los Angeles Chargers (LAC), Tennessee Titans (TEN), New Orleans Saints (NOS), Washington Commanders (WAS), Detroit Lions (DET), New York Giants (NYG), Philadelphia Eagles (PHI), Miami Dolphins (MIA)
+**Def** — Denver Broncos (DEN), Los Angeles Chargers (LAC), Chicago Bears (CHI), Tennessee Titans (TEN), New Orleans Saints (NOS), Washington Commanders (WAS), Detroit Lions (DET), New York Giants (NYG)
