@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-12T19:41:03.452620+00:00",
+ "generated_at": "2026-11-13T01:43:54.017957+00:00",
  "season": "2026",
  "week": 1,
  "league": {
@@ -1082,6 +1082,14 @@
     "pf": "1064.6"
    },
    "players": [
+    {
+     "id": "0531",
+     "name": "Baltimore Ravens",
+     "pos": "Def",
+     "team": "BAL",
+     "ytd": 35.0,
+     "proj": 2.3
+    },
     {
      "id": "12437",
      "name": "Jason Myers",
@@ -3237,14 +3245,6 @@
    "proj": 2.3
   },
   {
-   "id": "0531",
-   "name": "Baltimore Ravens",
-   "pos": "Def",
-   "team": "BAL",
-   "ytd": 35.0,
-   "proj": 2.3
-  },
-  {
    "id": "17475",
    "name": "Seth McGowan",
    "pos": "RB",
@@ -4864,9 +4864,22 @@
    "pos": "RB",
    "team": "NOS",
    "ytd": 0.5
+  },
+  {
+   "id": "14727",
+   "name": "Craig Reynolds",
+   "pos": "RB",
+   "team": "WAS",
+   "ytd": 0.4
   }
  ],
  "recent_transactions": [
+  {
+   "type": "FREE_AGENT",
+   "franchise": "Based Crack Cocaine Enjoyers",
+   "when": "1794527100",
+   "detail": "0531,|"
+  },
   {
    "type": "IR",
    "franchise": "Fuck Tom",
@@ -5100,12 +5113,6 @@
    "franchise": "Athenian Souvlakis",
    "when": "1793858400",
    "detail": "16292,|1.00|17222,"
-  },
-  {
-   "type": "BBID_WAIVER",
-   "franchise": "wait till next year",
-   "when": "1793858400",
-   "detail": "16583,|1.00|17599,"
   }
  ]
 }
