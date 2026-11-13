@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-13T01:43:54.017957+00:00",
+ "generated_at": "2026-11-13T19:23:13.261616+00:00",
  "season": "2026",
  "week": 1,
  "league": {
@@ -488,6 +488,22 @@
      "proj": 12.4
     },
     {
+     "id": "14086",
+     "name": "Justice Hill",
+     "pos": "RB",
+     "team": "BAL",
+     "ytd": 61.1,
+     "proj": 6.2
+    },
+    {
+     "id": "16174",
+     "name": "Chris Rodriguez",
+     "pos": "RB",
+     "team": "JAC",
+     "ytd": 54.4,
+     "proj": 6.3
+    },
+    {
      "id": "13299",
      "name": "George Kittle",
      "pos": "TE",
@@ -535,14 +551,6 @@
      "team": "TEN",
      "ytd": 77.3,
      "proj": 11.8
-    },
-    {
-     "id": "16626",
-     "name": "Adonai Mitchell",
-     "pos": "WR",
-     "team": "NYJ",
-     "ytd": 48.5,
-     "proj": 6.7
     }
    ]
   },
@@ -597,20 +605,20 @@
      "proj": 16.5
     },
     {
+     "id": "17045",
+     "name": "Cam Skattebo",
+     "pos": "RB",
+     "team": "NYG",
+     "ytd": 97.9,
+     "proj": 15.8
+    },
+    {
      "id": "17051",
      "name": "Quinshon Judkins",
      "pos": "RB",
      "team": "CLE",
      "ytd": 92.1,
      "proj": 9.6
-    },
-    {
-     "id": "17045",
-     "name": "Cam Skattebo",
-     "pos": "RB",
-     "team": "NYG",
-     "ytd": 70.7,
-     "proj": 15.8
     },
     {
      "id": "16178",
@@ -709,7 +717,7 @@
      "name": "Dominic Zvada",
      "pos": "PK",
      "team": "NYG",
-     "ytd": 78.0,
+     "ytd": 81.0,
      "proj": 4.9
     },
     {
@@ -769,6 +777,14 @@
      "proj": 12.6
     },
     {
+     "id": "17512",
+     "name": "Antonio Williams",
+     "pos": "WR",
+     "team": "WAS",
+     "ytd": 72.6,
+     "proj": 4.3
+    },
+    {
      "id": "16617",
      "name": "Keon Coleman",
      "pos": "WR",
@@ -783,14 +799,6 @@
      "team": "KCC",
      "ytd": 66.2,
      "proj": 14.6
-    },
-    {
-     "id": "17512",
-     "name": "Antonio Williams",
-     "pos": "WR",
-     "team": "WAS",
-     "ytd": 60.4,
-     "proj": 4.3
     },
     {
      "id": "16204",
@@ -1115,20 +1123,20 @@
      "proj": 7.4
     },
     {
+     "id": "15721",
+     "name": "Rachaad White",
+     "pos": "RB",
+     "team": "WAS",
+     "ytd": 75.9,
+     "proj": 6.8
+    },
+    {
      "id": "13132",
      "name": "Alvin Kamara",
      "pos": "RB",
      "team": "NOS",
      "ytd": 74.3,
      "injury": "Out \u2014 Knee - MCL"
-    },
-    {
-     "id": "15721",
-     "name": "Rachaad White",
-     "pos": "RB",
-     "team": "WAS",
-     "ytd": 69.7,
-     "proj": 6.8
     },
     {
      "id": "14823",
@@ -1283,7 +1291,7 @@
      "name": "Malik Nabers",
      "pos": "WR",
      "team": "NYG",
-     "ytd": 129.8,
+     "ytd": 137.2,
      "proj": 14.3
     },
     {
@@ -1374,7 +1382,7 @@
      "name": "Jayden Daniels",
      "pos": "QB",
      "team": "WAS",
-     "ytd": 126.8,
+     "ytd": 150.1,
      "proj": 23.7
     },
     {
@@ -1701,7 +1709,7 @@
      "name": "Isaiah Likely",
      "pos": "TE",
      "team": "NYG",
-     "ytd": 139.1,
+     "ytd": 170.0,
      "proj": 10.9
     },
     {
@@ -1733,7 +1741,7 @@
      "name": "Stefon Diggs",
      "pos": "WR",
      "team": "WAS",
-     "ytd": 90.3,
+     "ytd": 110.6,
      "proj": 10.8
     },
     {
@@ -2025,7 +2033,7 @@
    "name": "Theo Johnson",
    "pos": "TE",
    "team": "NYG",
-   "ytd": 16.9,
+   "ytd": 18.9,
    "proj": 8.5
   },
   {
@@ -2041,7 +2049,7 @@
    "name": "Chigoziem Okonkwo",
    "pos": "TE",
    "team": "WAS",
-   "ytd": 52.8,
+   "ytd": 59.8,
    "proj": 8.0
   },
   {
@@ -2129,7 +2137,7 @@
    "name": "Darnell Mooney",
    "pos": "WR",
    "team": "NYG",
-   "ytd": 31.9,
+   "ytd": 34.7,
    "proj": 7.2
   },
   {
@@ -2179,6 +2187,14 @@
    "team": "CAR",
    "ytd": 8.4,
    "proj": 6.8
+  },
+  {
+   "id": "16626",
+   "name": "Adonai Mitchell",
+   "pos": "WR",
+   "team": "NYJ",
+   "ytd": 48.5,
+   "proj": 6.7
   },
   {
    "id": "16757",
@@ -2253,19 +2269,19 @@
    "proj": 6.3
   },
   {
-   "id": "16174",
-   "name": "Chris Rodriguez",
-   "pos": "RB",
-   "team": "JAC",
-   "ytd": 54.4,
-   "proj": 6.3
-  },
-  {
    "id": "14080",
    "name": "Devin Singletary",
    "pos": "RB",
    "team": "NYG",
-   "ytd": 39.4,
+   "ytd": 39.7,
+   "proj": 6.3
+  },
+  {
+   "id": "16843",
+   "name": "Harrison Mevis",
+   "pos": "PK",
+   "team": "LAR",
+   "ytd": 30.0,
    "proj": 6.3
   },
   {
@@ -2275,14 +2291,6 @@
    "team": "LVR",
    "ytd": 4.5,
    "proj": 6.3
-  },
-  {
-   "id": "14086",
-   "name": "Justice Hill",
-   "pos": "RB",
-   "team": "BAL",
-   "ytd": 61.1,
-   "proj": 6.2
   },
   {
    "id": "15786",
@@ -2453,6 +2461,14 @@
    "proj": 5.2
   },
   {
+   "id": "15369",
+   "name": "Riley Patterson",
+   "pos": "PK",
+   "team": "MIA",
+   "ytd": 27.0,
+   "proj": 5.2
+  },
+  {
    "id": "17031",
    "name": "Shedeur Sanders",
    "pos": "QB",
@@ -2533,19 +2549,19 @@
    "proj": 5.0
   },
   {
+   "id": "17726",
+   "name": "Drew Stevens",
+   "pos": "PK",
+   "team": "WAS",
+   "ytd": 78.0,
+   "proj": 4.9
+  },
+  {
    "id": "17668",
    "name": "Trey Smack",
    "pos": "PK",
    "team": "GBP",
    "ytd": 72.0,
-   "proj": 4.9
-  },
-  {
-   "id": "17726",
-   "name": "Drew Stevens",
-   "pos": "PK",
-   "team": "WAS",
-   "ytd": 71.0,
    "proj": 4.9
   },
   {
@@ -2745,7 +2761,7 @@
    "name": "Jameis Winston",
    "pos": "QB",
    "team": "NYG",
-   "ytd": 83.6,
+   "ytd": 83.7,
    "proj": 4.1
   },
   {
@@ -2889,7 +2905,7 @@
    "name": "Malachi Fields",
    "pos": "WR",
    "team": "NYG",
-   "ytd": 53.8,
+   "ytd": 63.0,
    "proj": 3.4
   },
   {
@@ -2913,7 +2929,7 @@
    "name": "Washington Commanders",
    "pos": "Def",
    "team": "WAS",
-   "ytd": 46.0,
+   "ytd": 51.0,
    "proj": 3.3
   },
   {
@@ -3025,7 +3041,7 @@
    "name": "New York Giants",
    "pos": "Def",
    "team": "NYG",
-   "ytd": 44.0,
+   "ytd": 49.0,
    "proj": 3.0
   },
   {
@@ -3133,19 +3149,19 @@
    "proj": 2.6
   },
   {
+   "id": "16644",
+   "name": "Ben Sinnott",
+   "pos": "TE",
+   "team": "WAS",
+   "ytd": 17.1,
+   "proj": 2.6
+  },
+  {
    "id": "15916",
    "name": "Drew Ogletree",
    "pos": "TE",
    "team": "IND",
    "ytd": 5.0,
-   "proj": 2.6
-  },
-  {
-   "id": "16644",
-   "name": "Ben Sinnott",
-   "pos": "TE",
-   "team": "WAS",
-   "ytd": 1.8,
    "proj": 2.6
   },
   {
@@ -3740,6 +3756,14 @@
    "proj": 0.9
   },
   {
+   "id": "11679",
+   "name": "Odell Beckham",
+   "pos": "WR",
+   "team": "NYG",
+   "ytd": 0.0,
+   "proj": 0.9
+  },
+  {
    "id": "15693",
    "name": "Sam Howell",
    "pos": "QB",
@@ -4056,6 +4080,14 @@
    "ytd": 88.0
   },
   {
+   "id": "16584",
+   "name": "J.J. McCarthy",
+   "pos": "QB",
+   "team": "MIN",
+   "ytd": 59.4,
+   "injury": "Out \u2014 Coach's Decision"
+  },
+  {
    "id": "0530",
    "name": "San Francisco 49ers",
    "pos": "Def",
@@ -4063,19 +4095,19 @@
    "ytd": 52.0
   },
   {
+   "id": "15752",
+   "name": "Treylon Burks",
+   "pos": "WR",
+   "team": "WAS",
+   "ytd": 52.0,
+   "injury": "Out \u2014 Coach's Decision"
+  },
+  {
    "id": "17269",
    "name": "Efton Chism",
    "pos": "WR",
    "team": "NEP",
    "ytd": 51.2,
-   "injury": "Out \u2014 Coach's Decision"
-  },
-  {
-   "id": "15752",
-   "name": "Treylon Burks",
-   "pos": "WR",
-   "team": "WAS",
-   "ytd": 47.3,
    "injury": "Out \u2014 Coach's Decision"
   },
   {
@@ -4091,14 +4123,6 @@
    "pos": "QB",
    "team": "TBB",
    "ytd": 40.7
-  },
-  {
-   "id": "16584",
-   "name": "J.J. McCarthy",
-   "pos": "QB",
-   "team": "MIN",
-   "ytd": 39.3,
-   "injury": "Out \u2014 Coach's Decision"
   },
   {
    "id": "15589",
@@ -4162,6 +4186,13 @@
    "injury": "IR-R \u2014 Ankle"
   },
   {
+   "id": "13404",
+   "name": "Austin Ekeler",
+   "pos": "RB",
+   "team": "FA",
+   "ytd": 30.4
+  },
+  {
    "id": "17098",
    "name": "Tory Horton",
    "pos": "WR",
@@ -4191,13 +4222,6 @@
    "team": "FA",
    "ytd": 22.0,
    "injury": "Questionable \u2014 Hamstring"
-  },
-  {
-   "id": "13404",
-   "name": "Austin Ekeler",
-   "pos": "RB",
-   "team": "FA",
-   "ytd": 21.2
   },
   {
    "id": "16166",
@@ -4857,23 +4881,21 @@
    "pos": "RB",
    "team": "PIT",
    "ytd": 0.6
-  },
-  {
-   "id": "15714",
-   "name": "Zamir White",
-   "pos": "RB",
-   "team": "NOS",
-   "ytd": 0.5
-  },
-  {
-   "id": "14727",
-   "name": "Craig Reynolds",
-   "pos": "RB",
-   "team": "WAS",
-   "ytd": 0.4
   }
  ],
  "recent_transactions": [
+  {
+   "type": "FREE_AGENT",
+   "franchise": "wait till next year",
+   "when": "1794582584",
+   "detail": "14086,|16626,"
+  },
+  {
+   "type": "FREE_AGENT",
+   "franchise": "wait till next year",
+   "when": "1794581923",
+   "detail": "16174,|"
+  },
   {
    "type": "FREE_AGENT",
    "franchise": "Based Crack Cocaine Enjoyers",
@@ -5101,18 +5123,6 @@
    "franchise": "wait till next year",
    "when": "1793858400",
    "detail": "16626,|1.00|14071,"
-  },
-  {
-   "type": "BBID_WAIVER",
-   "franchise": "wait till next year",
-   "when": "1793858400",
-   "detail": "11150,|1.00|0525,"
-  },
-  {
-   "type": "BBID_WAIVER",
-   "franchise": "Athenian Souvlakis",
-   "when": "1793858400",
-   "detail": "16292,|1.00|17222,"
   }
  ]
 }
