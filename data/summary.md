@@ -1,6 +1,6 @@
 # Pete’s Perfect Team — week 1
 
-Cap City Football · 12 teams · generated 2026-11-13 19:23 UTC
+Cap City Football · 12 teams · generated 2026-11-14 17:46 UTC
 Record 7-3-0, 1052.5 points for
 
 ## Roster
@@ -31,8 +31,8 @@ Record 7-3-0, 1052.5 points for
 
 **WR** — Terry McLaurin (WAS), Alec Pierce (IND), Brian Thomas Jr. (JAC), Quentin Johnston (LAC), Romeo Doubs (NEP), Jerry Jeudy (CLE), Xavier Worthy (KCC), Chris Godwin (TBB)
 
-**TE** — Colby Parkinson (LAR), Kyle Pitts (ATL), Cade Otton (TBB), Pat Freiermuth (PIT), Dalton Schultz (HOU), Oronde Gadsden (LAC), Mike Gesicki (CIN), Gunnar Helm (TEN)
+**TE** — Colby Parkinson (LAR), Jake Ferguson (DAL), Cade Otton (TBB), Pat Freiermuth (PIT), Dalton Schultz (HOU), Oronde Gadsden (LAC), Mike Gesicki (CIN), Gunnar Helm (TEN)
 
 **PK** — Tyler Loop (BAL), Harrison Mevis (LAR), Wil Lutz (DEN), Andres Borregales (NEP), Cairo Santos (CHI), Jake Elliott (PHI), Eddy Pineiro (SFO), Riley Patterson (MIA)
 
-**Def** — Denver Broncos (DEN), Los Angeles Chargers (LAC), Chicago Bears (CHI), Tennessee Titans (TEN), New Orleans Saints (NOS), Washington Commanders (WAS), Detroit Lions (DET), New York Giants (NYG)
+**Def** — Denver Broncos (DEN), Los Angeles Chargers (LAC), Chicago Bears (CHI), Tennessee Titans (TEN), Washington Commanders (WAS), Detroit Lions (DET), New York Giants (NYG), Philadelphia Eagles (PHI)

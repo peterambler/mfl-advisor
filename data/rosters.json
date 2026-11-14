@@ -244,10 +244,6 @@
       "status": "ROSTER"
      },
      {
-      "id": "0504",
-      "status": "ROSTER"
-     },
-     {
       "id": "16178",
       "status": "ROSTER"
      },
@@ -264,12 +260,16 @@
       "status": "ROSTER"
      },
      {
-      "id": "15694",
-      "status": "INJURED_RESERVE"
+      "id": "15329",
+      "status": "ROSTER"
      },
      {
-      "id": "15799",
-      "status": "INJURED_RESERVE"
+      "id": "0529",
+      "status": "ROSTER"
+     },
+     {
+      "id": "17462",
+      "status": "ROSTER"
      }
     ],
     "week": "10"

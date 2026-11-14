@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-13T19:23:13.261616+00:00",
+ "generated_at": "2026-11-14T17:46:35.301674+00:00",
  "season": "2026",
  "week": 1,
  "league": {
@@ -564,12 +564,12 @@
    },
    "players": [
     {
-     "id": "0504",
-     "name": "New England Patriots",
+     "id": "0529",
+     "name": "New Orleans Saints",
      "pos": "Def",
-     "team": "NEP",
+     "team": "NOS",
      "ytd": 44.0,
-     "proj": 2.3
+     "proj": 4.0
     },
     {
      "id": "11936",
@@ -588,13 +588,12 @@
      "proj": 25.6
     },
     {
-     "id": "15694",
-     "name": "Malik Willis",
+     "id": "17462",
+     "name": "Fernando Mendoza",
      "pos": "QB",
-     "team": "MIA",
-     "ytd": 118.2,
-     "proj": 16.9,
-     "slot": "INJURED_RESERVE"
+     "team": "LVR",
+     "ytd": 2.7,
+     "proj": 2.7
     },
     {
      "id": "17042",
@@ -629,13 +628,12 @@
      "proj": 3.8
     },
     {
-     "id": "15799",
-     "name": "Jake Ferguson",
+     "id": "15329",
+     "name": "Kyle Pitts",
      "pos": "TE",
-     "team": "DAL",
-     "ytd": 60.1,
-     "proj": 11.0,
-     "slot": "INJURED_RESERVE"
+     "team": "ATL",
+     "ytd": 76.7,
+     "proj": 11.5
     },
     {
      "id": "14832",
@@ -1829,6 +1827,14 @@
    "proj": 19.7
   },
   {
+   "id": "15694",
+   "name": "Malik Willis",
+   "pos": "QB",
+   "team": "MIA",
+   "ytd": 118.2,
+   "proj": 16.9
+  },
+  {
    "id": "16167",
    "name": "De'Von Achane",
    "pos": "RB",
@@ -1869,20 +1875,20 @@
    "proj": 11.7
   },
   {
-   "id": "15329",
-   "name": "Kyle Pitts",
-   "pos": "TE",
-   "team": "ATL",
-   "ytd": 76.7,
-   "proj": 11.5
-  },
-  {
    "id": "16618",
    "name": "Brian Thomas Jr.",
    "pos": "WR",
    "team": "JAC",
    "ytd": 33.7,
    "proj": 11.3
+  },
+  {
+   "id": "15799",
+   "name": "Jake Ferguson",
+   "pos": "TE",
+   "team": "DAL",
+   "ytd": 60.1,
+   "proj": 11.0
   },
   {
    "id": "16188",
@@ -2645,14 +2651,6 @@
    "proj": 4.5
   },
   {
-   "id": "14105",
-   "name": "Marquise Brown",
-   "pos": "WR",
-   "team": "PHI",
-   "ytd": 12.5,
-   "proj": 4.5
-  },
-  {
    "id": "15252",
    "name": "Davis Mills",
    "pos": "QB",
@@ -2787,14 +2785,6 @@
    "team": "CIN",
    "ytd": 19.0,
    "proj": 4.1
-  },
-  {
-   "id": "0529",
-   "name": "New Orleans Saints",
-   "pos": "Def",
-   "team": "NOS",
-   "ytd": 44.0,
-   "proj": 4.0
   },
   {
    "id": "14870",
@@ -3101,14 +3091,6 @@
    "proj": 2.7
   },
   {
-   "id": "17462",
-   "name": "Fernando Mendoza",
-   "pos": "QB",
-   "team": "LVR",
-   "ytd": 2.7,
-   "proj": 2.7
-  },
-  {
    "id": "17529",
    "name": "Brenen Thompson",
    "pos": "WR",
@@ -3251,6 +3233,14 @@
    "team": "SFO",
    "ytd": 0.0,
    "proj": 2.4
+  },
+  {
+   "id": "0504",
+   "name": "New England Patriots",
+   "pos": "Def",
+   "team": "NEP",
+   "ytd": 44.0,
+   "proj": 2.3
   },
   {
    "id": "14239",
@@ -3768,6 +3758,14 @@
    "name": "Sam Howell",
    "pos": "QB",
    "team": "DAL",
+   "proj": 0.9
+  },
+  {
+   "id": "16422",
+   "name": "Nikko Remigio",
+   "pos": "WR",
+   "team": "KCC",
+   "ytd": -2.0,
    "proj": 0.9
   },
   {
@@ -4839,13 +4837,6 @@
    "ytd": 1.5
   },
   {
-   "id": "13148",
-   "name": "Dare Ogunbowale",
-   "pos": "RB",
-   "team": "LVR",
-   "ytd": 1.3
-  },
-  {
    "id": "17760",
    "name": "Joe Fagnano",
    "pos": "QB",
@@ -4881,9 +4872,40 @@
    "pos": "RB",
    "team": "PIT",
    "ytd": 0.6
+  },
+  {
+   "id": "15714",
+   "name": "Zamir White",
+   "pos": "RB",
+   "team": "NOS",
+   "ytd": 0.5
   }
  ],
  "recent_transactions": [
+  {
+   "type": "FREE_AGENT",
+   "franchise": "Fuck Tom",
+   "when": "1794667398",
+   "detail": "|15694,15799,"
+  },
+  {
+   "type": "FREE_AGENT",
+   "franchise": "Fuck Tom",
+   "when": "1794666944",
+   "detail": "17462,|"
+  },
+  {
+   "type": "FREE_AGENT",
+   "franchise": "Fuck Tom",
+   "when": "1794666863",
+   "detail": "0529,|0504,"
+  },
+  {
+   "type": "FREE_AGENT",
+   "franchise": "Fuck Tom",
+   "when": "1794666631",
+   "detail": "15329,|"
+  },
   {
    "type": "FREE_AGENT",
    "franchise": "wait till next year",
@@ -5099,30 +5121,6 @@
    "franchise": "ASSASSINS",
    "when": "1793926145",
    "detail": "14071,|16582,"
-  },
-  {
-   "type": "FREE_AGENT",
-   "franchise": "Team Brown",
-   "when": "1793899468",
-   "detail": "0525,|"
-  },
-  {
-   "type": "FREE_AGENT",
-   "franchise": "wait till next year",
-   "when": "1793887840",
-   "detail": "15255,|11150,"
-  },
-  {
-   "type": "FREE_AGENT",
-   "franchise": "Clawing back up!",
-   "when": "1793868823",
-   "detail": "|12616,"
-  },
-  {
-   "type": "BBID_WAIVER",
-   "franchise": "wait till next year",
-   "when": "1793858400",
-   "detail": "16626,|1.00|14071,"
   }
  ]
 }
