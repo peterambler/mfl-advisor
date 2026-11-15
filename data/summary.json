@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-14T17:46:35.301674+00:00",
+ "generated_at": "2026-11-15T18:37:59.394339+00:00",
  "season": "2026",
  "week": 1,
  "league": {
@@ -179,7 +179,8 @@
      "pos": "QB",
      "team": "SEA",
      "ytd": 105.3,
-     "proj": 18.8
+     "proj": 18.8,
+     "slot": "INJURED_RESERVE"
     },
     {
      "id": "16162",
@@ -219,8 +220,7 @@
      "pos": "RB",
      "team": "ARI",
      "ytd": 25.1,
-     "proj": 5.1,
-     "slot": "INJURED_RESERVE"
+     "proj": 5.1
     },
     {
      "id": "16169",
@@ -331,20 +331,20 @@
      "proj": 11.3
     },
     {
-     "id": "16596",
-     "name": "Braelon Allen",
-     "pos": "RB",
-     "team": "NYJ",
-     "ytd": 105.0,
-     "proj": 3.7
-    },
-    {
      "id": "15708",
      "name": "Breece Hall",
      "pos": "RB",
      "team": "NYJ",
      "ytd": 54.2,
      "proj": 11.9
+    },
+    {
+     "id": "17047",
+     "name": "Dylan Sampson",
+     "pos": "RB",
+     "team": "CLE",
+     "ytd": 31.4,
+     "proj": 5.7
     },
     {
      "id": "17104",
@@ -989,20 +989,20 @@
      "proj": 13.8
     },
     {
+     "id": "16596",
+     "name": "Braelon Allen",
+     "pos": "RB",
+     "team": "NYJ",
+     "ytd": 105.0,
+     "proj": 3.7
+    },
+    {
      "id": "17477",
      "name": "Jonah Coleman",
      "pos": "RB",
      "team": "DEN",
      "ytd": 62.9,
      "proj": 4.8
-    },
-    {
-     "id": "14071",
-     "name": "David Montgomery",
-     "pos": "RB",
-     "team": "HOU",
-     "ytd": 45.5,
-     "proj": 10.2
     },
     {
      "id": "14073",
@@ -1198,7 +1198,8 @@
      "pos": "WR",
      "team": "ARI",
      "ytd": 37.5,
-     "proj": 12.8
+     "proj": 12.8,
+     "slot": "INJURED_RESERVE"
     }
    ]
   },
@@ -1647,11 +1648,11 @@
      "proj": 6.1
     },
     {
-     "id": "16292",
-     "name": "Chad Ryland",
+     "id": "13719",
+     "name": "Eddy Pineiro",
      "pos": "PK",
-     "team": "ARI",
-     "ytd": 85.0,
+     "team": "SFO",
+     "ytd": 52.0,
      "proj": 5.2
     },
     {
@@ -1912,6 +1913,14 @@
    "pos": "TE",
    "team": "TBB",
    "ytd": 49.4,
+   "proj": 10.2
+  },
+  {
+   "id": "14071",
+   "name": "David Montgomery",
+   "pos": "RB",
+   "team": "HOU",
+   "ytd": 45.5,
    "proj": 10.2
   },
   {
@@ -2387,14 +2396,6 @@
    "proj": 5.7
   },
   {
-   "id": "17047",
-   "name": "Dylan Sampson",
-   "pos": "RB",
-   "team": "CLE",
-   "ytd": 31.4,
-   "proj": 5.7
-  },
-  {
    "id": "12956",
    "name": "Wil Lutz",
    "pos": "PK",
@@ -2451,11 +2452,11 @@
    "proj": 5.3
   },
   {
-   "id": "13719",
-   "name": "Eddy Pineiro",
+   "id": "16292",
+   "name": "Chad Ryland",
    "pos": "PK",
-   "team": "SFO",
-   "ytd": 52.0,
+   "team": "ARI",
+   "ytd": 85.0,
    "proj": 5.2
   },
   {
@@ -4883,6 +4884,42 @@
  ],
  "recent_transactions": [
   {
+   "type": "LOCK_ALL_PLAYERS",
+   "franchise": "",
+   "when": "1794765600",
+   "detail": ""
+  },
+  {
+   "type": "IR",
+   "franchise": "Dawg Pound",
+   "when": "1794749580",
+   "detail": ""
+  },
+  {
+   "type": "FREE_AGENT",
+   "franchise": "Athenian Souvlakis",
+   "when": "1794746837",
+   "detail": "13719,|16292,"
+  },
+  {
+   "type": "FREE_AGENT",
+   "franchise": "ASSASSINS",
+   "when": "1794718956",
+   "detail": "16596,|14071,"
+  },
+  {
+   "type": "FREE_AGENT",
+   "franchise": "Clawing back up!",
+   "when": "1794717421",
+   "detail": "17047,|16596,"
+  },
+  {
+   "type": "IR",
+   "franchise": "Based Crack Cocaine Enjoyers",
+   "when": "1794702469",
+   "detail": ""
+  },
+  {
    "type": "FREE_AGENT",
    "franchise": "Fuck Tom",
    "when": "1794667398",
@@ -5085,42 +5122,6 @@
    "franchise": "Fuck Tom",
    "when": "1794150493",
    "detail": "17220,|"
-  },
-  {
-   "type": "IR",
-   "franchise": "Fuck Tom",
-   "when": "1794150474",
-   "detail": ""
-  },
-  {
-   "type": "FREE_AGENT",
-   "franchise": "Washington Misanthropes",
-   "when": "1794147831",
-   "detail": "17499,|15716,"
-  },
-  {
-   "type": "FREE_AGENT",
-   "franchise": "wait till next year",
-   "when": "1794147266",
-   "detail": "12785,|15255,"
-  },
-  {
-   "type": "IR",
-   "franchise": "Based Crack Cocaine Enjoyers",
-   "when": "1794057925",
-   "detail": ""
-  },
-  {
-   "type": "IR",
-   "franchise": "ASSASSINS",
-   "when": "1793926173",
-   "detail": ""
-  },
-  {
-   "type": "FREE_AGENT",
-   "franchise": "ASSASSINS",
-   "when": "1793926145",
-   "detail": "14071,|16582,"
   }
  ]
 }

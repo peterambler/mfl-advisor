@@ -3,6 +3,44 @@
  "transactions": {
   "transaction": [
    {
+    "franchise": "",
+    "timestamp": "1794765600",
+    "transaction": "",
+    "type": "LOCK_ALL_PLAYERS"
+   },
+   {
+    "activated": "15727,",
+    "deactivated": "13592,",
+    "franchise": "0001",
+    "timestamp": "1794749580",
+    "type": "IR"
+   },
+   {
+    "franchise": "0012",
+    "timestamp": "1794746837",
+    "transaction": "13719,|16292,",
+    "type": "FREE_AGENT"
+   },
+   {
+    "franchise": "0007",
+    "timestamp": "1794718956",
+    "transaction": "16596,|14071,",
+    "type": "FREE_AGENT"
+   },
+   {
+    "franchise": "0002",
+    "timestamp": "1794717421",
+    "transaction": "17047,|16596,",
+    "type": "FREE_AGENT"
+   },
+   {
+    "activated": "",
+    "deactivated": "16614,",
+    "franchise": "0008",
+    "timestamp": "1794702469",
+    "type": "IR"
+   },
+   {
     "franchise": "0004",
     "timestamp": "1794667398",
     "transaction": "|15694,15799,",

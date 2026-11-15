@@ -1,6 +1,6 @@
 # Pete’s Perfect Team — week 1
 
-Cap City Football · 12 teams · generated 2026-11-14 17:46 UTC
+Cap City Football · 12 teams · generated 2026-11-15 18:37 UTC
 Record 7-3-0, 1052.5 points for
 
 ## Roster
@@ -27,12 +27,12 @@ Record 7-3-0, 1052.5 points for
 
 **QB** — Jaxson Dart (NYG), Bo Nix (DEN), Justin Herbert (LAC), Daniel Jones (IND), Jalen Hurts (PHI), Baker Mayfield (TBB), Cam Ward (TEN), Aaron Rodgers (PIT)
 
-**RB** — De'Von Achane (MIA), Kenneth Gainwell (TBB), Jacory Croskey-Merritt (WAS), Tyrone Tracy (NYG), Tyjae Spears (TEN), Jonathon Brooks (CAR), Sione Vaki (DET), Kimani Vidal (LAC)
+**RB** — De'Von Achane (MIA), Kenneth Gainwell (TBB), David Montgomery (HOU), Jacory Croskey-Merritt (WAS), Tyrone Tracy (NYG), Tyjae Spears (TEN), Jonathon Brooks (CAR), Sione Vaki (DET)
 
 **WR** — Terry McLaurin (WAS), Alec Pierce (IND), Brian Thomas Jr. (JAC), Quentin Johnston (LAC), Romeo Doubs (NEP), Jerry Jeudy (CLE), Xavier Worthy (KCC), Chris Godwin (TBB)
 
 **TE** — Colby Parkinson (LAR), Jake Ferguson (DAL), Cade Otton (TBB), Pat Freiermuth (PIT), Dalton Schultz (HOU), Oronde Gadsden (LAC), Mike Gesicki (CIN), Gunnar Helm (TEN)
 
-**PK** — Tyler Loop (BAL), Harrison Mevis (LAR), Wil Lutz (DEN), Andres Borregales (NEP), Cairo Santos (CHI), Jake Elliott (PHI), Eddy Pineiro (SFO), Riley Patterson (MIA)
+**PK** — Tyler Loop (BAL), Harrison Mevis (LAR), Wil Lutz (DEN), Andres Borregales (NEP), Cairo Santos (CHI), Jake Elliott (PHI), Chad Ryland (ARI), Riley Patterson (MIA)
 
 **Def** — Denver Broncos (DEN), Los Angeles Chargers (LAC), Chicago Bears (CHI), Tennessee Titans (TEN), Washington Commanders (WAS), Detroit Lions (DET), New York Giants (NYG), Philadelphia Eagles (PHI)
