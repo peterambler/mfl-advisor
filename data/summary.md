@@ -1,7 +1,7 @@
 # Pete’s Perfect Team — week 1
 
-Cap City Football · 12 teams · generated 2026-11-16 21:46 UTC
-Record 7-3-0, 1052.5 points for
+Cap City Football · 12 teams · generated 2026-11-17 20:37 UTC
+Record 8-3-0, 1185.4 points for
 
 ## Roster
 
@@ -13,7 +13,7 @@ Record 7-3-0, 1052.5 points for
 | Tyler Shough | QB | NOS | 22.0 | 177.5 |  |
 | Kyler Murray | QB | MIN | 19.0 | 82.9 |  |
 | Ollie Gordon | RB | MIA | 2.6 | 95.1 |  |
-| Omarion Hampton | RB | LAC | 13.8 | 68.2 |  |
+| Omarion Hampton | RB | LAC | 13.8 | 85.7 |  |
 | Saquon Barkley | RB | PHI | 19.0 | 59.2 |  |
 | Dameon Pierce | RB | PHI |  | 30.2 |  |
 | Dalton Kincaid | TE | BUF | 11.0 | 106.2 |  |
@@ -35,4 +35,4 @@ Record 7-3-0, 1052.5 points for
 
 **PK** — Tyler Loop (BAL), Harrison Mevis (LAR), Wil Lutz (DEN), Andres Borregales (NEP), Cairo Santos (CHI), Jake Elliott (PHI), Chad Ryland (ARI), Riley Patterson (MIA)
 
-**Def** — Denver Broncos (DEN), Los Angeles Chargers (LAC), Chicago Bears (CHI), Tennessee Titans (TEN), Washington Commanders (WAS), Detroit Lions (DET), New York Giants (NYG), Miami Dolphins (MIA)
+**Def** — Denver Broncos (DEN), Los Angeles Chargers (LAC), Atlanta Falcons (ATL), Chicago Bears (CHI), Tennessee Titans (TEN), Washington Commanders (WAS), Detroit Lions (DET), New York Giants (NYG)

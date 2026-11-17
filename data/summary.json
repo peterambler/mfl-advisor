@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-16T21:46:04.989647+00:00",
+ "generated_at": "2026-11-17T20:37:24.356177+00:00",
  "season": "2026",
  "week": 1,
  "league": {
@@ -12,10 +12,10 @@
   "franchise_id": "0011",
   "name": "Pete\u2019s Perfect Team",
   "record": {
-   "w": "7",
+   "w": "8",
    "l": "3",
    "t": "0",
-   "pf": "1052.5"
+   "pf": "1185.4"
   },
   "roster": [
    {
@@ -71,7 +71,7 @@
     "name": "Omarion Hampton",
     "pos": "RB",
     "team": "LAC",
-    "ytd": 68.2,
+    "ytd": 85.7,
     "proj": 13.8
    },
    {
@@ -143,10 +143,10 @@
   "0001": {
    "name": "Dawg Pound",
    "record": {
-    "w": "5",
+    "w": "6",
     "l": "5",
     "t": "0",
-    "pf": "1032.6"
+    "pf": "1141.8"
    },
    "players": [
     {
@@ -252,7 +252,7 @@
      "name": "Zay Flowers",
      "pos": "WR",
      "team": "BAL",
-     "ytd": 127.5,
+     "ytd": 138.9,
      "proj": 14.9
     },
     {
@@ -285,9 +285,9 @@
    "name": "Clawing back up!",
    "record": {
     "w": "7",
-    "l": "3",
+    "l": "4",
     "t": "0",
-    "pf": "1146.7"
+    "pf": "1251.5"
    },
    "players": [
     {
@@ -417,9 +417,9 @@
    "name": "wait till next year",
    "record": {
     "w": "6",
-    "l": "4",
+    "l": "5",
     "t": "0",
-    "pf": "1045.4"
+    "pf": "1141.6"
    },
    "players": [
     {
@@ -443,7 +443,7 @@
      "name": "Jacoby Brissett",
      "pos": "QB",
      "team": "ARI",
-     "ytd": 128.5,
+     "ytd": 143.7,
      "proj": 24.2
     },
     {
@@ -492,7 +492,7 @@
      "name": "Justice Hill",
      "pos": "RB",
      "team": "BAL",
-     "ytd": 61.1,
+     "ytd": 69.9,
      "proj": 6.2
     },
     {
@@ -558,9 +558,9 @@
    "name": "Fuck Tom",
    "record": {
     "w": "3",
-    "l": "7",
+    "l": "8",
     "t": "0",
-    "pf": "1022.0"
+    "pf": "1152.3"
    },
    "players": [
     {
@@ -624,7 +624,7 @@
      "name": "Keaton Mitchell",
      "pos": "RB",
      "team": "LAC",
-     "ytd": 50.6,
+     "ytd": 51.0,
      "proj": 3.8
     },
     {
@@ -688,10 +688,10 @@
   "0005": {
    "name": "Titsburgh Feelers",
    "record": {
-    "w": "3",
+    "w": "4",
     "l": "7",
     "t": "0",
-    "pf": "922.4"
+    "pf": "1032.3"
    },
    "players": [
     {
@@ -812,9 +812,9 @@
    "name": "Team Brown",
    "record": {
     "w": "4",
-    "l": "6",
+    "l": "7",
     "t": "0",
-    "pf": "1074.0"
+    "pf": "1219.5"
    },
    "players": [
     {
@@ -943,9 +943,9 @@
    "name": "ASSASSINS",
    "record": {
     "w": "6",
-    "l": "4",
+    "l": "5",
     "t": "0",
-    "pf": "1162.2"
+    "pf": "1256.7"
    },
    "players": [
     {
@@ -1082,10 +1082,10 @@
   "0008": {
    "name": "Based Crack Cocaine Enjoyers",
    "record": {
-    "w": "5",
+    "w": "6",
     "l": "5",
     "t": "0",
-    "pf": "1064.6"
+    "pf": "1226.3"
    },
    "players": [
     {
@@ -1093,7 +1093,7 @@
      "name": "Baltimore Ravens",
      "pos": "Def",
      "team": "BAL",
-     "ytd": 35.0,
+     "ytd": 37.0,
      "proj": 2.3
     },
     {
@@ -1157,7 +1157,7 @@
      "name": "Mark Andrews",
      "pos": "TE",
      "team": "BAL",
-     "ytd": 66.7,
+     "ytd": 85.0,
      "proj": 10.4
     },
     {
@@ -1206,10 +1206,10 @@
   "0009": {
    "name": "Washington Misanthropes",
    "record": {
-    "w": "4",
+    "w": "5",
     "l": "6",
     "t": "0",
-    "pf": "1068.7"
+    "pf": "1230.9"
    },
    "players": [
     {
@@ -1347,19 +1347,11 @@
    "name": "Attitude",
    "record": {
     "w": "4",
-    "l": "6",
+    "l": "7",
     "t": "0",
-    "pf": "1080.0"
+    "pf": "1220.5"
    },
    "players": [
-    {
-     "id": "0526",
-     "name": "Atlanta Falcons",
-     "pos": "Def",
-     "team": "ATL",
-     "ytd": 44.0,
-     "proj": 5.3
-    },
     {
      "id": "16846",
      "name": "Jake Bates",
@@ -1431,8 +1423,7 @@
      "pos": "RB",
      "team": "NOS",
      "ytd": 37.3,
-     "proj": 13.2,
-     "slot": "INJURED_RESERVE"
+     "proj": 13.2
     },
     {
      "id": "15972",
@@ -1495,10 +1486,10 @@
   "0011": {
    "name": "Pete\u2019s Perfect Team",
    "record": {
-    "w": "7",
+    "w": "8",
     "l": "3",
     "t": "0",
-    "pf": "1052.5"
+    "pf": "1185.4"
    },
    "players": [
     {
@@ -1554,7 +1545,7 @@
      "name": "Omarion Hampton",
      "pos": "RB",
      "team": "LAC",
-     "ytd": 68.2,
+     "ytd": 85.7,
      "proj": 13.8
     },
     {
@@ -1625,10 +1616,10 @@
   "0012": {
    "name": "Athenian Souvlakis",
    "record": {
-    "w": "6",
+    "w": "7",
     "l": "4",
     "t": "0",
-    "pf": "1219.7"
+    "pf": "1373.5"
    },
    "players": [
     {
@@ -1676,7 +1667,7 @@
      "name": "Derrick Henry",
      "pos": "RB",
      "team": "BAL",
-     "ytd": 142.4,
+     "ytd": 161.4,
      "proj": 17.8
     },
     {
@@ -1776,7 +1767,7 @@
    "name": "Justin Herbert",
    "pos": "QB",
    "team": "LAC",
-   "ytd": 96.8,
+   "ytd": 114.4,
    "proj": 24.7
   },
   {
@@ -1896,7 +1887,7 @@
    "name": "Quentin Johnston",
    "pos": "WR",
    "team": "LAC",
-   "ytd": 46.2,
+   "ytd": 47.8,
    "proj": 10.7
   },
   {
@@ -1968,7 +1959,7 @@
    "name": "Oronde Gadsden",
    "pos": "TE",
    "team": "LAC",
-   "ytd": 46.7,
+   "ytd": 48.6,
    "proj": 9.4
   },
   {
@@ -2176,7 +2167,7 @@
    "name": "Los Angeles Chargers",
    "pos": "Def",
    "team": "LAC",
-   "ytd": 35.0,
+   "ytd": 41.0,
    "proj": 7.0
   },
   {
@@ -2216,7 +2207,7 @@
    "name": "Kimani Vidal",
    "pos": "RB",
    "team": "LAC",
-   "ytd": 43.9,
+   "ytd": 47.3,
    "proj": 6.7
   },
   {
@@ -2240,7 +2231,7 @@
    "name": "Rashod Bateman",
    "pos": "WR",
    "team": "BAL",
-   "ytd": 55.4,
+   "ytd": 62.6,
    "proj": 6.4
   },
   {
@@ -2248,7 +2239,7 @@
    "name": "Tre Harris",
    "pos": "WR",
    "team": "LAC",
-   "ytd": 47.2,
+   "ytd": 60.8,
    "proj": 6.4
   },
   {
@@ -2308,6 +2299,14 @@
    "proj": 6.3
   },
   {
+   "id": "15795",
+   "name": "Charlie Kolar",
+   "pos": "TE",
+   "team": "LAC",
+   "ytd": 33.4,
+   "proj": 6.2
+  },
+  {
    "id": "15786",
    "name": "Jalen Nailor",
    "pos": "WR",
@@ -2321,14 +2320,6 @@
    "pos": "TE",
    "team": "BUF",
    "ytd": 30.8,
-   "proj": 6.2
-  },
-  {
-   "id": "15795",
-   "name": "Charlie Kolar",
-   "pos": "TE",
-   "team": "LAC",
-   "ytd": 29.4,
    "proj": 6.2
   },
   {
@@ -2436,6 +2427,14 @@
    "proj": 5.3
   },
   {
+   "id": "0526",
+   "name": "Atlanta Falcons",
+   "pos": "Def",
+   "team": "ATL",
+   "ytd": 44.0,
+   "proj": 5.3
+  },
+  {
    "id": "13303",
    "name": "Jake Elliott",
    "pos": "PK",
@@ -2472,7 +2471,7 @@
    "name": "Riley Patterson",
    "pos": "PK",
    "team": "MIA",
-   "ytd": 27.0,
+   "ytd": 35.0,
    "proj": 5.2
   },
   {
@@ -2516,6 +2515,14 @@
    "proj": 5.1
   },
   {
+   "id": "15979",
+   "name": "Cameron Dicker",
+   "pos": "PK",
+   "team": "LAC",
+   "ytd": 72.0,
+   "proj": 5.0
+  },
+  {
    "id": "16216",
    "name": "Darnell Washington",
    "pos": "TE",
@@ -2529,14 +2536,6 @@
    "pos": "Def",
    "team": "CHI",
    "ytd": 62.0,
-   "proj": 5.0
-  },
-  {
-   "id": "15979",
-   "name": "Cameron Dicker",
-   "pos": "PK",
-   "team": "LAC",
-   "ytd": 61.0,
    "proj": 5.0
   },
   {
@@ -3356,19 +3355,19 @@
    "proj": 2.0
   },
   {
+   "id": "17517",
+   "name": "Ja'Kobi Lane",
+   "pos": "WR",
+   "team": "BAL",
+   "ytd": 27.0,
+   "proj": 1.9
+  },
+  {
    "id": "13678",
    "name": "Ian Thomas",
    "pos": "TE",
    "team": "LVR",
    "ytd": 21.1,
-   "proj": 1.9
-  },
-  {
-   "id": "17517",
-   "name": "Ja'Kobi Lane",
-   "pos": "WR",
-   "team": "BAL",
-   "ytd": 17.9,
    "proj": 1.9
   },
   {
@@ -4150,6 +4149,13 @@
    "ytd": 40.7
   },
   {
+   "id": "17651",
+   "name": "Josh Cuevas",
+   "pos": "TE",
+   "team": "BAL",
+   "ytd": 40.5
+  },
+  {
    "id": "14095",
    "name": "Ty Johnson",
    "pos": "RB",
@@ -4180,13 +4186,6 @@
    "team": "PHI",
    "ytd": 36.6,
    "injury": "Out \u2014 Coach's Decision"
-  },
-  {
-   "id": "17651",
-   "name": "Josh Cuevas",
-   "pos": "TE",
-   "team": "BAL",
-   "ytd": 32.9
   },
   {
    "id": "13404",
@@ -4877,16 +4876,21 @@
    "team": "ARI",
    "ytd": 1.5,
    "injury": "Out \u2014 Coach's Decision"
-  },
-  {
-   "id": "12394",
-   "name": "DeAndre Carter",
-   "pos": "WR",
-   "team": "FA",
-   "ytd": 1.5
   }
  ],
  "recent_transactions": [
+  {
+   "type": "IR",
+   "franchise": "Attitude",
+   "when": "1794922528",
+   "detail": ""
+  },
+  {
+   "type": "FREE_AGENT",
+   "franchise": "Attitude",
+   "when": "1794922528",
+   "detail": "|0526,"
+  },
   {
    "type": "LOCK_ALL_PLAYERS",
    "franchise": "",
@@ -5114,18 +5118,6 @@
    "franchise": "",
    "when": "1794160800",
    "detail": ""
-  },
-  {
-   "type": "IR",
-   "franchise": "Dawg Pound",
-   "when": "1794159956",
-   "detail": ""
-  },
-  {
-   "type": "FREE_AGENT",
-   "franchise": "Fuck Tom",
-   "when": "1794150493",
-   "detail": "17220,|"
   }
  ]
 }

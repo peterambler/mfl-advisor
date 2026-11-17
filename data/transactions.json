@@ -3,6 +3,19 @@
  "transactions": {
   "transaction": [
    {
+    "activated": "15253,",
+    "deactivated": "",
+    "franchise": "0010",
+    "timestamp": "1794922528",
+    "type": "IR"
+   },
+   {
+    "franchise": "0010",
+    "timestamp": "1794922528",
+    "transaction": "|0526,",
+    "type": "FREE_AGENT"
+   },
+   {
     "franchise": "",
     "timestamp": "1794765600",
     "transaction": "",
