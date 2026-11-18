@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-17T20:37:24.356177+00:00",
+ "generated_at": "2026-11-18T20:10:12.454998+00:00",
  "season": "2026",
  "week": 1,
  "league": {
@@ -1010,16 +1010,7 @@
      "pos": "RB",
      "team": "GBP",
      "ytd": 43.8,
-     "injury": "Suspended \u2014 Personal",
-     "slot": "INJURED_RESERVE"
-    },
-    {
-     "id": "17274",
-     "name": "Corey Kiner",
-     "pos": "RB",
-     "team": "NEP",
-     "ytd": 34.5,
-     "proj": 2.9
+     "injury": "Suspended \u2014 Personal"
     },
     {
      "id": "16595",
@@ -1067,7 +1058,8 @@
      "pos": "WR",
      "team": "MIN",
      "ytd": 54.0,
-     "proj": 10.5
+     "proj": 10.5,
+     "slot": "INJURED_RESERVE"
     },
     {
      "id": "16627",
@@ -1716,7 +1708,8 @@
      "pos": "WR",
      "team": "LAR",
      "ytd": 173.6,
-     "proj": 21.6
+     "proj": 21.6,
+     "slot": "INJURED_RESERVE"
     },
     {
      "id": "15754",
@@ -1833,6 +1826,14 @@
    "team": "MIA",
    "ytd": 24.6,
    "proj": 16.8
+  },
+  {
+   "id": "13124",
+   "name": "Cooper Rush",
+   "pos": "QB",
+   "team": "ATL",
+   "ytd": 7.5,
+   "proj": 15.7
   },
   {
    "id": "14109",
@@ -2627,6 +2628,14 @@
    "proj": 4.7
   },
   {
+   "id": "13718",
+   "name": "Daniel Carlson",
+   "pos": "PK",
+   "team": "NOS",
+   "ytd": 47.0,
+   "proj": 4.6
+  },
+  {
    "id": "15337",
    "name": "Noah Gray",
    "pos": "TE",
@@ -3049,6 +3058,14 @@
    "team": "PHI",
    "ytd": 27.0,
    "proj": 3.0
+  },
+  {
+   "id": "17274",
+   "name": "Corey Kiner",
+   "pos": "RB",
+   "team": "NEP",
+   "ytd": 34.5,
+   "proj": 2.9
   },
   {
    "id": "12677",
@@ -3971,14 +3988,6 @@
    "proj": 0.3
   },
   {
-   "id": "17696",
-   "name": "Carsen Ryan",
-   "pos": "TE",
-   "team": "CLE",
-   "ytd": 0.0,
-   "proj": 0.3
-  },
-  {
    "id": "16648",
    "name": "Jared Wiley",
    "pos": "TE",
@@ -4200,14 +4209,6 @@
    "pos": "PK",
    "team": "FA",
    "ytd": 30.0
-  },
-  {
-   "id": "13347",
-   "name": "Zane Gonzalez",
-   "pos": "PK",
-   "team": "FA",
-   "ytd": 30.0,
-   "injury": "Questionable \u2014 Undisclosed"
   },
   {
    "id": "17360",
@@ -4505,6 +4506,13 @@
    "ytd": 8.0
   },
   {
+   "id": "17407",
+   "name": "Hayden Rucci",
+   "pos": "TE",
+   "team": "JAC",
+   "ytd": 7.9
+  },
+  {
    "id": "17644",
    "name": "Tanner Koziol",
    "pos": "TE",
@@ -4628,13 +4636,6 @@
    "team": "WAS",
    "ytd": 5.1,
    "injury": "IR-R \u2014 Quadriceps"
-  },
-  {
-   "id": "16203",
-   "name": "Charlie Jones",
-   "pos": "WR",
-   "team": "FA",
-   "ytd": 4.6
   },
   {
    "id": "17243",
@@ -4799,6 +4800,13 @@
    "ytd": 1.9
   },
   {
+   "id": "17069",
+   "name": "Jaydon Blue",
+   "pos": "RB",
+   "team": "PHI",
+   "ytd": 1.9
+  },
+  {
    "id": "13994",
    "name": "Pharaoh Brown",
    "pos": "TE",
@@ -4861,24 +4869,27 @@
    "pos": "QB",
    "team": "LAR",
    "ytd": 1.6
-  },
-  {
-   "id": "14083",
-   "name": "Travis Homer",
-   "pos": "RB",
-   "team": "PIT",
-   "ytd": 1.6
-  },
-  {
-   "id": "17466",
-   "name": "Carson Beck",
-   "pos": "QB",
-   "team": "ARI",
-   "ytd": 1.5,
-   "injury": "Out \u2014 Coach's Decision"
   }
  ],
  "recent_transactions": [
+  {
+   "type": "IR",
+   "franchise": "ASSASSINS",
+   "when": "1794963076",
+   "detail": ""
+  },
+  {
+   "type": "FREE_AGENT",
+   "franchise": "ASSASSINS",
+   "when": "1794963058",
+   "detail": "|17274,"
+  },
+  {
+   "type": "IR",
+   "franchise": "Athenian Souvlakis",
+   "when": "1794948963",
+   "detail": ""
+  },
   {
    "type": "IR",
    "franchise": "Attitude",
@@ -5100,24 +5111,6 @@
    "franchise": "Based Crack Cocaine Enjoyers",
    "when": "1794327590",
    "detail": "|13133,"
-  },
-  {
-   "type": "IR",
-   "franchise": "wait till next year",
-   "when": "1794323316",
-   "detail": ""
-  },
-  {
-   "type": "IR",
-   "franchise": "ASSASSINS",
-   "when": "1794312583",
-   "detail": ""
-  },
-  {
-   "type": "LOCK_ALL_PLAYERS",
-   "franchise": "",
-   "when": "1794160800",
-   "detail": ""
   }
  ]
 }
