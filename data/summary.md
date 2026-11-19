@@ -1,17 +1,17 @@
 # Pete’s Perfect Team — week 1
 
-Cap City Football · 12 teams · generated 2026-11-18 20:10 UTC
+Cap City Football · 12 teams · generated 2026-11-19 20:12 UTC
 Record 8-3-0, 1185.4 points for
 
 ## Roster
 
 | Player | Pos | Team | Proj | YTD | Note |
 |---|---|---|---|---|---|
-| Cleveland Browns | Def | CLE | 3.3 | 54.0 |  |
+| New York Jets | Def | NYJ | 2.8 | 50.0 |  |
 | Cam Little | PK | JAC | 5.2 | 97.0 |  |
 | Evan McPherson | PK | CIN | 5.8 | 84.0 |  |
 | Tyler Shough | QB | NOS | 22.0 | 177.5 |  |
-| Kyler Murray | QB | MIN | 19.0 | 82.9 |  |
+| Bo Nix | QB | DEN | 24.8 | 145.3 |  |
 | Ollie Gordon | RB | MIA | 2.6 | 95.1 |  |
 | Omarion Hampton | RB | LAC | 13.8 | 85.7 |  |
 | Saquon Barkley | RB | PHI | 19.0 | 59.2 |  |
@@ -25,14 +25,14 @@ Record 8-3-0, 1185.4 points for
 
 ## Best available
 
-**QB** — Jaxson Dart (NYG), Bo Nix (DEN), Justin Herbert (LAC), Daniel Jones (IND), Jalen Hurts (PHI), Baker Mayfield (TBB), Cam Ward (TEN), Aaron Rodgers (PIT)
+**QB** — Jaxson Dart (NYG), Daniel Jones (IND), Jalen Hurts (PHI), Baker Mayfield (TBB), Cam Ward (TEN), Kyler Murray (MIN), Malik Willis (MIA), Cooper Rush (ATL)
 
-**RB** — De'Von Achane (MIA), Kenneth Gainwell (TBB), David Montgomery (HOU), Jacory Croskey-Merritt (WAS), Tyrone Tracy (NYG), Tyjae Spears (TEN), Jonathon Brooks (CAR), Sione Vaki (DET)
+**RB** — De'Von Achane (MIA), Kenneth Gainwell (TBB), Jacory Croskey-Merritt (WAS), Tyrone Tracy (NYG), Tyjae Spears (TEN), Jonathon Brooks (CAR), Sione Vaki (DET), Kimani Vidal (LAC)
 
-**WR** — Terry McLaurin (WAS), Alec Pierce (IND), Brian Thomas Jr. (JAC), Quentin Johnston (LAC), Romeo Doubs (NEP), Jerry Jeudy (CLE), Xavier Worthy (KCC), Chris Godwin (TBB)
+**WR** — Terry McLaurin (WAS), Alec Pierce (IND), Wan'Dale Robinson (TEN), Brian Thomas Jr. (JAC), Quentin Johnston (LAC), Romeo Doubs (NEP), Jerry Jeudy (CLE), Xavier Worthy (KCC)
 
 **TE** — Colby Parkinson (LAR), Jake Ferguson (DAL), Cade Otton (TBB), Pat Freiermuth (PIT), Dalton Schultz (HOU), Oronde Gadsden (LAC), Mike Gesicki (CIN), Gunnar Helm (TEN)
 
-**PK** — Tyler Loop (BAL), Harrison Mevis (LAR), Wil Lutz (DEN), Andres Borregales (NEP), Cairo Santos (CHI), Jake Elliott (PHI), Chad Ryland (ARI), Riley Patterson (MIA)
+**PK** — Tyler Loop (BAL), Harrison Mevis (LAR), Wil Lutz (DEN), Andres Borregales (NEP), Jake Elliott (PHI), Chad Ryland (ARI), Eddy Pineiro (SFO), Riley Patterson (MIA)
 
-**Def** — Denver Broncos (DEN), Los Angeles Chargers (LAC), Atlanta Falcons (ATL), Chicago Bears (CHI), Tennessee Titans (TEN), Washington Commanders (WAS), Detroit Lions (DET), New York Giants (NYG)
+**Def** — Los Angeles Chargers (LAC), Atlanta Falcons (ATL), Chicago Bears (CHI), Tennessee Titans (TEN), Cleveland Browns (CLE), Washington Commanders (WAS), Detroit Lions (DET), New York Giants (NYG)
