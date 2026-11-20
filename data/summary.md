@@ -1,6 +1,6 @@
-# Pete’s Perfect Team — week 1
+# Peteâs Perfect Team — week 1
 
-Cap City Football · 12 teams · generated 2026-11-20 02:10 UTC
+Cap City Football · 12 teams · generated 2026-11-20 19:45 UTC
 Record 8-3-0, 1185.4 points for
 
 ## Roster
@@ -27,7 +27,7 @@ Record 8-3-0, 1185.4 points for
 
 **QB** — Jaxson Dart (NYG), Daniel Jones (IND), Jalen Hurts (PHI), Baker Mayfield (TBB), Cam Ward (TEN), Kyler Murray (MIN), Malik Willis (MIA), Cooper Rush (ATL)
 
-**RB** — De'Von Achane (MIA), Kenneth Gainwell (TBB), Jacory Croskey-Merritt (WAS), Tyrone Tracy (NYG), Tyjae Spears (TEN), Jonathon Brooks (CAR), Sione Vaki (DET), Kimani Vidal (LAC)
+**RB** — De'Von Achane (MIA), Tyrone Tracy (NYG), Tyjae Spears (TEN), Jonathon Brooks (CAR), Sione Vaki (DET), Kimani Vidal (LAC), Devin Singletary (NYG), Dylan Sampson (CLE)
 
 **WR** — Terry McLaurin (WAS), Alec Pierce (IND), Wan'Dale Robinson (TEN), Brian Thomas Jr. (JAC), Quentin Johnston (LAC), Romeo Doubs (NEP), Jerry Jeudy (CLE), Xavier Worthy (KCC)
 
@@ -35,4 +35,4 @@ Record 8-3-0, 1185.4 points for
 
 **PK** — Tyler Loop (BAL), Harrison Mevis (LAR), Wil Lutz (DEN), Andres Borregales (NEP), Jake Elliott (PHI), Chad Ryland (ARI), Eddy Pineiro (SFO), Riley Patterson (MIA)
 
-**Def** — Los Angeles Chargers (LAC), Atlanta Falcons (ATL), Chicago Bears (CHI), Tennessee Titans (TEN), Cleveland Browns (CLE), Washington Commanders (WAS), Detroit Lions (DET), New York Giants (NYG)
+**Def** — Los Angeles Chargers (LAC), Atlanta Falcons (ATL), Tennessee Titans (TEN), Cleveland Browns (CLE), Washington Commanders (WAS), Detroit Lions (DET), New York Giants (NYG), Miami Dolphins (MIA)
