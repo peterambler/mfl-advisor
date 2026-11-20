@@ -1,6 +1,6 @@
 # Pete’s Perfect Team — week 1
 
-Cap City Football · 12 teams · generated 2026-11-19 20:12 UTC
+Cap City Football · 12 teams · generated 2026-11-20 02:10 UTC
 Record 8-3-0, 1185.4 points for
 
 ## Roster

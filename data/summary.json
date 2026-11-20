@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-19T20:12:17.847252+00:00",
+ "generated_at": "2026-11-20T02:10:03.204061+00:00",
  "season": "2026",
  "week": 1,
  "league": {
@@ -1062,20 +1062,19 @@
      "slot": "INJURED_RESERVE"
     },
     {
+     "id": "17752",
+     "name": "Dohnte Meyers",
+     "pos": "WR",
+     "team": "CIN",
+     "ytd": 52.8
+    },
+    {
      "id": "16627",
      "name": "Ladd McConkey",
      "pos": "WR",
      "team": "LAC",
      "ytd": 51.6,
      "proj": 13.7
-    },
-    {
-     "id": "12645",
-     "name": "Laquon Treadwell",
-     "pos": "WR",
-     "team": "IND",
-     "ytd": 48.9,
-     "proj": 0.1
     }
    ]
   },
@@ -4036,6 +4035,14 @@
    "proj": 0.2
   },
   {
+   "id": "12645",
+   "name": "Laquon Treadwell",
+   "pos": "WR",
+   "team": "IND",
+   "ytd": 48.9,
+   "proj": 0.1
+  },
+  {
    "id": "17038",
    "name": "Kyle McCord",
    "pos": "QB",
@@ -4088,13 +4095,6 @@
    "pos": "Def",
    "team": "SFO",
    "ytd": 56.0
-  },
-  {
-   "id": "17752",
-   "name": "Dohnte Meyers",
-   "pos": "WR",
-   "team": "CIN",
-   "ytd": 52.8
   },
   {
    "id": "15752",
@@ -4881,6 +4881,18 @@
  "recent_transactions": [
   {
    "type": "FREE_AGENT",
+   "franchise": "ASSASSINS",
+   "when": "1795132778",
+   "detail": "17752,|"
+  },
+  {
+   "type": "FREE_AGENT",
+   "franchise": "ASSASSINS",
+   "when": "1795132724",
+   "detail": "|12645,"
+  },
+  {
+   "type": "FREE_AGENT",
    "franchise": "Dawg Pound",
    "when": "1795116572",
    "detail": "14779,|15727,"
@@ -5106,18 +5118,6 @@
    "franchise": "Clawing back up!",
    "when": "1794505147",
    "detail": "16201,|0511,"
-  },
-  {
-   "type": "FREE_AGENT",
-   "franchise": "wait till next year",
-   "when": "1794497216",
-   "detail": "15757,|12785,"
-  },
-  {
-   "type": "FREE_AGENT",
-   "franchise": "Titsburgh Feelers",
-   "when": "1794494891",
-   "detail": "17736,|14717,"
   }
  ]
 }
