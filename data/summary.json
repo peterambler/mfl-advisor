@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-20T19:45:49.447074+00:00",
+ "generated_at": "2026-11-21T18:51:33.333556+00:00",
  "season": "2026",
  "week": 1,
  "league": {
@@ -10,7 +10,7 @@
  },
  "me": {
   "franchise_id": "0011",
-  "name": "Pete\u00e2\u0080\u0099s Perfect Team",
+  "name": "Pete\u2019s Perfect Team",
   "record": {
    "w": "8",
    "l": "3",
@@ -1501,7 +1501,7 @@
    ]
   },
   "0011": {
-   "name": "Pete\u00e2\u0080\u0099s Perfect Team",
+   "name": "Pete\u2019s Perfect Team",
    "record": {
     "w": "8",
     "l": "3",
@@ -5016,7 +5016,7 @@
   },
   {
    "type": "BBID_WAIVER",
-   "franchise": "Pete\u00e2\u0080\u0099s Perfect Team",
+   "franchise": "Pete\u2019s Perfect Team",
    "when": "1795068000",
    "detail": "16582,|1.00|14056,"
   },
@@ -5034,7 +5034,7 @@
   },
   {
    "type": "BBID_WAIVER",
-   "franchise": "Pete\u00e2\u0080\u0099s Perfect Team",
+   "franchise": "Pete\u2019s Perfect Team",
    "when": "1795068000",
    "detail": "0505,|1.00|0507,"
   },
