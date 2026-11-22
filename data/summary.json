@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-21T18:51:33.333556+00:00",
+ "generated_at": "2026-11-22T19:13:07.725470+00:00",
  "season": "2026",
  "week": 1,
  "league": {
@@ -95,7 +95,16 @@
     "pos": "TE",
     "team": "BUF",
     "ytd": 106.2,
-    "proj": 11.0
+    "proj": 11.0,
+    "slot": "INJURED_RESERVE"
+   },
+   {
+    "id": "13672",
+    "name": "Mike Gesicki",
+    "pos": "TE",
+    "team": "CIN",
+    "ytd": 88.7,
+    "proj": 9.2
    },
    {
     "id": "15281",
@@ -363,14 +372,6 @@
      "proj": 11.0
     },
     {
-     "id": "17075",
-     "name": "Matthew Golden",
-     "pos": "WR",
-     "team": "GBP",
-     "ytd": 175.9,
-     "proj": 5.6
-    },
-    {
      "id": "17070",
      "name": "Luther Burden",
      "pos": "WR",
@@ -386,6 +387,14 @@
      "ytd": 120.8,
      "proj": 12.3,
      "slot": "INJURED_RESERVE"
+    },
+    {
+     "id": "14836",
+     "name": "Justin Jefferson",
+     "pos": "WR",
+     "team": "MIN",
+     "ytd": 112.7,
+     "proj": 13.9
     },
     {
      "id": "16342",
@@ -555,7 +564,7 @@
    ]
   },
   "0004": {
-   "name": "Fuck Tom",
+   "name": "F Tom",
    "record": {
     "w": "3",
     "l": "8",
@@ -644,12 +653,12 @@
      "proj": 14.5
     },
     {
-     "id": "14836",
-     "name": "Justin Jefferson",
+     "id": "17075",
+     "name": "Matthew Golden",
      "pos": "WR",
-     "team": "MIN",
-     "ytd": 112.7,
-     "proj": 13.9
+     "team": "GBP",
+     "ytd": 175.9,
+     "proj": 5.6
     },
     {
      "id": "16187",
@@ -1370,6 +1379,14 @@
    },
    "players": [
     {
+     "id": "0514",
+     "name": "Los Angeles Chargers",
+     "pos": "Def",
+     "team": "LAC",
+     "ytd": 41.0,
+     "proj": 7.0
+    },
+    {
      "id": "16846",
      "name": "Jake Bates",
      "pos": "PK",
@@ -1408,14 +1425,6 @@
      "team": "MIN",
      "ytd": 95.4,
      "proj": 12.4
-    },
-    {
-     "id": "16432",
-     "name": "Emanuel Wilson",
-     "pos": "RB",
-     "team": "SEA",
-     "ytd": 74.8,
-     "proj": 2.9
     },
     {
      "id": "17068",
@@ -1586,7 +1595,16 @@
      "pos": "TE",
      "team": "BUF",
      "ytd": 106.2,
-     "proj": 11.0
+     "proj": 11.0,
+     "slot": "INJURED_RESERVE"
+    },
+    {
+     "id": "13672",
+     "name": "Mike Gesicki",
+     "pos": "TE",
+     "team": "CIN",
+     "ytd": 88.7,
+     "proj": 9.2
     },
     {
      "id": "15281",
@@ -1949,14 +1967,6 @@
    "proj": 9.4
   },
   {
-   "id": "13672",
-   "name": "Mike Gesicki",
-   "pos": "TE",
-   "team": "CIN",
-   "ytd": 88.7,
-   "proj": 9.2
-  },
-  {
    "id": "17105",
    "name": "Gunnar Helm",
    "pos": "TE",
@@ -2130,14 +2140,6 @@
    "pos": "WR",
    "team": "SEA",
    "ytd": 68.2,
-   "proj": 7.0
-  },
-  {
-   "id": "0514",
-   "name": "Los Angeles Chargers",
-   "pos": "Def",
-   "team": "LAC",
-   "ytd": 41.0,
    "proj": 7.0
   },
   {
@@ -3027,6 +3029,14 @@
    "team": "PHI",
    "ytd": 27.0,
    "proj": 3.0
+  },
+  {
+   "id": "16432",
+   "name": "Emanuel Wilson",
+   "pos": "RB",
+   "team": "SEA",
+   "ytd": 74.8,
+   "proj": 2.9
   },
   {
    "id": "17274",
@@ -3965,6 +3975,14 @@
    "proj": 0.3
   },
   {
+   "id": "17696",
+   "name": "Carsen Ryan",
+   "pos": "TE",
+   "team": "CLE",
+   "ytd": 0.0,
+   "proj": 0.3
+  },
+  {
    "id": "16648",
    "name": "Jared Wiley",
    "pos": "TE",
@@ -4323,13 +4341,6 @@
    "pos": "TE",
    "team": "CIN",
    "ytd": 17.2
-  },
-  {
-   "id": "11674",
-   "name": "Brandin Cooks",
-   "pos": "WR",
-   "team": "BUF",
-   "ytd": 16.8
   },
   {
    "id": "14858",
@@ -4891,9 +4902,47 @@
    "pos": "RB",
    "team": "PIT",
    "ytd": 1.6
+  },
+  {
+   "id": "17466",
+   "name": "Carson Beck",
+   "pos": "QB",
+   "team": "ARI",
+   "ytd": 1.5,
+   "injury": "Out \u2014 Coach's Decision"
   }
  ],
  "recent_transactions": [
+  {
+   "type": "TRADE",
+   "franchise": "Clawing back up!",
+   "when": "1795371049",
+   "detail": ""
+  },
+  {
+   "type": "LOCK_ALL_PLAYERS",
+   "franchise": "",
+   "when": "1795370400",
+   "detail": ""
+  },
+  {
+   "type": "FREE_AGENT",
+   "franchise": "Pete\u2019s Perfect Team",
+   "when": "1795370145",
+   "detail": "13672,|"
+  },
+  {
+   "type": "IR",
+   "franchise": "Pete\u2019s Perfect Team",
+   "when": "1795370100",
+   "detail": ""
+  },
+  {
+   "type": "FREE_AGENT",
+   "franchise": "Attitude",
+   "when": "1795341244",
+   "detail": "0514,|16432,"
+  },
   {
    "type": "FREE_AGENT",
    "franchise": "ASSASSINS",
@@ -5103,36 +5152,6 @@
    "franchise": "ASSASSINS",
    "when": "1794718956",
    "detail": "16596,|14071,"
-  },
-  {
-   "type": "FREE_AGENT",
-   "franchise": "Clawing back up!",
-   "when": "1794717421",
-   "detail": "17047,|16596,"
-  },
-  {
-   "type": "IR",
-   "franchise": "Based Crack Cocaine Enjoyers",
-   "when": "1794702469",
-   "detail": ""
-  },
-  {
-   "type": "FREE_AGENT",
-   "franchise": "Fuck Tom",
-   "when": "1794667398",
-   "detail": "|15694,15799,"
-  },
-  {
-   "type": "FREE_AGENT",
-   "franchise": "Fuck Tom",
-   "when": "1794666944",
-   "detail": "17462,|"
-  },
-  {
-   "type": "FREE_AGENT",
-   "franchise": "Fuck Tom",
-   "when": "1794666863",
-   "detail": "0529,|0504,"
   }
  ]
 }

@@ -372,20 +372,20 @@
    },
    {
     "averagePick": "50.52",
-    "draftSelPct": "80",
-    "draftsSelectedIn": "21",
-    "id": "17059",
-    "maxPick": "134",
-    "minPick": "14",
-    "rank": "42"
-   },
-   {
-    "averagePick": "50.52",
     "draftSelPct": "88",
     "draftsSelectedIn": "23",
     "id": "15753",
     "maxPick": "78",
     "minPick": "24",
+    "rank": "42"
+   },
+   {
+    "averagePick": "50.52",
+    "draftSelPct": "80",
+    "draftsSelectedIn": "21",
+    "id": "17059",
+    "maxPick": "134",
+    "minPick": "14",
     "rank": "43"
    },
    {
@@ -2198,7 +2198,7 @@
     "rank": "244"
    }
   ],
-  "timestamp": "1795139469",
+  "timestamp": "1795371893",
   "totalDrafts": "26",
   "totalPicks": "244"
  },

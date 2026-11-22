@@ -62,7 +62,7 @@
      "division": "01",
      "icon": "https://www46.myfantasyleague.com/fflnet2016/newicons/26_Were_1.png",
      "id": "0004",
-     "name": "Fuck Tom",
+     "name": "F Tom",
      "waiverSortOrder": "1"
     },
     {
@@ -231,7 +231,7 @@
    ]
   },
   "id": "24838",
-  "injuredReserve": "2",
+  "injuredReserve": "1",
   "lastRegularSeasonWeek": "14",
   "loadRosters": "live_auction",
   "lockout": "No",

@@ -1,6 +1,6 @@
 # Pete’s Perfect Team — week 1
 
-Cap City Football · 12 teams · generated 2026-11-21 18:51 UTC
+Cap City Football · 12 teams · generated 2026-11-22 19:13 UTC
 Record 8-3-0, 1185.4 points for
 
 ## Roster
@@ -16,7 +16,8 @@ Record 8-3-0, 1185.4 points for
 | Omarion Hampton | RB | LAC | 13.8 | 85.7 |  |
 | Saquon Barkley | RB | PHI | 19.0 | 59.2 |  |
 | Dameon Pierce | RB | PHI |  | 30.2 |  |
-| Dalton Kincaid | TE | BUF | 11.0 | 106.2 |  |
+| Dalton Kincaid | TE | BUF | 11.0 | 106.2 | INJURED_RESERVE |
+| Mike Gesicki | TE | CIN | 9.2 | 88.7 |  |
 | Ja'Marr Chase | WR | CIN | 21.9 | 193.8 |  |
 | Christian Watson | WR | GBP | 12.4 | 183.6 |  |
 | Drake London | WR | ATL | 18.5 | 138.7 |  |
@@ -31,8 +32,8 @@ Record 8-3-0, 1185.4 points for
 
 **WR** — Terry McLaurin (WAS), Alec Pierce (IND), Wan'Dale Robinson (TEN), Brian Thomas Jr. (JAC), Quentin Johnston (LAC), Romeo Doubs (NEP), Jerry Jeudy (CLE), Xavier Worthy (KCC)
 
-**TE** — Colby Parkinson (LAR), Jake Ferguson (DAL), Cade Otton (TBB), Pat Freiermuth (PIT), Dalton Schultz (HOU), Oronde Gadsden (LAC), Mike Gesicki (CIN), Gunnar Helm (TEN)
+**TE** — Colby Parkinson (LAR), Jake Ferguson (DAL), Cade Otton (TBB), Pat Freiermuth (PIT), Dalton Schultz (HOU), Oronde Gadsden (LAC), Gunnar Helm (TEN), AJ Barner (SEA)
 
 **PK** — Tyler Loop (BAL), Harrison Mevis (LAR), Wil Lutz (DEN), Andres Borregales (NEP), Jake Elliott (PHI), Chad Ryland (ARI), Eddy Pineiro (SFO), Riley Patterson (MIA)
 
-**Def** — Los Angeles Chargers (LAC), Atlanta Falcons (ATL), Tennessee Titans (TEN), Cleveland Browns (CLE), Washington Commanders (WAS), Detroit Lions (DET), New York Giants (NYG), Miami Dolphins (MIA)
+**Def** — Atlanta Falcons (ATL), Tennessee Titans (TEN), Cleveland Browns (CLE), Washington Commanders (WAS), Detroit Lions (DET), New York Giants (NYG), Miami Dolphins (MIA), Philadelphia Eagles (PHI)
