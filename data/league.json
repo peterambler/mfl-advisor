@@ -37,7 +37,7 @@
      "icon": "https://www46.myfantasyleague.com/fflnetdynamic2023/24838_franchise_icon0001.png",
      "id": "0001",
      "name": "Dawg Pound",
-     "waiverSortOrder": "9"
+     "waiverSortOrder": "7"
     },
     {
      "bbidAvailableBalance": "90.00",
@@ -46,7 +46,7 @@
      "id": "0002",
      "logo": "https://www46.myfantasyleague.com/fflnetdynamic2023/24838_franchise_logo0002.jpg",
      "name": "Clawing back up!",
-     "waiverSortOrder": "10"
+     "waiverSortOrder": "11"
     },
     {
      "bbidAvailableBalance": "135.00",
@@ -55,7 +55,7 @@
      "id": "0003",
      "logo": "https://www46.myfantasyleague.com/fflnet2010/logos/Bull_Head_3.gif",
      "name": "wait till next year",
-     "waiverSortOrder": "7"
+     "waiverSortOrder": "8"
     },
     {
      "bbidAvailableBalance": "100.00",
@@ -63,7 +63,7 @@
      "icon": "https://www46.myfantasyleague.com/fflnet2016/newicons/26_Were_1.png",
      "id": "0004",
      "name": "F Tom",
-     "waiverSortOrder": "1"
+     "waiverSortOrder": "3"
     },
     {
      "abbrev": "BobaFett",
@@ -74,7 +74,7 @@
      "logo": "https://www42.myfantasyleague.com/fflnetdynamic2019/24838_franchise_logo0005.jpg",
      "name": "Titsburgh Feelers",
      "sound": "https://www42.myfantasyleague.com/fflnetdynamic2020/24838_franchise_sound0005.mp3",
-     "waiverSortOrder": "3"
+     "waiverSortOrder": "1"
     },
     {
      "bbidAvailableBalance": "35.00",
@@ -83,7 +83,7 @@
      "id": "0006",
      "logo": "https://www46.myfantasyleague.com/fflnet2003/helmets/h-1373.gif",
      "name": "Team Brown",
-     "waiverSortOrder": "2"
+     "waiverSortOrder": "4"
     },
     {
      "bbidAvailableBalance": "33.00",
@@ -91,7 +91,7 @@
      "icon": "https://www46.myfantasyleague.com/fflnet2012/newhelmets/nh-0013.png",
      "id": "0007",
      "name": "ASSASSINS",
-     "waiverSortOrder": "8"
+     "waiverSortOrder": "9"
     },
     {
      "bbidAvailableBalance": "73.00",
@@ -116,7 +116,7 @@
      "id": "0010",
      "logo": "https://www42.myfantasyleague.com/fflnetdynamic2015/35945_franchise_logo0010.jpg",
      "name": "Attitude",
-     "waiverSortOrder": "4"
+     "waiverSortOrder": "2"
     },
     {
      "abbrev": "BK",
@@ -133,7 +133,7 @@
      "division": "00",
      "id": "0012",
      "name": "Athenian Souvlakis",
-     "waiverSortOrder": "11"
+     "waiverSortOrder": "10"
     }
    ]
   },

@@ -1,7 +1,7 @@
 # Pete’s Perfect Team — week 1
 
-Cap City Football · 12 teams · generated 2026-11-23 23:34 UTC
-Record 8-3-0, 1185.4 points for
+Cap City Football · 12 teams · generated 2026-11-24 22:04 UTC
+Record 8-4-0, 1282.3 points for
 
 ## Roster
 
@@ -9,7 +9,7 @@ Record 8-3-0, 1185.4 points for
 |---|---|---|---|---|---|
 | New York Jets | Def | NYJ | 2.8 | 56.0 |  |
 | Cam Little | PK | JAC | 5.2 | 110.0 |  |
-| Evan McPherson | PK | CIN | 5.8 | 84.0 |  |
+| Evan McPherson | PK | CIN | 5.8 | 94.0 |  |
 | Tyler Shough | QB | NOS | 22.0 | 194.0 |  |
 | Bo Nix | QB | DEN | 24.8 | 159.1 |  |
 | Ollie Gordon | RB | MIA | 2.6 | 104.0 |  |
@@ -17,8 +17,8 @@ Record 8-3-0, 1185.4 points for
 | Saquon Barkley | RB | PHI | 19.0 | 72.7 |  |
 | Dameon Pierce | RB | PHI |  | 30.2 |  |
 | Dalton Kincaid | TE | BUF | 11.0 | 106.2 | INJURED_RESERVE |
-| Mike Gesicki | TE | CIN | 9.2 | 88.7 |  |
-| Ja'Marr Chase | WR | CIN | 21.9 | 193.8 |  |
+| Mike Gesicki | TE | CIN | 9.2 | 103.3 |  |
+| Ja'Marr Chase | WR | CIN | 21.9 | 201.9 |  |
 | Christian Watson | WR | GBP | 12.4 | 183.6 |  |
 | Drake London | WR | ATL | 18.5 | 138.7 |  |
 | Devaughn Vele | WR | NOS | 8.4 | 107.5 |  |

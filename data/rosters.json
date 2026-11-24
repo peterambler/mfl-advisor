@@ -70,7 +70,7 @@
       "status": "INJURED_RESERVE"
      }
     ],
-    "week": "11"
+    "week": "12"
    },
    {
     "id": "0002",
@@ -136,7 +136,7 @@
       "status": "INJURED_RESERVE"
      }
     ],
-    "week": "11"
+    "week": "12"
    },
    {
     "id": "0003",
@@ -206,7 +206,7 @@
       "status": "INJURED_RESERVE"
      }
     ],
-    "week": "11"
+    "week": "12"
    },
    {
     "id": "0004",
@@ -272,7 +272,7 @@
       "status": "ROSTER"
      }
     ],
-    "week": "11"
+    "week": "12"
    },
    {
     "id": "0005",
@@ -342,7 +342,7 @@
       "status": "INJURED_RESERVE"
      }
     ],
-    "week": "11"
+    "week": "12"
    },
    {
     "id": "0006",
@@ -408,7 +408,7 @@
       "status": "ROSTER"
      }
     ],
-    "week": "11"
+    "week": "12"
    },
    {
     "id": "0007",
@@ -478,7 +478,7 @@
       "status": "INJURED_RESERVE"
      }
     ],
-    "week": "11"
+    "week": "12"
    },
    {
     "id": "0008",
@@ -540,7 +540,7 @@
       "status": "INJURED_RESERVE"
      }
     ],
-    "week": "11"
+    "week": "12"
    },
    {
     "id": "0009",
@@ -610,7 +610,7 @@
       "status": "INJURED_RESERVE"
      }
     ],
-    "week": "11"
+    "week": "12"
    },
    {
     "id": "0010",
@@ -680,7 +680,7 @@
       "status": "INJURED_RESERVE"
      }
     ],
-    "week": "11"
+    "week": "12"
    },
    {
     "id": "0011",
@@ -750,7 +750,7 @@
       "status": "INJURED_RESERVE"
      }
     ],
-    "week": "11"
+    "week": "12"
    },
    {
     "id": "0012",
@@ -816,7 +816,7 @@
       "status": "INJURED_RESERVE"
      }
     ],
-    "week": "11"
+    "week": "12"
    }
   ]
  },
