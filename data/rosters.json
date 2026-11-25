@@ -212,10 +212,6 @@
     "id": "0004",
     "player": [
      {
-      "id": "14832",
-      "status": "ROSTER"
-     },
-     {
       "id": "17042",
       "status": "ROSTER"
      },
@@ -244,10 +240,6 @@
       "status": "ROSTER"
      },
      {
-      "id": "17074",
-      "status": "ROSTER"
-     },
-     {
       "id": "11936",
       "status": "ROSTER"
      },
@@ -269,6 +261,14 @@
      },
      {
       "id": "17075",
+      "status": "ROSTER"
+     },
+     {
+      "id": "14073",
+      "status": "ROSTER"
+     },
+     {
+      "id": "17081",
       "status": "ROSTER"
      }
     ],
@@ -310,10 +310,6 @@
       "status": "ROSTER"
      },
      {
-      "id": "16204",
-      "status": "ROSTER"
-     },
-     {
       "id": "0506",
       "status": "ROSTER"
      },
@@ -339,7 +335,7 @@
      },
      {
       "id": "17256",
-      "status": "INJURED_RESERVE"
+      "status": "ROSTER"
      }
     ],
     "week": "12"
@@ -450,15 +446,7 @@
       "status": "ROSTER"
      },
      {
-      "id": "17081",
-      "status": "ROSTER"
-     },
-     {
       "id": "16596",
-      "status": "ROSTER"
-     },
-     {
-      "id": "14073",
       "status": "ROSTER"
      },
      {
@@ -471,6 +459,10 @@
      },
      {
       "id": "17485",
+      "status": "ROSTER"
+     },
+     {
+      "id": "14832",
       "status": "ROSTER"
      },
      {

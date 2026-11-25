@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-24T22:04:08.741408+00:00",
+ "generated_at": "2026-11-25T21:20:04.587749+00:00",
  "season": "2026",
  "week": 1,
  "league": {
@@ -637,20 +637,20 @@
      "proj": 3.8
     },
     {
+     "id": "14073",
+     "name": "Josh Jacobs",
+     "pos": "RB",
+     "team": "GBP",
+     "ytd": 43.8,
+     "injury": "Suspended \u2014 Personal"
+    },
+    {
      "id": "15329",
      "name": "Kyle Pitts",
      "pos": "TE",
      "team": "ATL",
      "ytd": 87.0,
      "proj": 11.5
-    },
-    {
-     "id": "14832",
-     "name": "CeeDee Lamb",
-     "pos": "WR",
-     "team": "DAL",
-     "ytd": 252.8,
-     "proj": 14.5
     },
     {
      "id": "17075",
@@ -685,12 +685,12 @@
      "proj": 14.2
     },
     {
-     "id": "17074",
-     "name": "Travis Hunter",
+     "id": "17081",
+     "name": "Emeka Egbuka",
      "pos": "WR",
-     "team": "JAC",
-     "ytd": 25.5,
-     "proj": 3.4
+     "team": "TBB",
+     "ytd": 82.1,
+     "proj": 13.5
     }
    ]
   },
@@ -757,8 +757,7 @@
      "pos": "RB",
      "team": "WAS",
      "ytd": 61.3,
-     "proj": 9.5,
-     "slot": "INJURED_RESERVE"
+     "proj": 9.5
     },
     {
      "id": "16174",
@@ -823,14 +822,6 @@
      "team": "DEN",
      "ytd": 53.7,
      "proj": 4.4
-    },
-    {
-     "id": "16204",
-     "name": "Tank Dell",
-     "pos": "WR",
-     "team": "HOU",
-     "ytd": 36.8,
-     "injury": "IR-R \u2014 Knee - ACL + MCL"
     }
    ]
   },
@@ -1039,14 +1030,6 @@
      "proj": 5.0
     },
     {
-     "id": "14073",
-     "name": "Josh Jacobs",
-     "pos": "RB",
-     "team": "GBP",
-     "ytd": 43.8,
-     "injury": "Suspended \u2014 Personal"
-    },
-    {
      "id": "16641",
      "name": "Brock Bowers",
      "pos": "TE",
@@ -1063,6 +1046,14 @@
      "proj": 3.7
     },
     {
+     "id": "14832",
+     "name": "CeeDee Lamb",
+     "pos": "WR",
+     "team": "DAL",
+     "ytd": 252.8,
+     "proj": 14.5
+    },
+    {
      "id": "14835",
      "name": "Tee Higgins",
      "pos": "WR",
@@ -1077,14 +1068,6 @@
      "team": "DET",
      "ytd": 134.0,
      "proj": 13.2
-    },
-    {
-     "id": "17081",
-     "name": "Emeka Egbuka",
-     "pos": "WR",
-     "team": "TBB",
-     "ytd": 82.1,
-     "proj": 13.5
     },
     {
      "id": "16627",
@@ -1791,14 +1774,6 @@
    "proj": 26.1
   },
   {
-   "id": "14059",
-   "name": "Daniel Jones",
-   "pos": "QB",
-   "team": "IND",
-   "ytd": 110.7,
-   "proj": 24.5
-  },
-  {
    "id": "14783",
    "name": "Jalen Hurts",
    "pos": "QB",
@@ -2391,14 +2366,6 @@
    "proj": 5.5
   },
   {
-   "id": "14840",
-   "name": "Brandon Aiyuk",
-   "pos": "WR",
-   "team": "SFO",
-   "proj": 5.5,
-   "injury": "Holdout \u2014 Knee - ACL + MCL"
-  },
-  {
    "id": "13303",
    "name": "Jake Elliott",
    "pos": "PK",
@@ -2876,6 +2843,14 @@
    "pos": "RB",
    "team": "NOS",
    "ytd": 38.6,
+   "proj": 3.4
+  },
+  {
+   "id": "17074",
+   "name": "Travis Hunter",
+   "pos": "WR",
+   "team": "JAC",
+   "ytd": 25.5,
    "proj": 3.4
   },
   {
@@ -4025,14 +4000,6 @@
    "proj": 0.2
   },
   {
-   "id": "17232",
-   "name": "LaJohntay Wester",
-   "pos": "WR",
-   "team": "BAL",
-   "ytd": 6.8,
-   "proj": 0.2
-  },
-  {
    "id": "13115",
    "name": "Mitchell Trubisky",
    "pos": "QB",
@@ -4198,6 +4165,14 @@
    "pos": "RB",
    "team": "FA",
    "ytd": 36.8
+  },
+  {
+   "id": "16204",
+   "name": "Tank Dell",
+   "pos": "WR",
+   "team": "HOU",
+   "ytd": 36.8,
+   "injury": "IR-R \u2014 Knee - ACL + MCL"
   },
   {
    "id": "15702",
@@ -4628,13 +4603,6 @@
    "injury": "Out \u2014 Coach's Decision"
   },
   {
-   "id": "17088",
-   "name": "Theo Wease",
-   "pos": "WR",
-   "team": "LAC",
-   "ytd": 6.7
-  },
-  {
    "id": "16359",
    "name": "Lew Nichols",
    "pos": "RB",
@@ -4910,9 +4878,48 @@
    "pos": "RB",
    "team": "PIT",
    "ytd": 1.6
+  },
+  {
+   "id": "16416",
+   "name": "Xavier Gipson",
+   "pos": "WR",
+   "team": "FA",
+   "ytd": 1.6
+  },
+  {
+   "id": "17466",
+   "name": "Carson Beck",
+   "pos": "QB",
+   "team": "ARI",
+   "ytd": 1.5,
+   "injury": "Out \u2014 Coach's Decision"
   }
  ],
  "recent_transactions": [
+  {
+   "type": "IR",
+   "franchise": "Titsburgh Feelers",
+   "when": "1795578623",
+   "detail": ""
+  },
+  {
+   "type": "FREE_AGENT",
+   "franchise": "Titsburgh Feelers",
+   "when": "1795578623",
+   "detail": "|16204,"
+  },
+  {
+   "type": "TRADE",
+   "franchise": "ASSASSINS",
+   "when": "1795578595",
+   "detail": ""
+  },
+  {
+   "type": "FREE_AGENT",
+   "franchise": "F Tom",
+   "when": "1795578460",
+   "detail": "|17074,"
+  },
   {
    "type": "TRADE",
    "franchise": "Clawing back up!",
@@ -5128,30 +5135,6 @@
    "franchise": "Attitude",
    "when": "1794922528",
    "detail": "|0526,"
-  },
-  {
-   "type": "LOCK_ALL_PLAYERS",
-   "franchise": "",
-   "when": "1794765600",
-   "detail": ""
-  },
-  {
-   "type": "IR",
-   "franchise": "Dawg Pound",
-   "when": "1794749580",
-   "detail": ""
-  },
-  {
-   "type": "FREE_AGENT",
-   "franchise": "Athenian Souvlakis",
-   "when": "1794746837",
-   "detail": "13719,|16292,"
-  },
-  {
-   "type": "FREE_AGENT",
-   "franchise": "ASSASSINS",
-   "when": "1794718956",
-   "detail": "16596,|14071,"
   }
  ]
 }

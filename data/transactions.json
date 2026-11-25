@@ -3,6 +3,36 @@
  "transactions": {
   "transaction": [
    {
+    "activated": "17256,",
+    "deactivated": "",
+    "franchise": "0005",
+    "timestamp": "1795578623",
+    "type": "IR"
+   },
+   {
+    "franchise": "0005",
+    "timestamp": "1795578623",
+    "transaction": "|16204,",
+    "type": "FREE_AGENT"
+   },
+   {
+    "by_commish": "1",
+    "comments": "+$15",
+    "expires": "1795996800",
+    "franchise": "0007",
+    "franchise1_gave_up": "14073,17081,",
+    "franchise2": "0004",
+    "franchise2_gave_up": "14832,",
+    "timestamp": "1795578595",
+    "type": "TRADE"
+   },
+   {
+    "franchise": "0004",
+    "timestamp": "1795578460",
+    "transaction": "|17074,",
+    "type": "FREE_AGENT"
+   },
+   {
     "by_commish": "1",
     "comments": "Plus $25 for 2027 draft",
     "expires": "1795971600",
