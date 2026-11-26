@@ -3,6 +3,120 @@
  "transactions": {
   "transaction": [
    {
+    "franchise": "0007",
+    "timestamp": "1795715159",
+    "transaction": "16212,|",
+    "type": "FREE_AGENT"
+   },
+   {
+    "franchise": "0007",
+    "timestamp": "1795715088",
+    "transaction": "|0517,",
+    "type": "FREE_AGENT"
+   },
+   {
+    "franchise": "0001",
+    "timestamp": "1795711713",
+    "transaction": "0504,|0512,",
+    "type": "FREE_AGENT"
+   },
+   {
+    "franchise": "0008",
+    "timestamp": "1795703873",
+    "transaction": "0520,|",
+    "type": "FREE_AGENT"
+   },
+   {
+    "activated": "16614,",
+    "deactivated": "",
+    "franchise": "0008",
+    "timestamp": "1795703621",
+    "type": "IR"
+   },
+   {
+    "franchise": "0008",
+    "timestamp": "1795703611",
+    "transaction": "|0531,",
+    "type": "FREE_AGENT"
+   },
+   {
+    "franchise": "0007",
+    "timestamp": "1795672800",
+    "transaction": "0517,|1.00|16212,",
+    "type": "BBID_WAIVER"
+   },
+   {
+    "franchise": "0012",
+    "timestamp": "1795672800",
+    "transaction": "17047,|1.00|17053,",
+    "type": "BBID_WAIVER"
+   },
+   {
+    "franchise": "0007",
+    "timestamp": "1795672800",
+    "transaction": "17030,|1.00|",
+    "type": "BBID_WAIVER"
+   },
+   {
+    "franchise": "0002",
+    "timestamp": "1795672800",
+    "transaction": "13832,|5.00|16896,",
+    "type": "BBID_WAIVER"
+   },
+   {
+    "franchise": "0002",
+    "timestamp": "1795672800",
+    "transaction": "0530,|5.00|14861,",
+    "type": "BBID_WAIVER"
+   },
+   {
+    "franchise": "",
+    "timestamp": "1795672800",
+    "transaction": "",
+    "type": "BBID_AUTO_PROCESS_WAIVERS"
+   },
+   {
+    "activated": "16213,",
+    "deactivated": "",
+    "franchise": "0011",
+    "timestamp": "1795665128",
+    "type": "IR"
+   },
+   {
+    "franchise": "0011",
+    "timestamp": "1795665092",
+    "transaction": "|15717,",
+    "type": "FREE_AGENT"
+   },
+   {
+    "by_commish": "1",
+    "comments": "13 dollars next year draft ",
+    "expires": "1796169600",
+    "franchise": "0001",
+    "franchise1_gave_up": ",",
+    "franchise2": "0005",
+    "franchise2_gave_up": "11671,",
+    "timestamp": "1795665055",
+    "type": "TRADE"
+   },
+   {
+    "by_commish": "1",
+    "comments": "$5 to F Tom from Team Brown for 2027 draft",
+    "expires": "1795669200",
+    "franchise": "0006",
+    "franchise1_gave_up": "16214,",
+    "franchise2": "0004",
+    "franchise2_gave_up": "17497,",
+    "timestamp": "1795665036",
+    "type": "TRADE"
+   },
+   {
+    "franchise": "0001",
+    "timestamp": "1795648498",
+    "transaction": "|14800,",
+    "type": "FREE_AGENT"
+   },
+   {
     "activated": "17256,",
     "deactivated": "",
     "franchise": "0005",

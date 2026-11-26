@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-25T21:20:04.587749+00:00",
+ "generated_at": "2026-11-26T21:07:18.298463+00:00",
  "season": "2026",
  "week": 1,
  "league": {
@@ -83,20 +83,12 @@
     "proj": 19.0
    },
    {
-    "id": "15717",
-    "name": "Dameon Pierce",
-    "pos": "RB",
-    "team": "PHI",
-    "ytd": 30.2
-   },
-   {
     "id": "16213",
     "name": "Dalton Kincaid",
     "pos": "TE",
     "team": "BUF",
     "ytd": 106.2,
-    "proj": 11.0,
-    "slot": "INJURED_RESERVE"
+    "proj": 11.0
    },
    {
     "id": "13672",
@@ -119,7 +111,7 @@
     "name": "Christian Watson",
     "pos": "WR",
     "team": "GBP",
-    "ytd": 183.6,
+    "ytd": 200.1,
     "proj": 12.4
    },
    {
@@ -159,12 +151,12 @@
    },
    "players": [
     {
-     "id": "0512",
-     "name": "Kansas City Chiefs",
+     "id": "0504",
+     "name": "New England Patriots",
      "pos": "Def",
-     "team": "KCC",
-     "ytd": 50.0,
-     "proj": 2.1
+     "team": "NEP",
+     "ytd": 48.0,
+     "proj": 2.3
     },
     {
      "id": "14983",
@@ -216,14 +208,6 @@
      "proj": 12.8
     },
     {
-     "id": "14800",
-     "name": "J.K. Dobbins",
-     "pos": "RB",
-     "team": "DEN",
-     "ytd": 62.5,
-     "proj": 12.0
-    },
-    {
      "id": "17066",
      "name": "Kyle Monangai",
      "pos": "RB",
@@ -263,6 +247,14 @@
      "team": "BAL",
      "ytd": 156.6,
      "proj": 14.9
+    },
+    {
+     "id": "11671",
+     "name": "Mike Evans",
+     "pos": "WR",
+     "team": "SFO",
+     "ytd": 111.9,
+     "proj": 12.6
     },
     {
      "id": "17500",
@@ -308,12 +300,18 @@
      "proj": 5.0
     },
     {
-     "id": "16896",
-     "name": "Spencer Shrader",
+     "id": "0530",
+     "name": "San Francisco 49ers",
+     "pos": "Def",
+     "team": "SFO",
+     "ytd": 67.0
+    },
+    {
+     "id": "13832",
+     "name": "Jason Sanders",
      "pos": "PK",
-     "team": "IND",
-     "ytd": 115.0,
-     "proj": 5.2
+     "team": "NYJ",
+     "ytd": 112.0
     },
     {
      "id": "15698",
@@ -362,14 +360,6 @@
      "team": "CHI",
      "ytd": 107.0,
      "proj": 12.8
-    },
-    {
-     "id": "14861",
-     "name": "Juwan Johnson",
-     "pos": "TE",
-     "team": "NOS",
-     "ytd": 93.8,
-     "proj": 11.0
     },
     {
      "id": "17070",
@@ -593,7 +583,7 @@
      "name": "Matthew Stafford",
      "pos": "QB",
      "team": "LAR",
-     "ytd": 189.9,
+     "ytd": 194.9,
      "proj": 25.6
     },
     {
@@ -645,6 +635,14 @@
      "injury": "Suspended \u2014 Personal"
     },
     {
+     "id": "16214",
+     "name": "Sam LaPorta",
+     "pos": "TE",
+     "team": "DET",
+     "ytd": 116.9,
+     "proj": 11.5
+    },
+    {
      "id": "15329",
      "name": "Kyle Pitts",
      "pos": "TE",
@@ -657,7 +655,7 @@
      "name": "Matthew Golden",
      "pos": "WR",
      "team": "GBP",
-     "ytd": 175.9,
+     "ytd": 180.8,
      "proj": 5.6
     },
     {
@@ -675,14 +673,6 @@
      "team": "CHI",
      "ytd": 97.3,
      "proj": 12.1
-    },
-    {
-     "id": "17497",
-     "name": "Carnell Tate",
-     "pos": "WR",
-     "team": "TEN",
-     "ytd": 91.1,
-     "proj": 14.2
     },
     {
      "id": "17081",
@@ -740,7 +730,7 @@
      "name": "Kyren Williams",
      "pos": "RB",
      "team": "LAR",
-     "ytd": 164.3,
+     "ytd": 180.8,
      "proj": 15.0
     },
     {
@@ -780,7 +770,7 @@
      "name": "Tucker Kraft",
      "pos": "TE",
      "team": "GBP",
-     "ytd": 102.6,
+     "ytd": 108.6,
      "proj": 8.6
     },
     {
@@ -790,14 +780,6 @@
      "team": "WAS",
      "ytd": 72.1,
      "proj": 8.0
-    },
-    {
-     "id": "11671",
-     "name": "Mike Evans",
-     "pos": "WR",
-     "team": "SFO",
-     "ytd": 111.9,
-     "proj": 12.6
     },
     {
      "id": "17512",
@@ -899,14 +881,6 @@
      "proj": 18.1
     },
     {
-     "id": "16214",
-     "name": "Sam LaPorta",
-     "pos": "TE",
-     "team": "DET",
-     "ytd": 116.9,
-     "proj": 11.5
-    },
-    {
      "id": "14138",
      "name": "T.J. Hockenson",
      "pos": "TE",
@@ -945,6 +919,14 @@
      "team": "PIT",
      "ytd": 94.5,
      "proj": 12.7
+    },
+    {
+     "id": "17497",
+     "name": "Carnell Tate",
+     "pos": "WR",
+     "team": "TEN",
+     "ytd": 91.1,
+     "proj": 14.2
     },
     {
      "id": "17503",
@@ -988,6 +970,14 @@
      "team": "DAL",
      "ytd": 267.6,
      "proj": 22.9
+    },
+    {
+     "id": "17030",
+     "name": "Cam Ward",
+     "pos": "QB",
+     "team": "TEN",
+     "ytd": 159.7,
+     "proj": 22.1
     },
     {
      "id": "16598",
@@ -1098,12 +1088,12 @@
    },
    "players": [
     {
-     "id": "0531",
-     "name": "Baltimore Ravens",
+     "id": "0520",
+     "name": "Washington Commanders",
      "pos": "Def",
-     "team": "BAL",
-     "ytd": 49.0,
-     "proj": 2.3
+     "team": "WAS",
+     "ytd": 54.0,
+     "proj": 3.3
     },
     {
      "id": "12437",
@@ -1126,7 +1116,7 @@
      "name": "Blake Corum",
      "pos": "RB",
      "team": "LAR",
-     "ytd": 115.5,
+     "ytd": 144.0,
      "proj": 7.4
     },
     {
@@ -1207,8 +1197,7 @@
      "pos": "WR",
      "team": "ARI",
      "ytd": 37.5,
-     "proj": 12.8,
-     "slot": "INJURED_RESERVE"
+     "proj": 12.8
     }
    ]
   },
@@ -1234,7 +1223,7 @@
      "name": "Los Angeles Rams",
      "pos": "Def",
      "team": "LAR",
-     "ytd": 51.0,
+     "ytd": 59.0,
      "proj": 4.9
     },
     {
@@ -1423,7 +1412,7 @@
      "name": "MarShawn Lloyd",
      "pos": "RB",
      "team": "GBP",
-     "ytd": 58.7,
+     "ytd": 61.3,
      "proj": 12.9
     },
     {
@@ -1487,7 +1476,7 @@
      "name": "Konata Mumpfield",
      "pos": "WR",
      "team": "LAR",
-     "ytd": 44.3,
+     "ytd": 55.2,
      "proj": 3.7
     }
    ]
@@ -1566,20 +1555,12 @@
      "proj": 19.0
     },
     {
-     "id": "15717",
-     "name": "Dameon Pierce",
-     "pos": "RB",
-     "team": "PHI",
-     "ytd": 30.2
-    },
-    {
      "id": "16213",
      "name": "Dalton Kincaid",
      "pos": "TE",
      "team": "BUF",
      "ytd": 106.2,
-     "proj": 11.0,
-     "slot": "INJURED_RESERVE"
+     "proj": 11.0
     },
     {
      "id": "13672",
@@ -1602,7 +1583,7 @@
      "name": "Christian Watson",
      "pos": "WR",
      "team": "GBP",
-     "ytd": 183.6,
+     "ytd": 200.1,
      "proj": 12.4
     },
     {
@@ -1669,7 +1650,7 @@
      "name": "Jordan Love",
      "pos": "QB",
      "team": "GBP",
-     "ytd": 224.2,
+     "ytd": 234.8,
      "proj": 17.0
     },
     {
@@ -1697,20 +1678,20 @@
      "proj": 6.0
     },
     {
-     "id": "17053",
-     "name": "Woody Marks",
-     "pos": "RB",
-     "team": "HOU",
-     "ytd": 78.6,
-     "proj": 7.0
-    },
-    {
      "id": "14071",
      "name": "David Montgomery",
      "pos": "RB",
      "team": "HOU",
      "ytd": 60.9,
      "proj": 10.2
+    },
+    {
+     "id": "17047",
+     "name": "Dylan Sampson",
+     "pos": "RB",
+     "team": "CLE",
+     "ytd": 39.1,
+     "proj": 5.7
     },
     {
      "id": "15798",
@@ -1790,14 +1771,6 @@
    "proj": 22.2
   },
   {
-   "id": "17030",
-   "name": "Cam Ward",
-   "pos": "QB",
-   "team": "TEN",
-   "ytd": 159.7,
-   "proj": 22.1
-  },
-  {
    "id": "14056",
    "name": "Kyler Murray",
    "pos": "QB",
@@ -1854,6 +1827,14 @@
    "proj": 12.4
   },
   {
+   "id": "14800",
+   "name": "J.K. Dobbins",
+   "pos": "RB",
+   "team": "DEN",
+   "ytd": 62.5,
+   "proj": 12.0
+  },
+  {
    "id": "15757",
    "name": "Wan'Dale Robinson",
    "pos": "WR",
@@ -1866,7 +1847,7 @@
    "name": "Colby Parkinson",
    "pos": "TE",
    "team": "LAR",
-   "ytd": 42.0,
+   "ytd": 43.9,
    "proj": 11.7
   },
   {
@@ -1876,6 +1857,14 @@
    "team": "JAC",
    "ytd": 48.4,
    "proj": 11.3
+  },
+  {
+   "id": "14861",
+   "name": "Juwan Johnson",
+   "pos": "TE",
+   "team": "NOS",
+   "ytd": 93.8,
+   "proj": 11.0
   },
   {
    "id": "15799",
@@ -2110,6 +2099,14 @@
    "proj": 7.1
   },
   {
+   "id": "17053",
+   "name": "Woody Marks",
+   "pos": "RB",
+   "team": "HOU",
+   "ytd": 78.6,
+   "proj": 7.0
+  },
+  {
    "id": "13164",
    "name": "Cooper Kupp",
    "pos": "WR",
@@ -2326,14 +2323,6 @@
    "proj": 5.7
   },
   {
-   "id": "17047",
-   "name": "Dylan Sampson",
-   "pos": "RB",
-   "team": "CLE",
-   "ytd": 39.1,
-   "proj": 5.7
-  },
-  {
    "id": "16608",
    "name": "George Holani",
    "pos": "RB",
@@ -2366,6 +2355,14 @@
    "proj": 5.5
   },
   {
+   "id": "14840",
+   "name": "Brandon Aiyuk",
+   "pos": "WR",
+   "team": "SFO",
+   "proj": 5.5,
+   "injury": "Holdout \u2014 Knee - ACL + MCL"
+  },
+  {
    "id": "13303",
    "name": "Jake Elliott",
    "pos": "PK",
@@ -2388,6 +2385,14 @@
    "team": "WAS",
    "ytd": 38.0,
    "proj": 5.3
+  },
+  {
+   "id": "16896",
+   "name": "Spencer Shrader",
+   "pos": "PK",
+   "team": "IND",
+   "ytd": 115.0,
+   "proj": 5.2
   },
   {
    "id": "16292",
@@ -2502,19 +2507,19 @@
    "proj": 4.9
   },
   {
-   "id": "12678",
-   "name": "Tyler Higbee",
-   "pos": "TE",
-   "team": "LAR",
-   "ytd": 81.2,
-   "proj": 4.9
-  },
-  {
    "id": "17668",
    "name": "Trey Smack",
    "pos": "PK",
    "team": "GBP",
-   "ytd": 76.0,
+   "ytd": 86.0,
+   "proj": 4.9
+  },
+  {
+   "id": "12678",
+   "name": "Tyler Higbee",
+   "pos": "TE",
+   "team": "LAR",
+   "ytd": 84.0,
    "proj": 4.9
   },
   {
@@ -2870,14 +2875,6 @@
    "proj": 3.3
   },
   {
-   "id": "0520",
-   "name": "Washington Commanders",
-   "pos": "Def",
-   "team": "WAS",
-   "ytd": 54.0,
-   "proj": 3.3
-  },
-  {
    "id": "10413",
    "name": "Tyrod Taylor",
    "pos": "QB",
@@ -2910,6 +2907,14 @@
    "proj": 3.2
   },
   {
+   "id": "16387",
+   "name": "Chris Brooks",
+   "pos": "RB",
+   "team": "GBP",
+   "ytd": 20.3,
+   "proj": 3.2
+  },
+  {
    "id": "15796",
    "name": "Jeremy Ruckert",
    "pos": "TE",
@@ -2923,14 +2928,6 @@
    "pos": "TE",
    "team": "GBP",
    "ytd": 17.8,
-   "proj": 3.2
-  },
-  {
-   "id": "16387",
-   "name": "Chris Brooks",
-   "pos": "RB",
-   "team": "GBP",
-   "ytd": 13.7,
    "proj": 3.2
   },
   {
@@ -3207,19 +3204,19 @@
    "proj": 2.4
   },
   {
+   "id": "0531",
+   "name": "Baltimore Ravens",
+   "pos": "Def",
+   "team": "BAL",
+   "ytd": 49.0,
+   "proj": 2.3
+  },
+  {
    "id": "17475",
    "name": "Seth McGowan",
    "pos": "RB",
    "team": "IND",
    "ytd": 48.5,
-   "proj": 2.3
-  },
-  {
-   "id": "0504",
-   "name": "New England Patriots",
-   "pos": "Def",
-   "team": "NEP",
-   "ytd": 48.0,
    "proj": 2.3
   },
   {
@@ -3287,6 +3284,14 @@
    "injury": "IR-PUP \u2014 Neck"
   },
   {
+   "id": "0512",
+   "name": "Kansas City Chiefs",
+   "pos": "Def",
+   "team": "KCC",
+   "ytd": 50.0,
+   "proj": 2.1
+  },
+  {
    "id": "13315",
    "name": "Eric Saubert",
    "pos": "TE",
@@ -3323,7 +3328,7 @@
    "name": "Green Bay Packers",
    "pos": "Def",
    "team": "GBP",
-   "ytd": 68.0,
+   "ytd": 71.0,
    "proj": 2.0
   },
   {
@@ -3543,19 +3548,19 @@
    "proj": 1.4
   },
   {
+   "id": "15785",
+   "name": "Bo Melton",
+   "pos": "WR",
+   "team": "GBP",
+   "ytd": 12.7,
+   "proj": 1.3
+  },
+  {
    "id": "12155",
    "name": "Ameer Abdullah",
    "pos": "RB",
    "team": "JAC",
    "ytd": 11.0,
-   "proj": 1.3
-  },
-  {
-   "id": "15785",
-   "name": "Bo Melton",
-   "pos": "WR",
-   "team": "GBP",
-   "ytd": 8.4,
    "proj": 1.3
   },
   {
@@ -3787,7 +3792,7 @@
    "name": "Kaleb Johnson",
    "pos": "RB",
    "team": "GBP",
-   "ytd": 27.6,
+   "ytd": 31.8,
    "proj": 0.7
   },
   {
@@ -4055,26 +4060,12 @@
    "injury": "Out \u2014 Knee - ACL"
   },
   {
-   "id": "13832",
-   "name": "Jason Sanders",
-   "pos": "PK",
-   "team": "NYJ",
-   "ytd": 112.0
-  },
-  {
    "id": "16584",
    "name": "J.J. McCarthy",
    "pos": "QB",
    "team": "MIN",
    "ytd": 75.4,
    "injury": "Out \u2014 Coach's Decision"
-  },
-  {
-   "id": "0530",
-   "name": "San Francisco 49ers",
-   "pos": "Def",
-   "team": "SFO",
-   "ytd": 67.0
   },
   {
    "id": "15752",
@@ -4108,6 +4099,13 @@
    "injury": "Out \u2014 Coach's Decision"
   },
   {
+   "id": "16219",
+   "name": "Davis Allen",
+   "pos": "TE",
+   "team": "LAR",
+   "ytd": 48.6
+  },
+  {
    "id": "17192",
    "name": "Jordan Watkins",
    "pos": "WR",
@@ -4116,11 +4114,11 @@
    "injury": "Out \u2014 Coach's Decision"
   },
   {
-   "id": "16219",
-   "name": "Davis Allen",
-   "pos": "TE",
-   "team": "LAR",
-   "ytd": 44.8
+   "id": "11947",
+   "name": "Brandon McManus",
+   "pos": "PK",
+   "team": "FA",
+   "ytd": 46.0
   },
   {
    "id": "17651",
@@ -4144,20 +4142,20 @@
    "ytd": 40.7
   },
   {
+   "id": "17096",
+   "name": "Savion Williams",
+   "pos": "WR",
+   "team": "GBP",
+   "ytd": 40.1,
+   "injury": "IR-R \u2014 Ankle"
+  },
+  {
    "id": "15759",
    "name": "John Metchie",
    "pos": "WR",
    "team": "CAR",
    "ytd": 39.7,
    "injury": "Out \u2014 Coach's Decision"
-  },
-  {
-   "id": "17096",
-   "name": "Savion Williams",
-   "pos": "WR",
-   "team": "GBP",
-   "ytd": 37.0,
-   "injury": "IR-R \u2014 Ankle"
   },
   {
    "id": "13404",
@@ -4196,13 +4194,6 @@
    "team": "NEP",
    "ytd": 33.8,
    "injury": "Out \u2014 Ankle"
-  },
-  {
-   "id": "11947",
-   "name": "Brandon McManus",
-   "pos": "PK",
-   "team": "FA",
-   "ytd": 30.0
   },
   {
    "id": "17424",
@@ -4341,6 +4332,13 @@
    "ytd": 17.2
   },
   {
+   "id": "11674",
+   "name": "Brandin Cooks",
+   "pos": "WR",
+   "team": "BUF",
+   "ytd": 16.8
+  },
+  {
    "id": "14858",
    "name": "Van Jefferson",
    "pos": "WR",
@@ -4382,6 +4380,13 @@
    "pos": "WR",
    "team": "KCC",
    "ytd": 14.9
+  },
+  {
+   "id": "16428",
+   "name": "Xavier Smith",
+   "pos": "WR",
+   "team": "LAR",
+   "ytd": 14.5
   },
   {
    "id": "16732",
@@ -4460,13 +4465,6 @@
    "name": "Jawhar Jordan",
    "pos": "RB",
    "team": "FA",
-   "ytd": 12.0
-  },
-  {
-   "id": "16428",
-   "name": "Xavier Smith",
-   "pos": "WR",
-   "team": "LAR",
    "ytd": 12.0
   },
   {
@@ -4878,24 +4876,111 @@
    "pos": "RB",
    "team": "PIT",
    "ytd": 1.6
-  },
-  {
-   "id": "16416",
-   "name": "Xavier Gipson",
-   "pos": "WR",
-   "team": "FA",
-   "ytd": 1.6
-  },
-  {
-   "id": "17466",
-   "name": "Carson Beck",
-   "pos": "QB",
-   "team": "ARI",
-   "ytd": 1.5,
-   "injury": "Out \u2014 Coach's Decision"
   }
  ],
  "recent_transactions": [
+  {
+   "type": "FREE_AGENT",
+   "franchise": "ASSASSINS",
+   "when": "1795715159",
+   "detail": "16212,|"
+  },
+  {
+   "type": "FREE_AGENT",
+   "franchise": "ASSASSINS",
+   "when": "1795715088",
+   "detail": "|0517,"
+  },
+  {
+   "type": "FREE_AGENT",
+   "franchise": "Dawg Pound",
+   "when": "1795711713",
+   "detail": "0504,|0512,"
+  },
+  {
+   "type": "FREE_AGENT",
+   "franchise": "Based Crack Cocaine Enjoyers",
+   "when": "1795703873",
+   "detail": "0520,|"
+  },
+  {
+   "type": "IR",
+   "franchise": "Based Crack Cocaine Enjoyers",
+   "when": "1795703621",
+   "detail": ""
+  },
+  {
+   "type": "FREE_AGENT",
+   "franchise": "Based Crack Cocaine Enjoyers",
+   "when": "1795703611",
+   "detail": "|0531,"
+  },
+  {
+   "type": "BBID_WAIVER",
+   "franchise": "ASSASSINS",
+   "when": "1795672800",
+   "detail": "0517,|1.00|16212,"
+  },
+  {
+   "type": "BBID_WAIVER",
+   "franchise": "Athenian Souvlakis",
+   "when": "1795672800",
+   "detail": "17047,|1.00|17053,"
+  },
+  {
+   "type": "BBID_WAIVER",
+   "franchise": "ASSASSINS",
+   "when": "1795672800",
+   "detail": "17030,|1.00|"
+  },
+  {
+   "type": "BBID_WAIVER",
+   "franchise": "Clawing back up!",
+   "when": "1795672800",
+   "detail": "13832,|5.00|16896,"
+  },
+  {
+   "type": "BBID_WAIVER",
+   "franchise": "Clawing back up!",
+   "when": "1795672800",
+   "detail": "0530,|5.00|14861,"
+  },
+  {
+   "type": "BBID_AUTO_PROCESS_WAIVERS",
+   "franchise": "",
+   "when": "1795672800",
+   "detail": ""
+  },
+  {
+   "type": "IR",
+   "franchise": "Pete\u2019s Perfect Team",
+   "when": "1795665128",
+   "detail": ""
+  },
+  {
+   "type": "FREE_AGENT",
+   "franchise": "Pete\u2019s Perfect Team",
+   "when": "1795665092",
+   "detail": "|15717,"
+  },
+  {
+   "type": "TRADE",
+   "franchise": "Dawg Pound",
+   "when": "1795665055",
+   "detail": ""
+  },
+  {
+   "type": "TRADE",
+   "franchise": "Team Brown",
+   "when": "1795665036",
+   "detail": ""
+  },
+  {
+   "type": "FREE_AGENT",
+   "franchise": "Dawg Pound",
+   "when": "1795648498",
+   "detail": "|14800,"
+  },
   {
    "type": "IR",
    "franchise": "Titsburgh Feelers",
@@ -5033,108 +5118,6 @@
    "franchise": "wait till next year",
    "when": "1795103348",
    "detail": "7836,|15757,"
-  },
-  {
-   "type": "FREE_AGENT",
-   "franchise": "ASSASSINS",
-   "when": "1795087431",
-   "detail": "12645,|"
-  },
-  {
-   "type": "FREE_AGENT",
-   "franchise": "Washington Misanthropes",
-   "when": "1795087068",
-   "detail": "0528,|17499,"
-  },
-  {
-   "type": "FREE_AGENT",
-   "franchise": "ASSASSINS",
-   "when": "1795086242",
-   "detail": "0511,|0528,"
-  },
-  {
-   "type": "FREE_AGENT",
-   "franchise": "ASSASSINS",
-   "when": "1795086117",
-   "detail": "16212,|16595,"
-  },
-  {
-   "type": "FREE_AGENT",
-   "franchise": "Washington Misanthropes",
-   "when": "1795085330",
-   "detail": "14717,|14983,"
-  },
-  {
-   "type": "BBID_WAIVER",
-   "franchise": "wait till next year",
-   "when": "1795068000",
-   "detail": "16778,|1.00|16174,"
-  },
-  {
-   "type": "BBID_WAIVER",
-   "franchise": "Pete\u2019s Perfect Team",
-   "when": "1795068000",
-   "detail": "16582,|1.00|14056,"
-  },
-  {
-   "type": "BBID_WAIVER",
-   "franchise": "Athenian Souvlakis",
-   "when": "1795068000",
-   "detail": "11945,|1.00|13719,"
-  },
-  {
-   "type": "BBID_WAIVER",
-   "franchise": "wait till next year",
-   "when": "1795068000",
-   "detail": "13113,|1.00|16583,"
-  },
-  {
-   "type": "BBID_WAIVER",
-   "franchise": "Pete\u2019s Perfect Team",
-   "when": "1795068000",
-   "detail": "0505,|1.00|0507,"
-  },
-  {
-   "type": "BBID_WAIVER",
-   "franchise": "Athenian Souvlakis",
-   "when": "1795068000",
-   "detail": "14071,|10.00|17043,"
-  },
-  {
-   "type": "BBID_AUTO_PROCESS_WAIVERS",
-   "franchise": "",
-   "when": "1795068000",
-   "detail": ""
-  },
-  {
-   "type": "IR",
-   "franchise": "ASSASSINS",
-   "when": "1794963076",
-   "detail": ""
-  },
-  {
-   "type": "FREE_AGENT",
-   "franchise": "ASSASSINS",
-   "when": "1794963058",
-   "detail": "|17274,"
-  },
-  {
-   "type": "IR",
-   "franchise": "Athenian Souvlakis",
-   "when": "1794948963",
-   "detail": ""
-  },
-  {
-   "type": "IR",
-   "franchise": "Attitude",
-   "when": "1794922528",
-   "detail": ""
-  },
-  {
-   "type": "FREE_AGENT",
-   "franchise": "Attitude",
-   "when": "1794922528",
-   "detail": "|0526,"
   }
  ]
 }
