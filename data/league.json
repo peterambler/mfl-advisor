@@ -11,7 +11,7 @@
   "bbidTiebreaker": "TURN",
   "bestLineup": "No",
   "bidIncrement": "1",
-  "currentWaiverType": "BBID_FCFS",
+  "currentWaiverType": "BBID",
   "defaultTradeExpirationDays": "7",
   "divisions": {
    "count": "2",
