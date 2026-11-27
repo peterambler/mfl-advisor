@@ -1,6 +1,6 @@
 # Pete’s Perfect Team — week 1
 
-Cap City Football · 12 teams · generated 2026-11-27 03:34 UTC
+Cap City Football · 12 teams · generated 2026-11-27 20:51 UTC
 Record 8-4-0, 1282.3 points for
 
 ## Roster
@@ -14,8 +14,8 @@ Record 8-4-0, 1282.3 points for
 | Bo Nix | QB | DEN | 24.8 | 159.1 |  |
 | Ollie Gordon | RB | MIA | 2.6 | 104.0 |  |
 | Omarion Hampton | RB | LAC | 13.8 | 96.0 |  |
-| Saquon Barkley | RB | PHI | 19.0 | 72.7 |  |
-| Dalton Kincaid | TE | BUF | 11.0 | 106.2 |  |
+| Saquon Barkley | RB | PHI | 19.0 | 73.4 |  |
+| Dalton Kincaid | TE | BUF | 11.0 | 109.8 |  |
 | Mike Gesicki | TE | CIN | 9.2 | 103.3 |  |
 | Ja'Marr Chase | WR | CIN | 21.9 | 201.9 |  |
 | Christian Watson | WR | GBP | 12.4 | 200.1 |  |
